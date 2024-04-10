@@ -1,3 +1,5 @@
+# Capítulo II: Requirements Elicitation & Analysis 
+
 ## 2.1. Competidores
 
 1. Gusto: Es una plataforma completa de gestión de nóminas y recursos humanos diseñada para pequeñas empresas. Ofrece una experiencia de usuario intuitiva y fácil de usar, lo que permite a las empresas automatizar y simplificar sus procesos de nómina. Con Gusto, las empresas pueden calcular y procesar nóminas de manera eficiente, así como gestionar beneficios para empleados y cumplir con las obligaciones normativas. La plataforma también ofrece herramientas para la incorporación de empleados, la gestión del tiempo y la generación de informes. Gusto se destaca por su enfoque en la atención al cliente y su compromiso con la seguridad y la privacidad de los datos.
