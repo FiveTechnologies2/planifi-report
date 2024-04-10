@@ -166,3 +166,28 @@ Lanzar campañas educativas dirigidas a empresas PYME y emprendedores para desta
 
 #2 Demostraciones en vivo y pruebas gratuitas
 Ofrecer demostraciones en vivo de la plataforma de Name y períodos de prueba gratuitos para que los clientes potenciales experimenten de primera mano los beneficios y la facilidad de uso de la solución. Esta táctica ayuda a mostrar el valor de Name y a superar la resistencia al cambio al demostrar su eficacia en tiempo real.
+
+## 2.2. Entrevistas
+
+Las entrevistas son una herramienta invaluable para comprender las necesidades y deseos de nuestros usuarios. En esta sección, abordaremos el diseño, registro y análisis de entrevistas para obtener información valiosa que guíe el desarrollo de nuestro producto.
+
+### 2.2.1. Diseño de entrevistas
+
+El diseño cuidadoso de las entrevistas es crucial para garantizar que obtengamos la información necesaria de nuestros entrevistados. Exploraremos cómo formular preguntas efectivas y crear un entorno propicio para la comunicación abierta.
+
+<strong>Segmento objetivo 1: Empresas medianas y pequeñas:</strong>
+- ¿Podría describir brevemente su empresa y sus principales actividades?
+- ¿Qué métodos o herramientas utiliza actualmente para la gestión de las planillas?
+- ¿Cuáles son las principales dificultades que ha experimentado al realizar la gestión de planillas?
+- ¿Qué características o funcionalidades le gustaría ver en una solución de gestión de planillas ideal para su empresa?
+- ¿Qué aspectos consideraría más importantes al evaluar una nueva plataforma de gestión de planillas para su empresa?
+- ¿Estaría dispuesto/a a invertir en una solución de gestión de planillas automatizada si cumpliera con sus necesidades y expectativas?
+- ¿Qué tan crítico sería para su empresa contar con soporte técnico y capacitación durante la implementación de una nueva solución de gestión de planillas?
+
+<strong>Segmento objetivo 2: Emprendedores:</strong>
+- ¿Podría describir brevemente su empresa o proyecto emprendedor?
+- ¿Cómo está gestionando actualmente las planillas en su empresa?
+- ¿Cuáles considera que son los mayores desafíos al realizar la gestión de planillas en su empresa o proyecto emprendedor?
+- ¿Qué características o funcionalidades le resultarían más útiles en una solución de gestión de planillas para su empresa o proyecto emprendedor?
+- ¿Estaría interesado/a en adoptar una solución de gestión de planillas automatizada si fuera fácil de usar y se adaptara a las necesidades de su empresa o proyecto emprendedor?
+- ¿Qué tipo de soporte o capacitación consideraría útil al implementar una nueva solución de gestión de planillas en su empresa o proyecto emprendedor?
