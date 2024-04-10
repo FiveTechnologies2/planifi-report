@@ -8,7 +8,7 @@
 
 3. QuickBooks Payroll: Es una solución de nómina integral desarrollada por Intuit, diseñada específicamente para pequeñas empresas y autónomos. La plataforma permite a los usuarios calcular y procesar nóminas con facilidad, pagar impuestos sobre la nómina de manera oportuna y generar informes financieros detallados relacionados con la nómina. QuickBooks Payroll se integra perfectamente con otros productos de QuickBooks, lo que facilita la gestión financiera integral de las empresas. Además, la plataforma ofrece soporte experto y recursos de aprendizaje para ayudar a los usuarios a aprovechar al máximo todas las funciones disponibles.
 
-## 2.2. Analisis competitivo
+## 2.1.2. Analisis competitivo
 
 <table>
   <tr>
@@ -133,3 +133,31 @@
     <td colspan="1" valign="top">Posible entrada de nuevos competidores con propuestas de valor similares o mejoradas.</td>
   </tr>
 </table>
+
+# 2.1.2. Estrategias y tácticas frente a competidores
+
+Desarrollar estrategias y tácticas sólidas para enfrentar a nuestros competidores es fundamental para alcanzar una ventaja competitiva sostenible. En esta sección, exploraremos cómo podemos diferenciarnos y destacarnos en el mercado.
+
+<strong>Estrategias de Cercanía con los clientes:</strong>
+
+#1 Programa de retroalimentación continua
+Implementar un programa estructurado de retroalimentación directa con los usuarios de Name, permitiendo que expresen sus opiniones, sugerencias y preocupaciones a través de encuestas, correos electrónicos de seguimiento y sesiones de retroalimentación personalizadas. Esto ayudará a identificar y abordar rápidamente cualquier problema o necesidad del cliente, lo que podría proporcionar una ventaja competitiva frente a los competidores.
+
+#2 Servicio de atención al cliente especializado
+Establecer un equipo de atención al cliente altamente capacitado y especializado en las necesidades específicas de las empresas PYME y emprendedores, ofreciendo asistencia personalizada, resolución rápida de problemas y seguimiento proactivo. Esta táctica puede generar lealtad y satisfacción del cliente, diferenciando a Name de sus competidores.
+
+<strong>Estrategias de Liderazgo a través del producto:</strong>
+
+#1 Integración con herramientas de gestión empresarial
+Desarrollar integraciones con otras herramientas de gestión empresarial ampliamente utilizadas por las empresas PYME, como sistemas de contabilidad y gestión de proyectos. Esto ampliará la funcionalidad de Name y ofrecerá una solución más completa y conveniente para los clientes, posicionándola como líder en el mercado.
+
+#2 Personalización de informes financieros
+Ofrecer características avanzadas de personalización de informes financieros dentro de la plataforma de Name, permitiendo a los usuarios crear informes detallados y adaptados a sus necesidades específicas. Esta táctica resalta la capacidad de Name para proporcionar soluciones flexibles y adaptadas a las necesidades individuales de cada cliente.
+
+<strong>Estrategias de Enfoque:</strong>
+
+#1 Educación sobre la importancia de la automatización de nóminas
+Lanzar campañas educativas dirigidas a empresas PYME y emprendedores para destacar los beneficios y la importancia de la automatización de nóminas en la gestión empresarial. Esto incluiría seminarios web, contenido educativo en blogs y redes sociales, así como colaboraciones con asociaciones empresariales locales.
+
+#2 Demostraciones en vivo y pruebas gratuitas
+Ofrecer demostraciones en vivo de la plataforma de Name y períodos de prueba gratuitos para que los clientes potenciales experimenten de primera mano los beneficios y la facilidad de uso de la solución. Esta táctica ayuda a mostrar el valor de Name y a superar la resistencia al cambio al demostrar su eficacia en tiempo real.
