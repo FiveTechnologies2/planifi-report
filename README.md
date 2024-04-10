@@ -1,3 +1,13 @@
+Capítulo II: Requirements Elicitation & Analysis
+2.1. Competidores
+La comprensión del panorama competitivo es esencial para el éxito de cualquier empresa. En esta sección, exploraremos a fondo quiénes son nuestros competidores directos e indirectos, así como las estrategias que emplean, sus puntos fuertes y debilidades.
+
+Gusto: Es una plataforma completa de gestión de nóminas y recursos humanos diseñada para pequeñas empresas. Ofrece una experiencia de usuario intuitiva y fácil de usar, lo que permite a las empresas automatizar y simplificar sus procesos de nómina. Con Gusto, las empresas pueden calcular y procesar nóminas de manera eficiente, así como gestionar beneficios para empleados y cumplir con las obligaciones normativas. La plataforma también ofrece herramientas para la incorporación de empleados, la gestión del tiempo y la generación de informes. Gusto se destaca por su enfoque en la atención al cliente y su compromiso con la seguridad y la privacidad de los datos.
+
+Zenefits: Es una suite completa de software de recursos humanos diseñada para simplificar la gestión de personas en empresas de todos los tamaños. Ofrece una amplia gama de funciones, incluida la gestión de nóminas, beneficios para empleados, contratación, incorporación y cumplimiento normativo. Zenefits se destaca por su enfoque en la automatización de procesos administrativos y su capacidad para integrarse con una variedad de otras herramientas y servicios. La plataforma también proporciona herramientas de análisis y generación de informes para ayudar a las empresas a tomar decisiones informadas sobre la gestión de su personal.
+
+QuickBooks Payroll: Es una solución de nómina integral desarrollada por Intuit, diseñada específicamente para pequeñas empresas y autónomos. La plataforma permite a los usuarios calcular y procesar nóminas con facilidad, pagar impuestos sobre la nómina de manera oportuna y generar informes financieros detallados relacionados con la nómina. QuickBooks Payroll se integra perfectamente con otros productos de QuickBooks, lo que facilita la gestión financiera integral de las empresas. Además, la plataforma ofrece soporte experto y recursos de aprendizaje para ayudar a los usuarios a aprovechar al máximo todas las funciones disponibles.
+
 ## 2.2. Analisis competitivo
 
 El análisis competitivo implica examinar detenidamente a nuestros competidores para identificar sus fortalezas, debilidades, oportunidades y amenazas. Esto nos proporcionará una visión clara de nuestro posicionamiento en el mercado y nos ayudará a desarrollar estrategias efectivas.
