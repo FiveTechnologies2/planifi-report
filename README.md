@@ -191,3 +191,12 @@ El diseño cuidadoso de las entrevistas es crucial para garantizar que obtengamo
 - ¿Qué características o funcionalidades le resultarían más útiles en una solución de gestión de planillas para su empresa o proyecto emprendedor?
 - ¿Estaría interesado/a en adoptar una solución de gestión de planillas automatizada si fuera fácil de usar y se adaptara a las necesidades de su empresa o proyecto emprendedor?
 - ¿Qué tipo de soporte o capacitación consideraría útil al implementar una nueva solución de gestión de planillas en su empresa o proyecto emprendedor?
+
+## 2.2.2. Registro de entrevistas
+
+Un registro preciso de las entrevistas nos permite capturar y analizar datos importantes. Discutiremos las mejores prácticas para registrar entrevistas, para maximizar la utilidad de la información obtenida.
+
+## 2.2.3. Análisis de entrevistas
+
+El análisis cuidadoso de las entrevistas nos ayuda a identificar patrones, temas y necesidades emergentes entre nuestros usuarios. En esta sección, exploraremos diferentes enfoques para analizar datos cualitativos y cuantitativos obtenidos de las entrevistas.
+
