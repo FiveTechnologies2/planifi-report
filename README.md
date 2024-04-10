@@ -139,7 +139,7 @@ El análisis competitivo implica examinar detenidamente a nuestros competidores 
   </tr>
 </table>
 
-# 2.1.2. Estrategias y tácticas frente a competidores
+## 2.1.2. Estrategias y tácticas frente a competidores
 
 Desarrollar estrategias y tácticas sólidas para enfrentar a nuestros competidores es fundamental para alcanzar una ventaja competitiva sostenible. En esta sección, exploraremos cómo podemos diferenciarnos y destacarnos en el mercado.
 
