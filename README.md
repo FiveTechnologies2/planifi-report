@@ -1,2 +1,0 @@
-# BusinessPRO
-Planilla planifier
