@@ -119,3 +119,89 @@ Dado que necesito editar un registro de horas trabajadas previamente registrado,
 
 
 3.4. Product Backlog.
+
+
+ <table>
+      <thead>
+         <tr>
+            <th style="text-align: center;"># Orden</th>
+            <th style="text-align: center;">User Story ID</th>
+            <th style="text-align: center;">Título</th>
+            <th style="text-align: center;">Descripción</th>
+            <th style="text-align: center;">Story Points (1,3,6,7)</th>
+         </tr>
+      </thead>
+      <tbody>
+         <tr>
+            <td style="text-align: center;">1</td>
+            <td style="text-align: center;">US01</td>
+            <td tyle="text-align: justify;">Gestión de cuentas de usuario y permisos de acceso</td>
+            <td style="text-align: center;">Como administrador del sistema, quiero poder gestionar las cuentas de usuario y los permisos de acceso para garantizar la seguridad de los datos y la privacidad de la información confidencial.</td>
+           <td style="text-align: center;">1</td>
+         </tr>
+         <tr>
+            <td style="text-align: center;">2</td>
+            <td style="text-align: center;">EP010</td>
+            <td style="text-align: justify;">Registro de horas trabajadas y actividades realizadas</td>
+            <td style="text-align: center;">Como empleado, quiero poder registrar horas trabajadas y actividades realizadas a través del sistema para mantener un registro preciso de mi desempeño laboral y contribuciones al proyecto.</td>
+            <td style="text-align: center;">3</td>
+         </tr>
+         <tr>
+            <td style="text-align: center;">3</td>
+            <td style="text-align: center;">EP02</td>
+            <td style="text-align: justify;">Generación de informes de asistencia</td>
+            <td style="text-align: center;">Como gerente de recursos humanos, quiero poder generar informes de ausencias y tardanzas para monitorear el cumplimiento del horario laboral de los empleados.</td>
+            <td style="text-align: center;">5</td>
+         </tr>
+         <tr>
+            <td style="text-align: center;">4</td>
+            <td style="text-align: center;">EP09</td>
+            <td style="text-align: justify;">Gestión de cuentas de usuario y permisos de acceso</td>
+            <td style="text-align: center;">Como administrador del sistema, quiero poder gestionar las cuentas de usuario y los permisos de acceso para garantizar la seguridad de los datos y la privacidad de la información confidencial.</td>
+            <td style="text-align: center;">3</td>
+         </tr>
+        <tr>
+            <td style="text-align: center;">5</td>
+            <td style="text-align: center;">EP06</td>
+            <td style="text-align: justify;">Acceso a manuales de políticas y procedimientos</td>
+            <td style="text-align: center;">Como empleado, quiero poder acceder a manuales de políticas y procedimientos de la empresa para obtener información sobre las políticas internas y los procesos de trabajo.</td>
+           <td style="text-align: center;">3</td>
+         </tr>
+       <tr>
+            <td style="text-align: center;">6</td>
+            <td style="text-align: center;">EP05</td>
+            <td tyle="text-align: justify;">	Realización de copias de seguridad automáticas</td>
+            <td style="text-align: center;">Como administrador del sistema, quiero poder realizar copias de seguridad de los datos del sistema regularmente para garantizar la seguridad y la integridad de la información.</td>
+            <td style="text-align: center;">3</td>
+         </tr>
+       <tr>
+            <td style="text-align: center;">7</td>
+            <td style="text-align: center;">EP04</td>
+            <td tyle="text-align: justify;">Recepción de notificaciones importantes</td>
+            <td style="text-align: center;">Como empleado, quiero recibir notificaciones sobre actualizaciones importantes en el sistema, como cambios en el horario laboral o nuevas tareas asignadas.</td>
+            <td style="text-align: center;">3</td>
+         </tr>
+       <tr>
+            <td style="text-align: center;">8</td>
+            <td style="text-align: center;">EP03</td>
+            <td tyle="text-align: justify;">Creación y asignación de equipo para proyectos</td>
+            <td style="text-align: center;">Como supervisor de proyecto, quiero poder crear proyectos nuevos en el sistema y asignarles un equipo de trabajo para gestionar las tareas asociadas.</td>
+            <td style="text-align: center;">3</td>
+         </tr>
+       <tr>
+            <td style="text-align: center;">9</td>
+            <td style="text-align: center;">EP08</td>
+            <td tyle="text-align: justify;"> Solicitud de vacaciones o días libres</td>
+            <td style="text-align: center;">Como empleado, quiero poder solicitar vacaciones o días libres a través del sistema y recibir confirmación de aprobación o rechazo por parte del supervisor.</td>
+            <td style="text-align: center;">1</td>
+         </tr>
+       <tr>
+            <td style="text-align: center;">10</td>
+            <td style="text-align: center;">EP07</td>
+            <td tyle="text-align: justify;">Programación de reuniones virtuales</td>
+            <td style="text-align: center;">Como supervisor de proyecto, quiero poder realizar reuniones virtuales con mi equipo a través del sistema para discutir el progreso del proyecto y tomar decisiones importantes.</td>
+           <td style="text-align: center;">5</td>
+         </tr>
+   </tr>
+   </tbody>
+   </table>
