@@ -478,3 +478,21 @@ Características deseadas en una solución de Gestión de Planillas:
 Importancia del Soporte Técnico y Capacitación:
 
 <img src="static/img/Chapter 2/img-grafico-importancia-soporte-emprendedores.png" alt="Gráfico Importancia Soporte Emprendedores" style="width: 65;"></img>
+
+## 2.3. Needfinding
+
+En la fase de Needfinding, nos sumergimos en la comprensión profunda de las necesidades y deseos de nuestros usuarios. A través de entrevistas, observaciones y análisis de datos, buscamos identificar los problemas reales que enfrentan nuestros usuarios y las oportunidades para mejorar sus experiencias con nuestra startup.
+
+### 2.3.1. User Personas
+
+La creación de User Personas nos permite personificar a nuestros usuarios, brindándonos una comprensión detallada de sus características, comportamientos, necesidades y objetivos.
+
+<strong>Segmento objetivo 1: Empresas medianas y pequeñas:</strong>
+
+<img src="static/img/Chapter 2/img-user-persona-yulissa.png" alt="User Persona Yulissa" style="width: 65;"></img>
+
+<strong>Segmento objetivo 2: Emprendedores:</strong>
+
+<img src="static/img/Chapter 2/img-user-persona-jorge.png" alt="User Persona Jorge" style="width: 65;"></img>
+
+
