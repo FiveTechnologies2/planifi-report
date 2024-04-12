@@ -112,5 +112,39 @@ Los emprendedores en Lima Metropolitana, quienes a menudo operan con equipos red
 
 ¿Cómo podemos superar la resistencia al cambio y convencer a los emprendedores de la necesidad de adoptar nuestra plataforma para gestionar sus planillas de remuneraciones de manera más eficiente?
 
+#### 1.2.2.2. Lean UX Assumptions.
+- Business Outcomes <br>
+**Creo que mis usuarios necesitan**, cuenten con una solución eficiente para la gestión de planillas, lo que les permitirá optimizar sus procesos y reducir errores en las remuneraciones de su personal.<br><br>
+**Estas necesidades se pueden resolver** mediante el desarrollo de una aplicación para la gestión de planillas remuneradas, donde las empresas puedan acceder y almacenar los datos de sus empleados de manera segura.<br><br>
+**Mis clientes iniciales son** las empresas PYME y emprendedores, ya que son quienes afrontan constantemente los desafíos relacionados con la gestión de planillas y tienen la necesidad de mejorar sus procesos.<br><br>
+**El valor #1 que un cliente requiere de  mi servicio es** la capacidad de realizar la gestión de planillas de manera eficiente, evitando retrasos en los pagos y optimizar los recursos de la empresa. Además de proporcionar beneficios adicionales, como la generación de reportes financieros y la evaluación de horas empleadas en proyectos.<br><br>
+**El cliente también puede obtener estos beneficios adicionales**: Al gestionar la planilla de manera automática, el cliente podrá ahorrar tanto recursos como tiempo.  A su vez, con los distintos features que ofrecemos, el cliente podrá realizar reportes financieros y gestionar el personal de una manera más eficiente, lo cual representa un menor gasto para la empresa.<br><br>
+**Voy a adquirir a mis clientes a través** de una estrategia de marketing digital enfocada y segmentada. Utilizaremos tácticas como publicidad en redes sociales, LinkedIn y YouTube dirigida a empresas PYME y emprendedores en Lima Metropolitana. También aprovecharemos el poder del marketing de influencia, colaborando con líderes de opinión y expertos en el campo de la gestión empresarial para respaldar nuestra solución.<br><br>
+**Haré dinero a través de** un modelo de suscripción mensual o anual para acceder a nuestra plataforma Planifi. Además, ofreceremos servicios adicionales que generarán ingresos adicionales.<br><br>
+**Mi competencia de mercado serán** las empresas que ya se establecieron en el mercado y que permiten realizar la gestión de remuneración y otros procesos delárea de recursos humanos, como Gusto, Zenefits, QuickBooks Payroll, entre otros.<br><br>
+**Los venceremos debido a que** nuestra plataforma no solo se centra en la gestión de planillas, sino que ofrece una solución integral para la administración de empresas. En contraste, nuestra plataforma ofrece una combinación única de funcionalidades, facilidad de uso y atención personalizada que se adapta específicamente a las necesidades de las empresas en Lima Metropolitana.<br><br>
+
+- Users Outcomes<br>
+**¿Quiénes serán nuestros usuarios?**
+Nuestros usuarios principales serán las empresas pequeñas, empresas medianas y emprendedores en Lima Metropolitana que buscan mejorar la gestión de planillas.<br><br>
+**¿Dónde encaja nuestro producto en su vida?**
+Nuestro producto se integra en la vida de los usuarios en el momento en que requieren optimizar y gestionar las remuneraciones de su personal, proporcionándoles una solución rápida y eficiente para realizar esta tarea.<br><br>
+**¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**
+Los principales problemas que enfrenta nuestro producto es la necesidad de inversión en equipos de cómputo y capacitación del personal para su correcto uso. Estas dificultades pueden superarse mediante una planificación adecuada y un buen enfoque en la implementación de nuestra plataforma.<br><br>
+**¿Cómo y cuándo es usado nuestro producto?**
+Nuestro producto será utilizado principalmente en el departamento de recursos humanos y administración de las empresas “PYME” y emprendedores, donde se utilizará como una herramienta para acceder y gestionar la información de los empleados.<br><br>
+**¿Qué características son importantes?**
+- Automatización de Planillas
+- Gestión de Personal
+- Generación de Reportes Financieros
+- Soporte Técnico y Capacitación
+- Interfaz Intuitiva
+- Protección de Datos<br><br>
+**¿Cómo debe verse y comportarse nuestro producto?**
+- La interfaz del usuario debe contar con elementos visuales atractivos, intuitivos y estructurados.
+- La experiencia de usuario de nuestra aplicación debe tener como prioridad una respuesta rápida, facilidad de navegación y una garantía de seguridad.
+
+
+
 
 
