@@ -34,26 +34,40 @@
 ## 4.6.3. Software Architecture Components Diagrams.
 
 <div style="text-align: center; margin-top: 20px;">
-        <img src="static/img/Chapter 4/img-component-project-follow-up-BC.png" alt="Container Diagram" style="width: 65;"></img>
+        <img src="static/img/Chapter 4/img-component-project-follow-up-BC.png" alt="Proyect Follow Up Component Diagram" style="width: 65;"></img>
 </div>
+
 <div style="text-align: center; margin-top: 20px;">
-        <img src="static/img/Chapter 4/img-component-register-BC.png" alt="Container Diagram" style="width: 65;"></img>
+        <img src="static/img/Chapter 4/img-component-register-BC.png" alt="Register Component Diagram" style="width: 65;"></img>
 </div>
+
 <div style="text-align: center; margin-top: 20px;">
-        <img src="static/img/Chapter 4/img-component-report-BC.png" alt="Container Diagram" style="width: 65;"></img>
+        <img src="static/img/Chapter 4/img-component-report-BC.png" alt="Report Component Diagram" style="width: 65;"></img>
 </div>
+
 <div style="text-align: center; margin-top: 20px;">
-        <img src="static/img/Chapter 4/img-component-spreadsheet-BC.png" alt="Container Diagram" style="width: 65;"></img>
+        <img src="static/img/Chapter 4/img-component-spreadsheet-BC.png" alt="Spreadsheet Component Diagram" style="width: 65;"></img>
 </div>
+
 <div style="text-align: center; margin-top: 20px;">
-        <img src="static/img/Chapter 4/img-component-suscription-BC.png" alt="Container Diagram" style="width: 65;"></img>
+        <img src="static/img/Chapter 4/img-component-suscription-BC.png" alt="Subscription Component Diagram" style="width: 65;"></img>
 </div>
+
 <div style="text-align: center; margin-top: 20px;">
-        <img src="static/img/Chapter 4/img-component-worker-follow-up-BC.png" alt="Container Diagram" style="width: 65;"></img>
+        <img src="static/img/Chapter 4/img-component-worker-follow-up-BC.png" alt="Worker Follow Up Component Diagram" style="width: 65;"></img>
 </div>
 
 ## 4.7. Software Object-Oriented Design.
 ## 4.7.1. Class Diagrams.
+
+<div style="text-align: center; margin-top: 20px;">
+        <img src="static/img/Chapter 4/img-class-diagram.png" alt="Class Diagram" style="width: 65;"></img>
+</div>
+
 ## 4.7.2. Class Dictionary.
 ## 4.8. Database Design.
 ## 4.8.1. Database Diagram.
+
+<div style="text-align: center; margin-top: 20px;">
+        <img src="static/img/Chapter 4/img-database-model.png" alt="Database Diagram" style="width: 65;"></img>
+</div>
