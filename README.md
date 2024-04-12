@@ -10,7 +10,7 @@ La comprensión del panorama competitivo es esencial para el éxito de cualquier
 
 3. QuickBooks Payroll: Es una solución de nómina integral desarrollada por Intuit, diseñada específicamente para pequeñas empresas y autónomos. La plataforma permite a los usuarios calcular y procesar nóminas con facilidad, pagar impuestos sobre la nómina de manera oportuna y generar informes financieros detallados relacionados con la nómina. QuickBooks Payroll se integra perfectamente con otros productos de QuickBooks, lo que facilita la gestión financiera integral de las empresas. Además, la plataforma ofrece soporte experto y recursos de aprendizaje para ayudar a los usuarios a aprovechar al máximo todas las funciones disponibles.
 
-## 2.2. Analisis competitivo
+## 2.1.1. Analisis competitivo
 
 El análisis competitivo implica examinar detenidamente a nuestros competidores para identificar sus fortalezas, debilidades, oportunidades y amenazas. Esto nos proporcionará una visión clara de nuestro posicionamiento en el mercado y nos ayudará a desarrollar estrategias efectivas.
 
