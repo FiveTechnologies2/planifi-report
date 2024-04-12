@@ -158,5 +158,8 @@ Nuestro producto será utilizado principalmente en el departamento de recursos h
 
 **Sabremos que** hemos logrado superar la resistencia al cambio cuando observemos una retención de clientes  del 60% que han adquirido nuestra suscripción y una disminución del 20% en el uso de métodos tradicionales de gestión de planillas.
 
+#### 1.2.2.4. Lean UX Canvas
+
+<td><img src="static/img/Chapter 1/img-lean-ux-canvas.png" alt=" " width="50%" ;"></img></td>
 
 
