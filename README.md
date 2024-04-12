@@ -419,5 +419,62 @@ Enlace del video completo de las entrevistas: https://youtu.be/mgG8AfJuIpU
 
 ## 2.2.3. Análisis de entrevistas
 
-El análisis cuidadoso de las entrevistas nos ayuda a identificar patrones, temas y necesidades emergentes entre nuestros usuarios. En esta sección, exploraremos diferentes enfoques para analizar datos cualitativos y cuantitativos obtenidos de las entrevistas.
+<strong>Segmento objetivo 1: Empresas medianas y pequeñas:</strong>
 
+Se realizó un análisis detallado de tres entrevistas con representantes de empresas medianas y pequeñas para comprender sus necesidades y expectativas en cuanto a la gestión de planillas. Este análisis proporcionó información valiosa sobre los métodos actuales, los desafíos enfrentados y las características deseadas en una solución automatizada. Con un enfoque estadístico, se identificaron tanto características objetivas como subjetivas, lo que permitirá crear arquetipos representativos de este segmento empresarial.
+
+<strong>Características Objetivas</strong>
+
+Ubicación de la Empresa:
+
+<img src="static/img/Chapter 2/img-grafico-ubicacion-empresas.png" alt="Gráfico entrevista Maomed" style="width: 65;"></img>
+
+Edad:
+
+<img src="static/img/Chapter 2/img-grafico-edad-empresas.png" alt="Gráfico Edad Empresas" style="width: 65;"></img>
+
+<strong>Características Subjetivas</strong>
+
+Interés en Solución Automatizada de Gestión de Planillas:
+
+<img src="static/img/Chapter 2/img-grafico-interes-solucion-empresas.png" alt="Gráfico Interes Solución Empresas" style="width: 65;"></img>
+
+Aspectos Importantes al Evaluar una Nueva Plataforma:
+
+<img src="static/img/Chapter 2/img-grafico-aspectos-importantes-empresas.png" alt="Gráfico Aspectos Importantes Empresas" style="width: 65;"></img>
+
+Importancia del Soporte Técnico y Capacitación:
+
+<img src="static/img/Chapter 2/img-grafico-importancia-soporte-empresas.png" alt="Gráfico Importancia Soporte Empresas" style="width: 65;"></img>
+
+<strong>Segmento objetivo 2: Emprendedores:</strong>
+
+El análisis de las entrevistas con emprendedores proporciona una comprensión completa de sus desafíos y necesidades en la gestión de planillas. Estas conversaciones revelan aspectos clave tanto objetivos como subjetivos, fundamentales para entender sus prioridades. Al identificar tendencias comunes, podemos diseñar soluciones que se ajusten a sus expectativas. Este análisis es crucial para crear arquetipos precisos que representen a los emprendedores en la adopción de soluciones automatizadas.
+
+<strong>Características Objetivas</strong>
+
+Ubicación de la Empresa o Emprendimiento:
+
+<img src="static/img/Chapter 2/img-grafico-ubicacion-emprendedores.png" alt="Imagen Ubicación Emprendedores" style="width: 65;"></img>
+
+Edad:
+
+<img src="static/img/Chapter 2/img-grafico-edad-emprendedores.png" alt="Imagen Edad Emprendedores" style="width: 65;"></img>
+
+<strong>Características Subjetivas</strong>
+
+Interés en Solución Automatizada de Gestión de Planillas:
+
+<img src="static/img/Chapter 2/img-grafico-interes-solucion-emprendedores.png" alt="Gráfico Interes Solución Emprendedores" style="width: 65;"></img>
+
+Desafíos en Gestión de Planillas:
+
+<img src="static/img/Chapter 2/img-grafico-desafios-gestion-emprendedores.png" alt="Gráfico Desafíos Gestión Emprendedores" style="width: 65;"></img>
+
+Características deseadas en una solución de Gestión de Planillas:
+
+<img src="static/img/Chapter 2/img-grafico-caracteristicas-deseadas-emprendedores.png" alt="Gráfico Características Deseadas Emprendedores" style="width: 65;"></img>
+
+Importancia del Soporte Técnico y Capacitación:
+
+<img src="static/img/Chapter 2/img-grafico-importancia-soporte-emprendedores.png" alt="Gráfico Importancia Soporte Emprendedores" style="width: 65;"></img>
