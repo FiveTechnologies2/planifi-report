@@ -478,3 +478,123 @@ Características deseadas en una solución de Gestión de Planillas:
 Importancia del Soporte Técnico y Capacitación:
 
 <img src="static/img/Chapter 2/img-grafico-importancia-soporte-emprendedores.png" alt="Gráfico Importancia Soporte Emprendedores" style="width: 65;"></img>
+
+## 2.3. Needfinding
+
+En la fase de Needfinding, nos sumergimos en la comprensión profunda de las necesidades y deseos de nuestros usuarios. A través de entrevistas, observaciones y análisis de datos, buscamos identificar los problemas reales que enfrentan nuestros usuarios y las oportunidades para mejorar sus experiencias con nuestra startup.
+
+### 2.3.1. User Personas
+
+La creación de User Personas nos permite personificar a nuestros usuarios, brindándonos una comprensión detallada de sus características, comportamientos, necesidades y objetivos.
+
+<strong>Segmento objetivo 1: Empresas medianas y pequeñas:</strong>
+
+<img src="static/img/Chapter 2/img-user-persona-yulissa.png" alt="User Persona Yulissa" style="width: 65;"></img>
+
+<strong>Segmento objetivo 2: Emprendedores:</strong>
+
+<img src="static/img/Chapter 2/img-user-persona-jorge.png" alt="User Persona Jorge" style="width: 65;"></img>
+
+### 2.3.2. User Task Matrix 
+
+La User Task Matrix nos ayuda a desglosar las actividades y tareas que nuestros usuarios realizan al interactuar con nuestra startup. Al ordenar estas tareas según la frecuencia y la importancia para nuestros usuarios, podemos priorizar nuestros esfuerzos de desarrollo y diseño para mejorar su experiencia.
+
+<div style="text-align:center;">
+  <table>
+    <tr>
+      <th>Tarea</th>
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+    </tr>
+    <tr>
+      <td>Gestión de planillas</td>
+      <td>Alta</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Control de pagos</td>
+      <td>Alta</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Cumplimiento normativo</td>
+      <td>Alta</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Contratación de personal</td>
+      <td>Media</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Optimización de procesos internos</td>
+      <td>Alta</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Reducción de costos administrativos</td>
+      <td>Baja</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Modernización de operaciones</td>
+      <td>Baja</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Atención al cliente</td>
+      <td>Media</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Mantenimiento de equipo</td>
+      <td>Baja</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Análisis de rendimiento financiero</td>
+      <td>Baja</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Desarrollo de estrategias de marketing</td>
+      <td>Media</td>
+      <td>Alta</td>
+    </tr>
+  </table>
+</div>
+
+### 2.3.3. User Journey Mapping
+
+El User Journey Mapping nos permite visualizar y comprender la experiencia completa de nuestros usuarios al interactuar con nuestra startup, desde el descubrimiento inicial hasta la conversión y la retención. Al identificar los puntos de contacto clave y las emociones asociadas en cada etapa, podemos optimizar el viaje del usuario para maximizar la satisfacción y la retención.
+
+<strong>Segmento objetivo 1: Empresas medianas y pequeñas:</strong>
+
+<img src="static/img/Chapter 2/img-user-journey-mapping-yulissa.png" alt="User Journey Mapping Yulissa" style="width: 65;"></img>
+
+
+<strong>Segmento objetivo 2: Emprendedores:</strong>
+
+<img src="static/img/Chapter 2/img-user-journey-mapping-jorge.png" alt="User Journey Mapping Jorge" style="width: 65;"></img>
+
+### 2.3.4. Empathy Mapping
+
+El Empathy Mapping nos ayuda a desarrollar una comprensión profunda de las emociones, pensamientos, preocupaciones y necesidades de nuestros usuarios. Al explorar sus experiencias desde su perspectiva, podemos generar empatía y diseñar soluciones que aborden sus necesidades de manera efectiva y significativa.
+
+<strong>Segmento objetivo 1: Empresas medianas y pequeñas:</strong>
+
+<img src="static/img/Chapter 2/img-empathy-mapping-yulissa.png" alt="Empathy Mapping Yulissa" style="width: 65;"></img>
+
+<strong>Segmento objetivo 2: Emprendedores:</strong>
+
+<img src="static/img/Chapter 2/img-empathy-mapping-jorge.png" alt="Empathy Mapping Jorge" style="width: 65;"></img>
+
+### 2.3.5. As-is Scenario Mapping
+
+El As-Is Scenario Mapping nos permite comprender en detalle cómo interactúan actualmente nuestros usuarios con nuestra startup y qué obstáculos enfrentan en el proceso. Al identificar los puntos problemáticos y las oportunidades de mejora en el escenario actual, podemos desarrollar soluciones que optimicen su experiencia y satisfacción.
+
+<img src="static/img/Chapter 2/img-as-is-PYME.png" alt="As-Is Scenario Empresas" style="width: 65;"></img>
+
+<img src="static/img/Chapter 2/img-as-is-emprendedores.png" alt="As-Is Scenario Emprendedores" style="width: 65;"></img>
+
+Enlace al As-Is Scenario Mapping: https://miro.com/app/board/uXjVKWKXc6U=/?share_link_id=570576353295
