@@ -65,7 +65,40 @@ Five Technologies es una empresa creada por estudiantes de la Universidad Peruan
 </table>
 
 
+## 1.2.  Solution Profile
+### 1.2.1. Antecedentes y problemática
+**Antecedentes**: 
+Actualmente existen una amplia variedad de plataformas para la gestión de procesos relacionados con la automatización de gestión enfocadas a los recursos humanos. Las empresas buscan soluciones tecnológicas que simplifiquen y optimicen la administración de personal. Sin embargo, muchas de las plataformas existentes en el mercado están diseñadas para estas grandes empresas con presupuestos considerables, dejando a las pequeñas y medianas empresas (PYMES) y a los emprendedores en desventaja.
 
+**Problemática**:
+La problemática radica en la incapacidad por parte de las PYMES y los emprendedores para acceder a herramientas adecuadas de gestión de recursos humanos debido a restricciones financieras. La falta de acceso a soluciones automatizadas y eficientes dificulta la realización de procesos como el reclutamiento y la gestión de nóminas, lo que puede generar problemas como errores en los pagos y una gestión ineficiente del personal. Esta situación se agrava por la falta de herramientas adecuadas para analizar y comprender los datos de recursos humanos. 
+
+Para la elaboración de la descripción de los antecedentes y problemática,
+hemos aplicado la técnica de The 5 ’W’s y 2 ’H’s:
+
+**Who**: 
+Los involucrados en el problema son las empresas pequeñas, medianas y los emprendedores, quienes carecen de un sistema de gestión de planillas automático. Por ende, deben realizar esta gestión con procedimientos habituales que ocasionan impagos, retrasos, entre otras complicaciones.
+
+**What**: 
+La problemática que enfrenta nuestro proyecto es la dificultad que enfrentan las empresas para llevar a cabo una gestión adecuada de las planillas. Esto se debe a la falta de sistemas automatizados, lo que ocasiona imprevistos a la hora de realizar las remuneraciones.
+
+**Where**:
+ Se planea que las operaciones se realicen en las empresas PYME o en proyectos de emprendedores de Lima Metropolitana, dado que es el sector que enfrenta más dificultades en la automatización de la planilla.
+
+**When**: 
+Este problema no tiene una fecha de inicio determinada, sino que es recurrente en diversas empresas PYME. Debido a la limitación de recursos, estas empresas no pueden costear un software personalizado para la realización de las remuneraciones y la gestión de las planillas.
+
+**Why**: 
+Este proyecto surge de la necesidad que hemos observado en estas empresas, las cuales dedican recursos al pago de planillas pero no lo hacen de manera eficiente, generando así múltiples dificultades en su gestión.
+
+**How**: 
+El problema radica en los recursos disponibles para estas empresas PYME o emprendedores de pequeños proyectos, que a menudo no pueden costear un software para sus empresas. Como resultado, buscan alternativas para solventar el problema. Sin embargo, estas medidas temporales no son tan efectivas, ya que no ofrecen la misma eficiencia y generan dificultades en la gestión de la planilla.
+
+**How Much**: 
+El área de recursos humanos en una empresa se encarga de la gestión del pago de nóminas a los trabajadores de la empresa. Esta función conlleva una responsabilidad considerable, porque puede afectar de manera negativa a los trabajadores, quienes deben asumir sus gastos personales, entre otras cosas, con sus respectivos sueldos por lo que requieren que se les abone sus sueldos a la brevedad posible.
+
+Según Atlas 360 (2023) no tener ciertos procesos automatizados conlleva una falta de control debido a que las cantidades de datos pueden volverse inmanejables. Asimismo se pierde la trazabilidad, generando desconocimiento esto puede suponer un problema para la empresa en un futuro entre otros problemas mencionados.
+ 
 
 
 
