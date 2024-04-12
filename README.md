@@ -495,7 +495,7 @@ La creación de User Personas nos permite personificar a nuestros usuarios, brin
 
 <img src="static/img/Chapter 2/img-user-persona-jorge.png" alt="User Persona Jorge" style="width: 65;"></img>
 
-### 2.3.2. User Task Matrix. 
+### 2.3.2. User Task Matrix 
 
 La User Task Matrix nos ayuda a desglosar las actividades y tareas que nuestros usuarios realizan al interactuar con nuestra startup. Al ordenar estas tareas según la frecuencia y la importancia para nuestros usuarios, podemos priorizar nuestros esfuerzos de desarrollo y diseño para mejorar su experiencia.
 
@@ -564,7 +564,7 @@ La User Task Matrix nos ayuda a desglosar las actividades y tareas que nuestros 
   </table>
 </div>
 
-### 2.3.3. User Journey Mapping. 
+### 2.3.3. User Journey Mapping
 
 El User Journey Mapping nos permite visualizar y comprender la experiencia completa de nuestros usuarios al interactuar con nuestra startup, desde el descubrimiento inicial hasta la conversión y la retención. Al identificar los puntos de contacto clave y las emociones asociadas en cada etapa, podemos optimizar el viaje del usuario para maximizar la satisfacción y la retención.
 
@@ -576,3 +576,15 @@ El User Journey Mapping nos permite visualizar y comprender la experiencia compl
 <strong>Segmento objetivo 2: Emprendedores:</strong>
 
 <img src="static/img/Chapter 2/img-user-journey-mapping-jorge.png" alt="User Journey Mapping Jorge" style="width: 65;"></img>
+
+### 2.3.4. Empathy Mapping
+
+El Empathy Mapping nos ayuda a desarrollar una comprensión profunda de las emociones, pensamientos, preocupaciones y necesidades de nuestros usuarios. Al explorar sus experiencias desde su perspectiva, podemos generar empatía y diseñar soluciones que aborden sus necesidades de manera efectiva y significativa.
+
+<strong>Segmento objetivo 1: Empresas medianas y pequeñas:</strong>
+
+<img src="static/img/Chapter 2/img-empathy-mapping-yulissa.png" alt="Empathy Mapping Yulissa" style="width: 65;"></img>
+
+<strong>Segmento objetivo 2: Emprendedores:</strong>
+
+<img src="static/img/Chapter 2/img-empathy-mapping-jorge.png" alt="Empathy Mapping Jorge" style="width: 65;"></img>
