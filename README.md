@@ -31,24 +31,24 @@ El análisis competitivo implica examinar detenidamente a nuestros competidores 
         Planifi
         <br>
         <div style="text-align: center; margin-top: 10px;">
-                <img src="width=2002&height=1342" alt="Planifi" width="60px">
+                <img src="static/img/Chapter 2/img-planifi-logo.jpg" alt="Logo Planifi" style="width: 65;"></img>
         </div>
     <td colspan="1" valign="top" style="font-weight: bold;">
     Gusto
     <div style="text-align: center;">
-                <img src="width=600&height=600" alt="Gusto" width="60px">
+                <img src="static/img/Chapter 2/img-gusto-logo.jpg" alt="Logo Gusto" style="width: 40;"></img>
         </div>
     </td>
     <td colspan="1" valign="top" style="font-weight: bold;">
       Zenefits
       <div style="text-align: center; margin-top: 20px;">
-                <img src="width=547&height=118" alt="Zenefits" width="60px">
+                <img src="static/img/Chapter 2/img-zenefits-logo.png" alt="Logo Zenefits" style="width: 65;"></img>
             </div>
       </td>
     <td colspan="1" valign="top" style="font-weight: bold;" >
       QuickBooks
       <div style="text-align: center; margin-top: 10px;">
-                <img src="width=1447&height=814" alt="QuickBooks" width="60px">
+                <img src="static/img/Chapter 2/img-quickbooks-logo.png" alt="Logo Quickbooks" style="width: 65;"></img>
             </div>
     </td>
   </tr>
