@@ -145,6 +145,18 @@ Nuestro producto será utilizado principalmente en el departamento de recursos h
 - La experiencia de usuario de nuestra aplicación debe tener como prioridad una respuesta rápida, facilidad de navegación y una garantía de seguridad.
 
 
+#### 1.2.2.3. Lean UX Hypothesis Statements
+****Creemos que**** al ofrecer una plataforma automatizada de gestión de planillas remuneradas para empresas PYME y emprendedores en Lima Metropolitana, lograremos optimizar los procesos de gestión de recursos humanos y reducir errores en los pagos.
+
+**Sabremos que** hemos alcanzado nuestro objetivo cuando observemos una disminución del 25% en los errores de pagos de nómina y una mejora del 30% en la eficiencia de los procesos de gestión de recursos humanos en las empresas que adquieran nuestra suscripción.
+
+**Creemos que** al proporcionar funcionalidades adicionales como la generación de reportes financieros y la evaluación de horas empleadas en proyectos, aumentaremos el valor percibido de nuestra plataforma para las empresas PYME y emprendedores.
+
+**Sabremos que** hemos tenido éxito en la implementación de estas funcionalidades cuando recibamos retroalimentación positiva de al menos el 40% de los usuarios respecto a la utilidad de dichas características en la gestión diaria de sus empresas.
+
+**Creemos que** al ofrecer un proceso de adaptación y soporte continuo durante la transición a nuestra plataforma, lograremos superar la reticencia al cambio y convencer a las empresas PYME y emprendedores de migrar desde sus procesos habituales de gestión de planillas.
+
+**Sabremos que** hemos logrado superar la resistencia al cambio cuando observemos una retención de clientes  del 60% que han adquirido nuestra suscripción y una disminución del 20% en el uso de métodos tradicionales de gestión de planillas.
 
 
 
