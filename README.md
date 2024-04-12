@@ -598,3 +598,17 @@ El As-Is Scenario Mapping nos permite comprender en detalle cómo interactúan a
 <img src="static/img/Chapter 2/img-as-is-emprendedores.png" alt="As-Is Scenario Emprendedores" style="width: 65;"></img>
 
 Enlace al As-Is Scenario Mapping: https://miro.com/app/board/uXjVKWKXc6U=/?share_link_id=570576353295
+
+### 2.4. Ubiquitous Language
+
+El lenguaje ubicuo es un conjunto de términos y conceptos compartidos y comprensibles por todos los miembros del equipo, lo que facilita la comunicación efectiva y la colaboración. En esta sección, desarrollaremos un glosario de términos clave específicos del dominio de nuestro negocio para garantizar una comprensión común entre todos los miembros del equipo.
+
+- Payroll: (Planilla de Pagos) - El proceso de calcular y distribuir los sueldos y salarios de los empleados de una empresa.
+- SMEs: (PYMEs) - Small and Medium-sized Enterprises. Empresas pequeñas y medianas que tienen un número limitado de empleados y recursos financieros.
+- Subscription: (Suscripción) - A recurring payment made by a user to access a service or product on a regular basis.
+- Automated Payroll Management: (Gestión Automatizada de Planillas) - The use of technology to streamline the process of calculating and distributing employee wages and salaries.
+- Financial Reports: (Reportes Financieros) - Documents that provide information about the financial performance and position of a company, including balance sheets, income statements, and cash flow statements.
+- Project Time Tracking: (Seguimiento de Tiempo de Proyecto) - The process of recording and monitoring the time spent by employees on specific projects or tasks.
+- Support Team: (Equipo de Soporte) - A group of individuals responsible for assisting users with technical issues, answering questions, and providing guidance.
+- User Feedback: (Retroalimentación del Usuario) - Comments, suggestions, and opinions provided by users of a product or service to improve its functionality and usability.
+
