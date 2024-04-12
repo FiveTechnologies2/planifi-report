@@ -596,3 +596,5 @@ El As-Is Scenario Mapping nos permite comprender en detalle cómo interactúan a
 <img src="static/img/Chapter 2/img-as-is-PYME.png" alt="As-Is Scenario Empresas" style="width: 65;"></img>
 
 <img src="static/img/Chapter 2/img-as-is-emprendedores.png" alt="As-Is Scenario Emprendedores" style="width: 65;"></img>
+
+Enlace al As-Is Scenario Mapping: https://miro.com/app/board/uXjVKWKXc6U=/?share_link_id=570576353295
