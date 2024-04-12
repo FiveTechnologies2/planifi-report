@@ -32,6 +32,26 @@
 </div>
 
 ## 4.6.3. Software Architecture Components Diagrams.
+
+<div style="text-align: center; margin-top: 20px;">
+        <img src="static/img/Chapter 4/img-component-project-follow-up-BC.png" alt="Container Diagram" style="width: 65;"></img>
+</div>
+<div style="text-align: center; margin-top: 20px;">
+        <img src="static/img/Chapter 4/img-component-register-BC.png" alt="Container Diagram" style="width: 65;"></img>
+</div>
+<div style="text-align: center; margin-top: 20px;">
+        <img src="static/img/Chapter 4/img-component-report-BC.png" alt="Container Diagram" style="width: 65;"></img>
+</div>
+<div style="text-align: center; margin-top: 20px;">
+        <img src="static/img/Chapter 4/img-component-spreadsheet-BC.png" alt="Container Diagram" style="width: 65;"></img>
+</div>
+<div style="text-align: center; margin-top: 20px;">
+        <img src="static/img/Chapter 4/img-component-suscription-BC.png" alt="Container Diagram" style="width: 65;"></img>
+</div>
+<div style="text-align: center; margin-top: 20px;">
+        <img src="static/img/Chapter 4/img-component-worker-follow-up-BC.png" alt="Container Diagram" style="width: 65;"></img>
+</div>
+
 ## 4.7. Software Object-Oriented Design.
 ## 4.7.1. Class Diagrams.
 ## 4.7.2. Class Dictionary.
