@@ -564,3 +564,15 @@ La User Task Matrix nos ayuda a desglosar las actividades y tareas que nuestros 
   </table>
 </div>
 
+### 2.3.3. User Journey Mapping. 
+
+El User Journey Mapping nos permite visualizar y comprender la experiencia completa de nuestros usuarios al interactuar con nuestra startup, desde el descubrimiento inicial hasta la conversión y la retención. Al identificar los puntos de contacto clave y las emociones asociadas en cada etapa, podemos optimizar el viaje del usuario para maximizar la satisfacción y la retención.
+
+<strong>Segmento objetivo 1: Empresas medianas y pequeñas:</strong>
+
+<img src="static/img/Chapter 2/img-user-journey-mapping-yulissa.png" alt="User Journey Mapping Yulissa" style="width: 65;"></img>
+
+
+<strong>Segmento objetivo 2: Emprendedores:</strong>
+
+<img src="static/img/Chapter 2/img-user-journey-mapping-jorge.png" alt="User Journey Mapping Jorge" style="width: 65;"></img>
