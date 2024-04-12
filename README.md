@@ -604,7 +604,7 @@ Enlace al As-Is Scenario Mapping: https://miro.com/app/board/uXjVKWKXc6U=/?share
 El lenguaje ubicuo es un conjunto de términos y conceptos compartidos y comprensibles por todos los miembros del equipo, lo que facilita la comunicación efectiva y la colaboración. En esta sección, desarrollaremos un glosario de términos clave específicos del dominio de nuestro negocio para garantizar una comprensión común entre todos los miembros del equipo.
 
 - Payroll: (Planilla de Pagos) - The process of calculating and distributing the wages and salaries of a company's employees.
-- SMEs: (PYMEs) - Small and Medium-sized Enterprises. Empresas pequeñas y medianas que tienen un número limitado de empleados y recursos financieros.
+- SMEs: (PYMEs) - Small and Medium-sized Enterprises. Small and medium-sized companies that have a limited number of employees and financial resources.
 - Subscription: (Suscripción) - A recurring payment made by a user to access a service or product on a regular basis.
 - Automated Payroll Management: (Gestión Automatizada de Planillas) - The use of technology to streamline the process of calculating and distributing employee wages and salaries.
 - Financial Reports: (Reportes Financieros) - Documents that provide information about the financial performance and position of a company, including balance sheets, income statements, and cash flow statements.
