@@ -100,6 +100,17 @@ El área de recursos humanos en una empresa se encarga de la gestión del pago d
 Según Atlas 360 (2023) no tener ciertos procesos automatizados conlleva una falta de control debido a que las cantidades de datos pueden volverse inmanejables. Asimismo se pierde la trazabilidad, generando desconocimiento esto puede suponer un problema para la empresa en un futuro entre otros problemas mencionados.
  
 
+### 1.2.2. Lean UX Process. 
+#### 1.2.2.1. Lean UX Problem Statements
+Problem Statement 1:
+En el ámbito de la gestión de planillas, las pequeñas y medianas empresas (PYMEs) en Lima Metropolitana a menudo se enfrentan a desafíos significativos debido a la falta de recursos para adquirir soluciones de software especializadas. Actualmente, muchas de estas empresas gestionan sus planillas manualmente o con herramientas básicas como Excel, lo que puede resultar en errores, retrasos en los pagos y una gestión ineficiente de los recursos humanos. Esta situación se ve agravada por la falta de herramientas adecuadas para analizar y comprender los datos de recursos humanos, así como la necesidad de optimizar los procesos internos para aumentar la eficiencia y la productividad de la empresa.
+
+¿Qué estrategias podemos emplear para convencer a las empresas PYME y emprendedores de la utilidad de migrar a nuestra plataforma, sobre todo cuando están profundamente arraigados en sus procedimientos actuales y pueden ver el cambio como una interrupción en sus actividades cotidianas?
+
+Problem Statement 2:
+Los emprendedores en Lima Metropolitana, quienes a menudo operan con equipos reducidos y recursos limitados, enfrentan desafíos similares en la gestión de planillas. Estos pueden carecer de la capacidad para invertir en soluciones de software costosas y pueden recurrir a métodos manuales o poco sofisticados para realizar tareas de gestión de planillas. Esto puede llevar a errores, falta de cumplimiento normativo y una carga adicional de trabajo administrativo que limita el crecimiento y la eficiencia de sus empresas.
+
+¿Cómo podemos superar la resistencia al cambio y convencer a los emprendedores de la necesidad de adoptar nuestra plataforma para gestionar sus planillas de remuneraciones de manera más eficiente?
 
 
 
