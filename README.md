@@ -22,10 +22,15 @@
 ## 4.6.1. Software Architecture Context Diagram.
 
 <div style="text-align: center; margin-top: 20px;">
-        <img src="static/img/Chapter 2/img-system-context.png" alt="System Context Diagram" style="width: 65;"></img>
+        <img src="static/img/Chapter 4/img-system-context.png" alt="System Context Diagram" style="width: 65;"></img>
 </div>
 
 ## 4.6.2. Software Architecture Container Diagrams.
+
+<div style="text-align: center; margin-top: 20px;">
+        <img src="static/img/Chapter 4/img-component-container.png" alt="Container Diagram" style="width: 65;"></img>
+</div>
+
 ## 4.6.3. Software Architecture Components Diagrams.
 ## 4.7. Software Object-Oriented Design.
 ## 4.7.1. Class Diagrams.
