@@ -12,18 +12,17 @@
 **Sección:** SWX55 </br>
 **Docente:** Angel Augusto Velasquez Nuñez </br>
 **Ciclo:** 2024-01 </br>
-**Nombre de la Startup:** Name </br>
-**Nombre del producto:** BusinessPRO </br>
+**Nombre de la Startup:** Planifi </br>
+**Nombre del producto:** Five Technologies </br>
 
 <h3>Integrantes</h3>
 
-| Alumnos                          |   Codigo   |
-| ------------------------------- | :--------: |
-| ----------  | ---------- |
-| ----------  | ---------- |
-| ---------- | ----------|
-| ----------  | ---------- |
-| Gianfranco Luna Morales          | U201824343 |
+| Alumnos                          |   Codigo   | <br>
+| Ricardo Andree Barrutia Vaez  | U201714765 |  <br>
+| Karito Dianeth Medina Chocce | U20221C769 | <br>
+| Ramón Alejandro Jorge Arévalo | U20221D126 | <br>
+|Rodrigo Enrique Zagaceta Bardales  | U202215489 | <br>
+| Gianfranco Luna Morales          | U201824343 | <br>
 
 </div>
 </br>
@@ -159,3 +158,48 @@
       </ul>
    </ul>
 </ul>
+
+# Student Outcome
+<table>
+  <tr>
+    <td><b>Criterio específico</b></td>
+    <td><b>Acciones realizadas</b></td>
+    <td><b>Conclusiones</b></td>
+  </tr>
+  <tr>
+    <td><b>La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.</b></td>
+    <td> TB1<br><br>
+         <b>Luna Morales, Gianfranco</b><br>
+        - X.
+        <br><br> 
+         <b>Medina Chocce, Karito Dianeth</b><br>
+        - X.
+        <br><br>
+        <b>Jorge Arévalo, Ramón Alejandro</b><br>
+        - X.
+        <br><br> 
+        <b>Barrutia Vaez, Ricardo Andree</b> <br>
+          - Startup Profile
+          - Descripción de la Startup
+          - Perfiles de integrantes del equipo
+          - Solution Profile
+          - Antecedentes y problemática
+          - Lean UX Process
+          - Lean UX Problem Statements
+          - Lean UX Assumptions
+          - Lean UX Hypothesis Statements
+          - Lean UX Canvas
+          - Segmentos objetivo.
+          - Software Configuration Management
+          - Software Development Environment Configuration
+        <br><br>
+        <b>Zagaceta Bardales, Rodrigo Enrique</b>
+        - X.
+        <br><br>
+   </td>
+    <td>TB1<br><br>
+    X.</td>
+  </tr>
+</table>
+
+<br><br>
