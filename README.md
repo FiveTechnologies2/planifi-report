@@ -254,7 +254,7 @@ User Personas.
         <br><br>
    </td>
     <td>TB1<br><br>
-    Se llevó a cabo la recopilación de entrevistas para un mejor acercamiento hacia los segmentos objetivos y una elaboración más exacta del proceso de Needfinding que es de utilidad para la eficiencia del startup.</td>
+    En conclusión, la capacidad de trabajar eficazmente en un equipo es fundamental para el éxito de nuestra startup. Al proporcionar liderazgo, fomentar un entorno colaborativo e inclusivo, establecer objetivos claros, planificar tareas y cumplir con esos objetivos, podemos maximizar nuestra productividad y alcanzar nuestras metas de manera más efectiva. Es crucial que todos los miembros del equipo estén comprometidos con estos principios para garantizar un trabajo armonioso y orientado hacia el logro de nuestros objetivos comerciales.</td>
   </tr>
 </table>
 
