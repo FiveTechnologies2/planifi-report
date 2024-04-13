@@ -1869,6 +1869,71 @@ Implementar la landing page en el servidor de producción utilizando Visual Stud
 | https://github.com/Salvlormonch1/planifi.github.io    | main   | 63ae206538c07a15d17151baf74585ce6ac120cd   | Add files via upload |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+Para la entrega del Sprint 1 se intentó alcanzar el desarrollo completo, implementación y despliegue del Landing Page.
+
+<table border="1">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit ID</th>
+    <th>Commit Message</th>
+    <th>Comitted On (Date)</th>
+  </tr>
+  <tr>
+    <td>BusinessPRO</td>
+    <td>Chapter-3</td>
+    <td>41f068e</td>
+    <td>Initial commit</td>
+    <td>10/04/2024</td>
+  </tr>
+  <tr>
+    <td>BusinessPRO</td>
+    <td>Chapter-3</td>
+    <td>3b3e8d4</td>
+    <td>Update and rename README.md to Chapter 3.md</td>
+    <td>11/04/2024</td>
+  </tr>
+  <tr>
+    <td>BusinessPRO</td>
+    <td>Chapter-3</td>
+    <td>10c5509</td>
+    <td>Create README.md</td>
+    <td>11/04/2024</td>
+  </tr>
+  <tr>
+    <td>BusinessPRO</td>
+    <td>Chapter-3</td>
+    <td>751cde5</td>
+    <td>Update README.md</td>
+    <td>11/04/2024</td>
+  </tr>
+  <tr>
+    <td>BusinessPRO</td>
+    <td>Chapter-3</td>
+    <td>cb59368</td>
+    <td>Update Chapter 3.md</td>
+    <td>11/04/2024</td>
+  </tr>
+  <tr>
+    <td>BusinessPRO</td>
+    <td>Chapter-3</td>
+    <td>9fe1561/td>
+    <td>Merge pull request #12 from Gianfranco4991/feature/user-stories</td>
+    <td>11/04/2024</td>
+  </tr>
+  <tr>
+    <td>BusinessPRO</td>
+    <td>Chapter-3</td>
+    <td>a19cd59</td>
+    <td>Update Chapter 3.md</td>
+    <td>12/04/2024</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
 El Execution Evidence for Sprint Review se enfoca en recopilar y presentar evidencia concreta del progreso realizado durante el sprint, centrándose específicamente en la elaboración de la landing page. Esta evidencia es crucial para demostrar cómo se están cumpliendo los objetivos del sprint, qué elementos han sido completados y cómo se alinean con los requisitos del cliente. 
