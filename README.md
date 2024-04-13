@@ -191,6 +191,13 @@ Para poder ver el Mock-up completo, este es el link de Figma -> [Figma](https://
 Para poder ver el Mock-up completo, este es el link de Figma -> [Figma](https://lucid.app/lucidchart/5de1ec5e-e8cf-4908-bb2c-128ac71bb507/edit?viewport_loc=-3774%2C-1589%2C6470%2C2610%2C0_0&invitationId=inv_912178d8-2592-4cee-bb1e-576a04f2c013) 
 
 ## 4.5. Web Applications Prototyping
+
+<img src="static/img/Chapter 4/img-prototyping.png" alt=" " style="width: 65;"></img>
+
+Para poder ver el Prototyping completo, este es el link de Figma -> [Figma](https://www.figma.com/file/J2WmEmCOA2HhjX7tGpNAeL/Prototyping?type=design&node-id=0%3A1&mode=design&t=eZRcWMJBdPIy07xF-1) 
+
+El video en Microsoft Stream se encuentra en el siguiente link -> [Prototyping-Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c769_upc_edu_pe/EUvAHVnN54BFm9W9tFnD5yQBMFIIwjEm17-9SUyNNFWNog?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=37HTrZ)
+
 ## 4.6. Domain-Driven Software Architecture
 ## 4.6.1. Software Architecture Context Diagram
 
