@@ -260,9 +260,20 @@ Para esta entrega solo se realizó el Landing Page, por lo que no hubo implement
 El objetivo de este primer sprint fue el desarrollo de la Landing Page. Para esto, utilizamos GitHub y GitHub Pages. El proceso fue el siguiente:
 
 1. Un miembro del equipo creó una organización en GitHub y se le envió una invitación a cada uno de los otros miembros para que se puedan unir.
+
+<img src="static/img/Chapter 5/img-invitation-github.png" alt="Software Deployment 2" style="width: 65;"></img>
+
 2. Luego, se creó un repositorio para el desarrollo del trabajo, tanto del informe como de la Landing Page.
-3. A continuación, cada uno fue realizando modificaciones en los archivos de la Landing Page, a través de los commits.
-4. Finalmente, desplegamos la Landing Page en GitHub Pages, a la que se puede ingresar mediante el siguiente link: 
+
+<img src="static/img/Chapter 5/img-repository.png" alt="Software Deployment 2" style="width: 65;"></img>
+
+3. A continuación, cada uno fue realizando modificaciones en los archivos, a través de los commits.
+
+<img src="static/img/Chapter 5/img-commits.png" alt="Software Deployment 2" style="width: 65;"></img>
+
+4. Finalmente, desplegamos la Landing Page en GitHub Pages, a la que se puede ingresar mediante el siguiente link: [https://salvlormonch1.github.io/planifi.github.io/](https://salvlormonch1.github.io/planifi.github.io/)
+
+<img src="static/img/Chapter 5/img-landing-page.png" alt="Software Deployment 2" style="width: 65;"></img>
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
