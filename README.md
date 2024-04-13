@@ -252,5 +252,18 @@ El Execution Evidence for Sprint Review se enfoca en recopilar y presentar evide
 <img src="static/img/Chapter 5/img-evidence-5-sprint-1.png" alt="Evidence Sprint Review 5" style="width: 65;"></img>
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Para esta entrega solo se realizó el Landing Page, por lo que no hubo implementación de APIs.
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+El objetivo de este primer sprint fue el desarrollo de la Landing Page. Para esto, utilizamos GitHub y GitHub Pages. El proceso fue el siguiente:
+
+1. Un miembro del equipo creó una organización en GitHub y se le envió una invitación a cada uno de los otros miembros para que se puedan unir.
+2. Luego, se creó un repositorio para el desarrollo del trabajo, tanto del informe como de la Landing Page.
+3. A continuación, cada uno fue realizando modificaciones en los archivos de la Landing Page, a través de los commits.
+4. Finalmente, desplegamos la Landing Page en GitHub Pages, a la que se puede ingresar mediante el siguiente link: 
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+A continuación, se mostrarán capturas de los Insights del GitHub para evidenciar la participación de todos los miembros del grupo:
