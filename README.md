@@ -178,7 +178,7 @@
     <td><b>Conclusiones</b></td>
   </tr>
   <tr>
-    <td><b>La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.</b></td>
+    <td><b>5.c.1 Trabaja en equipo para proporcionar liderazgo en forma conjunta.</b></td>
     <td> TB1<br><br>
          <b>Luna Morales, Gianfranco</b><br>
         - Domain-Driven Software Architecture.
@@ -192,7 +192,7 @@
 -Database Diagram.
 -Source Code Management.
 -Source Code Style Guide & Conventions.
-
+<br><br> 
 <b>Medina Chocce, Karito Dianeth</b><br>
 -Style Guidelines.
 -General Style Guidelines.
@@ -255,6 +255,85 @@ User Personas.
    </td>
     <td>TB1<br><br>
     En conclusión, la capacidad de trabajar eficazmente en un equipo es fundamental para el éxito de nuestra startup. Al proporcionar liderazgo, fomentar un entorno colaborativo e inclusivo, establecer objetivos claros, planificar tareas y cumplir con esos objetivos, podemos maximizar nuestra productividad y alcanzar nuestras metas de manera más efectiva. Es crucial que todos los miembros del equipo estén comprometidos con estos principios para garantizar un trabajo armonioso y orientado hacia el logro de nuestros objetivos comerciales.</td>
+  </tr>
+  <tr>
+    <td><b>5.c.2 Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</b></td>
+    <td> TB1<br><br>
+         <b>Luna Morales, Gianfranco</b><br>
+        - Domain-Driven Software Architecture.
+-Software Architecture Context Diagram.
+-Software Architecture Container Diagrams.
+-Software Architecture Components Diagrams.
+-Software Object-Oriented Design.
+-Class Diagrams.
+-Class Dictionary.
+-Database Design.
+-Database Diagram.
+-Source Code Management.
+-Source Code Style Guide & Conventions.
+<br><br> 
+<b>Medina Chocce, Karito Dianeth</b><br>
+-Style Guidelines.
+-General Style Guidelines.
+-Web Style Guidelines.
+-Information Architecture.
+-Organization Systems.
+-Labeling Systems.
+-SEO Tags and Meta Tags
+-Searching Systems.
+-Navigation Systems.
+-Landing Page UI Design.
+-Landing Page Wireframe.
+-Landing Page Mock-up.
+-Web Applications UX/UI Design.
+-Web Applications Wireframes.
+-Web Applications Wireflow Diagrams.
+-Web Applications Mock-ups.
+-Web Applications User Flow Diagrams.
+-Web Applications Prototyping
+-Source Code Management.
+-Source Code Style Guide & Conventions.
+        
+<b>Jorge Arévalo, Ramón Alejandro</b><br>
+        - X.
+        <br><br> 
+<b>Barrutia Vaez, Ricardo Andree</b> <br>
+          - Startup Profile
+          - Descripción de la Startup
+          - Perfiles de integrantes del equipo
+          - Solution Profile
+          - Antecedentes y problemática
+          - Lean UX Process
+          - Lean UX Problem Statements
+          - Lean UX Assumptions
+          - Lean UX Hypothesis Statements
+          - Lean UX Canvas
+          - Segmentos objetivo.
+          - Software Configuration Management
+          - Software Development Environment Configuration
+        <br><br>
+        
+<b>Zagaceta Bardales, Rodrigo Enrique</b>
+-Competidores.
+-Análisis competitivo.
+-Estrategias y tácticas frente a competidores.
+-Entrevistas.
+-Diseño de entrevistas.
+-Registro de entrevistas.
+-Análisis de entrevistas.
+-Needfinding.
+User Personas.
+-User Task Matrix.
+-User Journey Mapping.
+-Empathy Mapping.
+-As-is Scenario Mapping.
+-Ubiquitous Language.
+-Software Deployment Configuration.
+-Landing Page, Services & Applications Implementation.
+        <br><br>
+   </td>
+    <td>TB1<br><br>
+    En este contexto, es esencial cultivar un entorno que fomente la colaboración y la inclusión dentro de nuestro equipo. Al establecer metas claras y específicas, planificar cuidadosamente las tareas y trabajar juntos para alcanzar nuestros objetivos, podemos potenciar la eficiencia y la cohesión en nuestra startup. Es fundamental que cada miembro del equipo se sienta valorado y respetado, y que se les dé la oportunidad de contribuir de manera significativa al logro de nuestras metas comunes. Al crear este ambiente colaborativo e inclusivo, podemos optimizar nuestro rendimiento y avanzar hacia el éxito de manera efectiva.</td>
   </tr>
 </table>
 
