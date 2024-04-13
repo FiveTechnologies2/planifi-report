@@ -126,8 +126,44 @@ Nuestro sistema de busqueda va a ser de una manera eficiente e intuitiva de real
 El sistema que permitirá a los usuarios ir entre las distintas secciones de nuestra página será una barra superior en nuestro landing page, la cual estará conformada por los títulos de cada sección.
 
 ## 4.3. Landing Page UI Design
-## 4.3.1. Landing Page Wireframe
-## 4.3.2. Landing Page Mock-up
+Nuestra decisión del diseño y la arquitectura es usar una forma más minimalista y tratar de llamar la atención al cliente por el producto.
+
+### 4.3.1. Landing Page Wireframe 
+Wireframe 1
+<img src="static/img/Chapter 4/img-wireframe1.png" alt=" " style="width: 65;"></img>
+
+Wireframe 2
+<img src="static/img/Chapter 4/img-wireframe2.png" alt=" " style="width: 65;"></img>
+
+Wireframe 3
+<img src="static/img/Chapter 4/img-wireframe3.png" alt=" " style="width: 65;"></img>
+
+Wireframe 4
+<img src="static/img/Chapter 4/img-wireframe4.png" alt=" " style="width: 65;"></img>
+
+Wireframe 5
+<img src="static/img/Chapter 4/img-wireframe5.png" alt=" " style="width: 65;"></img>
+
+Para poder ver el wireframe completo, este es el link de Figma -> [Figma](https://www.figma.com/file/YxrOLUAqkGsL86OvtCETzt/Planifi-Wireframe?type=design&node-id=0%3A1&mode=design&t=0KnNllAIDZqRZnLP-1) 
+
+### 4.3.2. Landing Page Mock-up 
+Mock-up 1
+<img src="static/img/Chapter 4/img-mockup1.png" alt=" " style="width: 65;"></img>
+
+Mock-up 2
+<img src="static/img/Chapter 4/img-mockup2.png" alt=" " style="width: 65;"></img>
+
+Mock-up 3
+<img src="static/img/Chapter 4/img-mockup3.png" alt=" " style="width: 65;"></img>
+
+Mock-up 4
+<img src="static/img/Chapter 4/img-mockup4.png" alt=" " style="width: 65;"></img>
+
+Mock-up 5
+<img src="static/img/Chapter 4/img-mockup5.png" alt=" " style="width: 65;"></img>
+
+Para poder ver el Mock-up completo, este es el link de Figma -> [Figma](https://www.figma.com/file/V8WMiF3a2LgTBpJKDA6flY/Mockup?type=design&mode=design&t=0KnNllAIDZqRZnLP-1) 
+
 ## 4.4. Web Applications UX/UI Design
 ## 4.4.1. Web Applications Wireframes
 ## 4.4.2. Web Applications Wireflow Diagrams
