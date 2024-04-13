@@ -1,6 +1,58 @@
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
+En el siguiente apartado, se detalla cada uno de los productos de software utilizados en el proyecto. Esta descripción servirá como guía para que tanto los desarrolladores actuales como los futuros puedan participar de manera efectiva en todas las fases del proyecto.<br><br>
+**Project Management**
+- Notion: https://www.notion.so/es-es
+Se empleó Notion para organizar y llevar un registro de las tareas que están por hacer, se están realizando y ya están completadas. De esta manera, podríamos tener un control en cuanto al tiempo de cómo estábamos desarrollando el proyecto y, asimismo, ver las actividades pendientes. Notion es una aplicación que se encuentra disponible en las tiendas de teléfonos móviles, web o aplicación de escritorio.
+- Google Meet : https://meet.google.com
+La plataforma de Google Meet se empleó para las reuniones virtuales con los integrantes del equipo y así poder comunicarnos entre nosotros sobre la gestión del proyecto. Asimismo, empleamos esta plataforma para poder compartir contenido entre los miembros del equipo, como compartir pantalla, imágenes, texto, entre otros.
+
+ 	
+**Requirements Management** <br>
+- Notion: https://trello.com/
+Para el apartado de requirements, consideramos que la mejor opción era Notion, debido a que con la diversidad de plantillas permitía colaborar de manera muy práctica en el product backlog, además de ser muy fácil de usar. Esta aplicación es gratuita y solo necesitamos registrarnos para utilizarla
+ 	
+**Product UX/UI Design**
+- UXPressia: https://uxpressia.com/
+Se empleó esta herramienta para la creación de los User Personas, el User Journey Map, Empathy Map. Lo usamos por su facilidad para poder llevar a cabo el desarrollo de estos artefactos debido a su variedad de plantillas. Es gratuito y colaborativo solo es necesario un registro para su uso.
+ 
+- Miro (https://miro.com/es/)
+Miro ha sido empleado en el desarrollo de los escenarios mapping y escenario mapping para los dos segmentos objetivos.
+ 
+- Figma: https://www.figma.com/
+Esta herramienta fue de vital importancia para la creación de los wireframes, mockups y mobile applications prototyping de manera colaborativa. Asimismo, su acceso es gratuito al contar con una cuenta registrada.
+ 
+- Color Mania (https://www.blacksunsoftware.com/colormania.html)
+Color Mania fue empleado en la selección de la paleta de colores para el desarrollo del diseño de la web.
+ 
+**Software Development** <br>
+- Landing Page
+El desarrollo del landing page se realizó con las siguientes herramientas: HTML5, CSS3 y JavaScript.
+ 
+**IDE’s de desarrollo**
+ 
+- Visual Studio Code https://code.visualstudio.com/ 
+Este IDE es altamente versátil y está diseñado para proporcionar una experiencia de desarrollo eficiente y personalizable. Cuenta con una amplia variedad de extensiones disponibles.
+
+**Software testing**
+- Para las pruebas de testeo software, de  la landing page, se utilizó los distintos navegadores web tales como Google Chrome (https://www.google.com/chrome/), Microsoft Edge (https://www.microsoft.com/en-us/edge) y Mozilla Firefox (https://www.mozilla.org/en-US/firefox/browsers/). Estos navegadores son gratuitos. 
+ 
+**Software Documentation**
+- Google Drive (https://www.google.com/intl/es-419_pe/drive/)
+Empleamos Google Drive para tener un documento donde registrar los archivos del proyecto. Principalmente, utilizamos la herramienta de Google Docs para desarrollar los informes a entregar.
+ 
+- Lucidchart: https://www.lucidchart.com/
+Fue empleada para el desarrollo de diagramas de clases UML. Debido a la facilidad de crear diversos diagramas y la facilidad para colaborar. Asimismo, funciona en el navegador y hace falta tener una cuenta para acceder a esta.
+ 
+- Structurizr: https://structurizr.com/
+El uso de esta herramienta fue para la creación de los diagramas C4 debido a su facilidad. Para usar esta aplicación web es necesario tener una cuenta registrada.
+ 
+
+ 
+
+
+
 ### 5.1.2. Source Code Management
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
