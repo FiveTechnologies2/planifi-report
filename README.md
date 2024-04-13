@@ -1,8 +1,90 @@
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines
-## 4.1.1. General Style Guidelines
-## 4.1.2. Web Style Guidelines
+Para optimizar la experiencia de los usuarios en la gestión de planillas, se propone un diseño de interfaz atractivo y responsivo tanto en la web como en la aplicación móvil. La interfaz tendrá colores coherentes, imágenes de alta calidad y una navegación intuitiva para facilitar el uso. La experiencia de usuario se simplificará con flujos de trabajo eficientes para la carga de datos, gestión de empleados y cálculos automáticos de nómina. Esto permitirá a los usuarios ahorrar tiempo y esfuerzo en la gestión de sus planillas. Se incorporarán recursos visuales e infografías para facilitar la comprensión y análisis de la información. Las infografías proporcionarán una representación visual de los datos de la nómina, lo que permitirá a los usuarios tomar decisiones más informadas. En definitiva, estas estrategias buscan proporcionar una experiencia práctica y amigable para la gestión de planillas, simplificando el proceso y permitiéndote enfocarte en lo que realmente importa.
+
+### 4.1.1. General Style Guidelines
+
+**BRANDING**
+
+ Nuestro logo representa nuestra formalidad y compromiso con los usuarios, consiste en la inicial del nombre de nuestro producto acompañado del nombre y una de nuestro eslogan del producto
+
+ <img src="static/img/Chapter 4/img-Planifi.png" alt=" " style="width: 45;"></img>
+ 
+
+ **TYPOGRAPHY**
+
+ Para la tipografía, se seleccionó la fuente Open Sans. Esta elección se basa en su capacidad para captar la atención del usuario, a la vez que mantiene una alta legibilidad y un aspecto estético agradable.
+
+ <img src="static/img/Chapter 4/img-opensans.png" alt=" " style="width: 65;"></img>
+
+
+ **PALETA DE COLORES**
+
+ En cuanto a la elección de nuestra paleta de colores, decidimos usar los siguientes colores:
+
+\#57C600
+
+<img src="static/img/Chapter 4/img-57C600.png" alt=" " style="width: 65;"></img>
+
+\#8EF988
+
+<img src="static/img/Chapter 4/img-8EF988.png" alt=" " style="width: 65;"></img>
+
+\#A2D5F2
+
+<img src="static/img/Chapter 4/img-A2D5F2.png" alt=" " style="width: 65;"></img>
+
+\#D4A5A5
+
+<img src="static/img/Chapter 4/img-D4A5A5.png" alt=" " style="width: 65;"></img>
+
+\#F7CAC9
+
+<img src="static/img/Chapter 4/img-F7CAC9.png" alt=" " style="width: 65;"></img>
+
+\#FFE4B5
+
+<img src="static/img/Chapter 4/img-FFE4B5.png" alt=" " style="width: 65;"></img>
+ 
+ **COLORES NEUTROS**
+Nuestros colores neutros son los siguientes:
+
+\#000000
+
+<img src="static/img/Chapter 4/img-000000.png" alt=" " style="width: 65;"></img>
+
+\#FFFFFF
+
+<img src="static/img/Chapter 4/img-FFFFFF.png" alt=" " style="width: 65;"></img>
+
+\#E5E5E5
+
+<img src="static/img/Chapter 4/img-E5E5E5.png" alt=" " style="width: 65;"></img>
+
+### 4.1.2. Web Style Guidelines 
+
+En Planifi, hemos elegido cuidadosamente nuestros elementos de estilo web para crear una experiencia que refleje la escencia de nuestra plataforma y atienda a las necesidades de nuestra audiencia en la industria comercial.
+
+**COLORES BASE**
+
+La elección de estos colores son las siguientes: 
+- El verde representa frescura, crecimiento y renovación de energía
+- El salmón representa inocencia y bondad
+- El celeste representa serenidad y confianza
+- El amarillo claro representa energía y creatividad
+- El rosado boragoña tiende a alejar las preocupaciones y es acompañado con suavidad
+
+**COLORES NEUTROS**
+
+La elección de colores neutros fue la siguiente:
+- Negro que representa elegancia y el poder
+- Blanco que representa creatividad, imparcialidad y paz
+
+**ESTILO DE LETRAS**
+
+Optamos por una tipografía formal y legible. Nuestra elección se basa en la necesidad de una comunicación clara y efectiv en la plataforma. Valoramos la legibilidad y accesibillidad, ya que queremos que todos los usuarios puedan interactuar sin problemas.
+
 ## 4.2. Information Architecture
 ## 4.2.1. Organization Systems
 ## 4.2.2. Labeling Systems
