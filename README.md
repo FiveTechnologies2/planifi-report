@@ -50,6 +50,43 @@ El uso de esta herramienta fue para la creación de los diagramas C4 debido a su
  
 
 ### 5.1.2. Source Code Management
+
+El manejo y registro de las modificaciones de nuestra landing page y este documento es manjeada mediante una organización en Github
+
+- **Oragnization:** https://github.com/Gianfranco4991/BusinessPRO.git
+- **Landing Page Repository:** https://github.com/Salvlormonch1/planifi.github.io
+- **Report Repository:** https://github.com/Gianfranco4991/BusinessPRO
+
+Adicionalmente, para mejorar el control de nnuestro proyecto usamos GitFlow para la creación de ramas y cambios en el código fuente. Es por ello que se manejan dos ramas principales: `main`, `develop`.
+
+- **MAIN:** La rama `main` almacena el historial oficial de las publicaciones de nuestro repositorio listas para producción.
+- **DEVELOP:** Esta rama sirve para integrar las características *(features)*.
+
+    En nuestro caso hemos decidido implementar la rama `'develop'`.
+
+    Esta rama es la rama principal donde se integra todas las características. Cuando se completa una característica, se fusionan con `'develop'`. Todas las rams de características deben fusionarse con `'develop'`.
+
+    Ejemplo de flujo de trabajo con GitFlow:
+
+    1. Se crea una rama de `"feature"` a partir de la rama develop
+    2. Se trabaja en la rama de `'feature'`
+    3. Se hace un merge de la rama de `'feature'` a la rama develop
+
+**RAMAS AUXILIARES:**
+- **Feature:** Para desarrollar nuevas funcionalidades o mejoras a partir de la rama develop y juntarlas con ellas al terminar. Estas ramas permiten trbajar en el código sin afectar a la estabilidad de la rama principal, en este caso `'develop'`. Y facilitan la revisión y el control de las características antes de integrarlas.
+  
+  Para la implementación de las ramas `'features'`, nosotros hemos implementado la siguiente nomenclatura: `'feature/feature-name'`.
+
+  Donde:
+    - **Feature:** Es el nombre de la rama.
+    - **Feature-name:** Es el nombre de la características que se está desarrollando.
+  
+  Ejemplo Report:
+    - `'feature/chapter-1.1'`. Indicando el capitulo a implementar.
+
+  Ejemplo Landing Page:
+    - `'feature/html-structure'`. Indicando la sección a implementar.
+
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
 
