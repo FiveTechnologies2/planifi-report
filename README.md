@@ -88,6 +88,22 @@ Adicionalmente, para mejorar el control de nnuestro proyecto usamos GitFlow para
     - `'feature/html-structure'`. Indicando la sección a implementar.
 
 ### 5.1.3. Source Code Style Guide & Conventions
+
+Para el desarrollo de la landing page, se uso HTML y CSS. Para ello, seguiremos las convenciones del Google HTML/CSS Style Guide, que nos indica como trabajar con estas tecnologías. Algunas de las convenciones que apllicaremos son:
+
+- Declarar comunmente el tipo de documento
+- Usar mayoritariamente minúsculas para los elementos HTML (como `<p>`, `<h1>`, `<section>`, `<header>`, etc)
+- Cerrar siempre entre comillas los atributos de los elementos HTML (por ejemplo, `<p class="name"></p>`)
+- Especificar `alt`, `width` y `height` para las imágenes
+- Evitar líneas de código muy largas
+- No olvidar el elemento `<title>` al principio
+- Usar meta tags al inicio 
+- Para el lenguaje JavaScript, sequiremos las convenciones del Google JavaScript Style Guide. Algunas de as convenciones que aplicaremos son:
+  - Nombrar las variables y funciones con camelcase, como `"numberArray"`
+  - Usar comillas simples para los strings como `'This is a string'`
+  - Usar punto y coma `(;)` al final de cada sentencia
+  - Evitar declarar variables con `var` y usar `let` o `const` en su lugar
+
 ### 5.1.4. Software Deployment Configuration
 
 En esta sección, se describen los pasos para configurar y desplegar la landing page utilizando Visual Studio Code. Estos pasos son cruciales para asegurar que la aplicación web esté disponible y funcione sin problemas para los usuarios finales.
