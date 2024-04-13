@@ -1862,6 +1862,12 @@ Implementar la landing page en el servidor de producción utilizando Visual Stud
 </table>
 
 #### 5.2.1.3. Development Evidence for Sprint Review
+
+| Repository | Branch  | Commit Id | Commit Message|
+|------------|----------|-----------|---------------|
+| https://github.com/Salvlormonch1/planifi.github.io  | main   | dce258f933142390154509ffe790eaf49d6bca3a   | Create README.md |
+| https://github.com/Salvlormonch1/planifi.github.io    | main   | 63ae206538c07a15d17151baf74585ce6ac120cd   | Add files via upload |
+
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
