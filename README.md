@@ -1397,5 +1397,11 @@ En conclusión, el proceso de investigación, diseño y desarrollo para nuestro 
 
 # Bibliografía
 
+- Ackoff, R. (1992). Planificación de la Empresa del Futuro. Limusa, México. https://www.econo.unlp.edu.ar/carreras/direccion_y_gestion_empresarial_bibliografia-3478
+- Ansoff, I. (1997). Dirección estratégica en la práctica empresarial. Ed. Addison-Wesley Iberoamericana, Buenos Aires. https://www.econo.unlp.edu.ar/carreras/direccion_y_gestion_empresarial_bibliografia-3478
+- Bonini, H., Hausman, & Bierman. (1999). Análisis Cuantitativo para los Negocios. Mc Graw Hill. https://www.econo.unlp.edu.ar/carreras/direccion_y_gestion_empresarial_bibliografia-3478
+- Braidot, N. P. (s/f). Nuevo marketing total. McGraw-Hill, Argentina. https://www.econo.unlp.edu.ar/carreras/direccion_y_gestion_empresarial_bibliografia-3478
+- Brealey, R. A., Myers, S. C., & Allen, F. (2006). Principios de Finanzas corporativas. 8va. Edic. McGraw-Hill, España. https://www.econo.unlp.edu.ar/carreras/direccion_y_gestion_empresarial_bibliografia-3478
+
 # Anexos
 
