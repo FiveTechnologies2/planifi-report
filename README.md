@@ -1393,6 +1393,8 @@ Para la realización del diagrama, se han utilizado las siguientes clases, junto
 
 # Conclusiones
 
+En conclusión, el proceso de investigación, diseño y desarrollo para nuestro proyecto ha sido fundamental para comprender las necesidades y expectativas de nuestros usuarios. Las entrevistas nos proporcionaron información valiosa sobre los desafíos que enfrentan y las características que valoran en una solución. La creación de la landing page nos permitió comunicar efectivamente nuestra propuesta de valor y garantizar una experiencia de usuario satisfactoria. Además, las user stories nos brindaron una guía clara para el desarrollo del producto. En conjunto, estos elementos nos han ayudado a construir una base sólida para futuras iteraciones y mejoras en nuestro proyecto.
+
 # Bibliografía
 
 # Anexos
