@@ -207,7 +207,8 @@ To-Be Scenario Mapping, User Stories, Impact Mapping, Product Backlog. Se discut
 - Source Code Style Guide & Conventions.
         <br><br>
 <b>Jorge Arévalo, Ramón Alejandro</b><br>
-        - X.
+Realizó puntos desde el 4.6 hasta el final del capítulo 4, incluyendo el C4 Model y los diagramas de clase y de base de datos.
+Se organizó con el equipo para elaborar las partes del informe y de la Landing Page.
         <br><br> 
 <b>Barrutia Vaez, Ricardo Andree</b> <br>
           - Startup Profile
@@ -237,17 +238,7 @@ Se llevó a cabo la recopilación de entrevistas para un mejor acercamiento haci
     <td><b>5.c.2 Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</b></td>
     <td> TB1<br><br>
          <b>Luna Morales, Gianfranco</b><br>
-        - Domain-Driven Software Architecture.
--Software Architecture Context Diagram.
--Software Architecture Container Diagrams.
--Software Architecture Components Diagrams.
--Software Object-Oriented Design.
--Class Diagrams.
--Class Dictionary.
--Database Design.
--Database Diagram.
--Source Code Management.
--Source Code Style Guide & Conventions.
+       Se vio los temas de Vue, aún se práctica los temas para el desarrollo de la aplicación.
 <br><br> 
         
 <b>Medina Chocce, Karito Dianeth</b><br>
@@ -273,7 +264,7 @@ Se llevó a cabo la recopilación de entrevistas para un mejor acercamiento haci
 -Source Code Style Guide & Conventions.
         <br><br>
 <b>Jorge Arévalo, Ramón Alejandro</b><br>
-        - X.
+Realizo modificaciones en la Landing Page en colaboración con sus compañeros.
         <br><br> 
 <b>Barrutia Vaez, Ricardo Andree</b> <br>
           - Startup Profile
