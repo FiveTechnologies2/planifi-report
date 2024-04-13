@@ -181,15 +181,44 @@
     <td><b>La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.</b></td>
     <td> TB1<br><br>
          <b>Luna Morales, Gianfranco</b><br>
+        - Domain-Driven Software Architecture.
+-Software Architecture Context Diagram.
+-Software Architecture Container Diagrams.
+-Software Architecture Components Diagrams.
+-Software Object-Oriented Design.
+-Class Diagrams.
+-Class Dictionary.
+-Database Design.
+-Database Diagram.
+-Source Code Management.
+-Source Code Style Guide & Conventions.
+
+<b>Medina Chocce, Karito Dianeth</b><br>
+-Style Guidelines.
+-General Style Guidelines.
+-Web Style Guidelines.
+-Information Architecture.
+-Organization Systems.
+-Labeling Systems.
+-SEO Tags and Meta Tags
+-Searching Systems.
+-Navigation Systems.
+-Landing Page UI Design.
+-Landing Page Wireframe.
+-Landing Page Mock-up.
+-Web Applications UX/UI Design.
+-Web Applications Wireframes.
+-Web Applications Wireflow Diagrams.
+-Web Applications Mock-ups.
+-Web Applications User Flow Diagrams.
+-Web Applications Prototyping
+-Source Code Management.
+-Source Code Style Guide & Conventions.
+        
+<b>Jorge Arévalo, Ramón Alejandro</b><br>
         - X.
         <br><br> 
-         <b>Medina Chocce, Karito Dianeth</b><br>
-        - X.
-        <br><br>
-        <b>Jorge Arévalo, Ramón Alejandro</b><br>
-        - X.
-        <br><br> 
-        <b>Barrutia Vaez, Ricardo Andree</b> <br>
+<b>Barrutia Vaez, Ricardo Andree</b> <br>
           - Startup Profile
           - Descripción de la Startup
           - Perfiles de integrantes del equipo
@@ -204,12 +233,28 @@
           - Software Configuration Management
           - Software Development Environment Configuration
         <br><br>
-        <b>Zagaceta Bardales, Rodrigo Enrique</b>
-        - X.
+        
+<b>Zagaceta Bardales, Rodrigo Enrique</b>
+-Competidores.
+-Análisis competitivo.
+-Estrategias y tácticas frente a competidores.
+-Entrevistas.
+-Diseño de entrevistas.
+-Registro de entrevistas.
+-Análisis de entrevistas.
+-Needfinding.
+User Personas.
+-User Task Matrix.
+-User Journey Mapping.
+-Empathy Mapping.
+-As-is Scenario Mapping.
+-Ubiquitous Language.
+-Software Deployment Configuration.
+-Landing Page, Services & Applications Implementation.
         <br><br>
    </td>
     <td>TB1<br><br>
-    X.</td>
+    Se llevó a cabo la recopilación de entrevistas para un mejor acercamiento hacia los segmentos objetivos y una elaboración más exacta del proceso de Needfinding que es de utilidad para la eficiencia del startup.</td>
   </tr>
 </table>
 
