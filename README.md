@@ -56,11 +56,11 @@ Five Technologies es una empresa creada por estudiantes de la Universidad Peruan
   </tr>
  <tr>
     <td>
-      <h2>[Nombre]</h2>
-      <p>Código: [Código de estudiante]</p>
-      <p>Conocimientos y Habilidades: [Conocimientos y habilidades]</p>
+      <h2>[Gianfranco Luna Morales]</h2>
+      <p>Código: [u201824343]</p>
+      <p>Conocimientos y Habilidades: [Me gusta observar el comportamiento de las personas para así crear un ambiente cómodo y activo; soy práctico y racional para los percances que puedan surgir. Si bien poseo conocimientos básicos en la programación en el lenguaje C + +, aportaré en lo que pueda para realizar con éxito la idea planteada.]</p>
     </td>
-    <td><img src="[ruta_imagen]" alt=""></td>
+<td><img src="static/img/Chapter 1/img-Gianfranco.png" alt=" " width="50%";"></img></td>
   </tr>
 </table>
 
