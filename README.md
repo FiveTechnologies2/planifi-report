@@ -162,7 +162,14 @@ Nuestro producto será utilizado principalmente en el departamento de recursos h
 
 <td><img src="static/img/Chapter 1/img-lean-ux-canvas.png" alt=" " width="50%" ;"></img></td>
 
+## 1.3.  Segmentos objetivo
 
+Los segmentos objetivos son los siguientes: 
+
+**Empresas Pyme**: Las empresas medianas y pequeñas cuentan con una estructura más compleja y con un mayor volumen de empleados. Necesitan una solución de gestión de planillas que pueda manejar la complejidad en base a la magnitud de la empresa. Requieren de una una solución eficiente y asequible para gestionar sus planillas de nómina sin complicaciones. 
+
+**Emprendedores**: 
+Los emprendedores son individuos que están iniciando o gestionando sus propios negocios. Usualmente, cuentan con equipos pequeños y recursos financieros muy limitados. Por lo que necesitan una solución sencilla y accesible para gestionar las nóminas de sus empleados.
 
 
 
