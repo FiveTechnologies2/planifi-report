@@ -1,163 +1,174 @@
-<p align ="center">
-   <img src="./static/img/logos/UPC_logo.png" >
+<<hr>
+
+# <center>COURSE PROJECT</center>
+
+<p align="center">
+    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+    <strong>Ingeniería de Software - 2024-1</strong><br>
+    <strong>Aplicaciones Web - WX55</strong><br>
+    <strong>Profesor: Angel Augusto Velasquez Nuñez</strong><br>
+    <br>INFORME DE TRABAJO FINAL - TB1
 </p>
 
-<h1 align="center">Universidad Peruana de Ciencias Aplicadas</h1>
+<p align="center">
+    <strong>Startup: FiveTechnologies</strong><br>
+    <strong>Producto:Planifi</strong>
+</p>
 
-<h2 align="center">Ingeniería de Software</h2>
-
-<div align="center">
-<h3>Aplicaciones WEB - TB1</h3>
-
-**Sección:** SWX55 </br>
-**Docente:** Angel Augusto Velasquez Nuñez </br>
-**Ciclo:** 2024-01 </br>
-**Nombre de la Startup:** Planifi </br>
-**Nombre del producto:** Five Technologies </br>
-
-<h3>Integrantes</h3>
-
-| Alumnos                          |   Codigo   | <br>
-| Ricardo Andree Barrutia Vaez  | U201714765 |  <br>
-| Karito Dianeth Medina Chocce | U20221C769 | <br>
-| Ramón Alejandro Jorge Arévalo | U20221D126 | <br>
-|Rodrigo Enrique Zagaceta Bardales  | U202215489 | <br>
-| Gianfranco Luna Morales          | U201824343 | <br>
-
+<div style="text-align:center;">
+    <h3>Team Members:</h3>
+    <table align="center">
+        <tr>
+            <th style="text-align:center;">Member</th>
+            <th style="text-align:center;">Code</th>
+        </tr>
+        <tr>
+            <td>Luna Morales, Gianfranco</td>
+            <td>U201824343</td>
+        </tr>
+        <tr>
+            <td>Medina Chocce, Karito Dianeth</td>
+            <td>U20221C769</td>
+        </tr>
+        <tr>
+            <td>Jorge Arévalo, Ramón Alejandro</td>
+            <td>U20221D126</td>
+        </tr>
+        <tr>
+            <td>Barrutia Vaez, Ricardo Andree</td>
+            <td>U201714765</td>
+        </tr>
+        <tr>
+            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+            <td>U202215489</td>
+        </tr>
+    </table>
 </div>
+
+<p align="center">
+    <strong>Abril, 2024</strong>
+</p>
+<br>
+
+<h1 align="center">Registro de versiones del Informe</h1>
 </br>
+<table>
+        <thead>
+            <tr>
+                <th>Versión</th>
+                <th>Fecha</th>
+                <th>Autor</th>
+                <th>Descripción de modificaciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th>1.0</th>
+                <td>04/13/2024</td>
+                <td>Five Technologies</td>
+                <td>Entrega de la primera versión del TB1 de Aplicaciones Web: Landing Page.</td>
+            </tr>
+      </tbody>
+</table>
 
+<br><br>
+# Project Report Collaboration Insights
+<br><br>
 
-<ul style="list-style-type: none;">
-   <li><h1><a href="./static/readmes/student-outcome.md">Student Outcome</a></h1></li>
-   <li><h1><a href="./static/readmes/chapter-1.md#capitulo-1">Capítulo I: Introducción</a></h1></li>
-   <li><h3><a href="./static/readmes/chapter-1.md#startup-profile">1.1. Startup Profile</a></h3></li>
-   <ul>
-      <li><h3><a href="./static/readmes/chapter-1.md#descripcion-startup">1.1.1.  Descripción de la Startup</a></h3></li>
-      <li><h3><a href="./static/readmes/chapter-1.md#perfiles-integrantes">1.1.2. Perfiles de integrantes del equipo</a></h2></li>
-   </ul>
-   <li><h3><a href="./static/readmes/chapter-1.md#solution-profile">1.2. Solution Profile</a></h3></li>
-   <ul>
-      <il><h3><a href="./static/readmes/chapter-1.md#antecedentes-y-problematica">1.2.1 Antecedentes y problemática</a></h3></il>
-      <il><h3><a href="./static/readmes/chapter-1.md#lean-ux-process">1.2.2 Lean UX Process</a></h3></il>
-      <ul>
-         <il><h3><a href="./static/readmes/chapter-1.md#lean-ux-problem-statements">1.2.2.1. Lean UX Problem Statements</a></h3></il>
-         <il><h3><a href="./static/readmes/chapter-1.md#lean-ux-assumptions">1.2.2.2. Lean UX Assumptions</a></h3></il>
-         <il><h3><a href="./static/readmes/chapter-1.md#lean-ux-hypothesis-statement">1.2.2.3. Lean UX Hypothesis Statements</a></h3></il>
-         <il><h3><a href="./static/readmes/chapter-1.md#lean-ux-canvas">1.2.2.4. Lean UX Canvas</a></h3></il>
-      </ul>
-   </ul>
-   <il><h3><a href="./static/readmes/chapter-1.md#segmento-objetico">1.3. Segmentos objetivo</a></h3></il>
+## [Registro de Versiones del Informe](#registro-de-versiones-del-informe-1)
+## [Project Report Collaboration Insights](#project-report-collaboration-insights-1)
 
-<il><h1><a href="./static/readmes/chapter-2.md#capitulo-2">Capítulo II: Requirements Elicitation & Analysis</a></h1></il>
-<il><h3><a href="./static/readmes/chapter-2.md#competidores">2.1. Competidores</a></h3></il>
+## [Contenido](#contenido-1)
+- [Tabla de contenidos](#tabla-de-contenidos-1)
+- [Student Outcome](#student-outcome-1)
 
-   <ul>
-      <il><h3><a href="./static/readmes/chapter-2.md#analisis-competitivo">2.1.1. Análisis competitivo</a></h3></il>
-      <il><h3><a href="./static/readmes/chapter-2.md#estrategias-y-tacticas-frente-a-competidores">2.1.2. Estrategias y tácticas frente a competidores</a></h3></il>
-   </ul>
-<il><h3><a href="./static/readmes/chapter-2.md#entrevistas">2.2. Entrevistas</a></h3></il>
-   <ul>
-      <il><h3><a href="./static/readmes/chapter-2.md#diseño-de-entrevistas">2.2.1. Diseño de entrevistas</a></h3></il>
-      <il><h3><a href="./static/readmes/chapter-2.md#registro-de-entrevistas">2.2.2. Registro de entrevistas</a></h3></il>
-      <il><h3><a href="./static/readmes/chapter-2.md#analisis-de-entrevistas">2.2.3. Análisis de entrevistas</a></h3></il>
-   </ul>
-<il><h3><a href="./static/readmes/chapter-2.md#needfinding">2.3. Needfinding</a></h3></il>
-   <ul>
-      <il><h3><a href="./static/readmes/chapter-2.md#user-personas">2.3.1. User Personas</a></h3></il>
-      <il><h3><a href="./static/readmes/chapter-2.md#user-task-matrix">2.3.2. User Task Matrix</a></h3></il>
-      <il><h3><a href="./static/readmes/chapter-2.md#user-journey-mapping">2.3.3. User Journey Mapping</a></h3></il>
-      <il><h3><a href="./static/readmes/chapter-2.md#empathy-mapping">2.3.4. Empathy Mapping</a></h3></il>
-      <il><h3><a href="./static/readmes/chapter-2.md#as-is">2.3.5. As-is Scenario Mapping</a></h3></il>
-   </ul>
+## [Capítulo I: Introducción](#capítulo-i-introducción-1)
+- [1.1. Startup Profile](#11-startup-profile)
+   - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+   - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+- [1.2. Solution Profile](#12-solution-profile)
+   - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
+   - [1.2.2 Lean UX Process](#122-lean-ux-process)
+     - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+     - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+     - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+     - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+- [1.3. Segmentos objetivo](#13-segmentos-objetivo)
 
-<il><h1><a href="./static/readmes/chapter-3.md#capitulo-3">Capítulo III: Requirements Specification</a></h1></il>
-<il><h3><a href="./static/readmes/chapter-3.md#to-be">3.1. To-Be Scenario Mapping</a></h3></il>
-<il><h3><a href="./static/readmes/chapter-3.md#user-stories">3.2. User Stories</a></h3></il>
-<il><h3><a href="./static/readmes/chapter-3.md#impact-mapping">3.3. Impact Mapping</a></h3></il>
-<il><h3><a href="./static/readmes/chapter-3.md#product-backlog">3.4. Product Backlog</a></h3></il>
+## [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis-1)
+- [2.1. Competidores](#21-competidores)
+   - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+   - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+- [2.2. Entrevistas](#22-entrevistas)
+   - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+   - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+   - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+- [2.3. Needfinding](#23-needfinding)
+   - [2.3.1. User Personas](#231-user-personas)
+   - [2.3.2. User Task Matrix](#232-user-task-matrix)
+   - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+   - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+   - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+- [2.4. Ubiquitous Language](#24-ubiquitous-language)
 
-<il><h1><a href="./static/readmes/chapter-4.md#capitulo-4">Capítulo IV: Product Design</a></h1></il>
-<il><h3><a href="./static/readmes/chapter-4.md#style-guidelines">4.1. Style Guidelines</a></h3></il>
+## [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification-1)
+- [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+- [3.2. User Stories](#32-user-stories)
+- [3.3. Impact Mapping](#33-impact-mapping)
+- [3.4. Product Backlog](#34-product-backlog)
 
-   <ul>
-      <il><h3><a href="./static/readmes/chapter-4.md#general-style-guidelines">4.1.1. General Style Guidelines</a></h3></il>
-      <il><h3><a href="./static/readmes/chapter-4.md#web-style-guidelines">4.1.2. Web Style Guidelines</a></h3></il>
-   </ul>
-<il><h3><a href="./static/readmes/chapter-4.md#information-architecture">4.2. Information Architecture</a></h3></il>
-   <ul>
-      <il><h3><a href="./static/readmes/chapter-4.md#organization-systems">4.2.1. Organization Systems</a></h3></il>
-      <il><h3><a href="./static/readmes/chapter-4.md#labeling-systems">4.2.2. Labeling Systems</a></h3></il>
-      <il><h3><a href="./static/readmes/chapter-4.md#meta-tags">4.2.3. SEO Tags and Meta Tags</a></h3></il>
-      <il><h3><a href="./static/readmes/chapter-4.md#searching-systems">4.2.4. Searching Systems</a></h3></il>
-      <il><h3><a href="./static/readmes/chapter-4.md#navigation-systems">4.2.5. Navigation Systems</a></h3></il>
-   </ul>
-<il><h3><a href="./static/readmes/chapter-4.md#landing-page-ui-design">4.3. Landing Page UI Design</a></h3></il>
-   <ul>
-      <il><h3><a href="./static/readmes/chapter-4.md#landing-page-wireframe">4.3.1. Landing Page Wireframe</a></h3></il>
-      <il><h3><a href="./static/readmes/chapter-4.md#landingpage-mock-up">4.3.2. Landing Page Mock-up</a></h3></il>
-   </ul>
-<il><h3><a href="./static/readmes/chapter-4.md#web-applications-ux-ui-design">4.4. Web Applications UX/UI Design</a></h3></il>
-   <ul>
-      <il><h3><a href="./static/readmes/chapter-4.md#web-applications-wireframes">4.4.1. Web Applications Wireframes</a></h3></il>
-      <il><h3><a href="./static/readmes/chapter-4.md#web-applications-wireflow-diagrams">4.4.2. Web Applications Wireflow Diagrams</a></h3></il>
-      <il><h3><a href="./static/readmes/chapter-4.md#web-applications-mock-ups">4.4.3. Web Applications Mock-ups</a></h3></il>
-      <il><h3><a href="./static/readmes/chapter-4.md#web-applications-user-flow-diagrams">4.4.4. Web Applications User Flow Diagrams</a></h3></il>
-   </ul>
-<il><h3><a href="./static/readmes/chapter-4.md#web-applications-prototyping">4.5. Web Applications Prototyping</a></h3></il>
-<il><h3><a href="./static/readmes/chapter-4.md#domain-driven-software-architecture">4.6. Domain-Driven Software Architecture</a></h3></il>
-   <ul>
-      <il><h3><a href="./static/readmes/chapter-4.md#software-architecture-context-diagram">4.6.1. Software Architecture Context Diagram</a></h3></il>
-      <il><h3><a href="./static/readmes/chapter-4.md#software-architecture-container-diagrams">4.6.2. Software Architecture Container Diagrams</a></h3></il>
-      <il><h3><a href="./static/readmes/chapter-4.md#software-architecture-components-diagrams">4.6.3. Software Architecture Components Diagrams</a></h3></il>
-   </ul>
-<il><h3><a href="./static/readmes/chapter-4.md#software-object-oriented-design">4.7. Software Object-Oriented Design</a></h3></il>
-   <ul>
-      <il><h3><a href="./static/readmes/chapter-4.md#class-diagrams">4.7.1. Class Diagrams</a></h3></il>
-      <il><h3><a href="./static/readmes/chapter-4.md#class-dictionary">4.7.2. Class Dictionary</a></h3></il>
-   </ul>
-<il><h3><a href="./static/readmes/chapter-4.md#database-design">4.8. Database Design</a></h3></il>
-   <ul>
-      <il><h3><a href="./static/readmes/chapter-4.md#database-diagram">4.8.1. Database Diagram</a></h3></il>
-   </ul>
+## [Capítulo IV: Product Design](#capítulo-iv-product-design-1)
+- [4.1. Style Guidelines](#41-style-guidelines)
+   - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+   - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
+- [4.2. Information Architecture](#42-information-architecture)
+   - [4.2.1. Organization Systems](#421-organization-systems)
+   - [4.2.2. Labeling Systems](#422-labeling-systems)
+   - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+   - [4.2.4. Searching Systems](#424-searching-systems)
+   - [4.2.5. Navigation Systems](#425-navigation-systems)
+- [4.3. Landing Page UI Design](#43-landing-page-ui-design)
+   - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+   - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
+- [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
+   - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
+   - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+   - [4.4.2. Web Applications Mock-ups](#443-web-applications-mock-ups)
+   - [4.4.3. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
+- [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
+- [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+   - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
+   - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+   - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+- [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
+   - [4.7.1. Class Diagrams](#471-class-diagrams)
+   - [4.7.2. Class Dictionary](#472-class-dictionary)
+- [4.8. Database Design](#48-database-design)
+   - [4.8.1. Database Diagram](#481-database-diagram)
 
-<il><h1><a href="./static/readmes/chapter-5.md#capitulo-5">Capítulo V: Product Implementation, Validation & Deployment</a></h1></il>
-<il><h3><a href="./static/readmes/chapter-5.md#software-configuration-management">5.1. Software Configuration Management</a></h3></il>
+## [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment-1)
+- [5.1. Software Configuration Management](#51-software-configuration-management)
+   - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
+   - [5.1.2. Source Code Management](#512-source-code-management)
+   - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
+   - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
+- [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
+   - [5.2.1. Sprint 1](#521-sprint-1)
+     - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+     - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
+     - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+     - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+     - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+     
+## [Conclusiones](#conclusiones-1)
 
-   <ul>
-      <il><h3><a href="./static/readmes/chapter-5.md#software-development-environment-configuration">5.1.1. Software Development Environment Configuration</a></h3></il>
-      <il><h3><a href="./static/readmes/chapter-5.md#source-code-management">5.1.2. Source Code Management</a></h3></il>
-      <il><h3><a href="./static/readmes/chapter-5.md#source-code-style-guide-&-conventions">5.1.3. Source Code Style Guide & Conventions</a></h3></il>
-      <il><h3><a href="./static/readmes/chapter-5.md#software-deployment-configuration">5.1.4. Software Deployment Configuration</a></h3></il>
-   </ul>
-<il><h3><a href="./static/readmes/chapter-5.md#landing-page-services-&-applications-implementation">5.2. Landing Page, Services & Applications Implementation</a></h3></il>
-   <ul>
-      <il><h3><a href="./static/readmes/sprint-1.md#sprint-1">5.2.1. Sprint 1</a></h3></il>
-      <ul>
-         <il><h3><a href="./static/readmes/sprint-1.md#sprint-planning-1">5.2.1.1. Sprint Planning 1</a></h3></il>
-         <il><h3><a href="./static/readmes/sprint-1.md#sprint-backlog-1">5.2.1.2. Sprint Backlog 1</a></h3></il>
-         <il><h3><a href="./static/readmes/sprint-1.md#development-evidence-for-sprint-review">5.2.1.3. Development Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./static/readmes/sprint-1.md#testing-suite-rvidence-for-sprint-review">5.2.1.4. Testing Suite Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./static/readmes/sprint-1.md#execution-evidence-for-sprint-review">5.2.1.5. Execution Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./static/readmes/sprint-1.md#services-documentation-evidence-for-sprint-review">5.2.1.6. Services Documentation Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./static/readmes/sprint-1.md#software-deployment-evidence-for-sprint-review">5.2.1.7. Software Deployment Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./static/readmes/sprint-1.md#team-collaboration-insights-during-sprint">5.2.1.8. Team Collaboration Insights during Sprint</a></h3></il>
-      </ul>
-   </ul>
-   <ul>
-      <il><h3><a href="./static/readmes/sprint-2.md#sprint-2">5.2.2. Sprint 2</a></h3></il>
-      <ul>
-         <il><h3><a href="./static/readmes/sprint-2.md#sprint-planning-2">5.2.2.1. Sprint Planning 2</a></h3></il>
-         <il><h3><a href="./static/readmes/sprint-2.md#sprint-backlog-2">5.2.2.2. Sprint Backlog 2</a></h3></il>
-         <il><h3><a href="./static/readmes/sprint-2.md#development-evidence-for-sprint-review-2">5.2.2.3. Development Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./static/readmes/sprint-2.md#testing-suite-rvidence-for-sprint-review-2">5.2.2.4. Testing Suite Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./static/readmes/sprint-2.md#execution-evidence-for-sprint-review-2">5.2.2.5. Execution Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./static/readmes/sprint-2.md#services-documentation-evidence-for-sprint-review-2">5.2.2.6. Services Documentation Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./static/readmes/sprint-2.md#software-deployment-evidence-for-sprint-review-2">5.2.2.7. Software Deployment Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./static/readmes/sprint-2.md#team-collaboration-insights-during-sprint-2">5.2.2.8. Team Collaboration Insights during Sprint</a></h3></il>
-      </ul>
-   </ul>
-</ul>
+## [Bibliografía](#bibliografía-1)
+
+## [Anexos](#anexos-1)
 
 # Student Outcome
 <table>
