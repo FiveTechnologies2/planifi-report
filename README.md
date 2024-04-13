@@ -80,8 +80,8 @@
 ## [Project Report Collaboration Insights](#project-report-collaboration-insights-1)
 
 ## [Contenido](#contenido-1)
-- [Tabla de contenidos](#tabla-de-contenidos-1)
-- [Student Outcome](#student-outcome-1)
+## [Tabla de contenidos](#tabla-de-contenidos-1)
+## [Student Outcome](#student-outcome-1)
 
 ## [Capítulo I: Introducción](#capítulo-i-introducción-1)
 - [1.1. Startup Profile](#11-startup-profile)
