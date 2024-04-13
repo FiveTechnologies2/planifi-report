@@ -86,11 +86,45 @@ La elección de colores neutros fue la siguiente:
 Optamos por una tipografía formal y legible. Nuestra elección se basa en la necesidad de una comunicación clara y efectiv en la plataforma. Valoramos la legibilidad y accesibillidad, ya que queremos que todos los usuarios puedan interactuar sin problemas.
 
 ## 4.2. Information Architecture
-## 4.2.1. Organization Systems
-## 4.2.2. Labeling Systems
-## 4.2.3. SEO Tags and Meta Tags
-## 4.2.4. Searching Systems
-## 4.2.5. Navigation Systems
+
+### 4.2.1. Organization Systems 
+El principal propósito de este punto es darnos una guía y apoyo para poder clasificar la información de nuestra página web de forma que cuando vaya a hacer la implementación, el sistema sea accesible y de fácil uso para los usuarios. En nuestro caso, utilizaremos un tipo de organización es de manera jerárquica, es decir, se ordena desde lo más importante a lo más básico. Al momento de ingresar en parte de "Compra", lo primero que se encontrará con los planes que tenemos, contamos con tres planes, los cuales son desde el más básico hasta el premium. Para ello usamos el tipo de organización secuencial, dado a que primero se ingresa al botón de compra. Posteriormente, se elije el plan y recién se puede llegar al producto. Mientras que nnuestro tipo de categorización para algunos puntos va a ser por tópicos.
+
+### 4.2.2. Labeling Systems 
+
+En nuestro caso las etiquetas de información se representarán como palabras en el idioma español, usando siempre la palabra más adecuada para el completo entendimieneto del usuario. Las etiquetas más importantes de nuestra aplicación son:
+
+- COMPRAR: Aqui se encontrarán nuestros planes, el básico, estandar y el premium
+- ¿Quiénes somos?: Donde se encontrará información sobre nuestra startup y comentarios importantes
+- Beneficios: Se muestra nuestros puntos fuertes
+- Ubicación: Para saber de donde se conectarán los usuarios para un mejor manejo del mantenimiento
+- Contacto: En caso de necesitar ayuda o soporte.
+
+
+### 4.2.3. SEO Tags and Meta Tags 
+
+**Landing Page**
+
+Nuestra página de inicio contará con los siguientes Tags:
+
+~~~
+<header>
+    <a href="#" class="logo">Planifi</a>
+        <ul class="navbar">
+            <li><a href="#quienes-somos">¿Quiénes somos?</a></li>
+            <li><a href="#beneficios">Beneficios</a></li>
+            <li><a href="#ubicacion">Ubicación</a></li>
+            <li><a href="#contacto">Contacto</a></li>
+        </ul>
+</header>
+~~~
+
+### 4.2.4. Searching Systems 
+Nuestro sistema de busqueda va a ser de una manera eficiente e intuitiva de realizar para nuestros usuarios. Como nuestro producto cuenta con tres planes de los cuales en el plan básico, tendra que buscar en la comunidad. En el plan estandar, de un soporte. Y por último, el plan premium, contará tanto del soporte como de un tutorial guiado paso a paso para poder realizar dichas acciones.
+
+### 4.2.5. Navigation Systems 
+El sistema que permitirá a los usuarios ir entre las distintas secciones de nuestra página será una barra superior en nuestro landing page, la cual estará conformada por los títulos de cada sección.
+
 ## 4.3. Landing Page UI Design
 ## 4.3.1. Landing Page Wireframe
 ## 4.3.2. Landing Page Mock-up
