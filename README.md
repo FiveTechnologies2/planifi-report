@@ -165,10 +165,31 @@ Mock-up 5
 Para poder ver el Mock-up completo, este es el link de Figma -> [Figma](https://www.figma.com/file/V8WMiF3a2LgTBpJKDA6flY/Mockup?type=design&mode=design&t=0KnNllAIDZqRZnLP-1) 
 
 ## 4.4. Web Applications UX/UI Design
-## 4.4.1. Web Applications Wireframes
-## 4.4.2. Web Applications Wireflow Diagrams
-## 4.4.2. Web Applications Mock-ups
-## 4.4.3. Web Applications User Flow Diagrams
+
+### 4.4.1. Web Applications Wireframes 
+
+<img src="static/img/Chapter 4/img-webaplicationwireframe.png" alt=" " style="width: 65;"></img>
+
+Para poder ver el web application wireframe completo, este es el link de Figma -> [Figma](https://www.figma.com/file/YxrOLUAqkGsL86OvtCETzt/Planifi-Wireframe?type=design&node-id=0%3A1&mode=design&t=0KnNllAIDZqRZnLP-1) 
+
+### 4.4.2. Web Applications Wireflow Diagrams
+
+<img src="static/img/Chapter 4/img-wireflow.png" alt=" " style="width: 65;"></img>
+
+Para poder ver mejor el Wireflow, este es el link del lucidchart -> [Lucidchart](https://lucid.app/lucidchart/1d7753bc-2ef3-4485-8b8c-cfd7e119defb/edit?view_items=7crsvUt5MiZ_&invitationId=inv_738c0520-b232-4d6d-bbca-a1c0eba60e98)
+
+### 4.4.2. Web Applications Mock-ups
+
+<img src="static/img/Chapter 4/img-webaplicationmockup.png" alt=" " style="width: 65;"></img>
+
+Para poder ver el Mock-up completo, este es el link de Figma -> [Figma](https://www.figma.com/file/V8WMiF3a2LgTBpJKDA6flY/Mockup?type=design&mode=design&t=0KnNllAIDZqRZnLP-1) 
+
+### 4.4.3. Web Applications User Flow Diagrams
+
+<img src="static/img/Chapter 4/img-userflow.png" alt=" " style="width: 65;"></img>
+
+Para poder ver el Mock-up completo, este es el link de Figma -> [Figma](https://lucid.app/lucidchart/5de1ec5e-e8cf-4908-bb2c-128ac71bb507/edit?viewport_loc=-3774%2C-1589%2C6470%2C2610%2C0_0&invitationId=inv_912178d8-2592-4cee-bb1e-576a04f2c013) 
+
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 ## 4.6.1. Software Architecture Context Diagram
