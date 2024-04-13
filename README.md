@@ -1100,6 +1100,7 @@ El lenguaje ubicuo es un conjunto de términos y conceptos compartidos y compren
 ## 3.1. To-Be Scenario Mapping
 
 <td><img src="static/img/Chapter 3/To-be-Empresas.jpg"  alt=" " width="50%" ;"></img></td>
+<td><img src="static/img/Chapter 3/To-be-emprendedores.jpg"  alt=" " width="50%" ;"></img></td>
 ## 3.2. User Stories
  <table>
       <thead>
@@ -1210,6 +1211,7 @@ Dado que necesito editar un registro de horas trabajadas previamente registrado,
    </table>
 
 ## 3.3. Impact Mapping
+<td><img src="static/img/Chapter 3/Impact map 1.png"  alt=" " width="50%" ;"></img></td>
 
 ## 3.4. Product Backlog
 <table>
