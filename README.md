@@ -1,12 +1,12 @@
-# Capítulo V: Product Implementation, Validation & Deployment.
-## 5.1. Software Configuration Management.
-### 5.1.1. Software Development Environment Configuration.
-### 5.1.2. Source Code Management.
-### 5.1.3. Source Code Style Guide & Conventions.
-### 5.1.4. Software Deployment Configuration.
-## 5.2. Landing Page, Services & Applications Implementation.
+# Capítulo V: Product Implementation, Validation & Deployment
+## 5.1. Software Configuration Management
+### 5.1.1. Software Development Environment Configuration
+### 5.1.2. Source Code Management
+### 5.1.3. Source Code Style Guide & Conventions
+### 5.1.4. Software Deployment Configuration
+## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
-#### 5.2.1.1. Sprint Planning 1.
+#### 5.2.1.1. Sprint Planning 1
   <table>
   <tr>
     <th>Sprint #</th>
@@ -156,9 +156,22 @@
   </tr>
 </table>
 
-#### 5.2.1.3. Development Evidence for Sprint Review.
-#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
-#### 5.2.1.5. Execution Evidence for Sprint Review.
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
-#### 5.2.1.8. Team Collaboration Insights during Sprint.
+#### 5.2.1.3. Development Evidence for Sprint Review
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+#### 5.2.1.5. Execution Evidence for Sprint Review
+
+El Execution Evidence for Sprint Review se enfoca en recopilar y presentar evidencia concreta del progreso realizado durante el sprint, centrándose específicamente en la elaboración de la landing page. Esta evidencia es crucial para demostrar cómo se están cumpliendo los objetivos del sprint, qué elementos han sido completados y cómo se alinean con los requisitos del cliente. 
+
+<img src="static/img/Chapter 5/img-evidence-1-sprint-1.png" alt="Evidence Sprint Review 1" style="width: 65;"></img>v
+
+<img src="static/img/Chapter 5/img-evidence-2-sprint-1.png" alt="Evidence Sprint Review 2" style="width: 65;"></img>
+
+<img src="static/img/Chapter 5/img-evidence-3-sprint-1.png" alt="Evidence Sprint Review 3" style="width: 65;"></img>
+
+<img src="static/img/Chapter 5/img-evidence-4-sprint-1.png" alt="Evidence Sprint Review 4" style="width: 65;"></img>
+
+<img src="static/img/Chapter 5/img-evidence-5-sprint-1.png" alt="Evidence Sprint Review 5" style="width: 65;"></img>
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+#### 5.2.1.8. Team Collaboration Insights during Sprint
