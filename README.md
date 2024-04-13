@@ -4,6 +4,37 @@
 ### 5.1.2. Source Code Management
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
+
+En esta sección, se describen los pasos para configurar y desplegar la landing page utilizando Visual Studio Code. Estos pasos son cruciales para asegurar que la aplicación web esté disponible y funcione sin problemas para los usuarios finales.
+
+- Configuración del Entorno de Desarrollo:
+
+Instalar y configurar Visual Studio Code según las preferencias y necesidades del proyecto.
+
+Instalar extensiones útiles para el desarrollo web, como "HTML CSS Support" y "Live Server", que faciliten la creación y visualización de la landing page.
+
+<img src="static/img/Chapter 5/img-software-dep-1.png" alt="Software Deployment 1" style="width: 65;"></img>
+
+<img src="static/img/Chapter 5/img-software-dep-2.png" alt="Software Deployment 2" style="width: 65;"></img>
+
+- Desarrollo de la Landing Page:
+
+Crear los archivos HTML y CSS necesarios para la landing page utilizando Visual Studio Code.
+
+<img src="static/img/Chapter 5/img-software-dep-3.png" alt="Software Deployment 3" style="width: 65;"></img>
+
+<img src="static/img/Chapter 5/img-software-dep-4.png" alt="Software Deployment 4" style="width: 65;"></img>
+
+<img src="static/img/Chapter 5/img-software-dep-5.png" alt="Software Deployment 5" style="width: 65;"></img>
+
+- Despliegue del Software:
+
+Implementar la landing page en el servidor de producción utilizando Visual Studio Code y las herramientas de implementación integradas.
+
+<img src="static/img/Chapter 5/img-software-dep-6.png" alt="Software Deployment 6" style="width: 65;"></img>
+
+<img src="static/img/Chapter 5/img-software-dep-7.png" alt="Software Deployment 7" style="width: 65;"></img>
+
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
