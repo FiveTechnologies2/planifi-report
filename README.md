@@ -1098,6 +1098,8 @@ El lenguaje ubicuo es un conjunto de términos y conceptos compartidos y compren
 
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
+
+<td><img src="static/img/Chapter 3/To-be-Empresas.jpg"  alt=" " width="50%" ;"></img></td>
 ## 3.2. User Stories
  <table>
       <thead>
