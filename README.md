@@ -261,20 +261,21 @@ El objetivo de este primer sprint fue el desarrollo de la Landing Page. Para est
 
 1. Un miembro del equipo creó una organización en GitHub y se le envió una invitación a cada uno de los otros miembros para que se puedan unir.
 
-<img src="static/img/Chapter 5/img-invitation-github.png" alt="Software Deployment 2" style="width: 65;"></img>
+<img src="static/img/Chapter 5/img-invitation-github.png" alt="GitHub Invitation" style="width: 65;"></img>
 
 2. Luego, se creó un repositorio para el desarrollo del trabajo, tanto del informe como de la Landing Page.
 
-<img src="static/img/Chapter 5/img-repository.png" alt="Software Deployment 2" style="width: 65;"></img>
+<img src="static/img/Chapter 5/img-repository.png" alt="Repository" style="width: 65;"></img>
 
 3. A continuación, cada uno fue realizando modificaciones en los archivos, a través de los commits.
 
-<img src="static/img/Chapter 5/img-commits.png" alt="Software Deployment 2" style="width: 65;"></img>
+<img src="static/img/Chapter 5/img-commits.png" alt="Commits" style="width: 65;"></img>
 
 4. Finalmente, desplegamos la Landing Page en GitHub Pages, a la que se puede ingresar mediante el siguiente link: [https://salvlormonch1.github.io/planifi.github.io/](https://salvlormonch1.github.io/planifi.github.io/)
 
-<img src="static/img/Chapter 5/img-landing-page.png" alt="Software Deployment 2" style="width: 65;"></img>
+<img src="static/img/Chapter 5/img-landing-page.png" alt="Landing Page" style="width: 65;"></img>
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 A continuación, se mostrarán capturas de los Insights del GitHub para evidenciar la participación de todos los miembros del grupo:
+<img src="static/img/Chapter 5/img-insights.png" alt="Insights" style="width: 65;"></img>
