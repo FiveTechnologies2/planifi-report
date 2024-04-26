@@ -65,11 +65,83 @@
         <tbody>
             <tr>
                 <th>1.0</th>
-                <td>04/13/2024</td>
-                <td>Five Technologies</td>
-                <td>Entrega de la primera versión del TB1 de Aplicaciones Web: Landing Page.</td>
+                <td>04/09/2024</td>
+                <td>Ricardo Barrutia</td>
+                <td>Se añadiò el Startup profile.</td>
             </tr>
-      </tbody>
+              <tr>                
+                <th>1.1</th>
+                <td>04/09/2024</td>
+                <td>Ricardo Barrutia</td>
+                <td>Se añadiò el Solution profile.</td>
+             </tr>
+              <tr>
+                <th>1.2</th>
+                <td>04/09/2024</td>
+                <td>Rodrigo Zagaceta</td>
+                <td>Se agregò la secciòn de los competidores.</td>
+            </tr> 
+            <tr>                
+                <th>1.3</th>
+                <td>04/09/2024</td>
+                <td>Rodrigo Zagaceta</td>
+                <td>Se agregaron las entrevistas.</td>
+             </tr>  
+            <tr>                
+                <th>1.4</th>
+                <td>04/09/2024</td>
+                <td>Rodrigo Zagaceta</td>
+                <td>Se agregò el Needfinding.</td>
+             </tr>  
+            <tr>                
+                <th>1.5</th>
+                <td>04/10/2024</td>
+                <td>Gianfranco Luna</td>
+                <td>Se agregó los User Stories.</td>
+             </tr>   
+            <tr>                
+                <th>1.6</th>
+                <td>04/10/2024</td>
+                <td>Gianfranco Luna</td>
+                <td>Se agregó le Product Backlog.</td>
+             </tr>  
+            <tr>                
+                <th>1.7</th>
+                <td>04/12/2024</td>
+                <td>Ramón Jorge</td>
+                <td>Se agregó el C4 Model.</td>
+             </tr> 
+            <tr>                
+                <th>1.8</th>
+                <td>04/12/2024</td>
+                <td>Ramón Jorge</td>
+                <td>Se agregó el Diagram Class y el Database Diagram.</td>
+             </tr>   
+            <tr>                
+                <th>1.9</th>
+                <td>04/12/2024</td>
+                <td>Karito Medina</td>
+                <td>Se agregó el CodeStyle guide and conventions.</td>
+             </tr>  
+            <tr>                
+                <th>1.10</th>
+                <td>04/12/2024</td>
+                <td>Karito Medina</td>
+                <td>Se agregó los  Landing Page UI Design.</td>
+             </tr>  
+            <tr>                
+                <th>1.11</th>
+                <td>04/12/2024</td>
+                <td>Karito Medina</td>
+                <td>Se agregó Wireframes y Mockups.</td>
+             </tr>       
+            <tr>                
+                <th>1.12</th>
+                <td>04/13/2024</td>
+                <td>Karito Medina, Ramón Jorge, Rodrigo Zagaceta, Gianfranco Luna, Ricardo Barrutia.</td>
+                <td>Se revisó el Sprint 1.</td>
+             </tr>           
+        </tbody>
 </table>
 
 <br><br>
