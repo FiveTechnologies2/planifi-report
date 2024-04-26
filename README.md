@@ -186,8 +186,8 @@ Para el presente informe, se llevaron a cabo reuniones y se distribuyeron los pu
 ## [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 ## [Project Report Collaboration Insights](#project-report-collaboration-insights)
 
-## [Contenido](#contenido-1)
-## [Tabla de contenidos](#tabla-de-contenidos-1)
+## [Contenido](#contenido)
+## [Tabla de contenidos](#tabla-de-contenidos)
 ## [Student Outcome](#student-outcome-1)
 
 ## [Capítulo I: Introducción](#capítulo-i-introducción-1)
