@@ -183,7 +183,7 @@ Para el presente informe, se llevaron a cabo reuniones y se distribuyeron los pu
 <td><img src="static/img/Chapter 1/img-commits-cap5-part3.png" alt="Commits Capítulo 5 Parte 3" width="50%";"></img></td>
 <br><br>
 
-## [Registro de Versiones del Informe](#registro-de-versiones-del-informe-1)
+## [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 ## [Project Report Collaboration Insights](#project-report-collaboration-insights)
 
 ## [Contenido](#contenido-1)
