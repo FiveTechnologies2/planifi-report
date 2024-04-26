@@ -608,7 +608,7 @@ La comprensión del panorama competitivo es esencial para el éxito de cualquier
 
 3. QuickBooks Payroll: Es una solución de nómina integral desarrollada por Intuit, diseñada específicamente para pequeñas empresas y autónomos. La plataforma permite a los usuarios calcular y procesar nóminas con facilidad, pagar impuestos sobre la nómina de manera oportuna y generar informes financieros detallados relacionados con la nómina. QuickBooks Payroll se integra perfectamente con otros productos de QuickBooks, lo que facilita la gestión financiera integral de las empresas. Además, la plataforma ofrece soporte experto y recursos de aprendizaje para ayudar a los usuarios a aprovechar al máximo todas las funciones disponibles.
 
-## 2.1.1. Analisis competitivo
+## 2.1.1. Análisis competitivo
 
 El análisis competitivo implica examinar detenidamente a nuestros competidores para identificar sus fortalezas, debilidades, oportunidades y amenazas. Esto nos proporcionará una visión clara de nuestro posicionamiento en el mercado y nos ayudará a desarrollar estrategias efectivas.
 
@@ -1095,11 +1095,11 @@ La creación de User Personas nos permite personificar a nuestros usuarios, brin
 
 <strong>Segmento objetivo 1: Empresas medianas y pequeñas:</strong>
 
-<img src="static/img/Chapter 2/img-user-persona-yulissa.png" alt="User Persona Yulissa" style="width: 65;"></img>
+<img src="static/img/Chapter 2/img-user-persona-empresas.png" alt="User Persona Empresas" style="width: 65;"></img>
 
 <strong>Segmento objetivo 2: Emprendedores:</strong>
 
-<img src="static/img/Chapter 2/img-user-persona-jorge.png" alt="User Persona Jorge" style="width: 65;"></img>
+<img src="static/img/Chapter 2/img-user-persona-emprendedores.png" alt="User Persona Emprendedores" style="width: 65;"></img>
 
 ### 2.3.2. User Task Matrix 
 
@@ -1189,11 +1189,11 @@ El Empathy Mapping nos ayuda a desarrollar una comprensión profunda de las emoc
 
 <strong>Segmento objetivo 1: Empresas medianas y pequeñas:</strong>
 
-<img src="static/img/Chapter 2/img-empathy-mapping-yulissa.png" alt="Empathy Mapping Yulissa" style="width: 65;"></img>
+<img src="static/img/Chapter 2/img-empathy-mapping-empresas.png" alt="Empathy Mapping Empresas" style="width: 65;"></img>
 
 <strong>Segmento objetivo 2: Emprendedores:</strong>
 
-<img src="static/img/Chapter 2/img-empathy-mapping-jorge.png" alt="Empathy Mapping Jorge" style="width: 65;"></img>
+<img src="static/img/Chapter 2/img-empathy-mapping-emprendedores.png" alt="Empathy Mapping Emprendedores" style="width: 65;"></img>
 
 ### 2.3.5. As-is Scenario Mapping
 
