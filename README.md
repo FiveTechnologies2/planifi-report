@@ -149,39 +149,38 @@
 Link del repositorio del reporte del TB1: https://github.com/FiveTechnologies2/planifi-report
 
 Para el presente informe, se llevaron a cabo reuniones y se distribuyeron los puntos a elaborar para la entrega actual, correspondientes a los Capítulos I hasta el Capítulo V: Sprint 1. Quedando de la siguiente manera:
-<p>Ricardo Barrutia realizó el Capítulo I</p>
-- Imágenes los Insights:
-
-- Imágenes de los Commits:
-
-
-<p>Rodrigo Zagaceta realizó el Capítulo II</p>
-- Imágenes los Insights:
-
-- Imágenes de los Commits:
-
-<p>Gianfranco Luna realizó el Capítulo III</p>
-- Imágenes los Insights:
-
-- Imágenes de los Commits:
-
-
-<p>Karito Medina realizó el Capítulo IV</p>
-- Imágenes los Insights:
-
-- Imágenes de los Commits:
-
-
-<p>Ramón Jorge realizó el Capítulo IV</p>
-- Imágenes los Insights:
-
-- Imágenes de los Commits:
-
-
+- Imágen de las Contribuciones del equipo:
+<td><img src="static/img/Chapter 1/img-contributors-team.png" alt="Contribuciones del equipo" width="50%";"></img></td>
+<p>Ricardo Barrutia</p>
+- Imágen de las Contribuciones:
+<td><img src="static/img/Chapter 1/img-contributors-ricardo.png" alt="Contribuciones Ricardo" width="50%";"></img></td>
+- Imágen de los Commits:
+<td><img src="static/img/Chapter 1/img-commits-ricardo.png" alt="Commits Ricardo" width="50%";"></img></td>
+<p>Rodrigo Zagaceta</p>
+- Imágen de las Contribuciones:
+<td><img src="static/img/Chapter 1/img-contributors-rodrigo.png" alt="Contribuciones Rodrigo" width="50%";"></img></td>
+- Imágen de los Commits:
+<td><img src="static/img/Chapter 1/img-commits-rodrigo.png" alt="Commits Rodrigo" width="50%";"></img></td>
+<p>Gianfranco Luna</p>
+- Imágen de las Contribuciones:
+<td><img src="static/img/Chapter 1/img-contributors-gianfranco.png" alt="Contribuciones Gianfranco" width="50%";"></img></td>
+- Imágen de los Commits:
+<td><img src="static/img/Chapter 1/img-commits-gianfranco.png" alt="Commits Gianfranco" width="50%";"></img></td>
+<p>Karito Medina</p>
+- Imágen de las Contribuciones:
+<td><img src="static/img/Chapter 1/img-contributors-karito.png" alt="Contribuciones Karito" width="50%";"></img></td>
+- Imágen de los Commits:
+<td><img src="static/img/Chapter 1/img-commits-karito.png" alt="Commits Karito" width="50%";"></img></td>
+<p>Ramón Jorge</p>
+- Imágen de las Contribuciones:
+<td><img src="static/img/Chapter 1/img-contributors-ramon.png" alt="Contribuciones Ramon" width="50%";"></img></td>
+- Imágen de los Commits:
+<td><img src="static/img/Chapter 1/img-commits-ramon.png" alt="Commits Ramon" width="50%";"></img></td>
 <p>Todos los integrantes del grupo apoyamos para la realiazación del Capítulo V</p>
 - Imágenes de los Commits:
-
-
+<td><img src="static/img/Chapter 1/img-commits-cap5-part1.png" alt="Commits Capítulo 5 Parte 1" width="50%";"></img></td>
+<td><img src="static/img/Chapter 1/img-commits-cap5-part2.png" alt="Commits Capítulo 5 Parte 2" width="50%";"></img></td>
+<td><img src="static/img/Chapter 1/img-commits-cap5-part3.png" alt="Commits Capítulo 5 Parte 3" width="50%";"></img></td>
 <br><br>
 
 ## [Registro de Versiones del Informe](#registro-de-versiones-del-informe-1)
