@@ -74,6 +74,28 @@
 
 <br><br>
 # Project Report Collaboration Insights
+<h1>Link del repositorio del reporte del TB1</h1>
+[
+](https://github.com/FiveTechnologies2/planifi-report)
+
+<p>El integrante Gianfranco Luna realizò el capitulo 3</p>
+cap de insights
+
+<p>El integrante Dummy realizò el capitulo x</p>
+cap de insigths 
+
+<p>El integrante Dummy realizò el capitulo x</p>
+cap de insigths 
+<p>El integrante Dummy realizò el capitulo x</p>
+cap de insigths 
+<p>El integrante Dummy realizò el capitulo x</p>
+cap de insigths 
+
+
+<h1> Commits de cada integrante por capitulo</h1>
+2 capturas 
+
+
 <br><br>
 
 ## [Registro de Versiones del Informe](#registro-de-versiones-del-informe-1)
