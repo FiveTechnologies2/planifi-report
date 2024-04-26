@@ -1199,7 +1199,7 @@ El Empathy Mapping nos ayuda a desarrollar una comprensión profunda de las emoc
 
 El As-Is Scenario Mapping nos permite comprender en detalle cómo interactúan actualmente nuestros usuarios con nuestra startup y qué obstáculos enfrentan en el proceso. Al identificar los puntos problemáticos y las oportunidades de mejora en el escenario actual, podemos desarrollar soluciones que optimicen su experiencia y satisfacción.
 
-<img src="static/img/Chapter 2/img-as-is-PYME.png" alt="As-Is Scenario Empresas" style="width: 65;"></img>
+<img src="static/img/Chapter 2/img-as-is-empresas.png" alt="As-Is Scenario Empresas" style="width: 65;"></img>
 
 <img src="static/img/Chapter 2/img-as-is-emprendedores.png" alt="As-Is Scenario Emprendedores" style="width: 65;"></img>
 
