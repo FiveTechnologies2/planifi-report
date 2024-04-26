@@ -146,26 +146,40 @@
 
 <br><br>
 # Project Report Collaboration Insights
-<h1>Link del repositorio del reporte del TB1</h1>
-[
-](https://github.com/FiveTechnologies2/planifi-report)
+Link del repositorio del reporte del TB1: https://github.com/FiveTechnologies2/planifi-report
 
-<p>El integrante Gianfranco Luna realizò el capitulo 3</p>
-cap de insights
+Para el presente informe, se llevaron a cabo reuniones y se distribuyeron los puntos a elaborar para la entrega actual, correspondientes a los Capítulos I hasta el Capítulo V: Sprint 1. Quedando de la siguiente manera:
+<p>Ricardo Barrutia realizó el Capítulo I</p>
+- Imágenes los Insights:
 
-<p>El integrante Dummy realizò el capitulo x</p>
-cap de insigths 
-
-<p>El integrante Dummy realizò el capitulo x</p>
-cap de insigths 
-<p>El integrante Dummy realizò el capitulo x</p>
-cap de insigths 
-<p>El integrante Dummy realizò el capitulo x</p>
-cap de insigths 
+- Imágenes de los Commits:
 
 
-<h1> Commits de cada integrante por capitulo</h1>
-2 capturas 
+<p>Rodrigo Zagaceta realizó el Capítulo II</p>
+- Imágenes los Insights:
+
+- Imágenes de los Commits:
+
+<p>Gianfranco Luna realizó el Capítulo III</p>
+- Imágenes los Insights:
+
+- Imágenes de los Commits:
+
+
+<p>Karito Medina realizó el Capítulo IV</p>
+- Imágenes los Insights:
+
+- Imágenes de los Commits:
+
+
+<p>Ramón Jorge realizó el Capítulo IV</p>
+- Imágenes los Insights:
+
+- Imágenes de los Commits:
+
+
+<p>Todos los integrantes del grupo apoyamos para la realiazación del Capítulo V</p>
+- Imágenes de los Commits:
 
 
 <br><br>
