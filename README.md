@@ -809,6 +809,8 @@ Ubicación en la que vive: Villa El Salvador, Lima, Perú
 
 Minuto de la entrevista: 0:00 - 2:15
 
+Enlace del video completo de las entrevistas: https://youtu.be/mgG8AfJuIpU
+
 Resumen de la entrevista:
 
 - ¿Podría describir brevemente su empresa y sus principales actividades?
@@ -854,6 +856,8 @@ Ubicación en la que vive: Villa El Salvador, Lima, Perú
 <img src="static/img/Chapter 2/img-entrevista-edita.png" alt="Imagen entrevista Edita" style="width: 70;"></img>
 
 Minuto de la entrevista: 2:16 - 4:09
+
+Enlace del video completo de las entrevistas: https://youtu.be/mgG8AfJuIpU
 
 Resumen de la entrevista:
 
@@ -901,6 +905,8 @@ Ubicación en la que vive: Jesús María, Lima, Perú
 
 Minuto de la entrevista: 4:10 - 9:54
 
+Enlace del video completo de las entrevistas: https://youtu.be/mgG8AfJuIpU
+
 Resumen de la entrevista:
 
 - ¿Podría describir brevemente su empresa y sus principales actividades? 
@@ -947,6 +953,8 @@ Ubicación en la que vive: Pucallpa, Perú
 
 Minuto de la entrevista: 9:55 - 21:02
 
+Enlace del video completo de las entrevistas: https://youtu.be/mgG8AfJuIpU
+
 Resumen de la entrevista:
 
 - ¿Podría describir brevemente su empresa o proyecto emprendedor?
@@ -987,6 +995,8 @@ Ubicación en la que vive: San Juan de Lurigancho, Lima, Perú
 
 Minuto de la entrevista: 21:03 - 24:07
 
+Enlace del video completo de las entrevistas: https://youtu.be/mgG8AfJuIpU
+
 Resumen de la entrevista:
 
 - ¿Podría describir brevemente su empresa o proyecto emprendedor?
@@ -1012,8 +1022,6 @@ Claro, que sea una solución que sea compatible, automatizada a nuestro sistema,
 - ¿Qué tipo de soporte o capacitación consideraría útil al implementar una nueva solución de gestión de planillas en su empresa o proyecto emprendedor?
 
 Considero importante una capacitación inicial para aprender a utilizar la nueva solución y un soporte técnico continuo en caso de surgir dudas o mantenimiento con el mismo.
-
-Enlace del video completo de las entrevistas: https://youtu.be/mgG8AfJuIpU
 
 ## 2.2.3. Análisis de entrevistas
 
