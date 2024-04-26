@@ -1105,70 +1105,48 @@ La creación de User Personas nos permite personificar a nuestros usuarios, brin
 
 La User Task Matrix nos ayuda a desglosar las actividades y tareas que nuestros usuarios realizan al interactuar con nuestra startup. Al ordenar estas tareas según la frecuencia y la importancia para nuestros usuarios, podemos priorizar nuestros esfuerzos de desarrollo y diseño para mejorar su experiencia.
 
-<div style="text-align:center;">
-  <table>
-    <tr>
-      <th>Tarea</th>
-      <th>Frecuencia</th>
-      <th>Importancia</th>
-    </tr>
-    <tr>
-      <td>Gestión de planillas</td>
-      <td>Alta</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Control de pagos</td>
-      <td>Alta</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Cumplimiento normativo</td>
-      <td>Alta</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Contratación de personal</td>
-      <td>Media</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Optimización de procesos internos</td>
-      <td>Alta</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Reducción de costos administrativos</td>
-      <td>Baja</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Modernización de operaciones</td>
-      <td>Baja</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Atención al cliente</td>
-      <td>Media</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Mantenimiento de equipo</td>
-      <td>Baja</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Análisis de rendimiento financiero</td>
-      <td>Baja</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Desarrollo de estrategias de marketing</td>
-      <td>Media</td>
-      <td>Alta</td>
-    </tr>
-  </table>
-</div>
+<table>
+  <tr>
+    <th>Tarea</th>
+    <th>Gabriela Mendoza</th>
+    <th>Ricardo García</th>
+  </tr>
+  <tr>
+    <td>Desarrollar estrategias de marketing</td>
+    <td>Alta</td>
+    <td>Baja</td>
+  </tr>
+  <tr>
+    <td>Investigar nuevas tecnologías</td>
+    <td>Alta</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Gestionar el equipo de trabajo</td>
+    <td>Media</td>
+    <td>Baja</td>
+  </tr>
+  <tr>
+    <td>Implementar soluciones tecnológicas</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Monitorear el rendimiento de las soluciones</td>
+    <td>Alta</td>
+    <td>Baja</td>
+  </tr>
+  <tr>
+    <td>Capacitar al personal en el uso de nuevas tecnologías</td>
+    <td>Alta</td>
+    <td>Baja</td>
+  </tr>
+  <tr>
+    <td>Evaluar la eficiencia de los procesos empresariales</td>
+    <td>Alta</td>
+    <td>Baja</td>
+  </tr>
+</table>
 
 ### 2.3.3. User Journey Mapping
 
