@@ -200,7 +200,12 @@ cap de insigths
     <td><b>Conclusiones</b></td>
   </tr>
   <tr>
-    <td><b>5.c.1 Trabaja en equipo para proporcionar liderazgo en forma conjunta.</b></td>
+    <td><b>Participa en equipos
+multidisciplinarios con eficacia,
+eficiencia y objetividad, en el
+marco de un proyecto en
+soluciones de ingeniería de
+software.</b></td>
     <td> TB1<br><br>
          <b>Luna Morales, Gianfranco</b><br>
 Se realizó los puntos del Capítulo 3
@@ -257,7 +262,10 @@ Se llevó a cabo la recopilación de entrevistas para un mejor acercamiento haci
     En conclusión, la capacidad de trabajar eficazmente en un equipo es fundamental para el éxito de nuestra startup. Al proporcionar liderazgo, fomentar un entorno colaborativo e inclusivo, establecer objetivos claros, planificar tareas y cumplir con esos objetivos, podemos maximizar nuestra productividad y alcanzar nuestras metas de manera más efectiva. Es crucial que todos los miembros del equipo estén comprometidos con estos principios para garantizar un trabajo armonioso y orientado hacia el logro de nuestros objetivos comerciales.</td>
   </tr>
   <tr>
-    <td><b>5.c.2 Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</b></td>
+    <td><b>Conoce al menos un sector
+empresarial o dominio de
+aplicación de soluciones de
+software.</b></td>
     <td> TB1<br><br>
          <b>Luna Morales, Gianfranco</b><br>
        Se vio los temas de Vue, aún se práctica los temas para el desarrollo de la aplicación.
