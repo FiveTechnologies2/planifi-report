@@ -241,8 +241,8 @@ Para el presente informe, se llevaron a cabo reuniones y se distribuyeron los pu
 - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
    - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
    - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
-   - [4.4.2. Web Applications Mock-ups](#443-web-applications-mock-ups)
-   - [4.4.3. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
+   - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
+   - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
 - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
 - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
    - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
@@ -490,7 +490,7 @@ Five Technologies es una empresa creada por estudiantes de la Universidad Peruan
 </table>
 
 
-## 1.2.  Solution Profile
+## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
 **Antecedentes**: 
 Actualmente existen una amplia variedad de plataformas para la gestión de procesos relacionados con la automatización de gestión enfocadas a los recursos humanos. Las empresas buscan soluciones tecnológicas que simplifiquen y optimicen la administración de personal. Sin embargo, muchas de las plataformas existentes en el mercado están diseñadas para estas grandes empresas con presupuestos considerables, dejando a las pequeñas y medianas empresas (PYMES) y a los emprendedores en desventaja.
@@ -587,7 +587,7 @@ Nuestro producto será utilizado principalmente en el departamento de recursos h
 
 <td><img src="static/img/Chapter 1/img-lean-ux-canvas.png" alt=" " width="50%" ;"></img></td>
 
-## 1.3.  Segmentos objetivo
+## 1.3. Segmentos objetivo
 
 Los segmentos objetivos son los siguientes: 
 
@@ -743,25 +743,31 @@ Desarrollar estrategias y tácticas sólidas para enfrentar a nuestros competido
 <strong>Estrategias de Cercanía con los clientes:</strong>
 
 #1 Programa de retroalimentación continua
+
 Implementar un programa estructurado de retroalimentación directa con los usuarios de Name, permitiendo que expresen sus opiniones, sugerencias y preocupaciones a través de encuestas, correos electrónicos de seguimiento y sesiones de retroalimentación personalizadas. Esto ayudará a identificar y abordar rápidamente cualquier problema o necesidad del cliente, lo que podría proporcionar una ventaja competitiva frente a los competidores.
 
 #2 Servicio de atención al cliente especializado
+
 Establecer un equipo de atención al cliente altamente capacitado y especializado en las necesidades específicas de las empresas PYME y emprendedores, ofreciendo asistencia personalizada, resolución rápida de problemas y seguimiento proactivo. Esta táctica puede generar lealtad y satisfacción del cliente, diferenciando a Name de sus competidores.
 
 <strong>Estrategias de Liderazgo a través del producto:</strong>
 
 #1 Integración con herramientas de gestión empresarial
+
 Desarrollar integraciones con otras herramientas de gestión empresarial ampliamente utilizadas por las empresas PYME, como sistemas de contabilidad y gestión de proyectos. Esto ampliará la funcionalidad de Name y ofrecerá una solución más completa y conveniente para los clientes, posicionándola como líder en el mercado.
 
 #2 Personalización de informes financieros
+
 Ofrecer características avanzadas de personalización de informes financieros dentro de la plataforma de Name, permitiendo a los usuarios crear informes detallados y adaptados a sus necesidades específicas. Esta táctica resalta la capacidad de Name para proporcionar soluciones flexibles y adaptadas a las necesidades individuales de cada cliente.
 
 <strong>Estrategias de Enfoque:</strong>
 
 #1 Educación sobre la importancia de la automatización de nóminas
+
 Lanzar campañas educativas dirigidas a empresas PYME y emprendedores para destacar los beneficios y la importancia de la automatización de nóminas en la gestión empresarial. Esto incluiría seminarios web, contenido educativo en blogs y redes sociales, así como colaboraciones con asociaciones empresariales locales.
 
 #2 Demostraciones en vivo y pruebas gratuitas
+
 Ofrecer demostraciones en vivo de la plataforma de Name y períodos de prueba gratuitos para que los clientes potenciales experimenten de primera mano los beneficios y la facilidad de uso de la solución. Esta táctica ayuda a mostrar el valor de Name y a superar la resistencia al cambio al demostrar su eficacia en tiempo real.
 
 ## 2.2. Entrevistas
@@ -1202,6 +1208,7 @@ El lenguaje ubicuo es un conjunto de términos y conceptos compartidos y compren
 
 <td><img src="static/img/Chapter 3/To-be-Empresas.jpg"  alt=" " width="50%" ;"></img></td>
 <td><img src="static/img/Chapter 3/To-be-emprendedores.jpg"  alt=" " width="50%" ;"></img></td>
+
 ## 3.2. User Stories
  <table>
       <thead>
@@ -1580,13 +1587,13 @@ Para poder ver el web application wireframe completo, este es el link de Figma -
 
 Para poder ver mejor el Wireflow, este es el link del lucidchart -> [Lucidchart](https://lucid.app/lucidchart/1d7753bc-2ef3-4485-8b8c-cfd7e119defb/edit?view_items=7crsvUt5MiZ_&invitationId=inv_738c0520-b232-4d6d-bbca-a1c0eba60e98)
 
-### 4.4.2. Web Applications Mock-ups
+### 4.4.3. Web Applications Mock-ups
 
 <img src="static/img/Chapter 4/img-webaplicationmockup.png" alt=" " style="width: 65;"></img>
 
 Para poder ver el Mock-up completo, este es el link de Figma -> [Figma](https://www.figma.com/file/V8WMiF3a2LgTBpJKDA6flY/Mockup?type=design&mode=design&t=0KnNllAIDZqRZnLP-1) 
 
-### 4.4.3. Web Applications User Flow Diagrams
+### 4.4.4. Web Applications User Flow Diagrams
 
 <img src="static/img/Chapter 4/img-userflow.png" alt=" " style="width: 65;"></img>
 
@@ -1859,7 +1866,8 @@ Implementar la landing page en el servidor de producción utilizando Visual Stud
     <td>7 Story points</td>
   </tr>
 </table>
-- 5.2.1.2. Sprint Backlog 1.
+
+#### 5.2.1.2. Sprint Backlog 1.
 <table border="1">
   <tr>
     <th>Sprint #</th>
