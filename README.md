@@ -140,7 +140,12 @@
                 <td>04/13/2024</td>
                 <td>Karito Medina, Ramón Jorge, Rodrigo Zagaceta, Gianfranco Luna, Ricardo Barrutia.</td>
                 <td>Se revisó el Sprint 1.</td>
-             </tr>           
+             </tr>       
+            <th>2.1</th>
+                <td>04/13/2024</td>
+                <td>Ricardo Barrutia.</td>
+                <td>Mejora continua: Lean UX Process & Software Development Environment Configuration </td>
+             </tr>
         </tbody>
 </table>
 
@@ -323,21 +328,8 @@ Realizó puntos desde el 4.6 hasta el final del capítulo 4, incluyendo el C4 Mo
 Se organizó con el equipo para elaborar las partes del informe y de la Landing Page.
         <br><br> 
 <b>Barrutia Vaez, Ricardo Andree</b> <br>
-          - Startup Profile
-          - Descripción de la Startup
-          - Perfiles de integrantes del equipo
-          - Solution Profile
-          - Antecedentes y problemática
-          - Lean UX Process
-          - Lean UX Problem Statements
-          - Lean UX Assumptions
-          - Lean UX Hypothesis Statements
-          - Lean UX Canvas
-          - Segmentos objetivo.
-          - Software Configuration Management
-          - Software Development Environment Configuration
-        <br><br>
-        
+         Durante el desarrollo del TB1, mi aporte principal fue la elaboración del capítulo I, modificación del curso del proyecto, una sección del capítulo 5 y la creación del Trello para la gestion del proyecto.
+
 <b>Zagaceta Bardales, Rodrigo Enrique</b>
 
 Se llevó a cabo la recopilación de entrevistas para un mejor acercamiento hacia los segmentos objetivos y una elaboración más exacta del proceso de Needfinding que es de utilidad para la eficiencia del startup.
@@ -382,20 +374,8 @@ software.</b></td>
 Realizo modificaciones en la Landing Page en colaboración con sus compañeros.
         <br><br> 
 <b>Barrutia Vaez, Ricardo Andree</b> <br>
-          - Startup Profile
-          - Descripción de la Startup
-          - Perfiles de integrantes del equipo
-          - Solution Profile
-          - Antecedentes y problemática
-          - Lean UX Process
-          - Lean UX Problem Statements
-          - Lean UX Assumptions
-          - Lean UX Hypothesis Statements
-          - Lean UX Canvas
-          - Segmentos objetivo.
-          - Software Configuration Management
-          - Software Development Environment Configuration
-        <br><br>
+         Coordine y llevé a cabo dos entrevistas con dos miembros de nuestro segmento objetivo; además, realicé el análisis de las entrevistas para los candidatos de mis entrevistas.
+
         
 <b>Zagaceta Bardales, Rodrigo Enrique</b>
 -Competidores.
@@ -530,15 +510,16 @@ Según Atlas 360 (2023) no tener ciertos procesos automatizados conlleva una fal
 Problem Statement 1:
 En el ámbito de la gestión de planillas, las pequeñas y medianas empresas (PYMEs) en Lima Metropolitana a menudo se enfrentan a desafíos significativos debido a la falta de recursos para adquirir soluciones de software especializadas. Actualmente, muchas de estas empresas gestionan sus planillas manualmente o con herramientas básicas como Excel, lo que puede resultar en errores, retrasos en los pagos y una gestión ineficiente de los recursos humanos. Esta situación se ve agravada por la falta de herramientas adecuadas para analizar y comprender los datos de recursos humanos, así como la necesidad de optimizar los procesos internos para aumentar la eficiencia y la productividad de la empresa.
 
-¿Qué estrategias podemos emplear para convencer a las empresas PYME y emprendedores de la utilidad de migrar a nuestra plataforma, sobre todo cuando están profundamente arraigados en sus procedimientos actuales y pueden ver el cambio como una interrupción en sus actividades cotidianas?
+**Qué estrategias podemos emplear para convencer a las empresas PYME y emprendedores de la utilidad de migrar a nuestra plataforma, sobre todo cuando están profundamente arraigados en sus procedimientos actuales y pueden ver el cambio como una interrupción en sus actividades cotidianas?**
 
 Problem Statement 2:
 Los emprendedores en Lima Metropolitana, quienes a menudo operan con equipos reducidos y recursos limitados, enfrentan desafíos similares en la gestión de planillas. Estos pueden carecer de la capacidad para invertir en soluciones de software costosas y pueden recurrir a métodos manuales o poco sofisticados para realizar tareas de gestión de planillas. Esto puede llevar a errores, falta de cumplimiento normativo y una carga adicional de trabajo administrativo que limita el crecimiento y la eficiencia de sus empresas.
 
-¿Cómo podemos superar la resistencia al cambio y convencer a los emprendedores de la necesidad de adoptar nuestra plataforma para gestionar sus planillas de remuneraciones de manera más eficiente?
+**¿Cómo podemos mitigar la resistencia al cambio y convencer a los emprendedores de la necesidad de adoptar nuestra plataforma para gestionar sus planillas de remuneraciones de manera más eficiente?**
 
 #### 1.2.2.2. Lean UX Assumptions.
-- Business Outcomes <br>
+
+**Business Outcomes** <br><br>
 **Creo que mis usuarios necesitan**, cuenten con una solución eficiente para la gestión de planillas, lo que les permitirá optimizar sus procesos y reducir errores en las remuneraciones de su personal.<br><br>
 **Estas necesidades se pueden resolver** mediante el desarrollo de una aplicación para la gestión de planillas remuneradas, donde las empresas puedan acceder y almacenar los datos de sus empleados de manera segura.<br><br>
 **Mis clientes iniciales son** las empresas PYME y emprendedores, ya que son quienes afrontan constantemente los desafíos relacionados con la gestión de planillas y tienen la necesidad de mejorar sus procesos.<br><br>
@@ -548,8 +529,20 @@ Los emprendedores en Lima Metropolitana, quienes a menudo operan con equipos red
 **Haré dinero a través de** un modelo de suscripción mensual o anual para acceder a nuestra plataforma Planifi. Además, ofreceremos servicios adicionales que generarán ingresos adicionales.<br><br>
 **Mi competencia de mercado serán** las empresas que ya se establecieron en el mercado y que permiten realizar la gestión de remuneración y otros procesos delárea de recursos humanos, como Gusto, Zenefits, QuickBooks Payroll, entre otros.<br><br>
 **Los venceremos debido a que** nuestra plataforma no solo se centra en la gestión de planillas, sino que ofrece una solución integral para la administración de empresas. En contraste, nuestra plataforma ofrece una combinación única de funcionalidades, facilidad de uso y atención personalizada que se adapta específicamente a las necesidades de las empresas en Lima Metropolitana.<br><br>
+**Mis mayores riesgos como producto** son la resistencia al cambio por parte de empresas "PYME" y emprendedores, así como la falta de adaptación por parte de estos debido al rechazo por una percepción errónea de complejidad.<br><br>
+**Resolveremos esto a través de** la implementación de estrategias de capacitación para mostrar los beneficios y facilidades de nuestra plataforma, además de una diferenciación clara de nuestra oferta, incluyendo una adaptación continua de nuestra plataforma según las necesidades del cliente y las tendencias del mercado.<br><br>
+**Sabremos que hemos tenido éxito cuando veamos uno de estos cambios en el comportamiento de nuestro cliente:**
+- Aumento en la adquisición de clientes y suscripciones a nuestra plataforma.
+- Retroalimentación positiva y recomendaciones de clientes satisfechos.
+- Reducción significativa en los errores de gestión de planillas y mejoras en la eficiencia operativa de las empresas que utilizan nuestra plataforma.
 
-- Users Outcomes<br>
+<br>**Otras suposiciones que, de probarse falsas, pueden causar que nuestro proyecto fracase**:
+- La demanda del mercado para una solución de gestión de planillas automatizada es suficiente para respaldar nuestro crecimiento.
+- La capacidad técnica y financiera para desarrollar y mantener nuestra plataforma a largo plazo.
+- La efectividad de nuestras estrategias de marketing y ventas para llegar a nuestro público objetivo y convertirlos en clientes.
+
+
+**Users Outcomes**<br>
 **¿Quiénes serán nuestros usuarios?**
 Nuestros usuarios principales serán las empresas pequeñas, empresas medianas y emprendedores en Lima Metropolitana que buscan mejorar la gestión de planillas.<br><br>
 **¿Dónde encaja nuestro producto en su vida?**
@@ -568,8 +561,16 @@ Nuestro producto será utilizado principalmente en el departamento de recursos h
 **¿Cómo debe verse y comportarse nuestro producto?**
 - La interfaz del usuario debe contar con elementos visuales atractivos, intuitivos y estructurados.
 - La experiencia de usuario de nuestra aplicación debe tener como prioridad una respuesta rápida, facilidad de navegación y una garantía de seguridad.
+<br><br>
 
-
+**Features:**
+- Las empresa o empredimiento podrán registrarse en la plataforma  para crear una cuenta de empresa o empredimiento y seleccionar el plan que mejor se adapte a sus necesidades. Se proporcionará información clara sobre los diferentes planes disponibles, asegurando que los usuarios puedan tomar decisiones informadas para su empresa o proyecto emprendedor.
+- Las empresa o empredimiento podrán agregar fácilmente miembros a su equipo y asignar roles de manera intuitiva. La interfaz facilitará la creación y gestión de equipos, permitiendo acciones rápidas y sin complicaciones.
+- Las empresa o empredimiento podrán crear procesos de reclutamiento con candidatos de forma ágil y sencilla. Se ofrecerá una experiencia de creación intuitiva para que los reclutadores puedan configurar sus procesos sin complicaciones.
+- Las empresa o empredimiento podrán crear y personalizar tareas dentro de los procesos de reclutamiento, como evaluaciones o reuniones. Se permitirá una configuración flexible de tareas para adaptarse a las necesidades específicas de cada proceso.
+- Las empresa o empredimiento  podrán seguir fácilmente el estado de sus procesos de reclutamiento a través de una dashboard informativo . Esta tabla proporcionará detalles relevantes, como la empresa, la descripción del proceso y las fechas importantes.
+- Las empresa o empredimiento podrán editar sus perfiles personales y preferencias de comunicación de forma intuitiva.
+  <br><br>
 #### 1.2.2.3. Lean UX Hypothesis Statements
 ****Creemos que**** al ofrecer una plataforma automatizada de gestión de planillas remuneradas para empresas PYME y emprendedores en Lima Metropolitana, lograremos optimizar los procesos de gestión de recursos humanos y reducir errores en los pagos.
 
@@ -1684,15 +1685,13 @@ Para la realización del diagrama, se han utilizado las siguientes clases, junto
 ### 5.1.1. Software Development Environment Configuration
 En el siguiente apartado, se detalla cada uno de los productos de software utilizados en el proyecto. Esta descripción servirá como guía para que tanto los desarrolladores actuales como los futuros puedan participar de manera efectiva en todas las fases del proyecto.<br><br>
 **Project Management**
-- Notion: https://www.notion.so/es-es
-Se empleó Notion para organizar y llevar un registro de las tareas que están por hacer, se están realizando y ya están completadas. De esta manera, podríamos tener un control en cuanto al tiempo de cómo estábamos desarrollando el proyecto y, asimismo, ver las actividades pendientes. Notion es una aplicación que se encuentra disponible en las tiendas de teléfonos móviles, web o aplicación de escritorio.
+- Trello: https://trello.com/ Se empleó Trello para organizar al equipo y llevar a cabo un registro de las tareas que están por hacer, se están realizando y ya están completadas. De esta manera, podríamos tener un control en cuanto al tiempo de cómo estábamos desarrollando el proyecto y, asimismo, ver las actividades pendientes. Trello es una aplicación web que es compatible con los multiples navegadores.
 - Google Meet : https://meet.google.com
 La plataforma de Google Meet se empleó para las reuniones virtuales con los integrantes del equipo y así poder comunicarnos entre nosotros sobre la gestión del proyecto. Asimismo, empleamos esta plataforma para poder compartir contenido entre los miembros del equipo, como compartir pantalla, imágenes, texto, entre otros.
 
  	
 **Requirements Management** <br>
-- Notion: https://trello.com/
-Para el apartado de requirements, consideramos que la mejor opción era Notion, debido a que con la diversidad de plantillas permitía colaborar de manera muy práctica en el product backlog, además de ser muy fácil de usar. Esta aplicación es gratuita y solo necesitamos registrarnos para utilizarla
+- Trello: https://trello.com/ Para el apartado de requirements, usamos Trello, debido a que permite colaborar de manera muy práctica en el product backlog, además de ser muy fácil de usar. Esta aplicación nos permite visualizar de una manera muy intuitiva las tareas pendientes y las asignaciones para esas tareas. Es gratuita y solo necesitamos registrarnos para utilizarla.
  	
 **Product UX/UI Design**
 - UXPressia: https://uxpressia.com/
