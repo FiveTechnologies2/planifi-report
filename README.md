@@ -155,10 +155,16 @@ Link del repositorio del reporte del TB1: https://github.com/FiveTechnologies2/p
 
 Para el presente informe, se llevaron a cabo reuniones y se distribuyeron los puntos a elaborar para la entrega actual, correspondientes a los Capítulos I hasta el Capítulo V: Sprint 1. Quedando de la siguiente manera:
 - Imágen de las Contribuciones del equipo:
+<br>
+<br>
 <td><img src="static/img/Chapter 1/img-contributors-team.png" alt="Contribuciones del equipo" width="50%";"></img></td>
 <p>Ricardo Barrutia</p>
 - Imágen de las Contribuciones:
+<br>
+<br>
 <td><img src="static/img/Chapter 1/img-contributors-ricardo.png" alt="Contribuciones Ricardo" width="50%";"></img></td>
+
+<br>
 - Imágen de los Commits:
 <td><img src="static/img/Chapter 1/img-commits-ricardo.png" alt="Commits Ricardo" width="50%";"></img></td>
 <p>Rodrigo Zagaceta</p>
@@ -1113,10 +1119,62 @@ La creación de User Personas nos permite personificar a nuestros usuarios, brin
 La User Task Matrix nos ayuda a desglosar las actividades y tareas que nuestros usuarios realizan al interactuar con nuestra startup. Al ordenar estas tareas según la frecuencia y la importancia para nuestros usuarios, podemos priorizar nuestros esfuerzos de desarrollo y diseño para mejorar su experiencia.
 
 <table>
+<tr>
+<th>User Persona: Empresas medianas y pequeñas
+</tr>
   <tr>
-    <th>Tarea</th>
-    <th>Gabriela Mendoza</th>
-    <th>Ricardo García</th>
+    <th>Task</th>
+    <th>Frequency</th>
+    <th>Importance</th>
+  </tr>
+  <tr>
+    <td>Registro de empleados</td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Cálculo de nómina</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Gestionar horarios de trabajo</td>
+    <td>Media</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Controlar asistencia</td>
+    <td>Alta</td>
+    <td>Baja</td>
+  </tr>
+  <tr>
+    <td>Reporte y cumplimiento norvativo</td>
+    <td>Alta</td>
+    <td>BAlta</td>
+  </tr>
+  <tr>
+    <td>Capacitación y desarrollo</td>
+    <td>Baja</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Evaluar la eficiencia del trabajo del personal</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+</table>
+
+<br>
+<br>
+
+<table>
+<tr>
+<th>User Persona: Emprendedores
+</tr>
+  <tr>
+    <th>Task</th>
+    <th>Frequency</th>
+    <th>Importance</th>
   </tr>
   <tr>
     <td>Desarrollar estrategias de marketing</td>
@@ -1151,9 +1209,10 @@ La User Task Matrix nos ayuda a desglosar las actividades y tareas que nuestros 
   <tr>
     <td>Evaluar la eficiencia de los procesos empresariales</td>
     <td>Alta</td>
-    <td>Baja</td>
+    <td>Media</td>
   </tr>
 </table>
+
 
 ### 2.3.3. User Journey Mapping
 
