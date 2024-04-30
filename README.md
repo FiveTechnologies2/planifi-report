@@ -1211,7 +1211,7 @@ El lenguaje ubicuo es un conjunto de términos y conceptos compartidos y compren
 <td><img src="static/img/Chapter 3/To-be-emprendedores.jpg"  alt=" " width="50%" ;"></img></td>
 
 ## 3.2. User Stories
- <table>
+ <table border = "1">
       <thead>
          <tr>
             <th style="text-align: center;">Epic / Story ID</th>
@@ -1221,100 +1221,536 @@ El lenguaje ubicuo es un conjunto de términos y conceptos compartidos y compren
             <th style="text-align: center;">Relacionado con (Epic ID)</th>
          </tr>
       </thead>
+      <th colspan = "5" style="text-align: center;">
+      Epic 1: Implementación de la Landing Page
+      </th>
       <tbody>
          <tr>
-            <td style="text-align: center;">EP01</td>
-            <td style="text-align: center;">Solicitud de cambio de horario laboral</td>
-            <td tyle="text-align: justify;"> Como empleado, quiero poder solicitar cambios en mi horario laboral para acomodarme a situaciones personales o emergencias inesperadas</td>
+            <td style="text-align: center;">E01-US01</td>
+            <td style="text-align: center;">Barra de navegación en Landing Page</td>
+            <td tyle="text-align: justify;"> Como visitante
+Quiero una barra de navegación en el Landing Page
+Para una mayor accesibilidad a la información.
+</td>
             <td style="text-align: center;">Criterio de aceptación 1:
-Dado que ingresé a mi cuenta de empleado, 
-cuando selecciono la opción de "Solicitar cambio de horario" y proporciono una justificación válida, 
-entonces la solicitud se registra correctamente en el sistema y se envía a mi supervisor para su aprobación.
+Dado que soy un visitante del sitio web,
+Cuando accedo al Landing Page,
+Entonces veo claramente una barra de navegación en la parte superior de la página.
 Criterio de aceptación 2:
-Dado que mi supervisor aprueba mi solicitud de cambio de horario, cuando reviso mi calendario de trabajo, entonces veo que mi horario se actualiza según lo solicitado.
+Dado que estoy en el Landing Page,
+Cuando observo la barra de navegación,
+Entonces encuentro enlaces descriptivos a las secciones principales del sitio web.
+</td>
+<td>
+E01
 </td>
          </tr>
          <tr>
-            <td style="text-align: center;">EP02</td>
-            <td style="text-align: center;">Generación de informes de asistencia</td>
-            <td style="text-align: justify;">Como gerente de recursos humanos, quiero poder generar informes de ausencias y tardanzas para monitorear el cumplimiento del horario laboral de los empleados.</td>
+            <td style="text-align: center;">E01-US02</td>
+            <td style="text-align: center;">Dirigir a la aplicación a través del Landing Page</td>
+            <td style="text-align: left;">Como visitante
+Quiero dirigirme a la aplicación a través de la Landing Page
+Para empezar con su uso.
+</td>
             <td style="text-align: center;">Criterio de aceptación 1:
-Dado que estoy en la página de generación de informes de asistencia, cuando selecciono un rango de fechas y presiono el botón de "Generar informe", entonces el sistema genera un informe detallado que muestra las ausencias y tardanzas de los empleados durante ese período.
+Dado que estoy en el Landing Page y quiero usar la aplicación,
+Cuando encuentro el enlace o botón para acceder a la aplicación,
+Entonces hago clic en él.
 Criterio de aceptación 2:
-Dado que reviso el informe de asistencia generado, cuando selecciono a un empleado específico, entonces veo una lista detallada de las fechas y horas de las ausencias o tardanzas del empleado.</td>
+Dado que he hecho clic en el enlace o botón para acceder a la aplicación,
+Cuando se carga la aplicación,
+Entonces veo una interfaz clara y bien diseñada que me permite comenzar a utilizarla fácilmente.</td>
+<td>
+E01
+</td>
          </tr>
          <tr>
-            <td style="text-align: center;">EP03</td>
-            <td style="text-align: center;">Creación y asignación de equipo para proyectos</td>
-            <td style="text-align: justify;">Como supervisor de proyecto, quiero poder crear proyectos nuevos en el sistema y asignarles un equipo de trabajo para gestionar las tareas asociadas.</td>
+            <td style="text-align: center;">EE01-US03</td>
+            <td style="text-align: center;">Sección de testimonios del Landing Page</td>
+            <td style="text-align: left;">Como visitante del segmento de testimonios
+Quiero visualizar los testimonios realizados anteriormente por otros usuarios sobre la aplicación
+Para tener información previa sobre experiencias anteriores.
+</td>
             <td style="text-align: center;">Criterio de aceptación 1:
-Dado que estoy en la página de gestión de proyectos, cuando selecciono la opción de "Crear nuevo proyecto" y lleno el formulario con la información del proyecto, entonces el proyecto se crea correctamente en el sistema.
+Dado que estoy en la sección de testimonios y quiero leer los testimonios,
+Cuando observo cada testimonio individualmente,
+Entonces encuentro información relevante sobre la experiencia del usuario, como su nombre, ubicación y opinión sobre la aplicación.
 Criterio de aceptación 2:
-Dado que he creado un proyecto nuevo, cuando asigno miembros del equipo a las diferentes tareas del proyecto, entonces los miembros del equipo reciben notificaciones sobre sus asignaciones.</td>
+Dado que estoy interesado en la autenticidad de los testimonios,
+Cuando reviso la sección de testimonios,
+Entonces encuentro información sobre la verificación de los testimonios, como la fecha en que fueron realizados o algún sello de autenticidad.</td>
+<td>
+E01
+</td>
          </tr>
          <tr>
-            <td style="text-align: center;">EP04</td>
-            <td style="text-align: center;">Recepción de notificaciones importantes</td>
-            <td style="text-align: justify;">Como empleado, quiero recibir notificaciones sobre actualizaciones importantes en el sistema, como cambios en el horario laboral o nuevas tareas asignadas.</td>
+            <td style="text-align: center;">E01-US04</td>
+            <td style="text-align: center;">Sección de beneficios del Landing Page</td>
+            <td style="text-align: left;">Como visitante del segmento de beneficios
+Quiero visualizar los beneficios que me brinda la aplicación 
+Para considerar su uso.
+
+</td>
             <td style="text-align: center;">Criterio de aceptación 1:
-Dado que el sistema ha realizado cambios en mi horario laboral, cuando el sistema envía una notificación automática al empleado, entonces el empleado recibe la notificación por correo electrónico o mensaje en la aplicación.
+Dado que estoy en la sección de beneficios y quiero conocer los beneficios ofrecidos,
+Cuando observo cada beneficio individualmente,
+Entonces encuentro información específica sobre cómo la aplicación puede beneficiar a mi empresa.
 Criterio de aceptación 2:
-Dado que se me asigna una nueva tarea en el sistema, cuando el sistema envía una notificación automática al empleado, entonces el empleado recibe la notificación y puede ver los detalles de la nueva tarea.</td>
+Dado que estoy revisando un beneficio en particular,
+Cuando deseo obtener más detalles sobre cómo funciona o cómo se aplica,
+Entonces encuentro información adicional o ejemplos que ilustran el beneficio en acción.</td>
+<td>
+E01
+</td>
          </tr>
         <tr>
-            <td style="text-align: center;">EP05</td>
-            <td style="text-align: center;">Realización de copias de seguridad automáticas</td>
-            <td style="text-align: justify;">Como administrador del sistema, quiero poder realizar copias de seguridad de los datos del sistema regularmente para garantizar la seguridad y la integridad de la información.</td>
+            <td style="text-align: center;">E01-US05</td>
+            <td style="text-align: center;">Sección de ubicación del Landing Page</td>
+            <td style="text-align: jleft;">Como visitante del segmento de ubicación 
+Quiero visualizar mi ubicación 
+Para verificar la disponibilidad del servicio que ofrece la aplicación en la zona que me encuentre.
+</td>
             <td style="text-align: center;">Criterio de aceptación 1:
-Dado que estoy en la página de configuración de copias de seguridad, cuando programo una copia de seguridad automática para que se realice semanalmente, entonces el sistema programa la copia de seguridad correctamente.
+Dado que deseo verificar la disponibilidad del servicio en mi ubicación actual,
+Cuando estoy visualizando mi ubicación en el mapa,
+Entonces veo indicadores o etiquetas que muestran la disponibilidad del servicio ofrecido por la aplicación en esa área.
 Criterio de aceptación 2:
-Dado que se programó una copia de seguridad automática, cuando llega el momento programado, entonces el sistema realiza la copia de seguridad de los datos del sistema correctamente y notifica al administrador sobre el éxito de la operación.</td>
+Dado que estoy interesado en obtener más detalles sobre la disponibilidad del servicio en mi ubicación,
+Cuando hago clic en el indicador o etiqueta correspondiente en el mapa,
+Entonces se despliega información adicional sobre el servicio ofrecido en esa área, como horarios de operación o servicios disponibles.</td>
+<td>
+E01
+</td>
          </tr>
        <tr>
-            <td style="text-align: center;">EP06</td>
-            <td style="text-align: center;">Acceso a manuales de políticas y procedimientos</td>
-            <td tyle="text-align: justify;">Como empleado, quiero poder acceder a manuales de políticas y procedimientos de la empresa para obtener información sobre las políticas internas y los procesos de trabajo.</td>
+            <td style="text-align: center;">E01-US06</td>
+            <td style="text-align: center;">Sección de contacto del Landing Page</td>
+            <td tyle="text-align: justify;">Como visitante
+Quiero visualizar la parte de contacto del equipo encargado de la aplicación
+Para contactarme en caso de que requiera algún soporte.
+</td>
             <td style="text-align: center;">Criterio de aceptación 1:
-Dado que ingresé a mi cuenta de empleado, cuando selecciono la opción de "Ver manuales de políticas y procedimientos", entonces puedo acceder a una biblioteca de documentos que contiene manuales y guías de la empresa.
+Dado que estoy en la sección de contacto y quiero ver la información del equipo,
+Cuando observo la información proporcionada,
+Entonces encuentro detalles precisos sobre cómo contactar al equipo, como dirección de correo electrónico, número de teléfono o formulario de contacto.
 Criterio de aceptación 2:
-Dado que estoy leyendo un manual específico, cuando selecciono un tema o sección dentro del manual, entonces puedo navegar fácilmente por el contenido y encontrar la información relevante que necesito.</td>
+Dado que necesito contactar al equipo para obtener soporte,
+Cuando utilizo la información proporcionada para comunicarme con ellos,
+Entonces recibo una respuesta oportuna y útil que aborda mi consulta o problema.</td>
+<td>
+E01
+</td>
          </tr>
        <tr>
-            <td style="text-align: center;">EP07</td>
-            <td style="text-align: center;">Programación de reuniones virtuales</td>
-            <td tyle="text-align: justify;">Como supervisor de proyecto, quiero poder realizar reuniones virtuales con mi equipo a través del sistema para discutir el progreso del proyecto y tomar decisiones importantes.</td>
+            <td style="text-align: center;">E01-US07</td>
+            <td style="text-align: center;">Sección de planes del Landing Page</td>
+            <td tyle="text-align: justify;">Como visitante
+Quiero visualizar los planes que ofrece la aplicación 
+Para considerar su uso.
+</td>
             <td style="text-align: center;">Criterio de aceptación 1:
-Dado que estoy en la página de programación de reuniones, cuando elijo la opción de "Crear nueva reunión" y configuro los detalles de la reunión, entonces el sistema programa la reunión correctamente y envía invitaciones al equipo.
+Dado que estoy en la sección de planes y quiero conocer las opciones disponibles,
+Cuando observo cada plan individualmente,
+Entonces encuentro información específica sobre las características incluidas, el precio y cualquier beneficio adicional asociado con cada plan.
 Criterio de aceptación 2:
-Dado que llega el momento programado para la reunión, cuando los miembros del equipo hacen clic en el enlace de la reunión, entonces pueden unirse a la reunión virtual a través de la plataforma integrada en el sistema.</td>
+Dado que estoy interesado en elegir un plan que se adapte a mis necesidades,
+Cuando estoy revisando los planes,
+Entonces encuentro herramientas de comparación que me ayudan a evaluar las diferencias entre los planes disponibles.</td>
+<td>
+E01
+</td>
          </tr>
        <tr>
-            <td style="text-align: center;">EP08</td>
-            <td style="text-align: center;">Solicitud de vacaciones o días libres</td>
-            <td tyle="text-align: justify;"> Como empleado, quiero poder solicitar vacaciones o días libres a través del sistema y recibir confirmación de aprobación o rechazo por parte del supervisor.</td>
+            <td style="text-align: center;">E01-US08</td>
+            <td style="text-align: center;">Footer a la aplicación en el Landing Page</td>
+            <td tyle="text-align: justify;">Como visitante
+Quiero visitar los footer de la aplicación
+Para un mayor acceso a la aplicación.
+</td>
             <td style="text-align: center;">Criterio de aceptación 1:
-Dado que ingresé a mi cuenta de empleado, cuando selecciono la opción de "Solicitar vacaciones" y selecciono las fechas deseadas, entonces el sistema registra mi solicitud y la envía automáticamente a mi supervisor para su revisión.
+Dado que deseo obtener más información sobre la aplicación desde el footer,
+Cuando exploró los elementos del footer,
+Entonces también encuentro enlaces a recursos adicionales, como la política de privacidad, términos de servicio, preguntas frecuentes (FAQ), blog, etc., que pueden brindarme más información sobre la aplicación y su funcionamiento.
 Criterio de aceptación 2:
-Dado que mi supervisor revisa mi solicitud de vacaciones, cuando toma una decisión de aprobación o rechazo, entonces el sistema me notifica automáticamente sobre el resultado de la solicitud.</td>
+Dado que estoy interesado en iniciar sesión o registrarme en la aplicación,
+Cuando estoy en el footer,
+Entonces encuentro un acceso rápido y visible para iniciar sesión si ya tengo una cuenta, o para registrarme si soy nuevo en la aplicación.</td>
+<td>
+E01
+</td>
          </tr>
        <tr>
-            <td style="text-align: center;">EP09</td>
-            <td style="text-align: center;">Gestión de cuentas de usuario y permisos de acceso</td>
-            <td tyle="text-align: justify;"> Como administrador del sistema, quiero poder gestionar las cuentas de usuario y los permisos de acceso para garantizar la seguridad de los datos y la privacidad de la información confidencial.</td>
+            <td style="text-align: center;">EE01-US09</td>
+            <td style="text-align: center;">Versión en inglés y español del Landing Page</td>
+            <td tyle="text-align: justify;">Como visitante
+Quiero tener las opciones en inglés y español del Landing Page
+Para tener una mayor accesibilidad en el ámbito de los idiomas.
+</td>
             <td style="text-align: center;">Criterio de aceptación 1:
-Dado que estoy en la página de administración de usuarios, cuando selecciono un usuario específico y modifico sus permisos de acceso, entonces el sistema actualiza los permisos de usuario correctamente y refleja los cambios en el acceso a las funciones del sistema.
+Dado que deseo cambiar el idioma del Landing Page,
+Cuando interactúo con el selector de idioma,
+Entonces tengo la opción de elegir entre inglés y español.
 Criterio de aceptación 2:
-Dado que necesito agregar un nuevo usuario al sistema, cuando lleno el formulario de registro con la información del nuevo usuario y asigno sus roles y permisos, entonces el sistema crea una cuenta de usuario nueva y funcional.</td>
-         </tr>
+Dado que he seleccionado el idioma deseado,
+Cuando la página se actualiza para mostrar el contenido en el idioma seleccionado,
+Entonces encuentro que todos los elementos, textos y botones están traducidos de manera precisa y completa.</td>
+<td>
+E01
+</td>
+
+<thead>
+      <tr>
+      <th colspan = "5" style="text-align: center;">
+      Epic 2: Creación y Gestión de cuentas de Usuario
+      </th>
+      </tr>
+</thead>      
        <tr>
-            <td style="text-align: center;">EP010</td>
-            <td style="text-align: center;">Registro de horas trabajadas y actividades realizadas</td>
-            <td tyle="text-align: justify;">Como empleado, quiero poder registrar horas trabajadas y actividades realizadas a través del sistema para mantener un registro preciso de mi desempeño laboral y contribuciones al proyecto.</td>
+            <td style="text-align: center;">E02-US01</td>
+            <td style="text-align: center;">Registro de cuenta</td>
+            <td tyle="text-align: justify;">Como empresa o emprendimiento
+Quiero registrar una cuenta 
+Para acceder a las funciones que ofrece la aplicación.
+</td>
             <td style="text-align: center;">Criterio de aceptación 1:
-Dado que ingresé a mi cuenta de empleado, cuando selecciono la opción de "Registrar horas trabajadas" y completo el formulario con las horas y las actividades realizadas, entonces el sistema registra la información correctamente en mi historial laboral.
+Dado que estoy en la página de registro y quiero crear una cuenta,
+Cuando completo el formulario de registro con mi información requerida, como nombre, dirección de correo electrónico y contraseña,
+Entonces procedo a enviar el formulario de registro.
 Criterio de aceptación 2:
-Dado que necesito editar un registro de horas trabajadas previamente registrado, cuando accedo a mi historial laboral y selecciono el registro específico, entonces puedo modificar las horas o las actividades y guardar los cambios correctamente.</td>
+Dado que he enviado el formulario de registro con éxito,
+Cuando la aplicación procesa mi solicitud,
+Entonces recibo una confirmación de que mi cuenta ha sido creada exitosamente.
+</td>
+<td>
+E02
+</td>
          </tr>
+              <tr>
+            <td style="text-align: center;">E02-US02</td>
+            <td style="text-align: center;">Inicio de Sesión</td>
+            <td tyle="text-align: justify;">Como empresa o emprendimiento
+Quiero iniciar sesión en mi cuenta
+Para acceder a las funciones de la aplicación.
+
+</td>
+            <td style="text-align: center;">Criterio de aceptación 1:
+Dado que he ingresado correctamente mis credenciales de inicio de sesión,
+Cuando la aplicación verifica mi información,
+Entonces soy redirigido al panel de control o página principal de la aplicación, donde puedo acceder a todas las funciones y características disponibles para mi cuenta.
+Criterio de aceptación 2:
+Dado que quiero asegurarme de que mi sesión esté activa y funcional,
+Cuando estoy en el panel de control o página principal de la aplicación,
+Entonces encuentro que puedo interactuar con todas las funciones y características sin problemas ni interrupciones.</td>
+<td>
+E02
+</td>
+         </tr>
+              <tr>
+            <td style="text-align: center;">E02-US03</td>
+            <td style="text-align: center;">Recuperación de Contraseña</td>
+            <td tyle="text-align: justify;">Como empresa o emprendimiento 
+Quiero recuperar mi contraseña 
+Para iniciar sesión nuevamente.
+</td>
+            <td style="text-align: center;">Criterio de aceptación 1:
+Dado que soy una empresa o emprendimiento y necesito recuperar mi contraseña,
+Cuando ingreso al sitio web o la aplicación y no recuerdo mi contraseña,
+Entonces busco y selecciono la opción de "Recuperar contraseña" en la página de inicio de sesión.
+Criterio de aceptación 2:
+Dado que he enviado correctamente la solicitud de recuperación de contraseña,
+Cuando la aplicación procesa mi solicitud,
+Entonces recibo un correo electrónico con un enlace seguro para restablecer mi contraseña.
+Criterio de aceptación 3:
+Dado que ahora tengo mi contraseña restablecida,
+Cuando vuelvo a la página de inicio de sesión,
+Entonces puedo iniciar sesión en mi cuenta utilizando mi nueva contraseña y acceder a todas las funciones y características disponibles.
+</td>
+<td>
+E02
+</td>
+         </tr>
+              <tr>
+            <td style="text-align: center;">E02-US04</td>
+            <td style="text-align: center;">Actualización de Datos</td>
+            <td tyle="text-align: justify;">Como empresa o emprendimiento
+Quiero editar la información existente del perfil
+Para actualizar los datos.
+
+</td>
+            <td style="text-align: center;">Criterio de aceptación 1:
+Dado que estoy en la página de edición de perfil y quiero realizar cambios,
+Cuando selecciono los campos de información que deseo modificar,
+Entonces puedo actualizarlos con la nueva información relevante.
+Criterio de aceptación 2:
+Dado que he realizado los cambios en mi información de perfil,
+Cuando guardo los cambios,
+Entonces la aplicación confirma que los datos han sido actualizados con éxito.</td>
+<td>
+E02
+</td>
+         </tr>
+              <tr>
+            <td style="text-align: center;">E02-US05</td>
+            <td style="text-align: center;">Cerrar sesión</td>
+            <td tyle="text-align: justify;">Como empresa o emprendimiento
+Quiero cerrar la sesión del perfil
+Para no dejar la sesión activa en otro dispositivo.
+</td>
+            <td style="text-align: center;">Criterio de aceptación 1:
+Dado que estoy en la página de cierre de sesión y quiero confirmar mi acción,
+Cuando selecciono la opción de "Cerrar sesión",
+Entonces la aplicación me pide confirmación antes de proceder con el cierre de sesión.
+Criterio de aceptación 2:
+Dado que confirmo mi intención de cerrar sesión,
+Cuando procedo con la confirmación,
+Entonces la aplicación cierra mi sesión de manera segura y me redirige a la página de inicio de sesión.</td>
+<td>
+E02
+</td>
+<thead>
+      <tr>
+      <th colspan = "5" style="text-align: center;">
+      Epic 3: Dashboard de Usuario
+      </th>
+      </tr>
+</thead>     
+              <tr>
+            <td style="text-align: center;">E03-US01</td>
+            <td style="text-align: center;">Visualizar  dashboard principal </td>
+            <td tyle="text-align: justify;">Como empresa o emprendimiento 
+Quiero visualizar un dashboard principal para poder ver resúmenes de mi actividad y estadísticas.
+
+</td>
+            <td style="text-align: center;">Criterio de aceptación 1:
+Dado que estoy en el dashboard principal y quiero ver un resumen de mi actividad reciente,
+Cuando observo los paneles de resumen,
+Entonces encuentro información sobre métricas clave, como ventas, clientes nuevos, pedidos procesados, etc., en un formato fácil de entender.
+Criterio de aceptación 2:
+Dado que quiero ver estadísticas más detalladas sobre mi actividad,
+Cuando interactúo con los gráficos o tablas disponibles en el dashboard,
+Entonces puedo ver tendencias, comparaciones de rendimiento y otros datos analíticos que me ayudan a comprender mejor mi negocio.</td>
+<td>
+E03
+</td>
+         </tr>
+              <tr>
+            <td style="text-align: center;">E03-US02</td>
+            <td style="text-align: center;">Ajustes de aplicación</td>
+            <td tyle="text-align: justify;">Como empresa o emprendimiento
+Quiero ajustar las configuraciones de la aplicación 
+Para personalizar mi experiencia dentro de la misma.
+
+</td>
+            <td style="text-align: center;">Criterio de aceptación 1:
+Dado que estoy en la página de configuración y quiero ajustar las configuraciones generales,
+Cuando reviso las opciones disponibles,
+Entonces puedo modificar aspectos como el idioma, la zona horaria, las notificaciones por correo electrónico, etc.
+Criterio de aceptación 2:
+Dado que deseo configurar notificaciones o alertas específicas para mi negocio,
+Cuando accedo a las opciones de notificación,
+Entonces puedo activar o desactivar notificaciones para eventos importantes, como nuevos pedidos, mensajes de clientes, actualizaciones de inventario, etc.</td>
+<td>
+E03
+</td>
+         </tr>
+              <tr>
+            <td style="text-align: center;">E03-US03</td>
+            <td style="text-align: center;">Visualizar reportes de pagos</td>
+            <td tyle="text-align: justify;">Como empresa o emprendimiento
+Quiero visualizar los reportes de los pagos al personal 
+Para contar con una mejor organización.
+
+</td>
+            <td style="text-align: center;">Criterio de aceptación 1:
+Dado que estoy en la sección de reportes de pagos al personal y quiero ver los detalles,
+Cuando selecciono el período de tiempo que deseo analizar,
+Entonces veo un resumen claro de los pagos realizados a cada empleado durante el período seleccionado.
+Criterio de aceptación 2:
+Dado que necesito ver información detallada sobre cada pago,
+Cuando selecciono un pago específico o a un empleado en particular,
+Entonces puedo ver detalles como el monto del pago, la fecha, el tipo de pago (salario, bonificación, comisión, etc.), y cualquier otra información relevante</td>
+<td>
+E03
+</td>
+<thead>
+      <tr>
+      <th colspan = "5" style="text-align: center;">
+      Epic 4: Servicios de gestión de planillas
+      </th>
+      </tr>
+</thead>     
+              <tr>
+            <td style="text-align: center;">E04-US01</td>
+            <td style="text-align: center;">Ingreso de datos del personal</td>
+            <td tyle="text-align: justify;">Como empresa o emprendimiento Quiero ingresar los datos del personal 
+Para contar con un registro adecuado.
+
+</td>
+            <td style="text-align: center;">Criterio de aceptación 1:
+Dado que estoy en la página de ingreso de datos del personal y quiero agregar un nuevo empleado,
+Cuando completo el formulario de ingreso con la información requerida, como nombre, dirección, información de contacto, puesto, salario, etc.,
+Entonces procedo a guardar los datos del nuevo empleado.
+Criterio de aceptación 2:
+Dado que he guardado los datos del nuevo empleado con éxito,
+Cuando la aplicación procesa la información,
+Entonces recibo una confirmación de que el empleado ha sido agregado correctamente al registro del personal.</td>
+<td>
+E04
+</td>
+         </tr>
+         <tr>
+            <td style="text-align: center;">E04-US02</td>
+            <td style="text-align: center;">Control de datos del personal</td>
+            <td tyle="text-align: justify;">Como empresa o emprendimiento
+Quiero tener un control de los datos del personal
+Para contar con una buena contratación a futuro.
+</td>
+            <td style="text-align: center;">Criterio de aceptación 1:
+Dado que estoy en la sección de control de datos del personal y quiero acceder a la información de los empleados,
+Cuando selecciono la opción para ver el perfil de un empleado,
+Entonces accedo a una vista detallada que muestra la información personal, historial laboral, habilidades, evaluaciones de desempeño, etc.
+Criterio de aceptación 2:
+Dado que quiero realizar un seguimiento del rendimiento y progreso de los empleados,
+Cuando accedo a herramientas de evaluación de desempeño o retroalimentación,
+Entonces puedo registrar y revisar evaluaciones periódicas, metas alcanzadas, áreas de mejora, etc.</td>
+<td>
+E04
+</td>
+      </tr>
+       <tr>
+            <td style="text-align: center;">E04-US03</td>
+            <td style="text-align: center;">Verificación de los datos del personal</td>
+            <td tyle="text-align: justify;">Como empresa o emprendimiento
+Quiero tener una verificación de los datos del personal
+Para tener seguridad con los datos brindados.
+
+</td>
+            <td style="text-align: center;">Criterio de aceptación 1:
+Dado que estoy en la sección de verificación de datos del personal y quiero comenzar el proceso,
+Cuando selecciono la opción para verificar los datos de un empleado específico,
+Entonces se me guía para proporcionar la información necesaria para realizar la verificación, como nombre completo, fecha de nacimiento, número de identificación, etc.
+Criterio de aceptación 2:
+Dado que he proporcionado la información requerida para la verificación,
+Cuando envío la solicitud,
+Entonces la aplicación procesa la información y la remite a los servicios de verificación correspondientes.</td>
+<td>
+E04
+</td>
+      </tr>
+       <tr>
+            <td style="text-align: center;">E04-US04</td>
+            <td style="text-align: center;">Asignación de remuneración</td>
+            <td tyle="text-align: justify;">Como empresa o emprendimiento
+Quiero asignar una remuneración al personal
+Para tener un control organizado en mi planilla.
+</td>
+            <td style="text-align: center;">Criterio de aceptación 1:
+Dado que estoy en la sección de administración de remuneraciones y quiero asignar una nueva remuneración,
+Cuando selecciono la opción para agregar una nueva remuneración o editar una existente,
+Entonces accedo a un formulario donde puedo ingresar los detalles de la remuneración, como el monto, la frecuencia de pago, beneficios adicionales, etc.
+Criterio de aceptación 2:
+Dado que he ingresado los detalles de la remuneración,
+Cuando guardo los cambios o confirmo la asignación,
+Entonces la aplicación registra la remuneración y la asigna al empleado correspondiente en la planilla de sueldos.</td>
+<td>
+E04
+</td>
+      </tr>
+<thead>
+      <tr>
+      <th colspan = "5" style="text-align: center;">
+      Epic 5: Backend
+      </th>
+      </tr>
+</thead>   
+   <tr>
+            <td style="text-align: center;">E05-US01</td>
+            <td style="text-align: center;">Información de Pagos</td>
+            <td tyle="text-align: justify;">Como Developer
+Quiero funciones de información de pagos
+Para que los usuarios puedan acceder a funciones según el plan.
+</td>
+            <td style="text-align: center;">Criterio de aceptación 1:
+Dado que estoy implementando las funciones de información de pagos,
+Cuando diseño la interfaz de usuario para que los usuarios accedan a estas funciones,
+Entonces creo un diseño claro y accesible que permite a los usuarios encontrar fácilmente la información relacionada con sus planes de pago.
+Criterio de aceptación 2:
+Dado que he diseñado la interfaz de usuario,
+Cuando integro la lógica necesaria para proporcionar información de pagos,
+Entonces desarrollo funciones que permiten a los usuarios ver detalles específicos de su plan de pago actual, como características incluidas, precios, límites de uso, etc.</td>
+<td>
+E05
+</td>
+      </tr>
+   <tr>
+            <td style="text-align: center;">E05-US02</td>
+            <td style="text-align: center;">Autentificación de Usuario</td>
+            <td tyle="text-align: justify;">Como Developer
+Quiero autentificación de usuario
+Para que los usuarios cuenten con una mayor seguridad en la aplicación.
+</td>
+            <td style="text-align: center;">Criterio de aceptación 1:
+Dado que estoy implementando la autenticación de usuario,
+Cuando diseño el flujo de autenticación,
+Entonces creo un proceso claro y seguro que requiere que los usuarios ingresen sus credenciales de inicio de sesión para acceder a la aplicación.
+Criterio de aceptación 2:
+Dado que he diseñado el flujo de autenticación,
+Cuando integro la lógica necesaria para autenticar a los usuarios,
+Entonces desarrollo funciones que verifican las credenciales del usuario, como nombre de usuario y contraseña, utilizando métodos de cifrado y almacenamiento seguro de contraseñas.</td>
+<td>
+E05
+</td>
+      </tr>      
+
+<thead>
+      <tr>
+      <th colspan = "5" style="text-align: center;">
+      Epic 6: Preferencias en la aplicación
+      </th>
+      </tr>
+</thead>  
+ <tr>
+            <td style="text-align: center;">E06-US01</td>
+            <td style="text-align: center;">Preferencias de idioma</td>
+            <td tyle="text-align: justify;">Como visitante 
+Quiero configurar las opciones de idioma 
+Para utilizar la aplicación según mi preferencia de idioma.
+
+</td>
+            <td style="text-align: center;">Criterio de aceptación 1:
+Dado que estoy en el menú de configuración de idioma y quiero seleccionar mi preferencia,
+Cuando busco en las opciones disponibles,
+Entonces encuentro una lista de idiomas que puedo elegir, como inglés, español, etc.
+Criterio de aceptación 2:
+Dado que la aplicación ha cambiado al idioma seleccionado,
+Cuando navego por la aplicación,
+Entonces encuentro que todo el texto y las etiquetas están ahora en el idioma elegido, lo que facilita la comprensión y la navegación.</td>
+<td>
+E06
+</td>
+      </tr>     
+       <tr>
+            <td style="text-align: center;">E06-US02</td>
+            <td style="text-align: center;">Página no encontrada</td>
+            <td tyle="text-align: justify;">Como visitante
+Quiero ser informado de una página no encontrada en la aplicación
+Para ser redirigido a la página principal.
+
+</td>
+            <td style="text-align: center;">Criterio de aceptación 1:
+Dado que estoy en la página de error 404 y quiero ser redirigido,
+Cuando leo el mensaje de error,
+Entonces encuentro una opción o un enlace que me permite regresar a la página principal de la aplicación.
+Criterio de aceptación 2:
+DDado que selecciono la opción para regresar a la página principal,
+Cuando hago clic en el enlace o botón correspondiente,
+Entonces la aplicación me redirige automáticamente a la página principal, donde puedo continuar navegando o explorando otras secciones de la aplicación.</td>
+<td>
+E06
+</td>
+      </tr>     
+
+
    </tr>
    </tbody>
    </table>
