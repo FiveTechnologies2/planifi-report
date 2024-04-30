@@ -1770,80 +1770,184 @@ E06
          </tr>
       </thead>
       <tbody>
-         <tr>
+       <tr>
             <td style="text-align: center;">1</td>
-            <td style="text-align: center;">US01</td>
-            <td tyle="text-align: justify;">Gestión de cuentas de usuario y permisos de acceso</td>
-            <td style="text-align: center;">Como administrador del sistema, quiero poder gestionar las cuentas de usuario y los permisos de acceso para garantizar la seguridad de los datos y la privacidad de la información confidencial.</td>
+            <td style="text-align: center;">E03-US03</td>
+            <td tyle="text-align: justify;">Visualizar reportes de pagos</td>
+            <td style="text-align: center;">Como empresa o emprendimiento Quiero visualizar los reportes de los pagos al personal Para contar con una mejor organización.</td>
+           <td style="text-align: center;">3</td>
+         </tr>
+            <tr>
+            <td style="text-align: center;">2</td>
+            <td style="text-align: center;">E04-US01</td>
+            <td tyle="text-align: justify;">Ingreso de datos del personal</td>
+            <td style="text-align: center;">Como empresa o emprendimiento Quiero ingresar los datos del personal Para contar con un registro adecuado.</td>
+           <td style="text-align: center;">3</td>
+         </tr>
+            <tr>
+            <td style="text-align: center;">3</td>
+            <td style="text-align: center;">E04-US02</td>
+            <td tyle="text-align: justify;">Control de datos del personal</td>
+            <td style="text-align: center;">Como empresa o emprendimiento Quiero tener un control de los datos del personal Para contar con una buena contratación a futuro.</td>
+           <td style="text-align: center;">3</td>
+         </tr>
+            <tr>
+            <td style="text-align: center;">4</td>
+            <td style="text-align: center;">E04-US04</td>
+            <td tyle="text-align: justify;">Asignación de remuneración</td>
+            <td style="text-align: center;">Como empresa o emprendimiento Quiero asignar una remuneración al personal Para tener un control organizado en mi planilla.</td>
+           <td style="text-align: center;">3</td>
+         </tr>
+            <tr>
+            <td style="text-align: center;">5</td>
+            <td style="text-align: center;">E05-US01</td>
+            <td tyle="text-align: justify;">Información de Pagos</td>
+            <td style="text-align: center;">Como Developer Quiero funciones de información de pagos Para que los usuarios puedan acceder a funciones según el plan.</td>
+           <td style="text-align: center;">3</td>
+         </tr>
+            <tr>
+            <td style="text-align: center;">6</td>
+            <td style="text-align: center;">E05-US02</td>
+            <td tyle="text-align: justify;">Autentificación de Usuario</td>
+            <td style="text-align: center;">Como Developer Quiero autentificación de usuario Para que los usuarios cuenten con una mayor seguridad en la aplicación.</td>
+           <td style="text-align: center;">3</td>
+         </tr>
+         <tr>
+            <td style="text-align: center;">7</td>
+            <td style="text-align: center;">E01-US05</td>
+            <td tyle="text-align: justify;">Sección de ubicación del Landing Page</td>
+            <td style="text-align: center;">Como visitante del segmento de ubicación Quiero visualizar mi ubicación Para verificar la disponibilidad del servicio que ofrece la aplicación en la zona que me encuentre.</td>
+            <td style="text-align: center;">2</td>
+         </tr>
+        <tr>
+            <td style="text-align: center;">8</td>
+            <td style="text-align: center;">E02-US01</td>
+            <td tyle="text-align: justify;">Registro de cuenta</td>
+            <td style="text-align: center;">Como empresa o emprendimiento Quiero registrar una cuenta Para acceder a las funciones que ofrece la aplicación.</td>
+           <td style="text-align: center;">2</td>
+         </tr>
+            <tr>
+            <td style="text-align: center;">9</td>
+            <td style="text-align: center;">E02-US03</td>
+            <td tyle="text-align: justify;">Recuperación de Contraseña</td>
+            <td style="text-align: center;">Como empresa o emprendimiento Quiero recuperar mi contraseña Para iniciar sesión nuevamente.</td>
+           <td style="text-align: center;">2</td>
+         </tr>
+            <tr>
+            <td style="text-align: center;">10</td>
+            <td style="text-align: center;">E02-US04</td>
+            <td tyle="text-align: justify;">Actualización de Datos</td>
+            <td style="text-align: center;">Como empresa o emprendimiento Quiero editar la información existente del perfil Para actualizar los datos.</td>
+           <td style="text-align: center;">2</td>
+         </tr>
+          <tr>
+            <td style="text-align: center;">11</td>
+            <td style="text-align: center;">E04-US03</td>
+            <td tyle="text-align: justify;">Verificación de los datos del personal</td>
+            <td style="text-align: center;">Como empresa o emprendimiento Quiero tener una verificación de los datos del personal Para tener seguridad con los datos brindados.</td>
+           <td style="text-align: center;">2</td>
+         </tr>
+            <tr>
+            <td style="text-align: center;">12</td>
+            <td style="text-align: center;">E03-US01</td>
+            <td tyle="text-align: justify;">Visualizar dashboard principal</td>
+            <td style="text-align: center;">Como empresa o emprendimiento Quiero visualizar un dashboard principal para poder ver resúmenes de mi actividad y estadísticas.</td>
+           <td style="text-align: center;">2</td>
+         </tr>
+            <tr>
+            <td style="text-align: center;">13</td>
+            <td style="text-align: center;">E03-US02</td>
+            <td tyle="text-align: justify;">Ajustes de aplicación</td>
+            <td tyle="text-align: justify;">Como empresa o emprendimiento Quiero ajustar las configuraciones de la aplicación Para personalizar mi experiencia dentro de la misma.</td>
+           <td style="text-align: center;">2</td>
+         </tr>
+         <tr>
+            <td style="text-align: center;">14</td>
+            <td style="text-align: center;">E01-US01</td>
+            <td tyle="text-align: justify;">Barra de navegación en Landing Page</td>
+            <td style="text-align: center;">Como visitante Quiero una barra de navegación en el Landing Page Para una mayor accesibilidad a la información.</td>
            <td style="text-align: center;">1</td>
          </tr>
          <tr>
-            <td style="text-align: center;">2</td>
-            <td style="text-align: center;">EP010</td>
-            <td style="text-align: justify;">Registro de horas trabajadas y actividades realizadas</td>
-            <td style="text-align: center;">Como empleado, quiero poder registrar horas trabajadas y actividades realizadas a través del sistema para mantener un registro preciso de mi desempeño laboral y contribuciones al proyecto.</td>
-            <td style="text-align: center;">3</td>
+            <td style="text-align: center;">15</td>
+            <td style="text-align: center;">EE01-US02</td>
+            <td style="text-align: justify;">Dirigir a la aplicación a través del Landing Page</td>
+            <td style="text-align: center;">Como visitante Quiero dirigirme a la aplicación a través de la Landing Page Para empezar con su uso.</td>
+            <td style="text-align: center;">1</td>
          </tr>
          <tr>
-            <td style="text-align: center;">3</td>
-            <td style="text-align: center;">EP02</td>
-            <td style="text-align: justify;">Generación de informes de asistencia</td>
-            <td style="text-align: center;">Como gerente de recursos humanos, quiero poder generar informes de ausencias y tardanzas para monitorear el cumplimiento del horario laboral de los empleados.</td>
-            <td style="text-align: center;">5</td>
+            <td style="text-align: center;">16</td>
+            <td style="text-align: center;">EE01-US03</td>
+            <td style="text-align: justify;">Sección de testimonios del Landing Page</td>
+            <td style="text-align: center;">Como visitante del segmento de testimonios Quiero visualizar los testimonios realizados anteriormente por otros usuarios sobre la aplicación Para tener información previa sobre experiencias anteriores.</td>
+            <td style="text-align: center;">1</td>
          </tr>
          <tr>
-            <td style="text-align: center;">4</td>
-            <td style="text-align: center;">EP09</td>
-            <td style="text-align: justify;">Gestión de cuentas de usuario y permisos de acceso</td>
-            <td style="text-align: center;">Como administrador del sistema, quiero poder gestionar las cuentas de usuario y los permisos de acceso para garantizar la seguridad de los datos y la privacidad de la información confidencial.</td>
-            <td style="text-align: center;">3</td>
+            <td style="text-align: center;">17</td>
+            <td style="text-align: center;">E01-US04</td>
+            <td style="text-align: justify;">Sección de beneficios del Landing Page</td>
+            <td style="text-align: center;">Como visitante del segmento de beneficios Quiero visualizar los beneficios que me brinda la aplicación Para considerar su uso.</td>
+            <td style="text-align: center;">1</td>
          </tr>
         <tr>
-            <td style="text-align: center;">5</td>
-            <td style="text-align: center;">EP06</td>
-            <td style="text-align: justify;">Acceso a manuales de políticas y procedimientos</td>
-            <td style="text-align: center;">Como empleado, quiero poder acceder a manuales de políticas y procedimientos de la empresa para obtener información sobre las políticas internas y los procesos de trabajo.</td>
-           <td style="text-align: center;">3</td>
+            <td style="text-align: center;">18</td>
+            <td style="text-align: center;">E01-US06</td>
+            <td style="text-align: justify;">Sección de contacto del Landing Page</td>
+            <td style="text-align: center;">Como visitante Quiero visualizar la parte de contacto del equipo encargado de la aplicación Para contactarme en caso de que requiera algún soporte.</td>
+           <td style="text-align: center;">1</td>
          </tr>
        <tr>
-            <td style="text-align: center;">6</td>
-            <td style="text-align: center;">EP05</td>
-            <td tyle="text-align: justify;">	Realización de copias de seguridad automáticas</td>
-            <td style="text-align: center;">Como administrador del sistema, quiero poder realizar copias de seguridad de los datos del sistema regularmente para garantizar la seguridad y la integridad de la información.</td>
-            <td style="text-align: center;">3</td>
-         </tr>
-       <tr>
-            <td style="text-align: center;">7</td>
-            <td style="text-align: center;">EP04</td>
-            <td tyle="text-align: justify;">Recepción de notificaciones importantes</td>
-            <td style="text-align: center;">Como empleado, quiero recibir notificaciones sobre actualizaciones importantes en el sistema, como cambios en el horario laboral o nuevas tareas asignadas.</td>
-            <td style="text-align: center;">3</td>
-         </tr>
-       <tr>
-            <td style="text-align: center;">8</td>
-            <td style="text-align: center;">EP03</td>
-            <td tyle="text-align: justify;">Creación y asignación de equipo para proyectos</td>
-            <td style="text-align: center;">Como supervisor de proyecto, quiero poder crear proyectos nuevos en el sistema y asignarles un equipo de trabajo para gestionar las tareas asociadas.</td>
-            <td style="text-align: center;">3</td>
-         </tr>
-       <tr>
-            <td style="text-align: center;">9</td>
-            <td style="text-align: center;">EP08</td>
-            <td tyle="text-align: justify;"> Solicitud de vacaciones o días libres</td>
-            <td style="text-align: center;">Como empleado, quiero poder solicitar vacaciones o días libres a través del sistema y recibir confirmación de aprobación o rechazo por parte del supervisor.</td>
+            <td style="text-align: center;">19</td>
+            <td style="text-align: center;">EE01-US07</td>
+            <td tyle="text-align: justify;">Sección de planes del Landing Page</td>
+            <td style="text-align: center;">Como visitante Quiero visualizar los planes que ofrece la aplicación Para considerar su uso.</td>
             <td style="text-align: center;">1</td>
          </tr>
        <tr>
-            <td style="text-align: center;">10</td>
-            <td style="text-align: center;">EP07</td>
-            <td tyle="text-align: justify;">Programación de reuniones virtuales</td>
-            <td style="text-align: center;">Como supervisor de proyecto, quiero poder realizar reuniones virtuales con mi equipo a través del sistema para discutir el progreso del proyecto y tomar decisiones importantes.</td>
-           <td style="text-align: center;">5</td>
+            <td style="text-align: center;">20</td>
+            <td style="text-align: center;">E01-US08</td>
+            <td tyle="text-align: justify;">Footer a la aplicación en el Landing Page</td>
+            <td style="text-align: center;">Como visitante Quiero visitar los footer de la aplicación Para un mayor acceso a la aplicación.</td>
+            <td style="text-align: center;">1</td>
+         </tr>
+       <tr>
+            <td style="text-align: center;">21</td>
+            <td style="text-align: center;">EE01-US09</td>
+            <td tyle="text-align: justify;">Versión en inglés y español del Landing Page</td>
+            <td style="text-align: center;">Como visitante Quiero tener las opciones en inglés y español del Landing Page Para tener una mayor accesibilidad en el ámbito de los idiomas.</td>
+            <td style="text-align: center;">1</td>
+         </tr>
+          <tr>
+            <td style="text-align: center;">22</td>
+            <td style="text-align: center;">E02-US02</td>
+            <td tyle="text-align: justify;">Inicio de Sesión</td>
+            <td style="text-align: center;">Como empresa o emprendimiento Quiero iniciar sesión en mi cuenta Para acceder a las funciones de la aplicación.</td>
+           <td style="text-align: center;">1</td>
+         </tr>
+          <tr>
+            <td style="text-align: center;">23</td>
+            <td style="text-align: center;">EE02-US05</td>
+            <td tyle="text-align: justify;">	Cerrar sesión</td>
+            <td style="text-align: center;">Como empresa o emprendimiento Quiero cerrar la sesión del perfil Para no dejar la sesión activa en otro dispositivo.</td>
+           <td style="text-align: center;">1</td>
+         </tr>
+          <tr>
+            <td style="text-align: center;">24</td>
+            <td style="text-align: center;">E06-US01</td>
+            <td tyle="text-align: justify;">Preferencias de idioma</td>
+            <td style="text-align: center;">Quiero configurar las opciones de idioma Para utilizar la aplicación según mi preferencia de idioma.</td>
+           <td style="text-align: center;">1</td>
+         </tr>
+          <tr>
+            <td style="text-align: center;">25</td>
+            <td style="text-align: center;">E06-US02</td>
+            <td tyle="text-align: justify;">Página no encontrada</td>
+            <td style="text-align: center;">Como visitante Quiero ser informado de una página no encontrada en la aplicación Para ser redirigido a la página principal.</td>
+           <td style="text-align: center;">1</td>
          </tr>
    </tr>
    </tbody>
    </table>
-
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines
