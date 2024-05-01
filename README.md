@@ -1051,16 +1051,139 @@ En nuestro caso las etiquetas de información se representarán como palabras en
 
 Nuestra página de inicio contará con los siguientes Tags:
 
+**Header**
 ~~~
-<header>
-    <a href="#" class="logo">Planifi</a>
-        <ul class="navbar">
-            <li><a href="#quienes-somos">¿Quiénes somos?</a></li>
-            <li><a href="#beneficios">Beneficios</a></li>
-            <li><a href="#ubicacion">Ubicación</a></li>
-            <li><a href="#contacto">Contacto</a></li>
-        </ul>
-</header>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <title>Planifi</title>
+</head>
+~~~
+
+**Body**
+~~~
+<body>
+
+    <section>
+        <div class="circle"></div>
+        <header>
+            <a href="#" class="logo">Planifi</a>
+            <ul class="navbar">
+                <li><a href="#quienes-somos">About Us</a></li>
+                <li><a href="#beneficios">Benefits</a></li>
+                <li><a href="#ubicacion">Location</a></li>
+                <li><a href="#contacto">Contact</a></li>
+            </ul>
+        </header>
+
+        <div class="content">
+            <div class="titleBox">
+                <h2>SAY GOODBYE TO CHAOS<br></h2>
+                <h2>WITH <span>PLANIFI</span></h2>
+                <p>organize your world intelligently</p>
+                <a href="#">Buy</a>
+            </div>
+            <div class="imgBOX">
+                <img src="img-background.png" alt="">
+            </div>
+        </div>        
+    </section>
+
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+    
+    <section id="quienes-somos" class="section-about">
+        <div class="container">
+            <h2 class="heading-secondary">About Us</h2>
+            <p class="text-about">We are a passionate team dedicated to simplifying business management. Our goal is to provide you with effective tools for the success of your business.</p>
+            <h3>Testimonials</h3>
+            <div class="testimonials">
+                <div class="testimonial">
+                    <p>"Excellent service, Planifi has simplified our payroll management incredibly. Highly recommended!"</p>
+                    <p>- Satisfied Customer</p>
+                </div>
+                <div class="testimonial">
+                    <p>"The automation of the spreadsheets has saved us valuable time and resources. Thank you, Planifi!"</p>
+                    <p>- Happy Customer</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="beneficios" class="section-benefits">
+        <div class="container">
+            <h2 class="heading-secondary">Benefits</h2>
+            <ul class="benefits-list">
+                <li class="benefits-item">Payroll automation</li>
+                <li class="benefits-item">Detailed payroll analysis</li>
+                <li class="benefits-item">Accurate financial reports</li>
+                <li class="benefits-item">Evaluation of hours worked on projects</li>
+                <li class="benefits-item">Time and resource savings</li>
+                <li class="benefits-item">Increased operational efficiency</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="ubicacion" class="section-map">
+        <div class="container">
+            <h2 class="heading-secondary">Location</h2>
+            <div class="map-container">
+                <iframe id="google-map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3986.750483368735!2d-77.0330297846708!3d-12.053969582062464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c6f009f039c3%3A0x53b3d30823126b4e!2sUniversidad%20Peruana%20de%20Ciencias%20Aplicadas!5e0!3m2!1ses!2spe!4v1680782107748!5m2!1ses!2spe" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+            <div class="map-info">
+                <h3>Enter contact information</h3>
+                <form id="contact-form">
+                    <div class="form-group">
+                        <label for="direccion">Address:</label>
+                        <input type="text" id="direccion" name="direccion" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="telefono">Phone:</label>
+                        <input type="tel" id="telefono" name="telefono" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Email:</label>
+                        <input type="email" id="email" name="email" required>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Save</button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <section id="contacto" class="section-contact">
+        <div class="container">
+            <h2 class="heading-secondary">Contact</h2>
+            <div class="contact-info">
+                <div class="contact-item">
+                    <img src="img-phone.png" alt="Phone" width="45" height="45" class="contact-icon">
+                    <p class="contact-text">Phone: +51 123 456 789</p>
+                </div>
+                <div class="contact-item">
+                    <img src="img-email.png" alt="Email" width="45" height="45" class="contact-icon">
+                    <p class="contact-text">Email: info@planifi.com</p>
+                </div>
+            </div>
+            <ul class="socialMedia">
+                <li><a href="#"><ion-icon name="logo-facebook"></ion-icon></a></li>
+                <li><a href="#"><ion-icon name="logo-instagram"></ion-icon></a></li>
+                <li><a href="#"><ion-icon name="logo-linkedin"></ion-icon></a></li>
+            </ul>
+            
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="copyright">
+            <p>&copy; 2024 Planifi. All rights reserved.</p>
+        </div>
+    </footer>
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+</body>
 ~~~
 
 ### 4.2.4. Searching Systems 
@@ -1073,74 +1196,257 @@ El sistema que permitirá a los usuarios ir entre las distintas secciones de nue
 Nuestra decisión del diseño y la arquitectura es usar una forma más minimalista y tratar de llamar la atención al cliente por el producto.
 
 ### 4.3.1. Landing Page Wireframe 
-Wireframe 1
-<img src="static/img/Chapter 4/img-wireframe1.png" alt=" " style="width: 65;"></img>
 
-Wireframe 2
-<img src="static/img/Chapter 4/img-wireframe2.png" alt=" " style="width: 65;"></img>
+| Links Figma Landing Page Wireframe |
+|-----------------------------------|
+| [Figma Landing Page Wireframe](https://www.figma.com/file/YxrOLUAqkGsL86OvtCETzt/Planifi-LandingPage-Desktop?type=design&node-id=0%3A1&mode=design&t=MnLXFA9YuTbWeQg0-1) |
 
-Wireframe 3
-<img src="static/img/Chapter 4/img-wireframe3.png" alt=" " style="width: 65;"></img>
 
-Wireframe 4
-<img src="static/img/Chapter 4/img-wireframe4.png" alt=" " style="width: 65;"></img>
+<img src="img-wireframe1.png" alt=" " style="width: 65;"></img>
 
-Wireframe 5
-<img src="static/img/Chapter 4/img-wireframe5.png" alt=" " style="width: 65;"></img>
+<img src="img-wireframe2.png" alt=" " style="width: 65;"></img>
 
-Para poder ver el wireframe completo, este es el link de Figma -> [Figma](https://www.figma.com/file/YxrOLUAqkGsL86OvtCETzt/Planifi-Wireframe?type=design&node-id=0%3A1&mode=design&t=0KnNllAIDZqRZnLP-1) 
+<img src="img-wireframe3.png" alt=" " style="width: 65;"></img>
+
+<img src="img-wireframe4.png" alt=" " style="width: 65;"></img>
+
+<img src="img-wireframe6.png" alt=" " style="width: 65;"></img>
+
+<img src="img-wireframe5.png" alt=" " style="width: 65;"></img>
+
+<img src="img-wireframe7.png" alt=" " style="width: 65;"></img>
+
+<img src="img-wireframe8.png" alt=" " style="width: 65;"></img>
+
+<img src="img-wireframe9.png" alt=" " style="width: 65;"></img>
+
+<img src="img-wireframe10.png" alt=" " style="width: 65;"></img>
+
+<img src="img-wireframe11.png" alt=" " style="width: 65;"></img>
+
+<img src="img-wireframe12.png" alt=" " style="width: 65;"></img>
+
+<img src="img-wireframe13.png" alt=" " style="width: 65;"></img>
+
+<img src="img-wireframe14.png" alt=" " style="width: 65;"></img>
+
+<img src="img-wireframe15.png" alt=" " style="width: 65;"></img>
+
 
 ### 4.3.2. Landing Page Mock-up 
-Mock-up 1
-<img src="static/img/Chapter 4/img-mockup1.png" alt=" " style="width: 65;"></img>
 
-Mock-up 2
-<img src="static/img/Chapter 4/img-mockup2.png" alt=" " style="width: 65;"></img>
+| Links Figma Landing Page Mock-ups |
+|-----------------------------------|
+| [Figma Landing Page Mock-up](https://www.figma.com/file/YxrOLUAqkGsL86OvtCETzt/Planifi-LandingPage-Desktop?type=design&node-id=0%3A1&mode=design&t=MnLXFA9YuTbWeQg0-1) |
 
-Mock-up 3
-<img src="static/img/Chapter 4/img-mockup3.png" alt=" " style="width: 65;"></img>
 
-Mock-up 4
-<img src="static/img/Chapter 4/img-mockup4.png" alt=" " style="width: 65;"></img>
+<img src="img-mockup1.png" alt=" " style="width: 65;"></img>
 
-Mock-up 5
-<img src="static/img/Chapter 4/img-mockup5.png" alt=" " style="width: 65;"></img>
+<img src="img-mockup2.png" alt=" " style="width: 65;"></img>
 
-Para poder ver el Mock-up completo, este es el link de Figma -> [Figma](https://www.figma.com/file/V8WMiF3a2LgTBpJKDA6flY/Mockup?type=design&mode=design&t=0KnNllAIDZqRZnLP-1) 
+<img src="img-mockup3.png" alt=" " style="width: 65;"></img>
 
-## 4.4. Web Applications UX/UI Design
+<img src="img-mockup4.png" alt=" " style="width: 65;"></img>
+
+<img src="img-mockup6.png" alt=" " style="width: 65;"></img>
+
+<img src="img-mockup5.png" alt=" " style="width: 65;"></img>
+
+<img src="img-mockup7.png" alt=" " style="width: 65;"></img>
+
+<img src="img-mockup8.png" alt=" " style="width: 65;"></img>
+
+<img src="img-mockup9.png" alt=" " style="width: 65;"></img>
+
+<img src="img-mockup10.png" alt=" " style="width: 65;"></img>
+
+<img src="img-mockup11.png" alt=" " style="width: 65;"></img>
+
+<img src="img-mockup12.png" alt=" " style="width: 65;"></img>
+
+<img src="img-mockup13.png" alt=" " style="width: 65;"></img>
+
+<img src="img-mockup14.png" alt=" " style="width: 65;"></img>
+
+<img src="img-mockup15.png" alt=" " style="width: 65;"></img>
+
+## 4.4. Web Applications UX/UI Design 
 
 ### 4.4.1. Web Applications Wireframes 
 
-<img src="static/img/Chapter 4/img-webaplicationwireframe.png" alt=" " style="width: 65;"></img>
+**User goal:** Usuario se registra o inicia sesión a la aplicación con credenciales
 
-Para poder ver el web application wireframe completo, este es el link de Figma -> [Figma](https://www.figma.com/file/YxrOLUAqkGsL86OvtCETzt/Planifi-Wireframe?type=design&node-id=0%3A1&mode=design&t=0KnNllAIDZqRZnLP-1) 
+Registro de cuentas
+
+<img src="img-wireframe9.png" alt=" " style="width: 350;"></img>
+
+Inicio de sesión
+
+<img src="img-wireframe8.png" alt=" " style="width: 350;"></img>
+
+Aplicación de creación de planillas
+
+<img src="img-wireframe14.png" alt=" " style="width: 350;"></img>
+
+
+**User goal:** Perfil de usuario
+
+<img src="img-wireframe11.png" alt=" " style="width: 350;"></img>
+
+**User goal:** Creación de organización
+
+<img src="img-wireframe13.png" alt=" " style="width: 350;"></img>
+
+**User goal:** Perfil de organización y suscripción
+
+<img src="img-wireframe13.png" alt=" " style="width: 350;"></img>
+
+**User goal:** Visualizar las planillas hechas previamente
+
+<img src="img-wireframe15.png" alt=" " style="width: 350;"></img>
+
+**User goal:** Creación de nuevas planillas
+
+<img src="img-wireframe15.png" alt=" " style="width: 350;"></img>
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-<img src="static/img/Chapter 4/img-wireflow.png" alt=" " style="width: 65;"></img>
+| Links LucidChart Wireflow |
+|-----------------------------------|
+| [LucidChart Wireflow](https://lucid.app/lucidchart/1d7753bc-2ef3-4485-8b8c-cfd7e119defb/edit?view_items=7crsvUt5MiZ_&invitationId=inv_738c0520-b232-4d6d-bbca-a1c0eba60e98) |
 
-Para poder ver mejor el Wireflow, este es el link del lucidchart -> [Lucidchart](https://lucid.app/lucidchart/1d7753bc-2ef3-4485-8b8c-cfd7e119defb/edit?view_items=7crsvUt5MiZ_&invitationId=inv_738c0520-b232-4d6d-bbca-a1c0eba60e98)
+**User goal:** Usuario se registra o inicia sesión a la aplicación con credenciales
+
+<img src="img-wireflow1.png" alt=" " style="width: 380;"></img>
+
+**Descripción:** Al entrar en la aplicación, el usuario se encontrará con una página con dos opciones: Si es que tiene una cuenta creada o si es nuevo en la aplicación. En caso de que sea nuevo, le redireccionara a la opción de Registro. En caso contrario, de que el usuario ya tiene una cuenta, lo direccionara a la página de Inicio de Sesión.
+
+
+**User goal:** Perfil de usuario
+
+<img src="img-wireflow2.png" alt=" " style="width: 380;"></img>
+
+**Descripción:** El usuario puede visualizar una barra de navegación lateral con la foto de perfil y nombres en la paarte superior. Al darle click a su foto de perfil, podra visualizar los detalles de su cuenta.
+
+
+**User goal:** Creación de organización
+
+<img src="img-wireflow3.png" alt=" " style="width: 380;"></img>
+
+**Descripción:** El usuario al dar click en el icono de **"+"**, podra crear una nueva organización
+
+
+**User goal:** Perfil de organización y suscripción
+
+<img src="img-wireflow4.png" alt=" " style="width: 380;"></img>
+
+**Descripción:** El usuario al hacer click en la imagen de la organización previamente creada, podrá visualizar los datos de esta
+
+
+**User goal:** Visualizar las planillas hechas previamente
+
+<img src="img-wireflow5.png" alt=" " style="width: 380;"></img>
+
+**Descripción:** El usuario al dar click en una planilla hecha previamente, podrá visualizar y editar la planilla hecha.
+
+**User goal:** Creación de nuevas planillas
+
+<img src="img-wireflow6.png" alt=" " style="width: 380;"></img>
+
+**Descripción:** El usuario al hacer click en el icono de **"+"**, podra crear una nueva planilla, visualizando un estilo de excel, para que los usuario puedan sentirse familiarizados.
 
 ### 4.4.2. Web Applications Mock-ups
 
-<img src="static/img/Chapter 4/img-webaplicationmockup.png" alt=" " style="width: 65;"></img>
+**User goal:** Usuario se registra o inicia sesión a la aplicación con credenciales
 
-Para poder ver el Mock-up completo, este es el link de Figma -> [Figma](https://www.figma.com/file/V8WMiF3a2LgTBpJKDA6flY/Mockup?type=design&mode=design&t=0KnNllAIDZqRZnLP-1) 
+Registro de cuentas
+
+<img src="img-mockup9.png" alt=" " style="width: 350;"></img>
+
+Inicio de sesión
+
+<img src="img-mockup8.png" alt=" " style="width: 350;"></img>
+
+Aplicación de creación de planillas
+
+<img src="img-mockup14.png" alt=" " style="width: 350;"></img>
+
+
+**User goal:** Perfil de usuario
+
+<img src="img-mockup11.png" alt=" " style="width: 350;"></img>
+
+**User goal:** Creación de organización
+
+<img src="img-mockup13.png" alt=" " style="width: 350;"></img>
+
+**User goal:** Perfil de organización y suscripción
+
+<img src="img-mockup13.png" alt=" " style="width: 350;"></img>
+
+**User goal:** Visualizar las planillas hechas previamente
+
+<img src="img-mockup15.png" alt=" " style="width: 350;"></img>
+
+**User goal:** Creación de nuevas planillas
+
+<img src="img-mockup15.png" alt=" " style="width: 350;"></img>
 
 ### 4.4.3. Web Applications User Flow Diagrams
 
-<img src="static/img/Chapter 4/img-userflow.png" alt=" " style="width: 65;"></img>
+| Links LucidChart Wireflow |
+|-----------------------------------|
+| [LucidChart Wireflow](https://lucid.app/lucidchart/5de1ec5e-e8cf-4908-bb2c-128ac71bb507/edit?viewport_loc=-3560%2C5048%2C3389%2C1367%2C0_0&invitationId=inv_912178d8-2592-4cee-bb1e-576a04f2c013) |
 
-Para poder ver el Mock-up completo, este es el link de Figma -> [Figma](https://lucid.app/lucidchart/5de1ec5e-e8cf-4908-bb2c-128ac71bb507/edit?viewport_loc=-3774%2C-1589%2C6470%2C2610%2C0_0&invitationId=inv_912178d8-2592-4cee-bb1e-576a04f2c013) 
+**User goal:** Usuario se registra o inicia sesión a la aplicación con credenciales
+
+<img src="img-userflow1.png" alt=" " style="width: 380;"></img>
+
+**Descripción:** Al entrar en la aplicación, el usuario se encontrará con una página con dos opciones: Si es que tiene una cuenta creada o si es nuevo en la aplicación. En caso de que sea nuevo, le redireccionara a la opción de Registro. En caso contrario, de que el usuario ya tiene una cuenta, lo direccionara a la página de Inicio de Sesión.
+
+
+**User goal:** Perfil de usuario
+
+<img src="img-userflow2.png" alt=" " style="width: 380;"></img>
+
+**Descripción:** El usuario puede visualizar una barra de navegación lateral con la foto de perfil y nombres en la paarte superior. Al darle click a su foto de perfil, podra visualizar los detalles de su cuenta.
+
+
+**User goal:** Creación de organización
+
+<img src="img-userflow3.png" alt=" " style="width: 380;"></img>
+
+**Descripción:** El usuario al dar click en el icono de **"+"**, podra crear una nueva organización
+
+
+**User goal:** Perfil de organización y suscripción
+
+<img src="img-userflow4.png" alt=" " style="width: 380;"></img>
+
+**Descripción:** El usuario al hacer click en la imagen de la organización previamente creada, podrá visualizar los datos de esta
+
+
+**User goal:** Visualizar las planillas hechas previamente
+
+<img src="img-userflow5.png" alt=" " style="width: 380;"></img>
+
+**Descripción:** El usuario al dar click en una planilla hecha previamente, podrá visualizar y editar la planilla hecha.
+
+**User goal:** Creación de nuevas planillas
+
+<img src="img-userflow6.png" alt=" " style="width: 380;"></img>
+
+**Descripción:** El usuario al hacer click en el icono de **"+"**, podra crear una nueva planilla, visualizando un estilo de excel, para que los usuario puedan sentirse familiarizados.
 
 ## 4.5. Web Applications Prototyping
 
-<img src="static/img/Chapter 4/img-prototyping.png" alt=" " style="width: 65;"></img>
+| Links Figma Prototyping |
+|-----------------------------------|
+| [Figma Prototyping](https://www.figma.com/file/YxrOLUAqkGsL86OvtCETzt/Planifi-LandingPage-Desktop?type=design&node-id=0%3A1&mode=design&t=v8WiX0skrLBB62Vv-1) |
 
-Para poder ver el Prototyping completo, este es el link de Figma -> [Figma](https://www.figma.com/file/J2WmEmCOA2HhjX7tGpNAeL/Prototyping?type=design&node-id=0%3A1&mode=design&t=eZRcWMJBdPIy07xF-1) 
-
-El video en Microsoft Stream se encuentra en el siguiente link -> [Prototyping-Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c769_upc_edu_pe/EUvAHVnN54BFm9W9tFnD5yQBMFIIwjEm17-9SUyNNFWNog?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=37HTrZ)
+| Links Video Prototyping |
+|-----------------------------------|
+| [Prototyping-Video-Expo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c769_upc_edu_pe/EXqS3hKOmCVBuEl3ONreaf4BT9FE8ItqC2R3xyz_kyk0tA?e=FH0YOp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
 
 ## 4.6. Domain-Driven Software Architecture
 ## 4.6.1. Software Architecture Context Diagram
