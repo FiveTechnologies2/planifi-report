@@ -2406,7 +2406,10 @@ Implementar la landing page en el servidor de producción utilizando Visual Stud
   </tr>
 </table>
 
-#### 5.2.1.2. Sprint Backlog 1.
+#### 5.2.1.2. Sprint Backlog 1
+
+<img src="static/img/Chapter 5/img-sprintbacklog1.jpg" alt=" " style="width: 65;"></img>
+
 <table border="1">
   <tr>
     <th>Sprint #</th>
@@ -2420,7 +2423,7 @@ Implementar la landing page en el servidor de producción utilizando Visual Stud
     <th>Status (To-do / In-Process / To-Review / Done)</th>
   </tr>
   <tr>
-    <td rowspan="6">Sprint 1</td>
+    
     <td rowspan="6">US08: Informacion presentada en el landing page</td>
     <td>TA01</td>
     <td>#182062223</td>
