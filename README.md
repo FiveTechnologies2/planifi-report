@@ -1,4 +1,4 @@
-<hr>
+<hr> 
 
 # <center>COURSE PROJECT</center>
 
@@ -2208,35 +2208,35 @@ Nuestra decisión del diseño y la arquitectura es usar una forma más minimalis
 | [Figma Landing Page Wireframe](https://www.figma.com/file/YxrOLUAqkGsL86OvtCETzt/Planifi-LandingPage-Desktop?type=design&node-id=0%3A1&mode=design&t=MnLXFA9YuTbWeQg0-1) |
 
 
-<img src="img-wireframe1.png" alt=" " style="width: 65;"></img>
+<img src="static/img/Chapter 4/img-wireframe1.png" alt=" " style="width: 65;"></img>
 
-<img src="img-wireframe2.png" alt=" " style="width: 65;"></img>
+<img src="static/img/Chapter 4/img-wireframe2.png" alt=" " style="width: 65;"></img>
 
-<img src="img-wireframe3.png" alt=" " style="width: 65;"></img>
+<img src="static/img/Chapter 4/img-wireframe3.png" alt=" " style="width: 65;"></img>
 
-<img src="img-wireframe4.png" alt=" " style="width: 65;"></img>
+<img src="static/img/Chapter 4/img-wireframe4.png" alt=" " style="width: 65;"></img>
 
-<img src="img-wireframe6.png" alt=" " style="width: 65;"></img>
+<img src="static/img/Chapter 4/img-wireframe6.png" alt=" " style="width: 65;"></img>
 
-<img src="img-wireframe5.png" alt=" " style="width: 65;"></img>
+<img src="static/img/Chapter 4/img-wireframe5.png" alt=" " style="width: 65;"></img>
 
-<img src="img-wireframe7.png" alt=" " style="width: 65;"></img>
+<img src="static/img/Chapter 4/img-wireframe7.png" alt=" " style="width: 65;"></img>
 
-<img src="img-wireframe8.png" alt=" " style="width: 65;"></img>
+<img src="static/img/Chapter 4/img-wireframe8.png" alt=" " style="width: 65;"></img>
 
-<img src="img-wireframe9.png" alt=" " style="width: 65;"></img>
+<img src="static/img/Chapter 4/img-wireframe9.png" alt=" " style="width: 65;"></img>
 
-<img src="img-wireframe10.png" alt=" " style="width: 65;"></img>
+<img src="static/img/Chapter 4/img-wireframe10.png" alt=" " style="width: 65;"></img>
 
-<img src="img-wireframe11.png" alt=" " style="width: 65;"></img>
+<img src="static/img/Chapter 4/img-wireframe11.png" alt=" " style="width: 65;"></img>
 
 <img src="img-wireframe12.png" alt=" " style="width: 65;"></img>
 
-<img src="img-wireframe13.png" alt=" " style="width: 65;"></img>
+<img src="static/img/Chapter 4/img-wireframe13.png" alt=" " style="width: 65;"></img>
 
-<img src="img-wireframe14.png" alt=" " style="width: 65;"></img>
+<img src="static/img/Chapter 4/img-wireframe14.png" alt=" " style="width: 65;"></img>
 
-<img src="img-wireframe15.png" alt=" " style="width: 65;"></img>
+<img src="static/img/Chapter 4/img-wireframe15.png" alt=" " style="width: 65;"></img>
 
 
 ### 4.3.2. Landing Page Mock-up 
@@ -2246,35 +2246,35 @@ Nuestra decisión del diseño y la arquitectura es usar una forma más minimalis
 | [Figma Landing Page Mock-up](https://www.figma.com/file/YxrOLUAqkGsL86OvtCETzt/Planifi-LandingPage-Desktop?type=design&node-id=0%3A1&mode=design&t=MnLXFA9YuTbWeQg0-1) |
 
 
-<img src="img-mockup1.png" alt=" " style="width: 65;"></img>
+<img src="static/img/Chapter 4/img-mockup1.png" alt=" " style="width: 65;"></img>
 
-<img src="img-mockup2.png" alt=" " style="width: 65;"></img>
+<img src="static/img/Chapter 4/img-mockup2.png" alt=" " style="width: 65;"></img>
 
-<img src="img-mockup3.png" alt=" " style="width: 65;"></img>
+<img src="static/img/Chapter 4/img-mockup3.png" alt=" " style="width: 65;"></img>
 
-<img src="img-mockup4.png" alt=" " style="width: 65;"></img>
+<img src="static/img/Chapter 4/img-mockup4.png" alt=" " style="width: 65;"></img>
 
-<img src="img-mockup6.png" alt=" " style="width: 65;"></img>
+<img src="static/img/Chapter 4/img-mockup6.png" alt=" " style="width: 65;"></img>
 
-<img src="img-mockup5.png" alt=" " style="width: 65;"></img>
+<img src="static/img/Chapter 4/img-mockup5.png" alt=" " style="width: 65;"></img>
 
-<img src="img-mockup7.png" alt=" " style="width: 65;"></img>
+<img src="static/img/Chapter 4/img-mockup7.png" alt=" " style="width: 65;"></img>
 
-<img src="img-mockup8.png" alt=" " style="width: 65;"></img>
+<img src="static/img/Chapter 4/img-mockup8.png" alt=" " style="width: 65;"></img>
 
-<img src="img-mockup9.png" alt=" " style="width: 65;"></img>
+<img src="static/img/Chapter 4/img-mockup9.png" alt=" " style="width: 65;"></img>
 
-<img src="img-mockup10.png" alt=" " style="width: 65;"></img>
+<img src="static/img/Chapter 4/img-mockup10.png" alt=" " style="width: 65;"></img>
 
-<img src="img-mockup11.png" alt=" " style="width: 65;"></img>
+<img src="static/img/Chapter 4/img-mockup11.png" alt=" " style="width: 65;"></img>
 
-<img src="img-mockup12.png" alt=" " style="width: 65;"></img>
+<img src="static/img/Chapter 4/img-mockup12.png" alt=" " style="width: 65;"></img>
 
-<img src="img-mockup13.png" alt=" " style="width: 65;"></img>
+<img src="static/img/Chapter 4/img-mockup13.png" alt=" " style="width: 65;"></img>
 
-<img src="img-mockup14.png" alt=" " style="width: 65;"></img>
+<img src="static/img/Chapter 4/img-mockup14.png" alt=" " style="width: 65;"></img>
 
-<img src="img-mockup15.png" alt=" " style="width: 65;"></img>
+<img src="static/img/Chapter 4/img-mockup15.png" alt=" " style="width: 65;"></img>
 
 ## 4.4. Web Applications UX/UI Design 
 
@@ -2284,36 +2284,36 @@ Nuestra decisión del diseño y la arquitectura es usar una forma más minimalis
 
 Registro de cuentas
 
-<img src="img-wireframe9.png" alt=" " style="width: 350;"></img>
+<img src="static/img/Chapter 4/img-wireframe9.png" alt=" " style="width: 350;"></img>
 
 Inicio de sesión
 
-<img src="img-wireframe8.png" alt=" " style="width: 350;"></img>
+<img src="static/img/Chapter 4/img-wireframe8.png" alt=" " style="width: 350;"></img>
 
 Aplicación de creación de planillas
 
-<img src="img-wireframe14.png" alt=" " style="width: 350;"></img>
+<img src="static/img/Chapter 4/img-wireframe14.png" alt=" " style="width: 350;"></img>
 
 
 **User goal:** Perfil de usuario
 
-<img src="img-wireframe11.png" alt=" " style="width: 350;"></img>
+<img src="static/img/Chapter 4/img-wireframe11.png" alt=" " style="width: 350;"></img>
 
 **User goal:** Creación de organización
 
-<img src="img-wireframe13.png" alt=" " style="width: 350;"></img>
+<img src="static/img/Chapter 4/img-wireframe13.png" alt=" " style="width: 350;"></img>
 
 **User goal:** Perfil de organización y suscripción
 
-<img src="img-wireframe13.png" alt=" " style="width: 350;"></img>
+<img src="static/img/Chapter 4/img-wireframe13.png" alt=" " style="width: 350;"></img>
 
 **User goal:** Visualizar las planillas hechas previamente
 
-<img src="img-wireframe15.png" alt=" " style="width: 350;"></img>
+<img src="static/img/Chapter 4/img-wireframe15.png" alt=" " style="width: 350;"></img>
 
 **User goal:** Creación de nuevas planillas
 
-<img src="img-wireframe15.png" alt=" " style="width: 350;"></img>
+<img src="static/img/Chapter 4/img-wireframe15.png" alt=" " style="width: 350;"></img>
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
@@ -2323,41 +2323,41 @@ Aplicación de creación de planillas
 
 **User goal:** Usuario se registra o inicia sesión a la aplicación con credenciales
 
-<img src="img-wireflow1.png" alt=" " style="width: 380;"></img>
+<img src="static/img/Chapter 4/img-wireflow1.png" alt=" " style="width: 380;"></img>
 
 **Descripción:** Al entrar en la aplicación, el usuario se encontrará con una página con dos opciones: Si es que tiene una cuenta creada o si es nuevo en la aplicación. En caso de que sea nuevo, le redireccionara a la opción de Registro. En caso contrario, de que el usuario ya tiene una cuenta, lo direccionara a la página de Inicio de Sesión.
 
 
 **User goal:** Perfil de usuario
 
-<img src="img-wireflow2.png" alt=" " style="width: 380;"></img>
+<img src="static/img/Chapter 4/img-wireflow2.png" alt=" " style="width: 380;"></img>
 
 **Descripción:** El usuario puede visualizar una barra de navegación lateral con la foto de perfil y nombres en la paarte superior. Al darle click a su foto de perfil, podra visualizar los detalles de su cuenta.
 
 
 **User goal:** Creación de organización
 
-<img src="img-wireflow3.png" alt=" " style="width: 380;"></img>
+<img src="static/img/Chapter 4/img-wireflow3.png" alt=" " style="width: 380;"></img>
 
 **Descripción:** El usuario al dar click en el icono de **"+"**, podra crear una nueva organización
 
 
 **User goal:** Perfil de organización y suscripción
 
-<img src="img-wireflow4.png" alt=" " style="width: 380;"></img>
+<img src="static/img/Chapter 4/img-wireflow4.png" alt=" " style="width: 380;"></img>
 
 **Descripción:** El usuario al hacer click en la imagen de la organización previamente creada, podrá visualizar los datos de esta
 
 
 **User goal:** Visualizar las planillas hechas previamente
 
-<img src="img-wireflow5.png" alt=" " style="width: 380;"></img>
+<img src="static/img/Chapter 4/img-wireflow5.png" alt=" " style="width: 380;"></img>
 
 **Descripción:** El usuario al dar click en una planilla hecha previamente, podrá visualizar y editar la planilla hecha.
 
 **User goal:** Creación de nuevas planillas
 
-<img src="img-wireflow6.png" alt=" " style="width: 380;"></img>
+<img src="static/img/Chapter 4/img-wireflow6.png" alt=" " style="width: 380;"></img>
 
 **Descripción:** El usuario al hacer click en el icono de **"+"**, podra crear una nueva planilla, visualizando un estilo de excel, para que los usuario puedan sentirse familiarizados.
 
@@ -2367,36 +2367,36 @@ Aplicación de creación de planillas
 
 Registro de cuentas
 
-<img src="img-mockup9.png" alt=" " style="width: 350;"></img>
+<img src="static/img/Chapter 4/img-mockup9.png" alt=" " style="width: 350;"></img>
 
 Inicio de sesión
 
-<img src="img-mockup8.png" alt=" " style="width: 350;"></img>
+<img src="static/img/Chapter 4/img-mockup8.png" alt=" " style="width: 350;"></img>
 
 Aplicación de creación de planillas
 
-<img src="img-mockup14.png" alt=" " style="width: 350;"></img>
+<img src="static/img/Chapter 4/img-mockup14.png" alt=" " style="width: 350;"></img>
 
 
 **User goal:** Perfil de usuario
 
-<img src="img-mockup11.png" alt=" " style="width: 350;"></img>
+<img src="static/img/Chapter 4/img-mockup11.png" alt=" " style="width: 350;"></img>
 
 **User goal:** Creación de organización
 
-<img src="img-mockup13.png" alt=" " style="width: 350;"></img>
+<img src="static/img/Chapter 4/img-mockup13.png" alt=" " style="width: 350;"></img>
 
 **User goal:** Perfil de organización y suscripción
 
-<img src="img-mockup13.png" alt=" " style="width: 350;"></img>
+<img src="static/img/Chapter 4/img-mockup13.png" alt=" " style="width: 350;"></img>
 
 **User goal:** Visualizar las planillas hechas previamente
 
-<img src="img-mockup15.png" alt=" " style="width: 350;"></img>
+<img src="static/img/Chapter 4/img-mockup15.png" alt=" " style="width: 350;"></img>
 
 **User goal:** Creación de nuevas planillas
 
-<img src="img-mockup15.png" alt=" " style="width: 350;"></img>
+<img src="static/img/Chapter 4/img-mockup15.png" alt=" " style="width: 350;"></img>
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
@@ -2406,41 +2406,41 @@ Aplicación de creación de planillas
 
 **User goal:** Usuario se registra o inicia sesión a la aplicación con credenciales
 
-<img src="img-userflow1.png" alt=" " style="width: 380;"></img>
+<img src="static/img/Chapter 4/img-userflow1.png" alt=" " style="width: 380;"></img>
 
 **Descripción:** Al entrar en la aplicación, el usuario se encontrará con una página con dos opciones: Si es que tiene una cuenta creada o si es nuevo en la aplicación. En caso de que sea nuevo, le redireccionara a la opción de Registro. En caso contrario, de que el usuario ya tiene una cuenta, lo direccionara a la página de Inicio de Sesión.
 
 
 **User goal:** Perfil de usuario
 
-<img src="img-userflow2.png" alt=" " style="width: 380;"></img>
+<img src="static/img/Chapter 4/img-userflow2.png" alt=" " style="width: 380;"></img>
 
 **Descripción:** El usuario puede visualizar una barra de navegación lateral con la foto de perfil y nombres en la paarte superior. Al darle click a su foto de perfil, podra visualizar los detalles de su cuenta.
 
 
 **User goal:** Creación de organización
 
-<img src="img-userflow3.png" alt=" " style="width: 380;"></img>
+<img src="static/img/Chapter 4/img-userflow3.png" alt=" " style="width: 380;"></img>
 
 **Descripción:** El usuario al dar click en el icono de **"+"**, podra crear una nueva organización
 
 
 **User goal:** Perfil de organización y suscripción
 
-<img src="img-userflow4.png" alt=" " style="width: 380;"></img>
+<img src="static/img/Chapter 4/img-userflow4.png" alt=" " style="width: 380;"></img>
 
 **Descripción:** El usuario al hacer click en la imagen de la organización previamente creada, podrá visualizar los datos de esta
 
 
 **User goal:** Visualizar las planillas hechas previamente
 
-<img src="img-userflow5.png" alt=" " style="width: 380;"></img>
+<img src="static/img/Chapter 4/img-userflow5.png" alt=" " style="width: 380;"></img>
 
 **Descripción:** El usuario al dar click en una planilla hecha previamente, podrá visualizar y editar la planilla hecha.
 
 **User goal:** Creación de nuevas planillas
 
-<img src="img-userflow6.png" alt=" " style="width: 380;"></img>
+<img src="static/img/Chapter 4/img-userflow6.png" alt=" " style="width: 380;"></img>
 
 **Descripción:** El usuario al hacer click en el icono de **"+"**, podra crear una nueva planilla, visualizando un estilo de excel, para que los usuario puedan sentirse familiarizados.
 
