@@ -1759,11 +1759,24 @@ Implementar la landing page en el servidor de producción utilizando Visual Stud
   </tr>
 </table>
 - 5.2.1.2. Sprint Backlog 1.
+<img src="static/img/Chapter 5/img-sprintbacklog1.jpg" alt=" " style="width: 65;"></img>
+
 <table border="1">
+<tr>
+  <th colspan='2'>
+  Sprint #
+  </th>
+  <th colspan='8'>
+  Sprint 1
+  </th>
+</tr>
+<tr>
+ <th colspan='2'>User Story</th>
+    <th colspan='8'>Work-item/Task</th>
+</tr>
   <tr>
-    <th>Sprint #</th>
-    <th>User Story</th>
-    <th>Work-item/Task</th>
+    <th>Id</th>
+    <th>Title</th>
     <th>Id</th>
     <th>Title</th>
     <th>Description</th>
@@ -1772,90 +1785,92 @@ Implementar la landing page en el servidor de producción utilizando Visual Stud
     <th>Status (To-do / In-Process / To-Review / Done)</th>
   </tr>
   <tr>
-    <td rowspan="6">Sprint 1</td>
-    <td rowspan="6">US08: Informacion presentada en el landing page</td>
-    <td>TA01</td>
-    <td>#182062223</td>
-    <td>Agregar sección de about the team</td>
+    <td>E01-US01</td>
+    <td>Barra de navegación en Landing Page</td>
+    <td>W01</td>
+    <td>Navigation bar on Landing Page</td>
     <td>Se creará un botón que dirija a la seccion about the team.</td>
-    <td>2</td>
+    <td>0.5</td>
     <td>Carito</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td>TA02</td>
-    <td>#182062223</td>
-    <td>Añadir tarjetas de información</td>
+    <td>E01-US02</td>
+    <td>Dirigir a la aplicación a través del Landing Page</td>
+    <td>W02</td>
+    <td>Directing users to the application via the Landing Page</td>
     <td>Para la sección de ‘conócenos’, se añadirá un listado de tarjetas (imágenes con texto) que muestren los beneficios que ofrece la app.</td>
-    <td>4</td>
+    <td>0.5</td>
     <td>Carito</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td>TA03</td>
-    <td>#182062223</td>
-    <td>Añadir tarjetas de servicios para clientes</td>
-    <td>Se añadirá un listado de tarjetas (imágenes con texto) que muestren los servicios que ofrece la app.</td>
-    <td>4</td>
-    <td>Carito</td>
-    <td>Done</td>
-  </tr>
-
-  <tr>
-    <td>TA05</td>
-    <td>#182062223</td>
-    <td>Añadir datos resaltantes</td>
-    <td>Agregar una sección que cuente con los datos numéricos y/o estadísticos de las empresas.</td>
-    <td>2</td>
-    <td>Ramón</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>TA06</td>
-    <td>#182062223</td>
-    <td>Agregar encabezados de secciones</td>
-    <td>Colocar un encabezado que indique en qué sección se encuentra el usuario.</td>
-    <td>1</td>
-    <td>Ramón</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>TA01</td>
-    <td>#182062235</td>
-    <td>Añadir sección ‘contáctanos’</td>
-    <td>Se creará una sección al final del Landing Page que esté dedicada totalmente al contacto con la empresa.</td>
+    <td>E01-US03</td>
+    <td>Sección de testimonios del Landing Page</td>
+    <td>W03</td>
+    <td>Testimonials section of the Landing Page</td>
+    <td>Implementar testimonios de clientes</td>
     <td>2</td>
     <td>Carito</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td rowspan="2">Sprint 1</td>
-    <td rowspan="2">HU32: Traslación en el Landing Page</td>
-    <td>TA01</td>
-    <td>#182267507</td>
-    <td>Crear encabezado del Landing Page</td>
-    <td>Se añadirá un encabezado que contenga el logo de SwiftShip al inicio de la página.</td>
+    <td>E01-US04</td>
+    <td>Sección de beneficios del Landing Page</td>
+    <td>W04</td>
+    <td>Benefits section of the Landing Page</td>
+    <td>Definir los beneficios de la app</td>
     <td>1</td>
     <td>Ramón</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td>TA02</td>
-    <td>#182267507</td>
-    <td>Programar botones de secciones en el encabezado</td>
-    <td>Se crearán botones en el inicio que te lleven a distintas secciones de la página.</td>
-    <td>3</td>
-    <td>Carito</td>
+    <td>E01-US05</td>
+    <td>Sección de ubicación del Landing Page</td>
+    <td>W05</td>
+    <td>Location section of the Landing Page</td>
+    <td>Definir los beneficios de la app</td>
+    <td>1</td>
+    <td>Ramón</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td rowspan="1">Sprint 1</td>
-    <td rowspan="1">HU33: Acceso a redes sociales</td>
-    <td>TA01</td>
-    <td>#182267516</td>
-    <td>Añadir botones de redes sociales</td>
-    <td>Se añadirán botones que te lleven a las distintas redes sociales de la página en el footer.</td>
-    <td>3</td>
+    <td>E01-US06</td>
+    <td>Sección de contacto del Landing Page</td>
+    <td>W06</td>
+    <td>Contact section of the Landing Page</td>
+    <td>Implementar medio de contacto para el usuario</td>
+    <td>0.5</td>
+    <td>Carito</td>
+    <td>Done</td>
+  </tr>
+   <tr>
+    <td>E01-US07</td>
+    <td>Sección de planes del Landing Page</td>
+    <td>W07</td>
+    <td>Plans section of the Landing Page</td>
+    <td>Definir los planes a contratar por el usuario</td>
+    <td>1</td>
+    <td>Carito</td>
+    <td>Done</td>
+  </tr>
+   <tr>
+    <td>E01-US08</td>
+    <td>Footer a la aplicación en el Landing Page</td>
+    <td>W08</td>
+    <td>Footer to the application on the Landing Page</td>
+    <td>Implementar footer section con sus respectivos links</td>
+    <td>0.5</td>
+    <td>Carito</td>
+    <td>Done</td>
+  </tr>
+   <tr>
+    <td>E01-US09</td>
+    <td>Versión en inglés y español del Landing Page</td>
+    <td>W09</td>
+    <td>English and Spanish versions of the Landing Page</td>
+    <td>Implementar la opción de lenguaje</td>
+    <td>0.5</td>
     <td>Carito</td>
     <td>Done</td>
   </tr>
