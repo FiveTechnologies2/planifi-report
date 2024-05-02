@@ -65,22 +65,140 @@
         <tbody>
             <tr>
                 <th>1.0</th>
-                <td>04/13/2024</td>
-                <td>Five Technologies</td>
-                <td>Entrega de la primera versión del TB1 de Aplicaciones Web: Landing Page.</td>
+                <td>04/09/2024</td>
+                <td>Ricardo Barrutia</td>
+                <td>Se añadiò el Startup profile.</td>
             </tr>
-      </tbody>
+              <tr>                
+                <th>1.1</th>
+                <td>04/09/2024</td>
+                <td>Ricardo Barrutia</td>
+                <td>Se añadiò el Solution profile.</td>
+             </tr>
+              <tr>
+                <th>1.2</th>
+                <td>04/09/2024</td>
+                <td>Rodrigo Zagaceta</td>
+                <td>Se agregò la secciòn de los competidores.</td>
+            </tr> 
+            <tr>                
+                <th>1.3</th>
+                <td>04/09/2024</td>
+                <td>Rodrigo Zagaceta</td>
+                <td>Se agregaron las entrevistas.</td>
+             </tr>  
+            <tr>                
+                <th>1.4</th>
+                <td>04/09/2024</td>
+                <td>Rodrigo Zagaceta</td>
+                <td>Se agregò el Needfinding.</td>
+             </tr>  
+            <tr>                
+                <th>1.5</th>
+                <td>04/10/2024</td>
+                <td>Gianfranco Luna</td>
+                <td>Se agregó los User Stories.</td>
+             </tr>   
+            <tr>                
+                <th>1.6</th>
+                <td>04/10/2024</td>
+                <td>Gianfranco Luna</td>
+                <td>Se agregó le Product Backlog.</td>
+             </tr>  
+            <tr>                
+                <th>1.7</th>
+                <td>04/12/2024</td>
+                <td>Ramón Jorge</td>
+                <td>Se agregó el C4 Model.</td>
+             </tr> 
+            <tr>                
+                <th>1.8</th>
+                <td>04/12/2024</td>
+                <td>Ramón Jorge</td>
+                <td>Se agregó el Diagram Class y el Database Diagram.</td>
+             </tr>   
+            <tr>                
+                <th>1.9</th>
+                <td>04/12/2024</td>
+                <td>Karito Medina</td>
+                <td>Se agregó el CodeStyle guide and conventions.</td>
+             </tr>  
+            <tr>                
+                <th>1.10</th>
+                <td>04/12/2024</td>
+                <td>Karito Medina</td>
+                <td>Se agregó los  Landing Page UI Design.</td>
+             </tr>  
+            <tr>                
+                <th>1.11</th>
+                <td>04/12/2024</td>
+                <td>Karito Medina</td>
+                <td>Se agregó Wireframes y Mockups.</td>
+             </tr>       
+            <tr>                
+                <th>1.12</th>
+                <td>04/13/2024</td>
+                <td>Karito Medina, Ramón Jorge, Rodrigo Zagaceta, Gianfranco Luna, Ricardo Barrutia.</td>
+                <td>Se revisó el Sprint 1.</td>
+             </tr>       
+            <th>2.1</th>
+                <td>04/13/2024</td>
+                <td>Ricardo Barrutia.</td>
+                <td>Mejora continua: Lean UX Process & Software Development Environment Configuration </td>
+             </tr>
+        </tbody>
 </table>
 
 <br><br>
 # Project Report Collaboration Insights
+Link del repositorio del reporte del TB1: https://github.com/FiveTechnologies2/planifi-report
+
+Para el presente informe, se llevaron a cabo reuniones y se distribuyeron los puntos a elaborar para la entrega actual, correspondientes a los Capítulos I hasta el Capítulo V: Sprint 1. Quedando de la siguiente manera:
+- Imágen de las Contribuciones del equipo:
+<br>
+<br>
+<td><img src="static/img/Chapter 1/img-contributors-team.png" alt="Contribuciones del equipo" width="50%";"></img></td>
+<p>Ricardo Barrutia</p>
+- Imágen de las Contribuciones:
+<br>
+<br>
+<td><img src="static/img/Chapter 1/img-contributors-ricardo.png" alt="Contribuciones Ricardo" width="50%";"></img></td>
+
+<br>
+- Imágen de los Commits:
+<td><img src="static/img/Chapter 1/img-commits-ricardo.png" alt="Commits Ricardo" width="50%";"></img></td>
+<p>Rodrigo Zagaceta</p>
+- Imágen de las Contribuciones:
+<td><img src="static/img/Chapter 1/img-contributors-rodrigo.png" alt="Contribuciones Rodrigo" width="50%";"></img></td>
+- Imágen de los Commits:
+<td><img src="static/img/Chapter 1/img-commits-rodrigo.png" alt="Commits Rodrigo" width="50%";"></img></td>
+<p>Gianfranco Luna</p>
+- Imágen de las Contribuciones:
+<td><img src="static/img/Chapter 1/img-contributors-gianfranco.png" alt="Contribuciones Gianfranco" width="50%";"></img></td>
+- Imágen de los Commits:
+<td><img src="static/img/Chapter 1/img-commits-gianfranco.png" alt="Commits Gianfranco" width="50%";"></img></td>
+<p>Karito Medina</p>
+- Imágen de las Contribuciones:
+<td><img src="static/img/Chapter 1/img-contributors-karito.png" alt="Contribuciones Karito" width="50%";"></img></td>
+- Imágen de los Commits:
+<td><img src="static/img/Chapter 1/img-commits-karito.png" alt="Commits Karito" width="50%";"></img></td>
+<p>Ramón Jorge</p>
+- Imágen de las Contribuciones:
+<td><img src="static/img/Chapter 1/img-contributors-ramon.png" alt="Contribuciones Ramon" width="50%";"></img></td>
+- Imágen de los Commits:
+<td><img src="static/img/Chapter 1/img-commits-ramon.png" alt="Commits Ramon" width="50%";"></img></td>
+<p>Todos los integrantes del grupo apoyamos para la realiazación del Capítulo V</p>
+- Imágenes de los Commits:
+<td><img src="static/img/Chapter 1/img-commits-cap5-part1.png" alt="Commits Capítulo 5 Parte 1" width="50%";"></img></td>
+<td><img src="static/img/Chapter 1/img-commits-cap5-part2.png" alt="Commits Capítulo 5 Parte 2" width="50%";"></img></td>
+<td><img src="static/img/Chapter 1/img-commits-cap5-part3.png" alt="Commits Capítulo 5 Parte 3" width="50%";"></img></td>
 <br><br>
 
-## [Registro de Versiones del Informe](#registro-de-versiones-del-informe-1)
-## [Project Report Collaboration Insights](#project-report-collaboration-insights-1)
+## [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
+## [Project Report Collaboration Insights](#project-report-collaboration-insights)
 
-## [Contenido](#contenido-1)
-## [Tabla de contenidos](#tabla-de-contenidos-1)
+## [Contenido](#contenido)
+## [Tabla de contenidos](#tabla-de-contenidos)
 ## [Student Outcome](#student-outcome-1)
 
 ## [Capítulo I: Introducción](#capítulo-i-introducción-1)
@@ -134,8 +252,8 @@
 - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
    - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
    - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
-   - [4.4.2. Web Applications Mock-ups](#443-web-applications-mock-ups)
-   - [4.4.3. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
+   - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
+   - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
 - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
 - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
    - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
@@ -178,7 +296,12 @@
     <td><b>Conclusiones</b></td>
   </tr>
   <tr>
-    <td><b>5.c.1 Trabaja en equipo para proporcionar liderazgo en forma conjunta.</b></td>
+    <td><b>Participa en equipos
+multidisciplinarios con eficacia,
+eficiencia y objetividad, en el
+marco de un proyecto en
+soluciones de ingeniería de
+software.</b></td>
     <td> TB1<br><br>
          <b>Luna Morales, Gianfranco</b><br>
 Se realizó los puntos del Capítulo 3
@@ -211,21 +334,8 @@ Realizó puntos desde el 4.6 hasta el final del capítulo 4, incluyendo el C4 Mo
 Se organizó con el equipo para elaborar las partes del informe y de la Landing Page.
         <br><br> 
 <b>Barrutia Vaez, Ricardo Andree</b> <br>
-          - Startup Profile
-          - Descripción de la Startup
-          - Perfiles de integrantes del equipo
-          - Solution Profile
-          - Antecedentes y problemática
-          - Lean UX Process
-          - Lean UX Problem Statements
-          - Lean UX Assumptions
-          - Lean UX Hypothesis Statements
-          - Lean UX Canvas
-          - Segmentos objetivo.
-          - Software Configuration Management
-          - Software Development Environment Configuration
-        <br><br>
-        
+         Durante el desarrollo del TB1, mi aporte principal fue la elaboración del capítulo I, modificación del curso del proyecto, una sección del capítulo 5 y la creación del Trello para la gestion del proyecto.
+
 <b>Zagaceta Bardales, Rodrigo Enrique</b>
 
 Se llevó a cabo la recopilación de entrevistas para un mejor acercamiento hacia los segmentos objetivos y una elaboración más exacta del proceso de Needfinding que es de utilidad para la eficiencia del startup.
@@ -235,7 +345,10 @@ Se llevó a cabo la recopilación de entrevistas para un mejor acercamiento haci
     En conclusión, la capacidad de trabajar eficazmente en un equipo es fundamental para el éxito de nuestra startup. Al proporcionar liderazgo, fomentar un entorno colaborativo e inclusivo, establecer objetivos claros, planificar tareas y cumplir con esos objetivos, podemos maximizar nuestra productividad y alcanzar nuestras metas de manera más efectiva. Es crucial que todos los miembros del equipo estén comprometidos con estos principios para garantizar un trabajo armonioso y orientado hacia el logro de nuestros objetivos comerciales.</td>
   </tr>
   <tr>
-    <td><b>5.c.2 Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</b></td>
+    <td><b>Conoce al menos un sector
+empresarial o dominio de
+aplicación de soluciones de
+software.</b></td>
     <td> TB1<br><br>
          <b>Luna Morales, Gianfranco</b><br>
        Se vio los temas de Vue, aún se práctica los temas para el desarrollo de la aplicación.
@@ -267,20 +380,8 @@ Se llevó a cabo la recopilación de entrevistas para un mejor acercamiento haci
 Realizo modificaciones en la Landing Page en colaboración con sus compañeros.
         <br><br> 
 <b>Barrutia Vaez, Ricardo Andree</b> <br>
-          - Startup Profile
-          - Descripción de la Startup
-          - Perfiles de integrantes del equipo
-          - Solution Profile
-          - Antecedentes y problemática
-          - Lean UX Process
-          - Lean UX Problem Statements
-          - Lean UX Assumptions
-          - Lean UX Hypothesis Statements
-          - Lean UX Canvas
-          - Segmentos objetivo.
-          - Software Configuration Management
-          - Software Development Environment Configuration
-        <br><br>
+         Coordine y llevé a cabo dos entrevistas con dos miembros de nuestro segmento objetivo; además, realicé el análisis de las entrevistas para los candidatos de mis entrevistas.
+
         
 <b>Zagaceta Bardales, Rodrigo Enrique</b>
 -Competidores.
@@ -375,7 +476,7 @@ Five Technologies es una empresa creada por estudiantes de la Universidad Peruan
 </table>
 
 
-## 1.2.  Solution Profile
+## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
 **Antecedentes**: 
 Actualmente existen una amplia variedad de plataformas para la gestión de procesos relacionados con la automatización de gestión enfocadas a los recursos humanos. Las empresas buscan soluciones tecnológicas que simplifiquen y optimicen la administración de personal. Sin embargo, muchas de las plataformas existentes en el mercado están diseñadas para estas grandes empresas con presupuestos considerables, dejando a las pequeñas y medianas empresas (PYMES) y a los emprendedores en desventaja.
@@ -415,15 +516,16 @@ Según Atlas 360 (2023) no tener ciertos procesos automatizados conlleva una fal
 Problem Statement 1:
 En el ámbito de la gestión de planillas, las pequeñas y medianas empresas (PYMEs) en Lima Metropolitana a menudo se enfrentan a desafíos significativos debido a la falta de recursos para adquirir soluciones de software especializadas. Actualmente, muchas de estas empresas gestionan sus planillas manualmente o con herramientas básicas como Excel, lo que puede resultar en errores, retrasos en los pagos y una gestión ineficiente de los recursos humanos. Esta situación se ve agravada por la falta de herramientas adecuadas para analizar y comprender los datos de recursos humanos, así como la necesidad de optimizar los procesos internos para aumentar la eficiencia y la productividad de la empresa.
 
-¿Qué estrategias podemos emplear para convencer a las empresas PYME y emprendedores de la utilidad de migrar a nuestra plataforma, sobre todo cuando están profundamente arraigados en sus procedimientos actuales y pueden ver el cambio como una interrupción en sus actividades cotidianas?
+**Qué estrategias podemos emplear para convencer a las empresas PYME y emprendedores de la utilidad de migrar a nuestra plataforma, sobre todo cuando están profundamente arraigados en sus procedimientos actuales y pueden ver el cambio como una interrupción en sus actividades cotidianas?**
 
 Problem Statement 2:
 Los emprendedores en Lima Metropolitana, quienes a menudo operan con equipos reducidos y recursos limitados, enfrentan desafíos similares en la gestión de planillas. Estos pueden carecer de la capacidad para invertir en soluciones de software costosas y pueden recurrir a métodos manuales o poco sofisticados para realizar tareas de gestión de planillas. Esto puede llevar a errores, falta de cumplimiento normativo y una carga adicional de trabajo administrativo que limita el crecimiento y la eficiencia de sus empresas.
 
-¿Cómo podemos superar la resistencia al cambio y convencer a los emprendedores de la necesidad de adoptar nuestra plataforma para gestionar sus planillas de remuneraciones de manera más eficiente?
+**¿Cómo podemos mitigar la resistencia al cambio y convencer a los emprendedores de la necesidad de adoptar nuestra plataforma para gestionar sus planillas de remuneraciones de manera más eficiente?**
 
 #### 1.2.2.2. Lean UX Assumptions.
-- Business Outcomes <br>
+
+**Business Outcomes** <br><br>
 **Creo que mis usuarios necesitan**, cuenten con una solución eficiente para la gestión de planillas, lo que les permitirá optimizar sus procesos y reducir errores en las remuneraciones de su personal.<br><br>
 **Estas necesidades se pueden resolver** mediante el desarrollo de una aplicación para la gestión de planillas remuneradas, donde las empresas puedan acceder y almacenar los datos de sus empleados de manera segura.<br><br>
 **Mis clientes iniciales son** las empresas PYME y emprendedores, ya que son quienes afrontan constantemente los desafíos relacionados con la gestión de planillas y tienen la necesidad de mejorar sus procesos.<br><br>
@@ -433,8 +535,20 @@ Los emprendedores en Lima Metropolitana, quienes a menudo operan con equipos red
 **Haré dinero a través de** un modelo de suscripción mensual o anual para acceder a nuestra plataforma Planifi. Además, ofreceremos servicios adicionales que generarán ingresos adicionales.<br><br>
 **Mi competencia de mercado serán** las empresas que ya se establecieron en el mercado y que permiten realizar la gestión de remuneración y otros procesos delárea de recursos humanos, como Gusto, Zenefits, QuickBooks Payroll, entre otros.<br><br>
 **Los venceremos debido a que** nuestra plataforma no solo se centra en la gestión de planillas, sino que ofrece una solución integral para la administración de empresas. En contraste, nuestra plataforma ofrece una combinación única de funcionalidades, facilidad de uso y atención personalizada que se adapta específicamente a las necesidades de las empresas en Lima Metropolitana.<br><br>
+**Mis mayores riesgos como producto** son la resistencia al cambio por parte de empresas "PYME" y emprendedores, así como la falta de adaptación por parte de estos debido al rechazo por una percepción errónea de complejidad.<br><br>
+**Resolveremos esto a través de** la implementación de estrategias de capacitación para mostrar los beneficios y facilidades de nuestra plataforma, además de una diferenciación clara de nuestra oferta, incluyendo una adaptación continua de nuestra plataforma según las necesidades del cliente y las tendencias del mercado.<br><br>
+**Sabremos que hemos tenido éxito cuando veamos uno de estos cambios en el comportamiento de nuestro cliente:**
+- Aumento en la adquisición de clientes y suscripciones a nuestra plataforma.
+- Retroalimentación positiva y recomendaciones de clientes satisfechos.
+- Reducción significativa en los errores de gestión de planillas y mejoras en la eficiencia operativa de las empresas que utilizan nuestra plataforma.
 
-- Users Outcomes<br>
+<br>**Otras suposiciones que, de probarse falsas, pueden causar que nuestro proyecto fracase**:
+- La demanda del mercado para una solución de gestión de planillas automatizada es suficiente para respaldar nuestro crecimiento.
+- La capacidad técnica y financiera para desarrollar y mantener nuestra plataforma a largo plazo.
+- La efectividad de nuestras estrategias de marketing y ventas para llegar a nuestro público objetivo y convertirlos en clientes.
+
+
+**Users Outcomes**<br>
 **¿Quiénes serán nuestros usuarios?**
 Nuestros usuarios principales serán las empresas pequeñas, empresas medianas y emprendedores en Lima Metropolitana que buscan mejorar la gestión de planillas.<br><br>
 **¿Dónde encaja nuestro producto en su vida?**
@@ -453,8 +567,16 @@ Nuestro producto será utilizado principalmente en el departamento de recursos h
 **¿Cómo debe verse y comportarse nuestro producto?**
 - La interfaz del usuario debe contar con elementos visuales atractivos, intuitivos y estructurados.
 - La experiencia de usuario de nuestra aplicación debe tener como prioridad una respuesta rápida, facilidad de navegación y una garantía de seguridad.
+<br><br>
 
-
+**Features:**
+- Las empresa o empredimiento podrán registrarse en la plataforma  para crear una cuenta de empresa o empredimiento y seleccionar el plan que mejor se adapte a sus necesidades. Se proporcionará información clara sobre los diferentes planes disponibles, asegurando que los usuarios puedan tomar decisiones informadas para su empresa o proyecto emprendedor.
+- Las empresa o empredimiento podrán agregar fácilmente miembros a su equipo y asignar roles de manera intuitiva. La interfaz facilitará la creación y gestión de equipos, permitiendo acciones rápidas y sin complicaciones.
+- Las empresa o empredimiento podrán crear procesos de reclutamiento con candidatos de forma ágil y sencilla. Se ofrecerá una experiencia de creación intuitiva para que los reclutadores puedan configurar sus procesos sin complicaciones.
+- Las empresa o empredimiento podrán crear y personalizar tareas dentro de los procesos de reclutamiento, como evaluaciones o reuniones. Se permitirá una configuración flexible de tareas para adaptarse a las necesidades específicas de cada proceso.
+- Las empresa o empredimiento  podrán seguir fácilmente el estado de sus procesos de reclutamiento a través de una dashboard informativo . Esta tabla proporcionará detalles relevantes, como la empresa, la descripción del proceso y las fechas importantes.
+- Las empresa o empredimiento podrán editar sus perfiles personales y preferencias de comunicación de forma intuitiva.
+  <br><br>
 #### 1.2.2.3. Lean UX Hypothesis Statements
 ****Creemos que**** al ofrecer una plataforma automatizada de gestión de planillas remuneradas para empresas PYME y emprendedores en Lima Metropolitana, lograremos optimizar los procesos de gestión de recursos humanos y reducir errores en los pagos.
 
@@ -472,7 +594,7 @@ Nuestro producto será utilizado principalmente en el departamento de recursos h
 
 <td><img src="static/img/Chapter 1/img-lean-ux-canvas.png" alt=" " width="50%" ;"></img></td>
 
-## 1.3.  Segmentos objetivo
+## 1.3. Segmentos objetivo
 
 Los segmentos objetivos son los siguientes: 
 
@@ -493,7 +615,7 @@ La comprensión del panorama competitivo es esencial para el éxito de cualquier
 
 3. QuickBooks Payroll: Es una solución de nómina integral desarrollada por Intuit, diseñada específicamente para pequeñas empresas y autónomos. La plataforma permite a los usuarios calcular y procesar nóminas con facilidad, pagar impuestos sobre la nómina de manera oportuna y generar informes financieros detallados relacionados con la nómina. QuickBooks Payroll se integra perfectamente con otros productos de QuickBooks, lo que facilita la gestión financiera integral de las empresas. Además, la plataforma ofrece soporte experto y recursos de aprendizaje para ayudar a los usuarios a aprovechar al máximo todas las funciones disponibles.
 
-## 2.1.1. Analisis competitivo
+## 2.1.1. Análisis competitivo
 
 El análisis competitivo implica examinar detenidamente a nuestros competidores para identificar sus fortalezas, debilidades, oportunidades y amenazas. Esto nos proporcionará una visión clara de nuestro posicionamiento en el mercado y nos ayudará a desarrollar estrategias efectivas.
 
@@ -628,25 +750,31 @@ Desarrollar estrategias y tácticas sólidas para enfrentar a nuestros competido
 <strong>Estrategias de Cercanía con los clientes:</strong>
 
 #1 Programa de retroalimentación continua
+
 Implementar un programa estructurado de retroalimentación directa con los usuarios de Name, permitiendo que expresen sus opiniones, sugerencias y preocupaciones a través de encuestas, correos electrónicos de seguimiento y sesiones de retroalimentación personalizadas. Esto ayudará a identificar y abordar rápidamente cualquier problema o necesidad del cliente, lo que podría proporcionar una ventaja competitiva frente a los competidores.
 
 #2 Servicio de atención al cliente especializado
+
 Establecer un equipo de atención al cliente altamente capacitado y especializado en las necesidades específicas de las empresas PYME y emprendedores, ofreciendo asistencia personalizada, resolución rápida de problemas y seguimiento proactivo. Esta táctica puede generar lealtad y satisfacción del cliente, diferenciando a Name de sus competidores.
 
 <strong>Estrategias de Liderazgo a través del producto:</strong>
 
 #1 Integración con herramientas de gestión empresarial
+
 Desarrollar integraciones con otras herramientas de gestión empresarial ampliamente utilizadas por las empresas PYME, como sistemas de contabilidad y gestión de proyectos. Esto ampliará la funcionalidad de Name y ofrecerá una solución más completa y conveniente para los clientes, posicionándola como líder en el mercado.
 
 #2 Personalización de informes financieros
+
 Ofrecer características avanzadas de personalización de informes financieros dentro de la plataforma de Name, permitiendo a los usuarios crear informes detallados y adaptados a sus necesidades específicas. Esta táctica resalta la capacidad de Name para proporcionar soluciones flexibles y adaptadas a las necesidades individuales de cada cliente.
 
 <strong>Estrategias de Enfoque:</strong>
 
 #1 Educación sobre la importancia de la automatización de nóminas
+
 Lanzar campañas educativas dirigidas a empresas PYME y emprendedores para destacar los beneficios y la importancia de la automatización de nóminas en la gestión empresarial. Esto incluiría seminarios web, contenido educativo en blogs y redes sociales, así como colaboraciones con asociaciones empresariales locales.
 
 #2 Demostraciones en vivo y pruebas gratuitas
+
 Ofrecer demostraciones en vivo de la plataforma de Name y períodos de prueba gratuitos para que los clientes potenciales experimenten de primera mano los beneficios y la facilidad de uso de la solución. Esta táctica ayuda a mostrar el valor de Name y a superar la resistencia al cambio al demostrar su eficacia en tiempo real.
 
 ## 2.2. Entrevistas
@@ -694,6 +822,8 @@ Ubicación en la que vive: Villa El Salvador, Lima, Perú
 
 Minuto de la entrevista: 0:00 - 2:15
 
+Enlace del video completo de las entrevistas: https://youtu.be/mgG8AfJuIpU
+
 Resumen de la entrevista:
 
 - ¿Podría describir brevemente su empresa y sus principales actividades?
@@ -739,6 +869,8 @@ Ubicación en la que vive: Villa El Salvador, Lima, Perú
 <img src="static/img/Chapter 2/img-entrevista-edita.png" alt="Imagen entrevista Edita" style="width: 70;"></img>
 
 Minuto de la entrevista: 2:16 - 4:09
+
+Enlace del video completo de las entrevistas: https://youtu.be/mgG8AfJuIpU
 
 Resumen de la entrevista:
 
@@ -786,6 +918,8 @@ Ubicación en la que vive: Jesús María, Lima, Perú
 
 Minuto de la entrevista: 4:10 - 9:54
 
+Enlace del video completo de las entrevistas: https://youtu.be/mgG8AfJuIpU
+
 Resumen de la entrevista:
 
 - ¿Podría describir brevemente su empresa y sus principales actividades? 
@@ -832,6 +966,8 @@ Ubicación en la que vive: Pucallpa, Perú
 
 Minuto de la entrevista: 9:55 - 21:02
 
+Enlace del video completo de las entrevistas: https://youtu.be/mgG8AfJuIpU
+
 Resumen de la entrevista:
 
 - ¿Podría describir brevemente su empresa o proyecto emprendedor?
@@ -872,6 +1008,8 @@ Ubicación en la que vive: San Juan de Lurigancho, Lima, Perú
 
 Minuto de la entrevista: 21:03 - 24:07
 
+Enlace del video completo de las entrevistas: https://youtu.be/mgG8AfJuIpU
+
 Resumen de la entrevista:
 
 - ¿Podría describir brevemente su empresa o proyecto emprendedor?
@@ -897,8 +1035,6 @@ Claro, que sea una solución que sea compatible, automatizada a nuestro sistema,
 - ¿Qué tipo de soporte o capacitación consideraría útil al implementar una nueva solución de gestión de planillas en su empresa o proyecto emprendedor?
 
 Considero importante una capacitación inicial para aprender a utilizar la nueva solución y un soporte técnico continuo en caso de surgir dudas o mantenimiento con el mismo.
-
-Enlace del video completo de las entrevistas: https://youtu.be/mgG8AfJuIpU
 
 ## 2.2.3. Análisis de entrevistas
 
@@ -972,80 +1108,111 @@ La creación de User Personas nos permite personificar a nuestros usuarios, brin
 
 <strong>Segmento objetivo 1: Empresas medianas y pequeñas:</strong>
 
-<img src="static/img/Chapter 2/img-user-persona-yulissa.png" alt="User Persona Yulissa" style="width: 65;"></img>
+<img src="static/img/Chapter 2/img-user-persona-empresas.png" alt="User Persona Empresas" style="width: 65;"></img>
 
 <strong>Segmento objetivo 2: Emprendedores:</strong>
 
-<img src="static/img/Chapter 2/img-user-persona-jorge.png" alt="User Persona Jorge" style="width: 65;"></img>
+<img src="static/img/Chapter 2/img-user-persona-emprendedores.png" alt="User Persona Emprendedores" style="width: 65;"></img>
 
 ### 2.3.2. User Task Matrix 
 
 La User Task Matrix nos ayuda a desglosar las actividades y tareas que nuestros usuarios realizan al interactuar con nuestra startup. Al ordenar estas tareas según la frecuencia y la importancia para nuestros usuarios, podemos priorizar nuestros esfuerzos de desarrollo y diseño para mejorar su experiencia.
 
-<div style="text-align:center;">
-  <table>
-    <tr>
-      <th>Tarea</th>
-      <th>Frecuencia</th>
-      <th>Importancia</th>
-    </tr>
-    <tr>
-      <td>Gestión de planillas</td>
-      <td>Alta</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Control de pagos</td>
-      <td>Alta</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Cumplimiento normativo</td>
-      <td>Alta</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Contratación de personal</td>
-      <td>Media</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Optimización de procesos internos</td>
-      <td>Alta</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Reducción de costos administrativos</td>
-      <td>Baja</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Modernización de operaciones</td>
-      <td>Baja</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Atención al cliente</td>
-      <td>Media</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Mantenimiento de equipo</td>
-      <td>Baja</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Análisis de rendimiento financiero</td>
-      <td>Baja</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Desarrollo de estrategias de marketing</td>
-      <td>Media</td>
-      <td>Alta</td>
-    </tr>
-  </table>
-</div>
+<table>
+<tr>
+<th>User Persona: Empresas medianas y pequeñas
+</tr>
+  <tr>
+    <th>Task</th>
+    <th>Frequency</th>
+    <th>Importance</th>
+  </tr>
+  <tr>
+    <td>Registro de empleados</td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Cálculo de nómina</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Gestionar horarios de trabajo</td>
+    <td>Media</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Controlar asistencia</td>
+    <td>Alta</td>
+    <td>Baja</td>
+  </tr>
+  <tr>
+    <td>Reporte y cumplimiento norvativo</td>
+    <td>Alta</td>
+    <td>BAlta</td>
+  </tr>
+  <tr>
+    <td>Capacitación y desarrollo</td>
+    <td>Baja</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Evaluar la eficiencia del trabajo del personal</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+</table>
+
+<br>
+<br>
+
+<table>
+<tr>
+<th>User Persona: Emprendedores
+</tr>
+  <tr>
+    <th>Task</th>
+    <th>Frequency</th>
+    <th>Importance</th>
+  </tr>
+  <tr>
+    <td>Desarrollar estrategias de marketing</td>
+    <td>Alta</td>
+    <td>Baja</td>
+  </tr>
+  <tr>
+    <td>Investigar nuevas tecnologías</td>
+    <td>Alta</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Gestionar el equipo de trabajo</td>
+    <td>Media</td>
+    <td>Baja</td>
+  </tr>
+  <tr>
+    <td>Implementar soluciones tecnológicas</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Monitorear el rendimiento de las soluciones</td>
+    <td>Alta</td>
+    <td>Baja</td>
+  </tr>
+  <tr>
+    <td>Capacitar al personal en el uso de nuevas tecnologías</td>
+    <td>Alta</td>
+    <td>Baja</td>
+  </tr>
+  <tr>
+    <td>Evaluar la eficiencia de los procesos empresariales</td>
+    <td>Alta</td>
+    <td>Media</td>
+  </tr>
+</table>
+
 
 ### 2.3.3. User Journey Mapping
 
@@ -1066,17 +1233,17 @@ El Empathy Mapping nos ayuda a desarrollar una comprensión profunda de las emoc
 
 <strong>Segmento objetivo 1: Empresas medianas y pequeñas:</strong>
 
-<img src="static/img/Chapter 2/img-empathy-mapping-yulissa.png" alt="Empathy Mapping Yulissa" style="width: 65;"></img>
+<img src="static/img/Chapter 2/img-empathy-mapping-empresas.png" alt="Empathy Mapping Empresas" style="width: 65;"></img>
 
 <strong>Segmento objetivo 2: Emprendedores:</strong>
 
-<img src="static/img/Chapter 2/img-empathy-mapping-jorge.png" alt="Empathy Mapping Jorge" style="width: 65;"></img>
+<img src="static/img/Chapter 2/img-empathy-mapping-emprendedores.png" alt="Empathy Mapping Emprendedores" style="width: 65;"></img>
 
 ### 2.3.5. As-is Scenario Mapping
 
 El As-Is Scenario Mapping nos permite comprender en detalle cómo interactúan actualmente nuestros usuarios con nuestra startup y qué obstáculos enfrentan en el proceso. Al identificar los puntos problemáticos y las oportunidades de mejora en el escenario actual, podemos desarrollar soluciones que optimicen su experiencia y satisfacción.
 
-<img src="static/img/Chapter 2/img-as-is-PYME.png" alt="As-Is Scenario Empresas" style="width: 65;"></img>
+<img src="static/img/Chapter 2/img-as-is-empresas.png" alt="As-Is Scenario Empresas" style="width: 65;"></img>
 
 <img src="static/img/Chapter 2/img-as-is-emprendedores.png" alt="As-Is Scenario Emprendedores" style="width: 65;"></img>
 
@@ -1101,6 +1268,7 @@ El lenguaje ubicuo es un conjunto de términos y conceptos compartidos y compren
 
 <td><img src="static/img/Chapter 3/To-be-Empresas.jpg"  alt=" " width="50%" ;"></img></td>
 <td><img src="static/img/Chapter 3/To-be-emprendedores.jpg"  alt=" " width="50%" ;"></img></td>
+
 ## 3.2. User Stories
  <table>
       <thead>
@@ -1479,13 +1647,13 @@ Para poder ver el web application wireframe completo, este es el link de Figma -
 
 Para poder ver mejor el Wireflow, este es el link del lucidchart -> [Lucidchart](https://lucid.app/lucidchart/1d7753bc-2ef3-4485-8b8c-cfd7e119defb/edit?view_items=7crsvUt5MiZ_&invitationId=inv_738c0520-b232-4d6d-bbca-a1c0eba60e98)
 
-### 4.4.2. Web Applications Mock-ups
+### 4.4.3. Web Applications Mock-ups
 
 <img src="static/img/Chapter 4/img-webaplicationmockup.png" alt=" " style="width: 65;"></img>
 
 Para poder ver el Mock-up completo, este es el link de Figma -> [Figma](https://www.figma.com/file/V8WMiF3a2LgTBpJKDA6flY/Mockup?type=design&mode=design&t=0KnNllAIDZqRZnLP-1) 
 
-### 4.4.3. Web Applications User Flow Diagrams
+### 4.4.4. Web Applications User Flow Diagrams
 
 <img src="static/img/Chapter 4/img-userflow.png" alt=" " style="width: 65;"></img>
 
@@ -1576,15 +1744,13 @@ Para la realización del diagrama, se han utilizado las siguientes clases, junto
 ### 5.1.1. Software Development Environment Configuration
 En el siguiente apartado, se detalla cada uno de los productos de software utilizados en el proyecto. Esta descripción servirá como guía para que tanto los desarrolladores actuales como los futuros puedan participar de manera efectiva en todas las fases del proyecto.<br><br>
 **Project Management**
-- Notion: https://www.notion.so/es-es
-Se empleó Notion para organizar y llevar un registro de las tareas que están por hacer, se están realizando y ya están completadas. De esta manera, podríamos tener un control en cuanto al tiempo de cómo estábamos desarrollando el proyecto y, asimismo, ver las actividades pendientes. Notion es una aplicación que se encuentra disponible en las tiendas de teléfonos móviles, web o aplicación de escritorio.
+- Trello: https://trello.com/ Se empleó Trello para organizar al equipo y llevar a cabo un registro de las tareas que están por hacer, se están realizando y ya están completadas. De esta manera, podríamos tener un control en cuanto al tiempo de cómo estábamos desarrollando el proyecto y, asimismo, ver las actividades pendientes. Trello es una aplicación web que es compatible con los multiples navegadores.
 - Google Meet : https://meet.google.com
 La plataforma de Google Meet se empleó para las reuniones virtuales con los integrantes del equipo y así poder comunicarnos entre nosotros sobre la gestión del proyecto. Asimismo, empleamos esta plataforma para poder compartir contenido entre los miembros del equipo, como compartir pantalla, imágenes, texto, entre otros.
 
  	
 **Requirements Management** <br>
-- Notion: https://trello.com/
-Para el apartado de requirements, consideramos que la mejor opción era Notion, debido a que con la diversidad de plantillas permitía colaborar de manera muy práctica en el product backlog, además de ser muy fácil de usar. Esta aplicación es gratuita y solo necesitamos registrarnos para utilizarla
+- Trello: https://trello.com/ Para el apartado de requirements, usamos Trello, debido a que permite colaborar de manera muy práctica en el product backlog, además de ser muy fácil de usar. Esta aplicación nos permite visualizar de una manera muy intuitiva las tareas pendientes y las asignaciones para esas tareas. Es gratuita y solo necesitamos registrarnos para utilizarla.
  	
 **Product UX/UI Design**
 - UXPressia: https://uxpressia.com/
@@ -1758,7 +1924,8 @@ Implementar la landing page en el servidor de producción utilizando Visual Stud
     <td>7 Story points</td>
   </tr>
 </table>
-- 5.2.1.2. Sprint Backlog 1.
+
+#### 5.2.1.2. Sprint Backlog 1.
 <table border="1">
   <tr>
     <th>Sprint #</th>
