@@ -3102,17 +3102,14 @@ Para la entrega del Sprint 2 se centro en el desarrollo e implementacion de la a
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
-El Execution Evidence for Sprint Review se enfoca en recopilar y presentar evidencia concreta del progreso realizado durante el sprint, centrándose específicamente en la elaboración de la landing page. Esta evidencia es crucial para demostrar cómo se están cumpliendo los objetivos del sprint, qué elementos han sido completados y cómo se alinean con los requisitos del cliente. 
+El Execution Evidence for Sprint Review se enfoca en recopilar y presentar evidencia concreta del progreso realizado durante el sprint, centrándose específicamente en la elaboración del front end de la aplicacion web. Esta evidencia es crucial para demostrar cómo se están cumpliendo los objetivos del sprint, qué elementos han sido completados y cómo se alinean con los requisitos del cliente. 
+Registro:
+<img src="static/img/Chapter 5/img-evidence-1-sprint-2.jpeg" alt="Evidence Sprint Review 1" style="width: 65;"></img>v
+Inicio de sesion:
+<img src="static/img/Chapter 5/img-evidence-2-sprint-2.jpeg" alt="Evidence Sprint Review 2" style="width: 65;"></img>
+Validacion de cuenta:
+<img src="static/img/Chapter 5/img-evidence-3-sprint-2.jpeg" alt="Evidence Sprint Review 3" style="width: 65;"></img>
 
-<img src="static/img/Chapter 5/img-evidence-1-sprint-1.png" alt="Evidence Sprint Review 1" style="width: 65;"></img>v
-
-<img src="static/img/Chapter 5/img-evidence-2-sprint-1.png" alt="Evidence Sprint Review 2" style="width: 65;"></img>
-
-<img src="static/img/Chapter 5/img-evidence-3-sprint-1.png" alt="Evidence Sprint Review 3" style="width: 65;"></img>
-
-<img src="static/img/Chapter 5/img-evidence-4-sprint-1.png" alt="Evidence Sprint Review 4" style="width: 65;"></img>
-
-<img src="static/img/Chapter 5/img-evidence-5-sprint-1.png" alt="Evidence Sprint Review 5" style="width: 65;"></img>
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
