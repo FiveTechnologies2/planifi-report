@@ -2960,6 +2960,149 @@ El objetivo de este primer sprint fue el desarrollo de la Landing Page. Para est
 A continuación, se mostrarán capturas de los Insights del GitHub para evidenciar la participación de todos los miembros del grupo:
 <img src="static/img/Chapter 5/img-insights.png" alt="Insights" style="width: 65;"></img>
 
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2
+  <table>
+  <tr>
+    <th>Sprint #</th>
+    <td>Sprint 2</td>
+  </tr>
+  <tr>
+    <th>Sprint Planning Date</th>
+    <td>2024-04-10</td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <td>04:00 PM</td>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <td>Servidor de Discord del Equipo</td>
+  </tr>
+  <tr>
+    <th>Prepared By</th>
+    <td>Rodrigo Zagaceta</td>
+  </tr>
+  <tr>
+    <th>Attendees</th>
+    <td>Gianfranco / Rodrigo / Ramón / Ricardo/ Carito </td>
+  </tr>
+  <tr>
+    <th>Sprint Review Summary</th>
+    <td>El enfoque de este sprint estuvo centrado en desarrollar el Landing Page, con el objetivo de garantizar una experiencia de usuario coherente y atractiva. Los aspectos claves que se trataron incluyeron la visualización efectiva de la página y la visualización de los canales de comunicación de la empresa.</td>
+  </tr>
+  <tr>
+    <th>Sprint Retrospective Summary</th>
+    <td>Durante este sprint, el equipo se centró en construir una Landing Page que serviría como la cara pública principal de la empresa, asegurando que la primera impresión de los usuarios fuera tanto informativa como atractiva. Las tareas se distribuyeron para optimizar tanto el diseño como la funcionalidad.</td>
+  </tr>
+  <tr>
+    <th>Sprint Goal</th>
+    <td>La meta de este Sprint es el desarrollo del front-end de la aplicacion web, donde se planea implementar el registro, inicio de sesion, vistualizacion de dashboard, ingreso del personal entre otras fucionalidades. Todas estas tareas se organizaron mediante Trello.Al finalizar este Sprint, el landing page cuenta con una version actualizada y la web fonrt end cuenta con distintas funcionalidades desplegadas.</td>
+  </tr>
+  <tr>
+    <th>Sprint Velocity</th>
+    <td>7 Velocity</td>
+  </tr>
+  <tr>
+    <th>Sum of Story Points</th>
+    <td>7 Story points</td>
+  </tr>
+</table>
+
+#### 5.2.2.2. Sprint Backlog 2
+
+<img src="static/img/Chapter 5/img-sprintbacklog2.jpg" alt=" " style="width: 65;"></img>
+
+**Sprint 2**
+| User Story        |                   | Work Item/Task |               |                                                    |                   |                 |        |
+|:------------------|:-----------------:|:--------------:|:-------------:|:--------------------------------------------------:|:-----------------:|:---------------:|:------:|
+| **Id**            | **Title**         | **Id**         | **Title**     | **Description**                                    | **Estimation**    | **Assigned To** | **Status** |
+| E02-US01           | Registro de cuenta | E2-US01-W1   | Interfaz de registro para empresas o emprendedores | Implementar la interfaz de usuario para formulario de registro para empresas y emprendedores. | 3                 | Nombre   | Done   |
+| E2-US02          | Inicio de sesión  | E2-US02-W2   | Interfaz de inicio de sesión para empresas o emprendedores | Interfaz de usuario para formulario de inicio de sesión para empresas y emprendedores. | 2                 | Nombre  | Done   |
+| E2-US04          | Actualizacion de datos | E2-US04-W4 | Formulario de actualizacion de datos para empresas o emprendedores | Implementar interfaz estática para actualizacion de datos para empresas o emprendedores. | 1.5               | Nombre | Done   |
+| E02-US05          | Cerrar sesion | E2-US05-W5  | Boton de cerrar sesion | Implementar el apartado de cerrar sesion en la barra de navegacion. | 2                 | Nombre | Done   |
+| E03-US01           | Visualizar  dashboard principal  | E3-US01-W1   |  Visualizacion de la  interfaz del dashboard. | Implementar el apartado del dashboard para empresas o empredendores | 3                 | Nombre   | Done   |
+| E03-US02          | Ajustes de aplicación | E3-US02-W2   | Interfaz de los ajustes de aplicacion   | Visualizacion del los ajustes de aplicacion de empresas y emprendedores | 2                 | Nombre  | Done   |
+| E04-US01          | Ingreso de datos del personal | E4-US01-W1 | Interfaz de registro de personal  | Implementar interfaz de registro de personal para empresas o emprendedores. | 1.5               | Nombres | Done   |
+| E04-US02          | Control de datos del personal | E4-US02-W2  | Interfaz de informacion del personal  | Implementar interfaz gestionar la informacion del personal para  empresas o emprendedores. | 2                 | Nombres | Done  |
+| E04-US03          | Verificación de los datos del personal | E4-US03-W3 | Interfaz de validacion de informacion del personal  | Implementar interfaz de registro de personal para  empresas o emprendedores. | 1.5               | Nombres | Done   |
+| E04-US05          | Asignación de remuneración | E4-US05-W5  | Formulario de asignacion de remuneracion  | Implementar formulario de asignacion de reumenaricon  para empresas o emprendedores. | 2                 | Nombres | Done  |
+| E06-US01          | Preferencias de idioma | E6-US01-W1 | Boton de preferencia de idioma en la barra de navegacion.  | Implementar boton de preferencia de idioma en la barra de navegacion para usuarios. | 1.5               | Nombres | Done   |
+| E06-US02          | Página no encontrada | E6-US02-W2  | Interfaz de pagina no encontrada  | Implementar interfaz pagina no encontrada  para empresas o emprendedores. | 2                 | Nombres | Done  |
+
+
+#### 5.2.2.3. Development Evidence for Sprint Review
+
+| Repository | Branch  | Commit Id | Commit Message|
+|------------|----------|-----------|---------------|
+| https://github.com/Salvlormonch1/planifi.github.io  | main   | dce258f933142390154509ffe790eaf49d6bca3a   | Create README.md |
+| https://github.com/Salvlormonch1/planifi.github.io    | main   | 63ae206538c07a15d17151baf74585ce6ac120cd   | Add files via upload |
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+Para la entrega del Sprint 2 se centro en el desarrollo e implementacion de la aplicacion web front end.
+
+
+| Repository        | Branch             | Commit Id | Commit Message                                           | Commit Message Body                                  | Commited on (Date) |
+|-------------------|--------------------|-----------|----------------------------------------------------------|------------------------------------------------------|--------------------|
+| Planifi   | feature/dashboard  | 065ecb4   | feat(dashboard): added my projects route in app and index | Added projects routing to dashboard                  |  02-05-2024      |
+| Planifi   | feature/dashboard  | b7136e6   | feat(dashboard): added icon for start-planillas.component | Added icon to start-planillas component              |  02-05-2024         |
+| Planifi   | feature/dashboard  | dba8beb   | feat(dashboard): added sidebar and start-content          | Sidebar and content added to start-choose component  |  02-05-2024        |
+| Planifi  | feature/Data-entry | 8084803   | feature: added components                                 | Added multiple new components                        |   02-05-2024       |
+| Planifi   | feature/Data-entry | 620f69c   | feature: updated app.vue                                  | Updates made to app.vue                              |  02-05-2024        |
+| Planifi  | feature/Data-entry | abbc43e   | feature: added side-menu, table, db.json and i18n         | Side menu, table view, database, and i18n added      |  02-05-2024        |
+| Planifi   | feature/sign-in-up | 138f191   | feat: Created users-api, user.entity and create.component | Created APIs and components for user management      |  02-05-2024        |
+| Planifi   | feature/dashboard  | 9f9f4ff   | feat(dashboard): added start-choose.component and sidebar | Initial commit for dashboard with sidebar            |  02-05-2024        |
+| Planifi   | feature/Data-entry | 6134644   | Merge pull request #1 from FiveTechnologies2/feature/data-entry | Merged pull request from Data-entry branch           |  02-05-2024        |
+| Planifi   | feature/Data-entry | 8a88abc   | feat: added api base url and install axios                | Set up axios and base URL for API                     | 02-05-2024        |
+| Planifi   | feature/data-entry | 13dc83b   | Added components                                          | Further component additions                          | 02-05-2024        |
+| Planifi   | feature/sign-in-up | 83fee82   | fix(sign-in-up): corrected router link to register        | Corrected router link for registration                | 01-05-2024           |
+| Planifi   | develop            | 8a88abc   | feat: added api base url and install axios                | Base URL and axios setup on develop branch           | 01-05-2024          |
+| Planifi   | master             | 86d48da   | feat: added logos                                         | Logos added to master branch                         | 01-05-2024        |
+
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+El Execution Evidence for Sprint Review se enfoca en recopilar y presentar evidencia concreta del progreso realizado durante el sprint, centrándose específicamente en la elaboración de la landing page. Esta evidencia es crucial para demostrar cómo se están cumpliendo los objetivos del sprint, qué elementos han sido completados y cómo se alinean con los requisitos del cliente. 
+
+<img src="static/img/Chapter 5/img-evidence-1-sprint-1.png" alt="Evidence Sprint Review 1" style="width: 65;"></img>v
+
+<img src="static/img/Chapter 5/img-evidence-2-sprint-1.png" alt="Evidence Sprint Review 2" style="width: 65;"></img>
+
+<img src="static/img/Chapter 5/img-evidence-3-sprint-1.png" alt="Evidence Sprint Review 3" style="width: 65;"></img>
+
+<img src="static/img/Chapter 5/img-evidence-4-sprint-1.png" alt="Evidence Sprint Review 4" style="width: 65;"></img>
+
+<img src="static/img/Chapter 5/img-evidence-5-sprint-1.png" alt="Evidence Sprint Review 5" style="width: 65;"></img>
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Para esta entrega solo se realizó el Landing Page, por lo que no hubo implementación de APIs.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+El objetivo de este primer sprint fue el desarrollo de la Landing Page. Para esto, utilizamos GitHub y GitHub Pages. El proceso fue el siguiente:
+
+1. Un miembro del equipo creó una organización en GitHub y se le envió una invitación a cada uno de los otros miembros para que se puedan unir.
+
+<img src="static/img/Chapter 5/img-invitation-github.png" alt="GitHub Invitation" style="width: 65;"></img>
+
+2. Luego, se creó un repositorio para el desarrollo del trabajo, tanto del informe como de la Landing Page.
+
+<img src="static/img/Chapter 5/img-repository.png" alt="Repository" style="width: 65;"></img>
+
+3. A continuación, cada uno fue realizando modificaciones en los archivos, a través de los commits.
+
+<img src="static/img/Chapter 5/img-commits.png" alt="Commits" style="width: 65;"></img>
+
+4. Finalmente, desplegamos la Landing Page en GitHub Pages, a la que se puede ingresar mediante el siguiente link: [https://salvlormonch1.github.io/planifi.github.io/](https://salvlormonch1.github.io/planifi.github.io/)
+
+<img src="static/img/Chapter 5/img-landing-page.png" alt="Landing Page" style="width: 65;"></img>
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+
+A continuación, se mostrarán capturas de los Insights del GitHub para evidenciar la participación de todos los miembros del grupo:
+<img src="static/img/Chapter 5/img-insights.png" alt="Insights" style="width: 65;"></img>
 # Conclusiones
 
 En conclusión, el proceso de investigación, diseño y desarrollo para nuestro proyecto ha sido fundamental para comprender las necesidades y expectativas de nuestros usuarios. Las entrevistas nos proporcionaron información valiosa sobre los desafíos que enfrentan y las características que valoran en una solución. La creación de la landing page nos permitió comunicar efectivamente nuestra propuesta de valor y garantizar una experiencia de usuario satisfactoria. Además, las user stories nos brindaron una guía clara para el desarrollo del producto. En conjunto, estos elementos nos han ayudado a construir una base sólida para futuras iteraciones y mejoras en nuestro proyecto.
