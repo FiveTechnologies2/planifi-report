@@ -2798,7 +2798,7 @@ Implementar la landing page en el servidor de producción utilizando Visual Stud
     <td>Barra de navegación del Landing Page</td>
     <td>Se creará un botón que dirija a la seccion about the team.</td>
     <td>0.5</td>
-    <td>Carito</td>
+    <td>Karito</td>
     <td>Done</td>
   </tr>
   <tr>
@@ -2808,7 +2808,7 @@ Implementar la landing page en el servidor de producción utilizando Visual Stud
     <td>Redireccionar a los usuarios a la app desde la Landing Page</td>
     <td>Para la sección de ‘conócenos’, se añadirá un listado de tarjetas (imágenes con texto) que muestren los beneficios que ofrece la app.</td>
     <td>0.5</td>
-    <td>Carito</td>
+    <td>Karito</td>
     <td>Done</td>
   </tr>
   <tr>
@@ -2818,7 +2818,7 @@ Implementar la landing page en el servidor de producción utilizando Visual Stud
     <td>Seccion de testimonios del LandingPage</td>
     <td>Implementar testimonios de clientes</td>
     <td>2</td>
-    <td>Carito</td>
+    <td>Karito</td>
     <td>Done</td>
   </tr>
   <tr>
@@ -2848,7 +2848,7 @@ Implementar la landing page en el servidor de producción utilizando Visual Stud
     <td>Sección de contacto de Landing Page</td>
     <td>Implementar medio de contacto para el usuario</td>
     <td>0.5</td>
-    <td>Carito</td>
+    <td>Karito</td>
     <td>Done</td>
   </tr>
    <tr>
@@ -2858,7 +2858,7 @@ Implementar la landing page en el servidor de producción utilizando Visual Stud
     <td>Secciones de planes de LandingPage</td>
     <td>Definir los planes a contratar por el usuario</td>
     <td>1</td>
-    <td>Carito</td>
+    <td>Karito</td>
     <td>Done</td>
   </tr>
    <tr>
@@ -2868,7 +2868,7 @@ Implementar la landing page en el servidor de producción utilizando Visual Stud
     <td>Sección de footer del LandingPage</td>
     <td>Implementar footer section con sus respectivos links</td>
     <td>0.5</td>
-    <td>Carito</td>
+    <td>Karito</td>
     <td>Done</td>
   </tr>
    <tr>
@@ -2878,7 +2878,7 @@ Implementar la landing page en el servidor de producción utilizando Visual Stud
     <td>Versión en inglés y español del LanginPage</td>
     <td>Implementar la opción de lenguaje</td>
     <td>0.5</td>
-    <td>Carito</td>
+    <td>Karito</td>
     <td>Done</td>
   </tr>
 </table>
