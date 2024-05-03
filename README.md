@@ -334,6 +334,8 @@ Se organizó con el equipo para elaborar las partes del informe y de la Landing 
 
 Se llevó a cabo la recopilación de entrevistas para un mejor acercamiento hacia los segmentos objetivos y una elaboración más exacta del proceso de Needfinding que es de utilidad para la eficiencia del startup.
         <br><br>
+          TB1
+      <b>Luna Morales Gianfrnaco: Se realizo mejora continua a los puntos obvervados</b>  
    </td>
     <td>TB1<br><br>
     En conclusión, la capacidad de trabajar eficazmente en un equipo es fundamental para el éxito de nuestra startup. Al proporcionar liderazgo, fomentar un entorno colaborativo e inclusivo, establecer objetivos claros, planificar tareas y cumplir con esos objetivos, podemos maximizar nuestra productividad y alcanzar nuestras metas de manera más efectiva. Es crucial que todos los miembros del equipo estén comprometidos con estos principios para garantizar un trabajo armonioso y orientado hacia el logro de nuestros objetivos comerciales.</td>
@@ -343,7 +345,7 @@ Se llevó a cabo la recopilación de entrevistas para un mejor acercamiento haci
 empresarial o dominio de
 aplicación de soluciones de
 software.</b></td>
-    <td> TB1<br><br>
+    <td> TP1<br><br>
          <b>Luna Morales, Gianfranco</b><br>
        Se vio los temas de Vue, aún se práctica los temas para el desarrollo de la aplicación.
 <br><br> 
@@ -394,7 +396,10 @@ User Personas.
 -Ubiquitous Language.
 -Software Deployment Configuration.
 -Landing Page, Services & Applications Implementation.
-        <br><br>
+        <br><br>    
+         <b>TP1</b>
+         <b>Luna Morales, Gianfranco</b><br>
+     Se informó de los cambios realizados en la implementación del servicio de planilla..
    </td>
     <td>TB1<br><br>
     En este contexto, es esencial cultivar un entorno que fomente la colaboración y la inclusión dentro de nuestro equipo. Al establecer metas claras y específicas, planificar cuidadosamente las tareas y trabajar juntos para alcanzar nuestros objetivos, podemos potenciar la eficiencia y la cohesión en nuestra startup. Es fundamental que cada miembro del equipo se sienta valorado y respetado, y que se les dé la oportunidad de contribuir de manera significativa al logro de nuestras metas comunes. Al crear este ambiente colaborativo e inclusivo, podemos optimizar nuestro rendimiento y avanzar hacia el éxito de manera efectiva.</td>
