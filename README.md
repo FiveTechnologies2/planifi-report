@@ -2496,8 +2496,34 @@ Aplicación de creación de planillas
 ## 4.7. Software Object-Oriented Design
 ## 4.7.1. Class Diagrams
 
+### Class Diagram for IAM Bounded Context:
 <div style="text-align: center; margin-top: 20px;">
-        <img src="static/img/Chapter 4/img-class-diagram.png" alt="Class Diagram" style="width: 65;"></img>
+        <img src="static/img/Chapter 4/img-class-diagram-iam.png" alt="Class Diagram" style="width: 65;"></img>
+</div>
+
+### Class Diagram for Spreadsheet Bounded Context:
+<div style="text-align: center; margin-top: 20px;">
+        <img src="static/img/Chapter 4/img-class-diagram-spreadsheet.png" alt="Class Diagram" style="width: 65;"></img>
+</div>
+
+### Class Diagram for Worker Follow Up Bounded Context:
+<div style="text-align: center; margin-top: 20px;">
+        <img src="static/img/Chapter 4/img-class-diagram-worker.png" alt="Class Diagram" style="width: 65;"></img>
+</div>
+
+### Class Diagram for Project Follow Up Bounded Context:
+<div style="text-align: center; margin-top: 20px;">
+        <img src="static/img/Chapter 4/img-class-diagram-project.png" alt="Class Diagram" style="width: 65;"></img>
+</div>
+
+### Class Diagram for Subscription Bounded Context:
+<div style="text-align: center; margin-top: 20px;">
+        <img src="static/img/Chapter 4/img-class-diagram-subscription.png" alt="Class Diagram" style="width: 65;"></img>
+</div>
+
+### Class Diagram for Financial Report Bounded Context:
+<div style="text-align: center; margin-top: 20px;">
+        <img src="static/img/Chapter 4/img-class-diagram-report.png" alt="Class Diagram" style="width: 65;"></img>
 </div>
 
 ## 4.7.2. Class Dictionary
