@@ -2548,8 +2548,34 @@ Para la realización del diagrama, se han utilizado las siguientes clases, junto
 ## 4.8. Database Design
 ## 4.8.1. Database Diagram
 
+### IAM Bounded Context Database Diagram:
 <div style="text-align: center; margin-top: 20px;">
-        <img src="static/img/Chapter 4/img-database-model.png" alt="Database Diagram" style="width: 65;"></img>
+        <img src="static/img/Chapter 4/img-database-model-iam.png" alt="Database Diagram" style="width: 65;"></img>
+</div>
+
+### Spreadsheet Bounded Context Database Diagram:
+<div style="text-align: center; margin-top: 20px;">
+        <img src="static/img/Chapter 4/img-database-model-spreadsheet.png" alt="Database Diagram" style="width: 65;"></img>
+</div>
+
+### Worker Follow Up Bounded Context Database Diagram:
+<div style="text-align: center; margin-top: 20px;">
+        <img src="static/img/Chapter 4/img-database-model-worker.png" alt="Database Diagram" style="width: 65;"></img>
+</div>
+
+### Project Bounded Context Database Diagram:
+<div style="text-align: center; margin-top: 20px;">
+        <img src="static/img/Chapter 4/img-database-model-project.png" alt="Database Diagram" style="width: 65;"></img>
+</div>
+
+### Subscription Bounded Context Database Diagram:
+<div style="text-align: center; margin-top: 20px;">
+        <img src="static/img/Chapter 4/img-database-model-subscription.png" alt="Database Diagram" style="width: 65;"></img>
+</div>
+
+### Report Bounded Context Database Diagram:
+<div style="text-align: center; margin-top: 20px;">
+        <img src="static/img/Chapter 4/img-database-model-report.png" alt="Database Diagram" style="width: 65;"></img>
 </div>
 
 # Capítulo V: Product Implementation, Validation & Deployment
