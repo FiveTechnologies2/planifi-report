@@ -2795,7 +2795,7 @@ Implementar la landing page en el servidor de producción utilizando Visual Stud
     <td>E01-US01</td>
     <td>Barra de navegación en Landing Page</td>
     <td>W01</td>
-    <td>Navigation bar on Landing Page</td>
+    <td>Barra de navegación del Landing Page</td>
     <td>Se creará un botón que dirija a la seccion about the team.</td>
     <td>0.5</td>
     <td>Carito</td>
@@ -2805,7 +2805,7 @@ Implementar la landing page en el servidor de producción utilizando Visual Stud
     <td>E01-US02</td>
     <td>Dirigir a la aplicación a través del Landing Page</td>
     <td>W02</td>
-    <td>Directing users to the application via the Landing Page</td>
+    <td>Redireccionar a los usuarios a la app desde la Landing Page</td>
     <td>Para la sección de ‘conócenos’, se añadirá un listado de tarjetas (imágenes con texto) que muestren los beneficios que ofrece la app.</td>
     <td>0.5</td>
     <td>Carito</td>
@@ -2815,7 +2815,7 @@ Implementar la landing page en el servidor de producción utilizando Visual Stud
     <td>E01-US03</td>
     <td>Sección de testimonios del Landing Page</td>
     <td>W03</td>
-    <td>Testimonials section of the Landing Page</td>
+    <td>Seccion de testimonios del LandingPage</td>
     <td>Implementar testimonios de clientes</td>
     <td>2</td>
     <td>Carito</td>
@@ -2825,7 +2825,7 @@ Implementar la landing page en el servidor de producción utilizando Visual Stud
     <td>E01-US04</td>
     <td>Sección de beneficios del Landing Page</td>
     <td>W04</td>
-    <td>Benefits section of the Landing Page</td>
+    <td>Seccion de beneficios del LandingPage</td>
     <td>Definir los beneficios de la app</td>
     <td>1</td>
     <td>Ramón</td>
@@ -2835,7 +2835,7 @@ Implementar la landing page en el servidor de producción utilizando Visual Stud
     <td>E01-US05</td>
     <td>Sección de ubicación del Landing Page</td>
     <td>W05</td>
-    <td>Location section of the Landing Page</td>
+    <td>Sección de ubicación del LandingPage</td>
     <td>Definir los beneficios de la app</td>
     <td>1</td>
     <td>Ramón</td>
@@ -2845,7 +2845,7 @@ Implementar la landing page en el servidor de producción utilizando Visual Stud
     <td>E01-US06</td>
     <td>Sección de contacto del Landing Page</td>
     <td>W06</td>
-    <td>Contact section of the Landing Page</td>
+    <td>Sección de contacto de Landing Page</td>
     <td>Implementar medio de contacto para el usuario</td>
     <td>0.5</td>
     <td>Carito</td>
@@ -2855,7 +2855,7 @@ Implementar la landing page en el servidor de producción utilizando Visual Stud
     <td>E01-US07</td>
     <td>Sección de planes del Landing Page</td>
     <td>W07</td>
-    <td>Plans section of the Landing Page</td>
+    <td>Secciones de planes de LandingPage</td>
     <td>Definir los planes a contratar por el usuario</td>
     <td>1</td>
     <td>Carito</td>
@@ -2865,7 +2865,7 @@ Implementar la landing page en el servidor de producción utilizando Visual Stud
     <td>E01-US08</td>
     <td>Footer a la aplicación en el Landing Page</td>
     <td>W08</td>
-    <td>Footer to the application on the Landing Page</td>
+    <td>Sección de footer del LandingPage</td>
     <td>Implementar footer section con sus respectivos links</td>
     <td>0.5</td>
     <td>Carito</td>
@@ -2875,7 +2875,7 @@ Implementar la landing page en el servidor de producción utilizando Visual Stud
     <td>E01-US09</td>
     <td>Versión en inglés y español del Landing Page</td>
     <td>W09</td>
-    <td>English and Spanish versions of the Landing Page</td>
+    <td>Versión en inglés y español del LanginPage</td>
     <td>Implementar la opción de lenguaje</td>
     <td>0.5</td>
     <td>Carito</td>
