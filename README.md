@@ -2105,6 +2105,7 @@ Enlace del video completo de las entrevistas: https://youtu.be/rx5jXpM6EV0?si=sn
 
 Resumen de la entrevista:
 
+El entrevistado Ramon Jorge nos sugiere mejoras como agregar una opción de prueba gratuita, reordenar secciones y hacer más prominente la información de contacto. También recomienda hacer el texto menos simple y agregar colores contrastantes para que sea más llamativo, aunque encuentra el logo y el nombre de la empresa atractivos por su enfoque en la planificación y organización. Se sugieren mejoras como separar los campos de nombre y apellido, ajustar los anchos de las columnas e incluir el monto del salario, dependiendo de cómo se pague al trabajador. También se menciona una pestaña de rendimiento en la pantalla. Finalmente, se destaca la importancia de medir y rastrear la productividad de los trabajadores en una empresa de construcción, sugiriendo una característica que muestre datos de progreso y productividad, permitiendo al empleador tomar decisiones sobre horas extras o días adicionales. Se enfatiza la necesidad de claridad e intuitividad, especialmente en la sección "My Project," para que los usuarios puedan navegar y acceder fácilmente a información detallada de los trabajadores, incluyendo datos personales para seguros.
 
 <strong>Segmento objetivo 2: Emprendedores:</strong>
 
@@ -2126,6 +2127,7 @@ Enlace del video completo de las entrevistas: https://youtu.be/rx5jXpM6EV0?si=sn
 
 Resumen de la entrevista:
 
+El entrevistado Jorge Zagaceta destaca la falta de una columna para remuneración y otros benificios de negocio para los empleados. También se mencionan mejoras necesarias, como agregar columnas para obligaciones del empleador, como contribuciones a la seguridad social, que son obligatorias por ley. Además, se destacan los datos esenciales para registrar una empresa en el sistema, incluyendo nombre, correo electrónico, número de RUC, número de empleados, nombre del representante legal y domicilio legal.
 
 <strong>Entrevistado(a) #2: Maomed Alexandr Chocce Cruces</strong>
 
@@ -2145,6 +2147,7 @@ Enlace del video completo de las entrevistas: https://youtu.be/rx5jXpM6EV0?si=sn
 
 Resumen de la entrevista:
 
+El entrevistado Maomed Chocce proporciona sugerencias de mejora que incluyen la realización del proceso de registro para nuevos usuarios más intuitivo con una ventana más grande y clara, y agregar etiquetas más descriptivas para cada enlace en la página. También mencionan la necesidad de información más detallada sobre la función de organización, que permite a los usuarios unirse a organizaciones existentes o crear nuevas. Aunque el diseño de la página está organizado, necesita más claridad y detalle. La primera página es dinámica y educativa, pero la segunda página, utilizada para iniciar sesión y generar un usuario, presenta aspectos que no son de su agrado. La última página carece de detalles y descripción. La primera página es elogiada por su información detallada, aunque se sugiere agregar un enlace para volver arriba. 
 
 ### 5.3.3. Evaluaciones según heurísticas
 
@@ -2169,5 +2172,6 @@ En conclusión, el proceso de investigación, diseño y desarrollo para nuestro 
 
 # Anexos
 
+- Enlace de la Organización de Github: https://github.com/FiveTechnologies2
 - Videos de Exposiciones:
 - TB1: https://youtu.be/hQF794BKcO8
