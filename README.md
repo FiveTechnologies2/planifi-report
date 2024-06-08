@@ -1993,7 +1993,7 @@ A continuación, se mostrarán capturas de los Insights del GitHub para evidenci
 <img src="static/img/Chapter 5/img-insights.png" alt="Insights" style="width: 65;"></img>
 
 ## 5.2.3 Sprint 3
-### 5.2.3.1. Sprint Planning 3
+#### 5.2.3.1. Sprint Planning 3
 
   <table>
   <tr>
@@ -2046,7 +2046,6 @@ A continuación, se mostrarán capturas de los Insights del GitHub para evidenci
 
 <img src="static/img/Chapter 5/img-sprint3.jpg" alt=" " style="width: 65;"></img>
 
-<br>
 | User Story        |                   | Work Item/Task |               |                                                    |                   |                 |        |
 |:------------------|:-----------------:|:--------------:|:-------------:|:--------------------------------------------------:|:-----------------:|:---------------:|:------:|
 | **Id**            | **Title**         | **Id**         | **Title**     | **Description**                                    | **Estimation**    | **Assigned To** | **Status** |
