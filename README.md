@@ -2396,7 +2396,17 @@ Aquí se explican las evaluaciones realizadas utilizando principios heurísticos
 <br>Mantener un tamaño de letra coherente en todo el sitio web para garantizar una experiencia de usuario consistente y familiar. </br>
 <p></p>
 
+- Problema #8: Al entrar a la interfaz, en la parte de “home”, poner una descripción para que se usa la aplicación o para que sirve cada segmento.
+- Severidad: 4
+- Heurística/Principio violada(o): Usabilidad: Reconocimiento en vez de recuerdo
+- Problema:
+<br>La falta de una descripción que explique el propósito de la aplicación y la función de cada segmento dificulta la comprensión de los usuarios sobre cómo utilizar la aplicación correctamente. </br>
 
+<img src="static/img/Chapter 5/img-problema-8.png" alt="Imagen Problema 8"></img>
+
+- Recomendación:
+<br>Agregar una breve descripción en la página de inicio que explique el propósito de la aplicación y proporcione información sobre cada segmento para ayudar a los usuarios a comprender mejor su funcionalidad y uso adecuado. </br>
+<p></p>
 
 ## 5.4. Video About-The-Product
 
