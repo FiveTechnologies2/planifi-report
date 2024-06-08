@@ -2097,7 +2097,7 @@ Empresa: RDS Ingeniería y Construcción
 
 Ubicación en la que vive: Jesús María, Lima, Perú
 
-<img src="static/img/Chapter 2/img-entrevista-validacion-ramon.png" alt="Imagen entrevista validación Ramon" style="width: 30;"></img>
+<img src="static/img/Chapter 2/img-entrevista-validacion-ramon.png" alt="Imagen entrevista validación Ramon" style="width: 400px; height: 300px;"></img>
 
 Minuto de la entrevista: 0:00 - 15:25
 
@@ -2118,7 +2118,7 @@ Empresa: Flash Service
 
 Ubicación en la que vive: Pucallpa, Perú
 
-<img src="static/img/Chapter 2/img-entrevista-validacion-jorge.png" alt="Imagen entrevista validación Jorge" style="width: 65;"></img>
+<img src="static/img/Chapter 2/img-entrevista-validacion-jorge.png" alt="Imagen entrevista validación Jorge"></img>
 
 Minuto de la entrevista: 15:26 - 29:23
 
