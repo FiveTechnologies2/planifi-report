@@ -2137,7 +2137,7 @@ Empresa: EcoTech Solutions
 
 Ubicación en la que vive: San Juan de Lurigancho, Lima, Perú
 
-<img src="static/img/Chapter 2/img-entrevista-validacion-vamaomed.png" alt="Imagen entrevista validación Maomed" style="width: 65;"></img>
+<img src="static/img/Chapter 2/img-entrevista-validacion-maomed.png" alt="Imagen entrevista validación Maomed" style="width: 65;"></img>
 
 Minuto de la entrevista: 29:24 - 36:26
 
