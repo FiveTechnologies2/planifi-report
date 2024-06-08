@@ -1992,7 +1992,7 @@ El objetivo de este primer sprint fue el desarrollo de la Landing Page. Para est
 A continuación, se mostrarán capturas de los Insights del GitHub para evidenciar la participación de todos los miembros del grupo:
 <img src="static/img/Chapter 5/img-insights.png" alt="Insights" style="width: 65;"></img>
 
-## 5.2.3 Sprint 3
+### 5.2.3 Sprint 3
 #### 5.2.3.1. Sprint Planning 3
 
   <table>
