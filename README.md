@@ -2268,6 +2268,145 @@ El entrevistado Maomed Chocce proporciona sugerencias de mejora que incluyen la 
 
 Aquí se explican las evaluaciones realizadas utilizando principios heurísticos de usabilidad. Se analizan los resultados obtenidos y se identifican áreas de mejora en la interfaz y la funcionalidad de la aplicación, con el fin de optimizar la experiencia del usuario y asegurar la eficacia del producto.
 
+<div style="align-items: center; text-align: center">
+<h3>UX Heuristics & Principles Evaluation<p>Usability – Inclusive Design – Information Architecture<h3>
+</div>
+
+#### Carrera: Ingeniería de Software
+#### Curso: Aplicaciones Web
+#### Sección: WX55
+#### Profesores: Todos
+#### Auditor: FiveTechnologies
+#### Clientes(S): Ramon Enrique Jorge García, Jorge Enrique Zagaceta Bartra, Maomed Alexandr Chocce Cruces
+
+### Site o App a Evaluar: Planifi
+
+### Tareas a Evaluar: 
+
+
+### Escala de Severidad: 
+
+##### Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+| Nivel | Descripción                                                                                                                                                                                                 |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario ó ocurre con muy poco frecuencia. <br/>No necesita ser arreglado a no ser que exista disponibilidad de tiempo.<br/>                      |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. <br/> Se le debería asignar una prioridad baja de cara resolverlo al siguiente release. <br/> |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean <br/> corregidos y se les debe asignar una prioridad alta. <br/>                                 |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. <br/> Es imperativo que sea corregido antes del lanzamiento. <br/>                                    |
+
+#### Tabla Resumen: 
+
+| # | Problema                                                                                                                            | Escala de Severidad | Heurística/Principio violada(o)                        |
+|------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|---------------------|--------------------------------------------------------|
+| 1 | Algunas fuentes de letras son muy pequeñas.                                                                                         | 2                   | Inclusive Design: Proporciona experiencias comparables |
+| 2 | La interfaz de añadir un trabajador no se adecua al tamaño de la pantalla.                                                          | 3                   | Inclusive Design: Proporciona experiencias comparables |
+| 3 | No hay un control que permita regresar a la página anterior en las pantallas de inicio de sesión y registro.                        | 2                   | Usability: Libertad y control del usuario              |
+| 4 | No se indica en el menú la opción que se ha seleccionado.                                                                           | 1                   | Inclusive Design: Visibilidad del estado del sistema.  |
+| 5 | La ruta de la opción “Home” lleva a una página en blanco.                                                                           | 4                   | Information Architecture: Is it usable?.               |
+| 6 | No hay un botón en la landing page para que le regrese al inicio de la página.                                                      | 2                   | Usabilidad: Libertad y control del usuario.            |
+| 7 | Cambiar el tamaño de la letra a la ruta dirigida para el sign in o el sign up                                                       | 2                   | Usabilidad: Consistencia y estándares.                 |
+| 8 | Al entrar a la interfaz, en la parte de “home”, poner una descripción para que se usa la aplicación o para que sirve cada segmento. | 4                   | Usabilidad: Reconocimiento en vez de recuerdo.         |
+
+
+#### Descripción de Problemas: 
+
+- Problema #1: Algunas fuentes de letras son muy pequeñas.
+- Severidad: 2
+- Heurística/Principio violada(o): Inclusive Design: Proporciona experiencias comparables
+- Problema:
+<br>En varias pantallas de la aplicación, el tamaño de las letras es a veces muy pequeño. Esto, si bien no afecta la funcionalidad de la aplicación, puede generarles dificultad a los usuarios al momento de leer la información de la pantalla. </br>
+
+<img src="static/img/Chapter 5/img-problema-1.png" alt="Imagen Problema 1"></img>
+
+- Recomendación: 
+<br>La solución es tan sencilla como cambiar el tamaño de las letras para que cualquier usuario pueda leerlas sin dificultad. </br>
+<p></p>
+
+- Problema #2: La interfaz de añadir un trabajador no se adecua al tamaño de la pantalla.
+- Severidad: 3
+- Heurística/Principio violada(o): Inclusive Design: Proporciona experiencias comparables
+- Problema:
+<br>Al elegir la opción de agregar un nuevo trabajador a la planilla, la ventana que se muestra con la interfaz para ingresar los datos no se adecúa al tamaño de la pantalla, lo cual ocasiona que los usuarios no puedan usar esta función cómodamente. </br>
+
+<img src="static/img/Chapter 5/img-problema-2.png" alt="Imagen Problema 2"></img>
+
+- Recomendación:
+<br>Se deben modificar los estilos de la interfaz para que pueda cumplir con el diseño responsive. </br>
+<p></p>
+
+- Problema #3: No hay un control que permita regresar a la página anterior en las pantallas de inicio de sesión y registro.
+- Severidad: 2
+- Heurística/Principio violada(o): Usability: Libertad y control del usuario
+- Problema:
+<br>No hay un botón u opción en las páginas de registrarse e iniciar sesión, por lo cual el usuario no puede regresar a la pantalla anterior de forma natural. </br>
+
+<img src="static/img/Chapter 5/img-problema-3.png" alt="Imagen Problema 3"></img>
+
+- Recomendación:
+<br>Es necesario agregar un botón a ambas pantallas que direccione al usuario a la pantalla anterior de un modo intuitivo. </br>
+<p></p>
+
+- Problema #4: No se indica en el menú la opción que se ha seleccionado.
+- Severidad: 1
+- Heurística/Principio violada(o): Inclusive Design: Visibilidad del estado del sistema
+- Problema:
+<br>En el menú izquierdo de la aplicación, no se puede apreciar si uno se encuentra en la pantalla “Home”, “My projects” o “Organization”. Un usuario poco hábil con la tecnología podría tener dificultades en el uso de la aplicación si no se le indica qué opción está usando. </br>
+<p></p>
+
+<img src="static/img/Chapter 5/img-problema-4.png" alt="Imagen Problema 4"></img>
+
+- Recomendación:
+<br>Es posible sombrear con un color más oscuro la zona alrededor de la opción en cuya pantalla está el usuario en el momento, o cambiar el color de las letras para que el usuario sepa dónde está en todo momento. </br>
+<p></p>
+
+- Problema #5: La ruta de la opción “Home” lleva a una página en blanco.
+- Severidad: 4
+- Heurística/Principio violada(o): Information Architecture: Is it usable?
+- Problema:
+<br>Al seleccionar la opción “Home” en el menú izquierdo, la aplicación te direcciona a una pantalla en blanco. Esto puede generar confusión en el usuario, ya que no se le está proporcionando la información que espera. </br>
+
+<img src="static/img/Chapter 5/img-problema-5.png" alt="Imagen Problema 5"></img>
+
+- Recomendación:
+<br>Es indispensable arreglar la ruta del botón para que la aplicación redireccione al usuario a la pantalla correcta. </br>
+<p></p>
+
+- Problema #6: No hay un botón en la landing page para que le regrese al inicio de la página.
+- Severidad: 2
+- Heurística/Principio violada(o): Usabilidad: Libertad y control del usuario
+- Problema:
+<br>La falta de un botón de retroceso limita la capacidad de los usuarios para controlar su navegación, lo que puede causar frustración al intentar regresar a la página de inicio. </br>
+
+<img src="static/img/Chapter 5/img-problema-6.png" alt="Imagen Problema 6"></img>
+
+- Recomendación:
+<br>Agregar un botón de "Inicio" o "Regresar al inicio" en la parte superior o inferior de la página para permitir a los usuarios volver fácilmente a la página principal. </br>
+<p></p>
+
+- Problema #7: Cambiar el tamaño de la letra a la ruta dirigida para el sign in o el sign up.
+- Severidad: 2
+- Heurística/Principio violada(o): Usabilidad: Consistencia y estándares
+- Problema:
+<br>La variación en el tamaño de letra para la ruta dirigida (sign in o sign up) crea una experiencia inconsistente para los usuarios, lo que puede causar confusión. </br>
+
+<img src="static/img/Chapter 5/img-problema-7.png" alt="Imagen Problema 7"></img>
+
+- Recomendación:
+<br>Mantener un tamaño de letra coherente en todo el sitio web para garantizar una experiencia de usuario consistente y familiar. </br>
+<p></p>
+
+- Problema #8: Al entrar a la interfaz, en la parte de “home”, poner una descripción para que se usa la aplicación o para que sirve cada segmento.
+- Severidad: 4
+- Heurística/Principio violada(o): Usabilidad: Reconocimiento en vez de recuerdo
+- Problema:
+<br>La falta de una descripción que explique el propósito de la aplicación y la función de cada segmento dificulta la comprensión de los usuarios sobre cómo utilizar la aplicación correctamente. </br>
+
+<img src="static/img/Chapter 5/img-problema-8.png" alt="Imagen Problema 8"></img>
+
+- Recomendación:
+<br>Agregar una breve descripción en la página de inicio que explique el propósito de la aplicación y proporcione información sobre cada segmento para ayudar a los usuarios a comprender mejor su funcionalidad y uso adecuado. </br>
+
 
 ## 5.4. Video About-The-Product
 
