@@ -2046,7 +2046,7 @@ A continuación, se mostrarán capturas de los Insights del GitHub para evidenci
 
 <img src="static/img/Chapter 5/img-sprint3.jpg" alt=" " style="width: 65;"></img>
 
-**Sprint 3**
+<br>
 | User Story        |                   | Work Item/Task |               |                                                    |                   |                 |        |
 |:------------------|:-----------------:|:--------------:|:-------------:|:--------------------------------------------------:|:-----------------:|:---------------:|:------:|
 | **Id**            | **Title**         | **Id**         | **Title**     | **Description**                                    | **Estimation**    | **Assigned To** | **Status** |
@@ -2130,7 +2130,7 @@ Para la entrega del Sprint 3 se intentó corregir el frontend y se implementó e
 </body>
 </html>
 
-#### 5.2.1.5. Execution Evidence for Sprint Review
+#### 5.2.3.5. Execution Evidence for Sprint Review
 
 El Execution Evidence for Sprint Review se enfoca en recopilar y presentar evidencia concreta del progreso realizado durante el sprint, centrándose específicamente en la elaboración del backend y corrección del frontend. Esta evidencia es crucial para demostrar cómo se están cumpliendo los objetivos del sprint, qué elementos han sido completados y cómo se alinean con los requisitos del cliente. 
 
@@ -2140,11 +2140,11 @@ El Execution Evidence for Sprint Review se enfoca en recopilar y presentar evide
 
 <img src="static/img/Chapter 5/img-evidence-3-sprint-3.png" alt="Evidence Sprint Review 3" style="width: 65;"></img>
 
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 Para esta entrega solo se realizó el backend, por lo que no hubo implementación de APIs.
 
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 El objetivo de este tercer sprint fue el desarrollo del Backend y mejoras del Frontend. Para esto, utilizamos GitHub y GitHub Pages. El proceso fue el siguiente:
 
@@ -2164,7 +2164,7 @@ El objetivo de este tercer sprint fue el desarrollo del Backend y mejoras del Fr
 
 <img src="static/img/Chapter 5/img-landing-page.png" alt="Landing Page" style="width: 65;"></img>
 
-#### 5.2.1.8. Team Collaboration Insights during Sprint
+#### 5.2.3.8. Team Collaboration Insights during Sprint
 
 A continuación, se mostrarán capturas de los Insights del GitHub para evidenciar la participación de todos los miembros del grupo:
 
