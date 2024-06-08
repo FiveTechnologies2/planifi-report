@@ -2416,6 +2416,10 @@ En esta sección se presenta un video explicativo sobre la aplicación Planifi. 
 
 En conclusión, el proceso de investigación, diseño y desarrollo para nuestro proyecto ha sido fundamental para comprender las necesidades y expectativas de nuestros usuarios. Las entrevistas nos proporcionaron información valiosa sobre los desafíos que enfrentan y las características que valoran en una solución. La creación de la landing page nos permitió comunicar efectivamente nuestra propuesta de valor y garantizar una experiencia de usuario satisfactoria. Además, las user stories nos brindaron una guía clara para el desarrollo del producto. En conjunto, estos elementos nos han ayudado a construir una base sólida para futuras iteraciones y mejoras en nuestro proyecto.
 
+<img src="static/img/Chapter 5/img-about-the-product.png" alt="Imagen About The Product"></img>
+
+Enlace al Video About-The-Product: https://youtu.be/xg8zKvR-nrQ
+
 # Bibliografía
 
 - Ackoff, R. (1992). Planificación de la Empresa del Futuro. Limusa, México. https://www.econo.unlp.edu.ar/carreras/direccion_y_gestion_empresarial_bibliografia-3478
