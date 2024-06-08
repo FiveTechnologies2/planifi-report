@@ -2059,6 +2059,102 @@ A continuación, se mostrarán capturas de los Insights del GitHub para evidenci
 | E04-US01          | Ingreso de datos del personal | E4-US01-W1 | Interfaz de registro de personal  | Implementar interfaz de registro de personal para empresas o emprendedores. | 1.5               | Nombres | Done   |
 | E05-US02          | Autenticación de Usuario | E4-US02-W2  | Interfaz de autenticación del usuario | Implementar interfaz de autenticación del usuario. | 2                 | Nombres | Done  |
 
+## 5.3. Validation Interviews 
+
+En esta sección se detalla el proceso de validación mediante entrevistas con usuarios y expertos. Estas entrevistas son cruciales para evaluar la usabilidad, funcionalidad y eficacia de la aplicación Planifi, garantizando que cumple con las necesidades y expectativas de nuestros segmentos de mercado.
+
+### 5.3.1. Diseño de Entrevistas
+
+Se describe la metodología utilizada para diseñar las entrevistas de validación, incluyendo la selección de participantes, la formulación de preguntas y el enfoque adoptado para obtener información relevante y precisa sobre la experiencia del usuario con la aplicación Planifi.
+
+<strong>Segmento objetivo 1: Empresas medianas y pequeñas:</strong>
+- Segun lo visto,  ¿qué te parecio la estructuracion de la pagina?
+- ¿Cuáles son los puntos de mejora?
+- ¿Crees que la aplicación es intuitiva y facil de navegar?
+- ¿Se te dificulto alguna sección de la aplicación?
+- ¿Cuáles son los puntos positivos y negativos que destacas de la aplicación?
+
+<strong>Segmento objetivo 2: Emprendedores:</strong>
+- Segun lo visto,  ¿qué te parecio la estructuracion de la pagina?
+- ¿Cuáles son los puntos de mejora?
+- ¿Crees que la aplicación es intuitiva y facil de navegar?
+- ¿Se te dificulto alguna sección de la aplicación?
+- ¿Cuáles son los puntos positivos y negativos que destacas de la aplicación?
+
+### 5.3.2. Registro de Entrevistas
+
+Esta subsección presenta un registro detallado de las entrevistas realizadas, documentando las respuestas de los participantes, las observaciones clave y los comentarios obtenidos durante las sesiones de validación. Estos registros proporcionan una base sólida para el análisis y la mejora del producto.
+
+<strong>Segmento objetivo 1: Empresas medianas y pequeñas:</strong>
+
+<strong>Entrevistado(a) #1: Ramón Enrique Jorge García</strong>
+
+Sexo: Masculino
+
+Edad: 50 años
+
+Empresa: RDS Ingeniería y Construcción
+
+Ubicación en la que vive: Jesús María, Lima, Perú
+
+<img src="static/img/Chapter 2/img-entrevista-validacion-ramon.png" alt="Imagen entrevista validación Ramon" style="width: 30;"></img>
+
+Minuto de la entrevista: 0:00 - 15:25
+
+Enlace del video completo de las entrevistas: https://youtu.be/rx5jXpM6EV0?si=snw3MH7C1hU8Vau2
+
+Resumen de la entrevista:
+
+
+<strong>Segmento objetivo 2: Emprendedores:</strong>
+
+strong>Entrevistado(a) #1: Jorge Enrique Zagaceta Bartra</strong>
+
+Sexo: Masculino
+
+Edad: 63 años
+
+Empresa: Flash Service
+
+Ubicación en la que vive: Pucallpa, Perú
+
+<img src="static/img/Chapter 2/img-entrevista-validacion-jorge.png" alt="Imagen entrevista validación Jorge" style="width: 65;"></img>
+
+Minuto de la entrevista: 15:26 - 29:23
+
+Enlace del video completo de las entrevistas: https://youtu.be/rx5jXpM6EV0?si=snw3MH7C1hU8Vau2
+
+Resumen de la entrevista:
+
+
+<strong>Entrevistado(a) #2: Maomed Alexandr Chocce Cruces</strong>
+
+Sexo: Masculino
+
+Edad: 42 años
+
+Empresa: EcoTech Solutions
+
+Ubicación en la que vive: San Juan de Lurigancho, Lima, Perú
+
+<img src="static/img/Chapter 2/img-entrevista-validacion-vamaomed.png" alt="Imagen entrevista validación Maomed" style="width: 65;"></img>
+
+Minuto de la entrevista: 29:24 - 36:26
+
+Enlace del video completo de las entrevistas: https://youtu.be/rx5jXpM6EV0?si=snw3MH7C1hU8Vau2
+
+Resumen de la entrevista:
+
+
+### 5.3.3. Evaluaciones según heurísticas
+
+Aquí se explican las evaluaciones realizadas utilizando principios heurísticos de usabilidad. Se analizan los resultados obtenidos y se identifican áreas de mejora en la interfaz y la funcionalidad de la aplicación, con el fin de optimizar la experiencia del usuario y asegurar la eficacia del producto.
+
+
+## 5.4. Video About-The-Product
+
+En esta sección se presenta un video explicativo sobre la aplicación Planifi. El video destaca las principales características y beneficios del producto, demostrando cómo satisface las necesidades de gestión de planillas para PYMEs y emprendedores. Este recurso visual es esencial para comunicar de manera efectiva el valor de la aplicación a potenciales usuarios e inversores.
+
 # Conclusiones
 
 En conclusión, el proceso de investigación, diseño y desarrollo para nuestro proyecto ha sido fundamental para comprender las necesidades y expectativas de nuestros usuarios. Las entrevistas nos proporcionaron información valiosa sobre los desafíos que enfrentan y las características que valoran en una solución. La creación de la landing page nos permitió comunicar efectivamente nuestra propuesta de valor y garantizar una experiencia de usuario satisfactoria. Además, las user stories nos brindaron una guía clara para el desarrollo del producto. En conjunto, estos elementos nos han ayudado a construir una base sólida para futuras iteraciones y mejoras en nuestro proyecto.
