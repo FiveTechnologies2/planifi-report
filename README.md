@@ -1992,6 +1992,73 @@ El objetivo de este primer sprint fue el desarrollo de la Landing Page. Para est
 A continuación, se mostrarán capturas de los Insights del GitHub para evidenciar la participación de todos los miembros del grupo:
 <img src="static/img/Chapter 5/img-insights.png" alt="Insights" style="width: 65;"></img>
 
+## 5.2.3 Sprint 3
+### 5.2.3.1. Sprint Planning 3
+
+  <table>
+  <tr>
+    <th>Sprint #</th>
+    <td>Sprint 3</td>
+  </tr>
+  <tr>
+    <th>Sprint Planning Date</th>
+    <td>2024-06-1</td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <td>04:00 PM</td>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <td>Servidor de Discord del Equipo</td>
+  </tr>
+  <tr>
+    <th>Prepared By</th>
+    <td>Rodrigo Zagaceta</td>
+  </tr>
+  <tr>
+    <th>Attendees</th>
+    <td>Gianfranco / Rodrigo / Ramón / Ricardo/ Carito </td>
+  </tr>
+  <tr>
+    <th>Sprint Review Summary</th>
+    <td>El enfoque de este sprint estuvo centrado en desarrollar el Backend, con el objetivo de garantizar un correcto funcionamiento de los componentes.</td>
+  </tr>
+  <tr>
+    <th>Sprint Retrospective Summary</th>
+    <td>Durante este sprint, se planea avanzar vistas cores faltantes en el front-end como el dashboard de los procesos de la planilla. Se implementará un RESTful API con el framework de .NET Core con los bounded context de autenticación, planillas, medio de pago y procesos.</td>
+  </tr>
+  <tr>
+    <th>Sprint Goal</th>
+    <td>La meta de este Sprint es el desarrollo del back-end de la aplicacion web, donde se planea implementar los bounded context core del negocio. Todas estas tareas se organizaron mediante Trello. Al finalizar este Sprint, el back-end cuenta con una version actualizada y la web fonrt end cuenta con distintas funcionalidades desplegadas.</td>
+  </tr>
+  <tr>
+    <th>Sprint Velocity</th>
+    <td>7 Velocity</td>
+  </tr>
+  <tr>
+    <th>Sum of Story Points</th>
+    <td>7 Story points</td>
+  </tr>
+</table>
+
+#### 5.2.2.2. Sprint Backlog 2
+
+<img src="static/img/Chapter 5/img-sprint3.jpg" alt=" " style="width: 65;"></img>
+
+**Sprint 3**
+| User Story        |                   | Work Item/Task |               |                                                    |                   |                 |        |
+|:------------------|:-----------------:|:--------------:|:-------------:|:--------------------------------------------------:|:-----------------:|:---------------:|:------:|
+| **Id**            | **Title**         | **Id**         | **Title**     | **Description**                                    | **Estimation**    | **Assigned To** | **Status** |
+| E02-US01           | Visualizar dashboard principal | E2-US01-W1   | Interfaz de dashboard empresas o emprendedores | Implementar la interfaz de dashboard para formulario de registro para empresas y emprendedores. | 3                 | Nombre   | Done   |
+| E03-US02          | Ajustes de aplicación | E2-US02-W2   | Interfaz ajustes de aplicación para empresas o emprendedores | Interfaz de configuración para empresas y emprendedores. | 2                 | Nombre  | Done   |
+| E04-US01          | Ingreso de datos del personal | E2-US04-W4 | Formulario de ingreso de datos del personal para empresas o emprendedores | Implementar el ingreso de datos del personal para empresas o emprendedores. | 1.5               | Nombre | Done   |
+| E04-US02          | Control de datos del personal | E2-US05-W5  | Interfaz de control de datos del personal | Implementar el apartado de control de datos del personal para un registro. | 2                 | Nombre | Done   |
+| E04-US03           | Verificación de datos del personal  | E3-US01-W1   |  Visualizacion de los datos ingresados del personal. | Implementar el apartado donde pueda confirmarse los datos ingresados del personal | 3                 | Nombre   | Done   |
+| E03-US02          | Ajustes de aplicación | E3-US02-W2   | Interfaz de los ajustes de aplicacion   | Visualizacion del los ajustes de aplicacion de empresas y emprendedores | 2                 | Nombre  | Done   |
+| E04-US01          | Ingreso de datos del personal | E4-US01-W1 | Interfaz de registro de personal  | Implementar interfaz de registro de personal para empresas o emprendedores. | 1.5               | Nombres | Done   |
+| E05-US02          | Autenticación de Usuario | E4-US02-W2  | Interfaz de autenticación del usuario | Implementar interfaz de autenticación del usuario. | 2                 | Nombres | Done  |
+
 # Conclusiones
 
 En conclusión, el proceso de investigación, diseño y desarrollo para nuestro proyecto ha sido fundamental para comprender las necesidades y expectativas de nuestros usuarios. Las entrevistas nos proporcionaron información valiosa sobre los desafíos que enfrentan y las características que valoran en una solución. La creación de la landing page nos permitió comunicar efectivamente nuestra propuesta de valor y garantizar una experiencia de usuario satisfactoria. Además, las user stories nos brindaron una guía clara para el desarrollo del producto. En conjunto, estos elementos nos han ayudado a construir una base sólida para futuras iteraciones y mejoras en nuestro proyecto.
