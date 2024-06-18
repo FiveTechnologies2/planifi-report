@@ -1,4 +1,4 @@
-<hr> 
+<hr>
 
 # <center>COURSE PROJECT</center>
 
@@ -65,134 +65,22 @@
         <tbody>
             <tr>
                 <th>1.0</th>
-                <td>04/09/2024</td>
-                <td>Ricardo Barrutia</td>
-                <td>Se añadiò el Startup profile.</td>
+                <td>04/13/2024</td>
+                <td>Five Technologies</td>
+                <td>Entrega de la primera versión del TB1 de Aplicaciones Web: Landing Page.</td>
             </tr>
-              <tr>                
-                <th>1.1</th>
-                <td>04/09/2024</td>
-                <td>Ricardo Barrutia</td>
-                <td>Se añadiò el Solution profile.</td>
-             </tr>
-              <tr>
-                <th>1.2</th>
-                <td>04/09/2024</td>
-                <td>Rodrigo Zagaceta</td>
-                <td>Se agregò la secciòn de los competidores.</td>
-            </tr> 
-            <tr>                
-                <th>1.3</th>
-                <td>04/09/2024</td>
-                <td>Rodrigo Zagaceta</td>
-                <td>Se agregaron las entrevistas.</td>
-             </tr>  
-            <tr>                
-                <th>1.4</th>
-                <td>04/09/2024</td>
-                <td>Rodrigo Zagaceta</td>
-                <td>Se agregò el Needfinding.</td>
-             </tr>  
-            <tr>                
-                <th>1.5</th>
-                <td>04/10/2024</td>
-                <td>Gianfranco Luna</td>
-                <td>Se agregó los User Stories.</td>
-             </tr>   
-            <tr>                
-                <th>1.6</th>
-                <td>04/10/2024</td>
-                <td>Gianfranco Luna</td>
-                <td>Se agregó le Product Backlog.</td>
-             </tr>  
-            <tr>                
-                <th>1.7</th>
-                <td>04/12/2024</td>
-                <td>Ramón Jorge</td>
-                <td>Se agregó el C4 Model.</td>
-             </tr> 
-            <tr>                
-                <th>1.8</th>
-                <td>04/12/2024</td>
-                <td>Ramón Jorge</td>
-                <td>Se agregó el Diagram Class y el Database Diagram.</td>
-             </tr>   
-            <tr>                
-                <th>1.9</th>
-                <td>04/12/2024</td>
-                <td>Karito Medina</td>
-                <td>Se agregó el CodeStyle guide and conventions.</td>
-             </tr>  
-            <tr>                
-                <th>1.10</th>
-                <td>04/12/2024</td>
-                <td>Karito Medina</td>
-                <td>Se agregó los  Landing Page UI Design.</td>
-             </tr>  
-            <tr>                
-                <th>1.11</th>
-                <td>04/12/2024</td>
-                <td>Karito Medina</td>
-                <td>Se agregó Wireframes y Mockups.</td>
-             </tr>       
-            <tr>                
-                <th>1.12</th>
-                <td>04/13/2024</td>
-                <td>Karito Medina, Ramón Jorge, Rodrigo Zagaceta, Gianfranco Luna, Ricardo Barrutia.</td>
-                <td>Se revisó el Sprint 1.</td>
-             </tr>       
-            <th>2.1</th>
-                <td>04/13/2024</td>
-                <td>Ricardo Barrutia.</td>
-                <td>Mejora continua: Lean UX Process & Software Development Environment Configuration </td>
-             </tr>
-        </tbody>
+      </tbody>
 </table>
 
 <br><br>
 # Project Report Collaboration Insights
-Link del repositorio del reporte del TB1: https://github.com/FiveTechnologies2/planifi-report
-
-Para el presente informe, se llevaron a cabo reuniones y se distribuyeron los puntos a elaborar para la entrega actual, correspondientes a los Capítulos I hasta el Capítulo V: Sprint 1. Quedando de la siguiente manera:
-- Imágen de las Contribuciones del equipo:
-<td><img src="static/img/Chapter 1/img-contributors-team.png" alt="Contribuciones del equipo" width="50%";"></img></td>
-<p>Ricardo Barrutia</p>
-- Imágen de las Contribuciones:
-<td><img src="static/img/Chapter 1/img-contributors-ricardo.png" alt="Contribuciones Ricardo" width="50%";"></img></td>
-- Imágen de los Commits:
-<td><img src="static/img/Chapter 1/img-commits-ricardo.png" alt="Commits Ricardo" width="50%";"></img></td>
-<p>Rodrigo Zagaceta</p>
-- Imágen de las Contribuciones:
-<td><img src="static/img/Chapter 1/img-contributors-rodrigo.png" alt="Contribuciones Rodrigo" width="50%";"></img></td>
-- Imágen de los Commits:
-<td><img src="static/img/Chapter 1/img-commits-rodrigo.png" alt="Commits Rodrigo" width="50%";"></img></td>
-<p>Gianfranco Luna</p>
-- Imágen de las Contribuciones:
-<td><img src="static/img/Chapter 1/img-contributors-gianfranco.png" alt="Contribuciones Gianfranco" width="50%";"></img></td>
-- Imágen de los Commits:
-<td><img src="static/img/Chapter 1/img-commits-gianfranco.png" alt="Commits Gianfranco" width="50%";"></img></td>
-<p>Karito Medina</p>
-- Imágen de las Contribuciones:
-<td><img src="static/img/Chapter 1/img-contributors-karito.png" alt="Contribuciones Karito" width="50%";"></img></td>
-- Imágen de los Commits:
-<td><img src="static/img/Chapter 1/img-commits-karito.png" alt="Commits Karito" width="50%";"></img></td>
-<p>Ramón Jorge</p>
-- Imágen de las Contribuciones:
-<td><img src="static/img/Chapter 1/img-contributors-ramon.png" alt="Contribuciones Ramon" width="50%";"></img></td>
-- Imágen de los Commits:
-<td><img src="static/img/Chapter 1/img-commits-ramon.png" alt="Commits Ramon" width="50%";"></img></td>
-<p>Todos los integrantes del grupo apoyamos para la realiazación del Capítulo V</p>
-- Imágenes de los Commits:
-<td><img src="static/img/Chapter 1/img-commits-cap5-part1.png" alt="Commits Capítulo 5 Parte 1" width="50%";"></img></td>
-<td><img src="static/img/Chapter 1/img-commits-cap5-part2.png" alt="Commits Capítulo 5 Parte 2" width="50%";"></img></td>
-<td><img src="static/img/Chapter 1/img-commits-cap5-part3.png" alt="Commits Capítulo 5 Parte 3" width="50%";"></img></td>
 <br><br>
 
-## [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
-## [Project Report Collaboration Insights](#project-report-collaboration-insights)
+## [Registro de Versiones del Informe](#registro-de-versiones-del-informe-1)
+## [Project Report Collaboration Insights](#project-report-collaboration-insights-1)
 
-## [Contenido](#contenido)
-## [Tabla de contenidos](#tabla-de-contenidos)
+## [Contenido](#contenido-1)
+## [Tabla de contenidos](#tabla-de-contenidos-1)
 ## [Student Outcome](#student-outcome-1)
 
 ## [Capítulo I: Introducción](#capítulo-i-introducción-1)
@@ -246,8 +134,8 @@ Para el presente informe, se llevaron a cabo reuniones y se distribuyeron los pu
 - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
    - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
    - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
-   - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
-   - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
+   - [4.4.2. Web Applications Mock-ups](#443-web-applications-mock-ups)
+   - [4.4.3. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
 - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
 - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
    - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
@@ -275,15 +163,6 @@ Para el presente informe, se llevaron a cabo reuniones y se distribuyeron los pu
      - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
      - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
      - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-    - [5.2.2. Sprint 2](#522-sprint-2)
-     - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
-     - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
-     - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
-     - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
-     - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
-     - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
-     - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
-     - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
      
 ## [Conclusiones](#conclusiones-1)
 
@@ -299,12 +178,7 @@ Para el presente informe, se llevaron a cabo reuniones y se distribuyeron los pu
     <td><b>Conclusiones</b></td>
   </tr>
   <tr>
-    <td><b>Participa en equipos
-multidisciplinarios con eficacia,
-eficiencia y objetividad, en el
-marco de un proyecto en
-soluciones de ingeniería de
-software.</b></td>
+    <td><b>5.c.1 Trabaja en equipo para proporcionar liderazgo en forma conjunta.</b></td>
     <td> TB1<br><br>
          <b>Luna Morales, Gianfranco</b><br>
 Se realizó los puntos del Capítulo 3
@@ -337,24 +211,32 @@ Realizó puntos desde el 4.6 hasta el final del capítulo 4, incluyendo el C4 Mo
 Se organizó con el equipo para elaborar las partes del informe y de la Landing Page.
         <br><br> 
 <b>Barrutia Vaez, Ricardo Andree</b> <br>
-         Durante el desarrollo del TB1, mi aporte principal fue la elaboración del capítulo I, modificación del curso del proyecto, una sección del capítulo 5 y la creación del Trello para la gestion del proyecto.
-
+          - Startup Profile
+          - Descripción de la Startup
+          - Perfiles de integrantes del equipo
+          - Solution Profile
+          - Antecedentes y problemática
+          - Lean UX Process
+          - Lean UX Problem Statements
+          - Lean UX Assumptions
+          - Lean UX Hypothesis Statements
+          - Lean UX Canvas
+          - Segmentos objetivo.
+          - Software Configuration Management
+          - Software Development Environment Configuration
+        <br><br>
+        
 <b>Zagaceta Bardales, Rodrigo Enrique</b>
 
 Se llevó a cabo la recopilación de entrevistas para un mejor acercamiento hacia los segmentos objetivos y una elaboración más exacta del proceso de Needfinding que es de utilidad para la eficiencia del startup.
         <br><br>
-          TB1
-      <b>Luna Morales Gianfrnaco: Se realizo mejora continua a los puntos obvervados</b>  
    </td>
     <td>TB1<br><br>
     En conclusión, la capacidad de trabajar eficazmente en un equipo es fundamental para el éxito de nuestra startup. Al proporcionar liderazgo, fomentar un entorno colaborativo e inclusivo, establecer objetivos claros, planificar tareas y cumplir con esos objetivos, podemos maximizar nuestra productividad y alcanzar nuestras metas de manera más efectiva. Es crucial que todos los miembros del equipo estén comprometidos con estos principios para garantizar un trabajo armonioso y orientado hacia el logro de nuestros objetivos comerciales.</td>
   </tr>
   <tr>
-    <td><b>Conoce al menos un sector
-empresarial o dominio de
-aplicación de soluciones de
-software.</b></td>
-    <td> TP1<br><br>
+    <td><b>5.c.2 Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</b></td>
+    <td> TB1<br><br>
          <b>Luna Morales, Gianfranco</b><br>
        Se vio los temas de Vue, aún se práctica los temas para el desarrollo de la aplicación.
 <br><br> 
@@ -385,8 +267,20 @@ software.</b></td>
 Realizo modificaciones en la Landing Page en colaboración con sus compañeros.
         <br><br> 
 <b>Barrutia Vaez, Ricardo Andree</b> <br>
-         Coordine y llevé a cabo dos entrevistas con dos miembros de nuestro segmento objetivo; además, realicé el análisis de las entrevistas para los candidatos de mis entrevistas.
-
+          - Startup Profile
+          - Descripción de la Startup
+          - Perfiles de integrantes del equipo
+          - Solution Profile
+          - Antecedentes y problemática
+          - Lean UX Process
+          - Lean UX Problem Statements
+          - Lean UX Assumptions
+          - Lean UX Hypothesis Statements
+          - Lean UX Canvas
+          - Segmentos objetivo.
+          - Software Configuration Management
+          - Software Development Environment Configuration
+        <br><br>
         
 <b>Zagaceta Bardales, Rodrigo Enrique</b>
 -Competidores.
@@ -405,10 +299,7 @@ User Personas.
 -Ubiquitous Language.
 -Software Deployment Configuration.
 -Landing Page, Services & Applications Implementation.
-        <br><br>    
-         <b>TP1</b>
-         <b>Luna Morales, Gianfranco</b><br>
-     Se informó de los cambios realizados en la implementación del servicio de planilla..
+        <br><br>
    </td>
     <td>TB1<br><br>
     En este contexto, es esencial cultivar un entorno que fomente la colaboración y la inclusión dentro de nuestro equipo. Al establecer metas claras y específicas, planificar cuidadosamente las tareas y trabajar juntos para alcanzar nuestros objetivos, podemos potenciar la eficiencia y la cohesión en nuestra startup. Es fundamental que cada miembro del equipo se sienta valorado y respetado, y que se les dé la oportunidad de contribuir de manera significativa al logro de nuestras metas comunes. Al crear este ambiente colaborativo e inclusivo, podemos optimizar nuestro rendimiento y avanzar hacia el éxito de manera efectiva.</td>
@@ -484,7 +375,7 @@ Five Technologies es una empresa creada por estudiantes de la Universidad Peruan
 </table>
 
 
-## 1.2. Solution Profile
+## 1.2.  Solution Profile
 ### 1.2.1. Antecedentes y problemática
 **Antecedentes**: 
 Actualmente existen una amplia variedad de plataformas para la gestión de procesos relacionados con la automatización de gestión enfocadas a los recursos humanos. Las empresas buscan soluciones tecnológicas que simplifiquen y optimicen la administración de personal. Sin embargo, muchas de las plataformas existentes en el mercado están diseñadas para estas grandes empresas con presupuestos considerables, dejando a las pequeñas y medianas empresas (PYMES) y a los emprendedores en desventaja.
@@ -524,16 +415,15 @@ Según Atlas 360 (2023) no tener ciertos procesos automatizados conlleva una fal
 Problem Statement 1:
 En el ámbito de la gestión de planillas, las pequeñas y medianas empresas (PYMEs) en Lima Metropolitana a menudo se enfrentan a desafíos significativos debido a la falta de recursos para adquirir soluciones de software especializadas. Actualmente, muchas de estas empresas gestionan sus planillas manualmente o con herramientas básicas como Excel, lo que puede resultar en errores, retrasos en los pagos y una gestión ineficiente de los recursos humanos. Esta situación se ve agravada por la falta de herramientas adecuadas para analizar y comprender los datos de recursos humanos, así como la necesidad de optimizar los procesos internos para aumentar la eficiencia y la productividad de la empresa.
 
-**Qué estrategias podemos emplear para convencer a las empresas PYME y emprendedores de la utilidad de migrar a nuestra plataforma, sobre todo cuando están profundamente arraigados en sus procedimientos actuales y pueden ver el cambio como una interrupción en sus actividades cotidianas?**
+¿Qué estrategias podemos emplear para convencer a las empresas PYME y emprendedores de la utilidad de migrar a nuestra plataforma, sobre todo cuando están profundamente arraigados en sus procedimientos actuales y pueden ver el cambio como una interrupción en sus actividades cotidianas?
 
 Problem Statement 2:
 Los emprendedores en Lima Metropolitana, quienes a menudo operan con equipos reducidos y recursos limitados, enfrentan desafíos similares en la gestión de planillas. Estos pueden carecer de la capacidad para invertir en soluciones de software costosas y pueden recurrir a métodos manuales o poco sofisticados para realizar tareas de gestión de planillas. Esto puede llevar a errores, falta de cumplimiento normativo y una carga adicional de trabajo administrativo que limita el crecimiento y la eficiencia de sus empresas.
 
-**¿Cómo podemos mitigar la resistencia al cambio y convencer a los emprendedores de la necesidad de adoptar nuestra plataforma para gestionar sus planillas de remuneraciones de manera más eficiente?**
+¿Cómo podemos superar la resistencia al cambio y convencer a los emprendedores de la necesidad de adoptar nuestra plataforma para gestionar sus planillas de remuneraciones de manera más eficiente?
 
 #### 1.2.2.2. Lean UX Assumptions.
-
-**Business Outcomes** <br><br>
+- Business Outcomes <br>
 **Creo que mis usuarios necesitan**, cuenten con una solución eficiente para la gestión de planillas, lo que les permitirá optimizar sus procesos y reducir errores en las remuneraciones de su personal.<br><br>
 **Estas necesidades se pueden resolver** mediante el desarrollo de una aplicación para la gestión de planillas remuneradas, donde las empresas puedan acceder y almacenar los datos de sus empleados de manera segura.<br><br>
 **Mis clientes iniciales son** las empresas PYME y emprendedores, ya que son quienes afrontan constantemente los desafíos relacionados con la gestión de planillas y tienen la necesidad de mejorar sus procesos.<br><br>
@@ -543,20 +433,8 @@ Los emprendedores en Lima Metropolitana, quienes a menudo operan con equipos red
 **Haré dinero a través de** un modelo de suscripción mensual o anual para acceder a nuestra plataforma Planifi. Además, ofreceremos servicios adicionales que generarán ingresos adicionales.<br><br>
 **Mi competencia de mercado serán** las empresas que ya se establecieron en el mercado y que permiten realizar la gestión de remuneración y otros procesos delárea de recursos humanos, como Gusto, Zenefits, QuickBooks Payroll, entre otros.<br><br>
 **Los venceremos debido a que** nuestra plataforma no solo se centra en la gestión de planillas, sino que ofrece una solución integral para la administración de empresas. En contraste, nuestra plataforma ofrece una combinación única de funcionalidades, facilidad de uso y atención personalizada que se adapta específicamente a las necesidades de las empresas en Lima Metropolitana.<br><br>
-**Mis mayores riesgos como producto** son la resistencia al cambio por parte de empresas "PYME" y emprendedores, así como la falta de adaptación por parte de estos debido al rechazo por una percepción errónea de complejidad.<br><br>
-**Resolveremos esto a través de** la implementación de estrategias de capacitación para mostrar los beneficios y facilidades de nuestra plataforma, además de una diferenciación clara de nuestra oferta, incluyendo una adaptación continua de nuestra plataforma según las necesidades del cliente y las tendencias del mercado.<br><br>
-**Sabremos que hemos tenido éxito cuando veamos uno de estos cambios en el comportamiento de nuestro cliente:**
-- Aumento en la adquisición de clientes y suscripciones a nuestra plataforma.
-- Retroalimentación positiva y recomendaciones de clientes satisfechos.
-- Reducción significativa en los errores de gestión de planillas y mejoras en la eficiencia operativa de las empresas que utilizan nuestra plataforma.
 
-<br>**Otras suposiciones que, de probarse falsas, pueden causar que nuestro proyecto fracase**:
-- La demanda del mercado para una solución de gestión de planillas automatizada es suficiente para respaldar nuestro crecimiento.
-- La capacidad técnica y financiera para desarrollar y mantener nuestra plataforma a largo plazo.
-- La efectividad de nuestras estrategias de marketing y ventas para llegar a nuestro público objetivo y convertirlos en clientes.
-
-
-**Users Outcomes**<br>
+- Users Outcomes<br>
 **¿Quiénes serán nuestros usuarios?**
 Nuestros usuarios principales serán las empresas pequeñas, empresas medianas y emprendedores en Lima Metropolitana que buscan mejorar la gestión de planillas.<br><br>
 **¿Dónde encaja nuestro producto en su vida?**
@@ -575,16 +453,8 @@ Nuestro producto será utilizado principalmente en el departamento de recursos h
 **¿Cómo debe verse y comportarse nuestro producto?**
 - La interfaz del usuario debe contar con elementos visuales atractivos, intuitivos y estructurados.
 - La experiencia de usuario de nuestra aplicación debe tener como prioridad una respuesta rápida, facilidad de navegación y una garantía de seguridad.
-<br><br>
 
-**Features:**
-- Las empresa o empredimiento podrán registrarse en la plataforma  para crear una cuenta de empresa o empredimiento y seleccionar el plan que mejor se adapte a sus necesidades. Se proporcionará información clara sobre los diferentes planes disponibles, asegurando que los usuarios puedan tomar decisiones informadas para su empresa o proyecto emprendedor.
-- Las empresa o empredimiento podrán agregar fácilmente miembros a su equipo y asignar roles de manera intuitiva. La interfaz facilitará la creación y gestión de equipos, permitiendo acciones rápidas y sin complicaciones.
-- Las empresa o empredimiento podrán crear procesos de reclutamiento con candidatos de forma ágil y sencilla. Se ofrecerá una experiencia de creación intuitiva para que los reclutadores puedan configurar sus procesos sin complicaciones.
-- Las empresa o empredimiento podrán crear y personalizar tareas dentro de los procesos de reclutamiento, como evaluaciones o reuniones. Se permitirá una configuración flexible de tareas para adaptarse a las necesidades específicas de cada proceso.
-- Las empresa o empredimiento  podrán seguir fácilmente el estado de sus procesos de reclutamiento a través de una dashboard informativo . Esta tabla proporcionará detalles relevantes, como la empresa, la descripción del proceso y las fechas importantes.
-- Las empresa o empredimiento podrán editar sus perfiles personales y preferencias de comunicación de forma intuitiva.
-  <br><br>
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
 ****Creemos que**** al ofrecer una plataforma automatizada de gestión de planillas remuneradas para empresas PYME y emprendedores en Lima Metropolitana, lograremos optimizar los procesos de gestión de recursos humanos y reducir errores en los pagos.
 
@@ -602,7 +472,7 @@ Nuestro producto será utilizado principalmente en el departamento de recursos h
 
 <td><img src="static/img/Chapter 1/img-lean-ux-canvas.png" alt=" " width="50%" ;"></img></td>
 
-## 1.3. Segmentos objetivo
+## 1.3.  Segmentos objetivo
 
 Los segmentos objetivos son los siguientes: 
 
@@ -623,7 +493,7 @@ La comprensión del panorama competitivo es esencial para el éxito de cualquier
 
 3. QuickBooks Payroll: Es una solución de nómina integral desarrollada por Intuit, diseñada específicamente para pequeñas empresas y autónomos. La plataforma permite a los usuarios calcular y procesar nóminas con facilidad, pagar impuestos sobre la nómina de manera oportuna y generar informes financieros detallados relacionados con la nómina. QuickBooks Payroll se integra perfectamente con otros productos de QuickBooks, lo que facilita la gestión financiera integral de las empresas. Además, la plataforma ofrece soporte experto y recursos de aprendizaje para ayudar a los usuarios a aprovechar al máximo todas las funciones disponibles.
 
-## 2.1.1. Análisis competitivo
+## 2.1.1. Analisis competitivo
 
 El análisis competitivo implica examinar detenidamente a nuestros competidores para identificar sus fortalezas, debilidades, oportunidades y amenazas. Esto nos proporcionará una visión clara de nuestro posicionamiento en el mercado y nos ayudará a desarrollar estrategias efectivas.
 
@@ -758,31 +628,25 @@ Desarrollar estrategias y tácticas sólidas para enfrentar a nuestros competido
 <strong>Estrategias de Cercanía con los clientes:</strong>
 
 #1 Programa de retroalimentación continua
-
 Implementar un programa estructurado de retroalimentación directa con los usuarios de Name, permitiendo que expresen sus opiniones, sugerencias y preocupaciones a través de encuestas, correos electrónicos de seguimiento y sesiones de retroalimentación personalizadas. Esto ayudará a identificar y abordar rápidamente cualquier problema o necesidad del cliente, lo que podría proporcionar una ventaja competitiva frente a los competidores.
 
 #2 Servicio de atención al cliente especializado
-
 Establecer un equipo de atención al cliente altamente capacitado y especializado en las necesidades específicas de las empresas PYME y emprendedores, ofreciendo asistencia personalizada, resolución rápida de problemas y seguimiento proactivo. Esta táctica puede generar lealtad y satisfacción del cliente, diferenciando a Name de sus competidores.
 
 <strong>Estrategias de Liderazgo a través del producto:</strong>
 
 #1 Integración con herramientas de gestión empresarial
-
 Desarrollar integraciones con otras herramientas de gestión empresarial ampliamente utilizadas por las empresas PYME, como sistemas de contabilidad y gestión de proyectos. Esto ampliará la funcionalidad de Name y ofrecerá una solución más completa y conveniente para los clientes, posicionándola como líder en el mercado.
 
 #2 Personalización de informes financieros
-
 Ofrecer características avanzadas de personalización de informes financieros dentro de la plataforma de Name, permitiendo a los usuarios crear informes detallados y adaptados a sus necesidades específicas. Esta táctica resalta la capacidad de Name para proporcionar soluciones flexibles y adaptadas a las necesidades individuales de cada cliente.
 
 <strong>Estrategias de Enfoque:</strong>
 
 #1 Educación sobre la importancia de la automatización de nóminas
-
 Lanzar campañas educativas dirigidas a empresas PYME y emprendedores para destacar los beneficios y la importancia de la automatización de nóminas en la gestión empresarial. Esto incluiría seminarios web, contenido educativo en blogs y redes sociales, así como colaboraciones con asociaciones empresariales locales.
 
 #2 Demostraciones en vivo y pruebas gratuitas
-
 Ofrecer demostraciones en vivo de la plataforma de Name y períodos de prueba gratuitos para que los clientes potenciales experimenten de primera mano los beneficios y la facilidad de uso de la solución. Esta táctica ayuda a mostrar el valor de Name y a superar la resistencia al cambio al demostrar su eficacia en tiempo real.
 
 ## 2.2. Entrevistas
@@ -830,8 +694,6 @@ Ubicación en la que vive: Villa El Salvador, Lima, Perú
 
 Minuto de la entrevista: 0:00 - 2:15
 
-Enlace del video completo de las entrevistas: https://youtu.be/mgG8AfJuIpU
-
 Resumen de la entrevista:
 
 - ¿Podría describir brevemente su empresa y sus principales actividades?
@@ -877,8 +739,6 @@ Ubicación en la que vive: Villa El Salvador, Lima, Perú
 <img src="static/img/Chapter 2/img-entrevista-edita.png" alt="Imagen entrevista Edita" style="width: 70;"></img>
 
 Minuto de la entrevista: 2:16 - 4:09
-
-Enlace del video completo de las entrevistas: https://youtu.be/mgG8AfJuIpU
 
 Resumen de la entrevista:
 
@@ -926,8 +786,6 @@ Ubicación en la que vive: Jesús María, Lima, Perú
 
 Minuto de la entrevista: 4:10 - 9:54
 
-Enlace del video completo de las entrevistas: https://youtu.be/mgG8AfJuIpU
-
 Resumen de la entrevista:
 
 - ¿Podría describir brevemente su empresa y sus principales actividades? 
@@ -974,8 +832,6 @@ Ubicación en la que vive: Pucallpa, Perú
 
 Minuto de la entrevista: 9:55 - 21:02
 
-Enlace del video completo de las entrevistas: https://youtu.be/mgG8AfJuIpU
-
 Resumen de la entrevista:
 
 - ¿Podría describir brevemente su empresa o proyecto emprendedor?
@@ -1016,8 +872,6 @@ Ubicación en la que vive: San Juan de Lurigancho, Lima, Perú
 
 Minuto de la entrevista: 21:03 - 24:07
 
-Enlace del video completo de las entrevistas: https://youtu.be/mgG8AfJuIpU
-
 Resumen de la entrevista:
 
 - ¿Podría describir brevemente su empresa o proyecto emprendedor?
@@ -1043,6 +897,8 @@ Claro, que sea una solución que sea compatible, automatizada a nuestro sistema,
 - ¿Qué tipo de soporte o capacitación consideraría útil al implementar una nueva solución de gestión de planillas en su empresa o proyecto emprendedor?
 
 Considero importante una capacitación inicial para aprender a utilizar la nueva solución y un soporte técnico continuo en caso de surgir dudas o mantenimiento con el mismo.
+
+Enlace del video completo de las entrevistas: https://youtu.be/mgG8AfJuIpU
 
 ## 2.2.3. Análisis de entrevistas
 
@@ -1116,58 +972,80 @@ La creación de User Personas nos permite personificar a nuestros usuarios, brin
 
 <strong>Segmento objetivo 1: Empresas medianas y pequeñas:</strong>
 
-<img src="static/img/Chapter 2/img-user-persona-empresas.png" alt="User Persona Empresas" style="width: 65;"></img>
+<img src="static/img/Chapter 2/img-user-persona-yulissa.png" alt="User Persona Yulissa" style="width: 65;"></img>
 
 <strong>Segmento objetivo 2: Emprendedores:</strong>
 
-<img src="static/img/Chapter 2/img-user-persona-emprendedores.png" alt="User Persona Emprendedores" style="width: 65;"></img>
+<img src="static/img/Chapter 2/img-user-persona-jorge.png" alt="User Persona Jorge" style="width: 65;"></img>
 
 ### 2.3.2. User Task Matrix 
 
 La User Task Matrix nos ayuda a desglosar las actividades y tareas que nuestros usuarios realizan al interactuar con nuestra startup. Al ordenar estas tareas según la frecuencia y la importancia para nuestros usuarios, podemos priorizar nuestros esfuerzos de desarrollo y diseño para mejorar su experiencia.
 
-<table>
-  <tr>
-    <th>Tarea</th>
-    <th>Gabriela Mendoza</th>
-    <th>Ricardo García</th>
-  </tr>
-  <tr>
-    <td>Desarrollar estrategias de marketing</td>
-    <td>Alta</td>
-    <td>Baja</td>
-  </tr>
-  <tr>
-    <td>Investigar nuevas tecnologías</td>
-    <td>Alta</td>
-    <td>Media</td>
-  </tr>
-  <tr>
-    <td>Gestionar el equipo de trabajo</td>
-    <td>Media</td>
-    <td>Baja</td>
-  </tr>
-  <tr>
-    <td>Implementar soluciones tecnológicas</td>
-    <td>Alta</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Monitorear el rendimiento de las soluciones</td>
-    <td>Alta</td>
-    <td>Baja</td>
-  </tr>
-  <tr>
-    <td>Capacitar al personal en el uso de nuevas tecnologías</td>
-    <td>Alta</td>
-    <td>Baja</td>
-  </tr>
-  <tr>
-    <td>Evaluar la eficiencia de los procesos empresariales</td>
-    <td>Alta</td>
-    <td>Baja</td>
-  </tr>
-</table>
+<div style="text-align:center;">
+  <table>
+    <tr>
+      <th>Tarea</th>
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+    </tr>
+    <tr>
+      <td>Gestión de planillas</td>
+      <td>Alta</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Control de pagos</td>
+      <td>Alta</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Cumplimiento normativo</td>
+      <td>Alta</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Contratación de personal</td>
+      <td>Media</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Optimización de procesos internos</td>
+      <td>Alta</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Reducción de costos administrativos</td>
+      <td>Baja</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Modernización de operaciones</td>
+      <td>Baja</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Atención al cliente</td>
+      <td>Media</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Mantenimiento de equipo</td>
+      <td>Baja</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Análisis de rendimiento financiero</td>
+      <td>Baja</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Desarrollo de estrategias de marketing</td>
+      <td>Media</td>
+      <td>Alta</td>
+    </tr>
+  </table>
+</div>
 
 ### 2.3.3. User Journey Mapping
 
@@ -1188,17 +1066,17 @@ El Empathy Mapping nos ayuda a desarrollar una comprensión profunda de las emoc
 
 <strong>Segmento objetivo 1: Empresas medianas y pequeñas:</strong>
 
-<img src="static/img/Chapter 2/img-empathy-mapping-empresas.png" alt="Empathy Mapping Empresas" style="width: 65;"></img>
+<img src="static/img/Chapter 2/img-empathy-mapping-yulissa.png" alt="Empathy Mapping Yulissa" style="width: 65;"></img>
 
 <strong>Segmento objetivo 2: Emprendedores:</strong>
 
-<img src="static/img/Chapter 2/img-empathy-mapping-emprendedores.png" alt="Empathy Mapping Emprendedores" style="width: 65;"></img>
+<img src="static/img/Chapter 2/img-empathy-mapping-jorge.png" alt="Empathy Mapping Jorge" style="width: 65;"></img>
 
 ### 2.3.5. As-is Scenario Mapping
 
 El As-Is Scenario Mapping nos permite comprender en detalle cómo interactúan actualmente nuestros usuarios con nuestra startup y qué obstáculos enfrentan en el proceso. Al identificar los puntos problemáticos y las oportunidades de mejora en el escenario actual, podemos desarrollar soluciones que optimicen su experiencia y satisfacción.
 
-<img src="static/img/Chapter 2/img-as-is-empresas.png" alt="As-Is Scenario Empresas" style="width: 65;"></img>
+<img src="static/img/Chapter 2/img-as-is-PYME.png" alt="As-Is Scenario Empresas" style="width: 65;"></img>
 
 <img src="static/img/Chapter 2/img-as-is-emprendedores.png" alt="As-Is Scenario Emprendedores" style="width: 65;"></img>
 
@@ -1223,9 +1101,8 @@ El lenguaje ubicuo es un conjunto de términos y conceptos compartidos y compren
 
 <td><img src="static/img/Chapter 3/To-be-Empresas.jpg"  alt=" " width="50%" ;"></img></td>
 <td><img src="static/img/Chapter 3/To-be-emprendedores.jpg"  alt=" " width="50%" ;"></img></td>
-
 ## 3.2. User Stories
- <table border = "1">
+ <table>
       <thead>
          <tr>
             <th style="text-align: center;">Epic / Story ID</th>
@@ -1235,536 +1112,100 @@ El lenguaje ubicuo es un conjunto de términos y conceptos compartidos y compren
             <th style="text-align: center;">Relacionado con (Epic ID)</th>
          </tr>
       </thead>
-      <th colspan = "5" style="text-align: center;">
-      Epic 1: Implementación de la Landing Page
-      </th>
       <tbody>
          <tr>
-            <td style="text-align: center;">E01-US01</td>
-            <td style="text-align: center;">Barra de navegación en Landing Page</td>
-            <td tyle="text-align: justify;"> Como visitante
-Quiero una barra de navegación en el Landing Page
-Para una mayor accesibilidad a la información.
-</td>
+            <td style="text-align: center;">EP01</td>
+            <td style="text-align: center;">Solicitud de cambio de horario laboral</td>
+            <td tyle="text-align: justify;"> Como empleado, quiero poder solicitar cambios en mi horario laboral para acomodarme a situaciones personales o emergencias inesperadas</td>
             <td style="text-align: center;">Criterio de aceptación 1:
-Dado que soy un visitante del sitio web,
-Cuando accedo al Landing Page,
-Entonces veo claramente una barra de navegación en la parte superior de la página.
+Dado que ingresé a mi cuenta de empleado, 
+cuando selecciono la opción de "Solicitar cambio de horario" y proporciono una justificación válida, 
+entonces la solicitud se registra correctamente en el sistema y se envía a mi supervisor para su aprobación.
 Criterio de aceptación 2:
-Dado que estoy en el Landing Page,
-Cuando observo la barra de navegación,
-Entonces encuentro enlaces descriptivos a las secciones principales del sitio web.
-</td>
-<td>
-E01
+Dado que mi supervisor aprueba mi solicitud de cambio de horario, cuando reviso mi calendario de trabajo, entonces veo que mi horario se actualiza según lo solicitado.
 </td>
          </tr>
          <tr>
-            <td style="text-align: center;">E01-US02</td>
-            <td style="text-align: center;">Dirigir a la aplicación a través del Landing Page</td>
-            <td style="text-align: left;">Como visitante
-Quiero dirigirme a la aplicación a través de la Landing Page
-Para empezar con su uso.
-</td>
+            <td style="text-align: center;">EP02</td>
+            <td style="text-align: center;">Generación de informes de asistencia</td>
+            <td style="text-align: justify;">Como gerente de recursos humanos, quiero poder generar informes de ausencias y tardanzas para monitorear el cumplimiento del horario laboral de los empleados.</td>
             <td style="text-align: center;">Criterio de aceptación 1:
-Dado que estoy en el Landing Page y quiero usar la aplicación,
-Cuando encuentro el enlace o botón para acceder a la aplicación,
-Entonces hago clic en él.
+Dado que estoy en la página de generación de informes de asistencia, cuando selecciono un rango de fechas y presiono el botón de "Generar informe", entonces el sistema genera un informe detallado que muestra las ausencias y tardanzas de los empleados durante ese período.
 Criterio de aceptación 2:
-Dado que he hecho clic en el enlace o botón para acceder a la aplicación,
-Cuando se carga la aplicación,
-Entonces veo una interfaz clara y bien diseñada que me permite comenzar a utilizarla fácilmente.</td>
-<td>
-E01
-</td>
+Dado que reviso el informe de asistencia generado, cuando selecciono a un empleado específico, entonces veo una lista detallada de las fechas y horas de las ausencias o tardanzas del empleado.</td>
          </tr>
          <tr>
-            <td style="text-align: center;">EE01-US03</td>
-            <td style="text-align: center;">Sección de testimonios del Landing Page</td>
-            <td style="text-align: left;">Como visitante del segmento de testimonios
-Quiero visualizar los testimonios realizados anteriormente por otros usuarios sobre la aplicación
-Para tener información previa sobre experiencias anteriores.
-</td>
+            <td style="text-align: center;">EP03</td>
+            <td style="text-align: center;">Creación y asignación de equipo para proyectos</td>
+            <td style="text-align: justify;">Como supervisor de proyecto, quiero poder crear proyectos nuevos en el sistema y asignarles un equipo de trabajo para gestionar las tareas asociadas.</td>
             <td style="text-align: center;">Criterio de aceptación 1:
-Dado que estoy en la sección de testimonios y quiero leer los testimonios,
-Cuando observo cada testimonio individualmente,
-Entonces encuentro información relevante sobre la experiencia del usuario, como su nombre, ubicación y opinión sobre la aplicación.
+Dado que estoy en la página de gestión de proyectos, cuando selecciono la opción de "Crear nuevo proyecto" y lleno el formulario con la información del proyecto, entonces el proyecto se crea correctamente en el sistema.
 Criterio de aceptación 2:
-Dado que estoy interesado en la autenticidad de los testimonios,
-Cuando reviso la sección de testimonios,
-Entonces encuentro información sobre la verificación de los testimonios, como la fecha en que fueron realizados o algún sello de autenticidad.</td>
-<td>
-E01
-</td>
+Dado que he creado un proyecto nuevo, cuando asigno miembros del equipo a las diferentes tareas del proyecto, entonces los miembros del equipo reciben notificaciones sobre sus asignaciones.</td>
          </tr>
          <tr>
-            <td style="text-align: center;">E01-US04</td>
-            <td style="text-align: center;">Sección de beneficios del Landing Page</td>
-            <td style="text-align: left;">Como visitante del segmento de beneficios
-Quiero visualizar los beneficios que me brinda la aplicación 
-Para considerar su uso.
-
-</td>
+            <td style="text-align: center;">EP04</td>
+            <td style="text-align: center;">Recepción de notificaciones importantes</td>
+            <td style="text-align: justify;">Como empleado, quiero recibir notificaciones sobre actualizaciones importantes en el sistema, como cambios en el horario laboral o nuevas tareas asignadas.</td>
             <td style="text-align: center;">Criterio de aceptación 1:
-Dado que estoy en la sección de beneficios y quiero conocer los beneficios ofrecidos,
-Cuando observo cada beneficio individualmente,
-Entonces encuentro información específica sobre cómo la aplicación puede beneficiar a mi empresa.
+Dado que el sistema ha realizado cambios en mi horario laboral, cuando el sistema envía una notificación automática al empleado, entonces el empleado recibe la notificación por correo electrónico o mensaje en la aplicación.
 Criterio de aceptación 2:
-Dado que estoy revisando un beneficio en particular,
-Cuando deseo obtener más detalles sobre cómo funciona o cómo se aplica,
-Entonces encuentro información adicional o ejemplos que ilustran el beneficio en acción.</td>
-<td>
-E01
-</td>
+Dado que se me asigna una nueva tarea en el sistema, cuando el sistema envía una notificación automática al empleado, entonces el empleado recibe la notificación y puede ver los detalles de la nueva tarea.</td>
          </tr>
         <tr>
-            <td style="text-align: center;">E01-US05</td>
-            <td style="text-align: center;">Sección de ubicación del Landing Page</td>
-            <td style="text-align: jleft;">Como visitante del segmento de ubicación 
-Quiero visualizar mi ubicación 
-Para verificar la disponibilidad del servicio que ofrece la aplicación en la zona que me encuentre.
-</td>
+            <td style="text-align: center;">EP05</td>
+            <td style="text-align: center;">Realización de copias de seguridad automáticas</td>
+            <td style="text-align: justify;">Como administrador del sistema, quiero poder realizar copias de seguridad de los datos del sistema regularmente para garantizar la seguridad y la integridad de la información.</td>
             <td style="text-align: center;">Criterio de aceptación 1:
-Dado que deseo verificar la disponibilidad del servicio en mi ubicación actual,
-Cuando estoy visualizando mi ubicación en el mapa,
-Entonces veo indicadores o etiquetas que muestran la disponibilidad del servicio ofrecido por la aplicación en esa área.
+Dado que estoy en la página de configuración de copias de seguridad, cuando programo una copia de seguridad automática para que se realice semanalmente, entonces el sistema programa la copia de seguridad correctamente.
 Criterio de aceptación 2:
-Dado que estoy interesado en obtener más detalles sobre la disponibilidad del servicio en mi ubicación,
-Cuando hago clic en el indicador o etiqueta correspondiente en el mapa,
-Entonces se despliega información adicional sobre el servicio ofrecido en esa área, como horarios de operación o servicios disponibles.</td>
-<td>
-E01
-</td>
+Dado que se programó una copia de seguridad automática, cuando llega el momento programado, entonces el sistema realiza la copia de seguridad de los datos del sistema correctamente y notifica al administrador sobre el éxito de la operación.</td>
          </tr>
        <tr>
-            <td style="text-align: center;">E01-US06</td>
-            <td style="text-align: center;">Sección de contacto del Landing Page</td>
-            <td tyle="text-align: justify;">Como visitante
-Quiero visualizar la parte de contacto del equipo encargado de la aplicación
-Para contactarme en caso de que requiera algún soporte.
-</td>
+            <td style="text-align: center;">EP06</td>
+            <td style="text-align: center;">Acceso a manuales de políticas y procedimientos</td>
+            <td tyle="text-align: justify;">Como empleado, quiero poder acceder a manuales de políticas y procedimientos de la empresa para obtener información sobre las políticas internas y los procesos de trabajo.</td>
             <td style="text-align: center;">Criterio de aceptación 1:
-Dado que estoy en la sección de contacto y quiero ver la información del equipo,
-Cuando observo la información proporcionada,
-Entonces encuentro detalles precisos sobre cómo contactar al equipo, como dirección de correo electrónico, número de teléfono o formulario de contacto.
+Dado que ingresé a mi cuenta de empleado, cuando selecciono la opción de "Ver manuales de políticas y procedimientos", entonces puedo acceder a una biblioteca de documentos que contiene manuales y guías de la empresa.
 Criterio de aceptación 2:
-Dado que necesito contactar al equipo para obtener soporte,
-Cuando utilizo la información proporcionada para comunicarme con ellos,
-Entonces recibo una respuesta oportuna y útil que aborda mi consulta o problema.</td>
-<td>
-E01
-</td>
+Dado que estoy leyendo un manual específico, cuando selecciono un tema o sección dentro del manual, entonces puedo navegar fácilmente por el contenido y encontrar la información relevante que necesito.</td>
          </tr>
        <tr>
-            <td style="text-align: center;">E01-US07</td>
-            <td style="text-align: center;">Sección de planes del Landing Page</td>
-            <td tyle="text-align: justify;">Como visitante
-Quiero visualizar los planes que ofrece la aplicación 
-Para considerar su uso.
-</td>
+            <td style="text-align: center;">EP07</td>
+            <td style="text-align: center;">Programación de reuniones virtuales</td>
+            <td tyle="text-align: justify;">Como supervisor de proyecto, quiero poder realizar reuniones virtuales con mi equipo a través del sistema para discutir el progreso del proyecto y tomar decisiones importantes.</td>
             <td style="text-align: center;">Criterio de aceptación 1:
-Dado que estoy en la sección de planes y quiero conocer las opciones disponibles,
-Cuando observo cada plan individualmente,
-Entonces encuentro información específica sobre las características incluidas, el precio y cualquier beneficio adicional asociado con cada plan.
+Dado que estoy en la página de programación de reuniones, cuando elijo la opción de "Crear nueva reunión" y configuro los detalles de la reunión, entonces el sistema programa la reunión correctamente y envía invitaciones al equipo.
 Criterio de aceptación 2:
-Dado que estoy interesado en elegir un plan que se adapte a mis necesidades,
-Cuando estoy revisando los planes,
-Entonces encuentro herramientas de comparación que me ayudan a evaluar las diferencias entre los planes disponibles.</td>
-<td>
-E01
-</td>
+Dado que llega el momento programado para la reunión, cuando los miembros del equipo hacen clic en el enlace de la reunión, entonces pueden unirse a la reunión virtual a través de la plataforma integrada en el sistema.</td>
          </tr>
        <tr>
-            <td style="text-align: center;">E01-US08</td>
-            <td style="text-align: center;">Footer a la aplicación en el Landing Page</td>
-            <td tyle="text-align: justify;">Como visitante
-Quiero visitar los footer de la aplicación
-Para un mayor acceso a la aplicación.
-</td>
+            <td style="text-align: center;">EP08</td>
+            <td style="text-align: center;">Solicitud de vacaciones o días libres</td>
+            <td tyle="text-align: justify;"> Como empleado, quiero poder solicitar vacaciones o días libres a través del sistema y recibir confirmación de aprobación o rechazo por parte del supervisor.</td>
             <td style="text-align: center;">Criterio de aceptación 1:
-Dado que deseo obtener más información sobre la aplicación desde el footer,
-Cuando exploró los elementos del footer,
-Entonces también encuentro enlaces a recursos adicionales, como la política de privacidad, términos de servicio, preguntas frecuentes (FAQ), blog, etc., que pueden brindarme más información sobre la aplicación y su funcionamiento.
+Dado que ingresé a mi cuenta de empleado, cuando selecciono la opción de "Solicitar vacaciones" y selecciono las fechas deseadas, entonces el sistema registra mi solicitud y la envía automáticamente a mi supervisor para su revisión.
 Criterio de aceptación 2:
-Dado que estoy interesado en iniciar sesión o registrarme en la aplicación,
-Cuando estoy en el footer,
-Entonces encuentro un acceso rápido y visible para iniciar sesión si ya tengo una cuenta, o para registrarme si soy nuevo en la aplicación.</td>
-<td>
-E01
-</td>
+Dado que mi supervisor revisa mi solicitud de vacaciones, cuando toma una decisión de aprobación o rechazo, entonces el sistema me notifica automáticamente sobre el resultado de la solicitud.</td>
          </tr>
        <tr>
-            <td style="text-align: center;">EE01-US09</td>
-            <td style="text-align: center;">Versión en inglés y español del Landing Page</td>
-            <td tyle="text-align: justify;">Como visitante
-Quiero tener las opciones en inglés y español del Landing Page
-Para tener una mayor accesibilidad en el ámbito de los idiomas.
-</td>
+            <td style="text-align: center;">EP09</td>
+            <td style="text-align: center;">Gestión de cuentas de usuario y permisos de acceso</td>
+            <td tyle="text-align: justify;"> Como administrador del sistema, quiero poder gestionar las cuentas de usuario y los permisos de acceso para garantizar la seguridad de los datos y la privacidad de la información confidencial.</td>
             <td style="text-align: center;">Criterio de aceptación 1:
-Dado que deseo cambiar el idioma del Landing Page,
-Cuando interactúo con el selector de idioma,
-Entonces tengo la opción de elegir entre inglés y español.
+Dado que estoy en la página de administración de usuarios, cuando selecciono un usuario específico y modifico sus permisos de acceso, entonces el sistema actualiza los permisos de usuario correctamente y refleja los cambios en el acceso a las funciones del sistema.
 Criterio de aceptación 2:
-Dado que he seleccionado el idioma deseado,
-Cuando la página se actualiza para mostrar el contenido en el idioma seleccionado,
-Entonces encuentro que todos los elementos, textos y botones están traducidos de manera precisa y completa.</td>
-<td>
-E01
-</td>
-
-<thead>
-      <tr>
-      <th colspan = "5" style="text-align: center;">
-      Epic 2: Creación y Gestión de cuentas de Usuario
-      </th>
-      </tr>
-</thead>      
+Dado que necesito agregar un nuevo usuario al sistema, cuando lleno el formulario de registro con la información del nuevo usuario y asigno sus roles y permisos, entonces el sistema crea una cuenta de usuario nueva y funcional.</td>
+         </tr>
        <tr>
-            <td style="text-align: center;">E02-US01</td>
-            <td style="text-align: center;">Registro de cuenta</td>
-            <td tyle="text-align: justify;">Como empresa o emprendimiento
-Quiero registrar una cuenta 
-Para acceder a las funciones que ofrece la aplicación.
-</td>
+            <td style="text-align: center;">EP010</td>
+            <td style="text-align: center;">Registro de horas trabajadas y actividades realizadas</td>
+            <td tyle="text-align: justify;">Como empleado, quiero poder registrar horas trabajadas y actividades realizadas a través del sistema para mantener un registro preciso de mi desempeño laboral y contribuciones al proyecto.</td>
             <td style="text-align: center;">Criterio de aceptación 1:
-Dado que estoy en la página de registro y quiero crear una cuenta,
-Cuando completo el formulario de registro con mi información requerida, como nombre, dirección de correo electrónico y contraseña,
-Entonces procedo a enviar el formulario de registro.
+Dado que ingresé a mi cuenta de empleado, cuando selecciono la opción de "Registrar horas trabajadas" y completo el formulario con las horas y las actividades realizadas, entonces el sistema registra la información correctamente en mi historial laboral.
 Criterio de aceptación 2:
-Dado que he enviado el formulario de registro con éxito,
-Cuando la aplicación procesa mi solicitud,
-Entonces recibo una confirmación de que mi cuenta ha sido creada exitosamente.
-</td>
-<td>
-E02
-</td>
+Dado que necesito editar un registro de horas trabajadas previamente registrado, cuando accedo a mi historial laboral y selecciono el registro específico, entonces puedo modificar las horas o las actividades y guardar los cambios correctamente.</td>
          </tr>
-              <tr>
-            <td style="text-align: center;">E02-US02</td>
-            <td style="text-align: center;">Inicio de Sesión</td>
-            <td tyle="text-align: justify;">Como empresa o emprendimiento
-Quiero iniciar sesión en mi cuenta
-Para acceder a las funciones de la aplicación.
-
-</td>
-            <td style="text-align: center;">Criterio de aceptación 1:
-Dado que he ingresado correctamente mis credenciales de inicio de sesión,
-Cuando la aplicación verifica mi información,
-Entonces soy redirigido al panel de control o página principal de la aplicación, donde puedo acceder a todas las funciones y características disponibles para mi cuenta.
-Criterio de aceptación 2:
-Dado que quiero asegurarme de que mi sesión esté activa y funcional,
-Cuando estoy en el panel de control o página principal de la aplicación,
-Entonces encuentro que puedo interactuar con todas las funciones y características sin problemas ni interrupciones.</td>
-<td>
-E02
-</td>
-         </tr>
-              <tr>
-            <td style="text-align: center;">E02-US03</td>
-            <td style="text-align: center;">Recuperación de Contraseña</td>
-            <td tyle="text-align: justify;">Como empresa o emprendimiento 
-Quiero recuperar mi contraseña 
-Para iniciar sesión nuevamente.
-</td>
-            <td style="text-align: center;">Criterio de aceptación 1:
-Dado que soy una empresa o emprendimiento y necesito recuperar mi contraseña,
-Cuando ingreso al sitio web o la aplicación y no recuerdo mi contraseña,
-Entonces busco y selecciono la opción de "Recuperar contraseña" en la página de inicio de sesión.
-Criterio de aceptación 2:
-Dado que he enviado correctamente la solicitud de recuperación de contraseña,
-Cuando la aplicación procesa mi solicitud,
-Entonces recibo un correo electrónico con un enlace seguro para restablecer mi contraseña.
-Criterio de aceptación 3:
-Dado que ahora tengo mi contraseña restablecida,
-Cuando vuelvo a la página de inicio de sesión,
-Entonces puedo iniciar sesión en mi cuenta utilizando mi nueva contraseña y acceder a todas las funciones y características disponibles.
-</td>
-<td>
-E02
-</td>
-         </tr>
-              <tr>
-            <td style="text-align: center;">E02-US04</td>
-            <td style="text-align: center;">Actualización de Datos</td>
-            <td tyle="text-align: justify;">Como empresa o emprendimiento
-Quiero editar la información existente del perfil
-Para actualizar los datos.
-
-</td>
-            <td style="text-align: center;">Criterio de aceptación 1:
-Dado que estoy en la página de edición de perfil y quiero realizar cambios,
-Cuando selecciono los campos de información que deseo modificar,
-Entonces puedo actualizarlos con la nueva información relevante.
-Criterio de aceptación 2:
-Dado que he realizado los cambios en mi información de perfil,
-Cuando guardo los cambios,
-Entonces la aplicación confirma que los datos han sido actualizados con éxito.</td>
-<td>
-E02
-</td>
-         </tr>
-              <tr>
-            <td style="text-align: center;">E02-US05</td>
-            <td style="text-align: center;">Cerrar sesión</td>
-            <td tyle="text-align: justify;">Como empresa o emprendimiento
-Quiero cerrar la sesión del perfil
-Para no dejar la sesión activa en otro dispositivo.
-</td>
-            <td style="text-align: center;">Criterio de aceptación 1:
-Dado que estoy en la página de cierre de sesión y quiero confirmar mi acción,
-Cuando selecciono la opción de "Cerrar sesión",
-Entonces la aplicación me pide confirmación antes de proceder con el cierre de sesión.
-Criterio de aceptación 2:
-Dado que confirmo mi intención de cerrar sesión,
-Cuando procedo con la confirmación,
-Entonces la aplicación cierra mi sesión de manera segura y me redirige a la página de inicio de sesión.</td>
-<td>
-E02
-</td>
-<thead>
-      <tr>
-      <th colspan = "5" style="text-align: center;">
-      Epic 3: Dashboard de Usuario
-      </th>
-      </tr>
-</thead>     
-              <tr>
-            <td style="text-align: center;">E03-US01</td>
-            <td style="text-align: center;">Visualizar  dashboard principal </td>
-            <td tyle="text-align: justify;">Como empresa o emprendimiento 
-Quiero visualizar un dashboard principal para poder ver resúmenes de mi actividad y estadísticas.
-
-</td>
-            <td style="text-align: center;">Criterio de aceptación 1:
-Dado que estoy en el dashboard principal y quiero ver un resumen de mi actividad reciente,
-Cuando observo los paneles de resumen,
-Entonces encuentro información sobre métricas clave, como ventas, clientes nuevos, pedidos procesados, etc., en un formato fácil de entender.
-Criterio de aceptación 2:
-Dado que quiero ver estadísticas más detalladas sobre mi actividad,
-Cuando interactúo con los gráficos o tablas disponibles en el dashboard,
-Entonces puedo ver tendencias, comparaciones de rendimiento y otros datos analíticos que me ayudan a comprender mejor mi negocio.</td>
-<td>
-E03
-</td>
-         </tr>
-              <tr>
-            <td style="text-align: center;">E03-US02</td>
-            <td style="text-align: center;">Ajustes de aplicación</td>
-            <td tyle="text-align: justify;">Como empresa o emprendimiento
-Quiero ajustar las configuraciones de la aplicación 
-Para personalizar mi experiencia dentro de la misma.
-
-</td>
-            <td style="text-align: center;">Criterio de aceptación 1:
-Dado que estoy en la página de configuración y quiero ajustar las configuraciones generales,
-Cuando reviso las opciones disponibles,
-Entonces puedo modificar aspectos como el idioma, la zona horaria, las notificaciones por correo electrónico, etc.
-Criterio de aceptación 2:
-Dado que deseo configurar notificaciones o alertas específicas para mi negocio,
-Cuando accedo a las opciones de notificación,
-Entonces puedo activar o desactivar notificaciones para eventos importantes, como nuevos pedidos, mensajes de clientes, actualizaciones de inventario, etc.</td>
-<td>
-E03
-</td>
-         </tr>
-              <tr>
-            <td style="text-align: center;">E03-US03</td>
-            <td style="text-align: center;">Visualizar reportes de pagos</td>
-            <td tyle="text-align: justify;">Como empresa o emprendimiento
-Quiero visualizar los reportes de los pagos al personal 
-Para contar con una mejor organización.
-
-</td>
-            <td style="text-align: center;">Criterio de aceptación 1:
-Dado que estoy en la sección de reportes de pagos al personal y quiero ver los detalles,
-Cuando selecciono el período de tiempo que deseo analizar,
-Entonces veo un resumen claro de los pagos realizados a cada empleado durante el período seleccionado.
-Criterio de aceptación 2:
-Dado que necesito ver información detallada sobre cada pago,
-Cuando selecciono un pago específico o a un empleado en particular,
-Entonces puedo ver detalles como el monto del pago, la fecha, el tipo de pago (salario, bonificación, comisión, etc.), y cualquier otra información relevante</td>
-<td>
-E03
-</td>
-<thead>
-      <tr>
-      <th colspan = "5" style="text-align: center;">
-      Epic 4: Servicios de gestión de planillas
-      </th>
-      </tr>
-</thead>     
-              <tr>
-            <td style="text-align: center;">E04-US01</td>
-            <td style="text-align: center;">Ingreso de datos del personal</td>
-            <td tyle="text-align: justify;">Como empresa o emprendimiento Quiero ingresar los datos del personal 
-Para contar con un registro adecuado.
-
-</td>
-            <td style="text-align: center;">Criterio de aceptación 1:
-Dado que estoy en la página de ingreso de datos del personal y quiero agregar un nuevo empleado,
-Cuando completo el formulario de ingreso con la información requerida, como nombre, dirección, información de contacto, puesto, salario, etc.,
-Entonces procedo a guardar los datos del nuevo empleado.
-Criterio de aceptación 2:
-Dado que he guardado los datos del nuevo empleado con éxito,
-Cuando la aplicación procesa la información,
-Entonces recibo una confirmación de que el empleado ha sido agregado correctamente al registro del personal.</td>
-<td>
-E04
-</td>
-         </tr>
-         <tr>
-            <td style="text-align: center;">E04-US02</td>
-            <td style="text-align: center;">Control de datos del personal</td>
-            <td tyle="text-align: justify;">Como empresa o emprendimiento
-Quiero tener un control de los datos del personal
-Para contar con una buena contratación a futuro.
-</td>
-            <td style="text-align: center;">Criterio de aceptación 1:
-Dado que estoy en la sección de control de datos del personal y quiero acceder a la información de los empleados,
-Cuando selecciono la opción para ver el perfil de un empleado,
-Entonces accedo a una vista detallada que muestra la información personal, historial laboral, habilidades, evaluaciones de desempeño, etc.
-Criterio de aceptación 2:
-Dado que quiero realizar un seguimiento del rendimiento y progreso de los empleados,
-Cuando accedo a herramientas de evaluación de desempeño o retroalimentación,
-Entonces puedo registrar y revisar evaluaciones periódicas, metas alcanzadas, áreas de mejora, etc.</td>
-<td>
-E04
-</td>
-      </tr>
-       <tr>
-            <td style="text-align: center;">E04-US03</td>
-            <td style="text-align: center;">Verificación de los datos del personal</td>
-            <td tyle="text-align: justify;">Como empresa o emprendimiento
-Quiero tener una verificación de los datos del personal
-Para tener seguridad con los datos brindados.
-
-</td>
-            <td style="text-align: center;">Criterio de aceptación 1:
-Dado que estoy en la sección de verificación de datos del personal y quiero comenzar el proceso,
-Cuando selecciono la opción para verificar los datos de un empleado específico,
-Entonces se me guía para proporcionar la información necesaria para realizar la verificación, como nombre completo, fecha de nacimiento, número de identificación, etc.
-Criterio de aceptación 2:
-Dado que he proporcionado la información requerida para la verificación,
-Cuando envío la solicitud,
-Entonces la aplicación procesa la información y la remite a los servicios de verificación correspondientes.</td>
-<td>
-E04
-</td>
-      </tr>
-       <tr>
-            <td style="text-align: center;">E04-US04</td>
-            <td style="text-align: center;">Asignación de remuneración</td>
-            <td tyle="text-align: justify;">Como empresa o emprendimiento
-Quiero asignar una remuneración al personal
-Para tener un control organizado en mi planilla.
-</td>
-            <td style="text-align: center;">Criterio de aceptación 1:
-Dado que estoy en la sección de administración de remuneraciones y quiero asignar una nueva remuneración,
-Cuando selecciono la opción para agregar una nueva remuneración o editar una existente,
-Entonces accedo a un formulario donde puedo ingresar los detalles de la remuneración, como el monto, la frecuencia de pago, beneficios adicionales, etc.
-Criterio de aceptación 2:
-Dado que he ingresado los detalles de la remuneración,
-Cuando guardo los cambios o confirmo la asignación,
-Entonces la aplicación registra la remuneración y la asigna al empleado correspondiente en la planilla de sueldos.</td>
-<td>
-E04
-</td>
-      </tr>
-<thead>
-      <tr>
-      <th colspan = "5" style="text-align: center;">
-      Epic 5: Backend
-      </th>
-      </tr>
-</thead>   
-   <tr>
-            <td style="text-align: center;">E05-US01</td>
-            <td style="text-align: center;">Información de Pagos</td>
-            <td tyle="text-align: justify;">Como Developer
-Quiero funciones de información de pagos
-Para que los usuarios puedan acceder a funciones según el plan.
-</td>
-            <td style="text-align: center;">Criterio de aceptación 1:
-Dado que estoy implementando las funciones de información de pagos,
-Cuando diseño la interfaz de usuario para que los usuarios accedan a estas funciones,
-Entonces creo un diseño claro y accesible que permite a los usuarios encontrar fácilmente la información relacionada con sus planes de pago.
-Criterio de aceptación 2:
-Dado que he diseñado la interfaz de usuario,
-Cuando integro la lógica necesaria para proporcionar información de pagos,
-Entonces desarrollo funciones que permiten a los usuarios ver detalles específicos de su plan de pago actual, como características incluidas, precios, límites de uso, etc.</td>
-<td>
-E05
-</td>
-      </tr>
-   <tr>
-            <td style="text-align: center;">E05-US02</td>
-            <td style="text-align: center;">Autentificación de Usuario</td>
-            <td tyle="text-align: justify;">Como Developer
-Quiero autentificación de usuario
-Para que los usuarios cuenten con una mayor seguridad en la aplicación.
-</td>
-            <td style="text-align: center;">Criterio de aceptación 1:
-Dado que estoy implementando la autenticación de usuario,
-Cuando diseño el flujo de autenticación,
-Entonces creo un proceso claro y seguro que requiere que los usuarios ingresen sus credenciales de inicio de sesión para acceder a la aplicación.
-Criterio de aceptación 2:
-Dado que he diseñado el flujo de autenticación,
-Cuando integro la lógica necesaria para autenticar a los usuarios,
-Entonces desarrollo funciones que verifican las credenciales del usuario, como nombre de usuario y contraseña, utilizando métodos de cifrado y almacenamiento seguro de contraseñas.</td>
-<td>
-E05
-</td>
-      </tr>      
-
-<thead>
-      <tr>
-      <th colspan = "5" style="text-align: center;">
-      Epic 6: Preferencias en la aplicación
-      </th>
-      </tr>
-</thead>  
- <tr>
-            <td style="text-align: center;">E06-US01</td>
-            <td style="text-align: center;">Preferencias de idioma</td>
-            <td tyle="text-align: justify;">Como visitante 
-Quiero configurar las opciones de idioma 
-Para utilizar la aplicación según mi preferencia de idioma.
-
-</td>
-            <td style="text-align: center;">Criterio de aceptación 1:
-Dado que estoy en el menú de configuración de idioma y quiero seleccionar mi preferencia,
-Cuando busco en las opciones disponibles,
-Entonces encuentro una lista de idiomas que puedo elegir, como inglés, español, etc.
-Criterio de aceptación 2:
-Dado que la aplicación ha cambiado al idioma seleccionado,
-Cuando navego por la aplicación,
-Entonces encuentro que todo el texto y las etiquetas están ahora en el idioma elegido, lo que facilita la comprensión y la navegación.</td>
-<td>
-E06
-</td>
-      </tr>     
-       <tr>
-            <td style="text-align: center;">E06-US02</td>
-            <td style="text-align: center;">Página no encontrada</td>
-            <td tyle="text-align: justify;">Como visitante
-Quiero ser informado de una página no encontrada en la aplicación
-Para ser redirigido a la página principal.
-
-</td>
-            <td style="text-align: center;">Criterio de aceptación 1:
-Dado que estoy en la página de error 404 y quiero ser redirigido,
-Cuando leo el mensaje de error,
-Entonces encuentro una opción o un enlace que me permite regresar a la página principal de la aplicación.
-Criterio de aceptación 2:
-DDado que selecciono la opción para regresar a la página principal,
-Cuando hago clic en el enlace o botón correspondiente,
-Entonces la aplicación me redirige automáticamente a la página principal, donde puedo continuar navegando o explorando otras secciones de la aplicación.</td>
-<td>
-E06
-</td>
-      </tr>     
-
-
    </tr>
    </tbody>
    </table>
@@ -1784,184 +1225,80 @@ E06
          </tr>
       </thead>
       <tbody>
-       <tr>
+         <tr>
             <td style="text-align: center;">1</td>
-            <td style="text-align: center;">E03-US03</td>
-            <td tyle="text-align: justify;">Visualizar reportes de pagos</td>
-            <td style="text-align: center;">Como empresa o emprendimiento Quiero visualizar los reportes de los pagos al personal Para contar con una mejor organización.</td>
-           <td style="text-align: center;">3</td>
+            <td style="text-align: center;">US01</td>
+            <td tyle="text-align: justify;">Gestión de cuentas de usuario y permisos de acceso</td>
+            <td style="text-align: center;">Como administrador del sistema, quiero poder gestionar las cuentas de usuario y los permisos de acceso para garantizar la seguridad de los datos y la privacidad de la información confidencial.</td>
+           <td style="text-align: center;">1</td>
          </tr>
-            <tr>
+         <tr>
             <td style="text-align: center;">2</td>
-            <td style="text-align: center;">E04-US01</td>
-            <td tyle="text-align: justify;">Ingreso de datos del personal</td>
-            <td style="text-align: center;">Como empresa o emprendimiento Quiero ingresar los datos del personal Para contar con un registro adecuado.</td>
-           <td style="text-align: center;">3</td>
-         </tr>
-            <tr>
+            <td style="text-align: center;">EP010</td>
+            <td style="text-align: justify;">Registro de horas trabajadas y actividades realizadas</td>
+            <td style="text-align: center;">Como empleado, quiero poder registrar horas trabajadas y actividades realizadas a través del sistema para mantener un registro preciso de mi desempeño laboral y contribuciones al proyecto.</td>
             <td style="text-align: center;">3</td>
-            <td style="text-align: center;">E04-US02</td>
-            <td tyle="text-align: justify;">Control de datos del personal</td>
-            <td style="text-align: center;">Como empresa o emprendimiento Quiero tener un control de los datos del personal Para contar con una buena contratación a futuro.</td>
-           <td style="text-align: center;">3</td>
          </tr>
-            <tr>
-            <td style="text-align: center;">4</td>
-            <td style="text-align: center;">E04-US04</td>
-            <td tyle="text-align: justify;">Asignación de remuneración</td>
-            <td style="text-align: center;">Como empresa o emprendimiento Quiero asignar una remuneración al personal Para tener un control organizado en mi planilla.</td>
-           <td style="text-align: center;">3</td>
-         </tr>
-            <tr>
+         <tr>
+            <td style="text-align: center;">3</td>
+            <td style="text-align: center;">EP02</td>
+            <td style="text-align: justify;">Generación de informes de asistencia</td>
+            <td style="text-align: center;">Como gerente de recursos humanos, quiero poder generar informes de ausencias y tardanzas para monitorear el cumplimiento del horario laboral de los empleados.</td>
             <td style="text-align: center;">5</td>
-            <td style="text-align: center;">E05-US01</td>
-            <td tyle="text-align: justify;">Información de Pagos</td>
-            <td style="text-align: center;">Como Developer Quiero funciones de información de pagos Para que los usuarios puedan acceder a funciones según el plan.</td>
+         </tr>
+         <tr>
+            <td style="text-align: center;">4</td>
+            <td style="text-align: center;">EP09</td>
+            <td style="text-align: justify;">Gestión de cuentas de usuario y permisos de acceso</td>
+            <td style="text-align: center;">Como administrador del sistema, quiero poder gestionar las cuentas de usuario y los permisos de acceso para garantizar la seguridad de los datos y la privacidad de la información confidencial.</td>
+            <td style="text-align: center;">3</td>
+         </tr>
+        <tr>
+            <td style="text-align: center;">5</td>
+            <td style="text-align: center;">EP06</td>
+            <td style="text-align: justify;">Acceso a manuales de políticas y procedimientos</td>
+            <td style="text-align: center;">Como empleado, quiero poder acceder a manuales de políticas y procedimientos de la empresa para obtener información sobre las políticas internas y los procesos de trabajo.</td>
            <td style="text-align: center;">3</td>
          </tr>
-            <tr>
+       <tr>
             <td style="text-align: center;">6</td>
-            <td style="text-align: center;">E05-US02</td>
-            <td tyle="text-align: justify;">Autentificación de Usuario</td>
-            <td style="text-align: center;">Como Developer Quiero autentificación de usuario Para que los usuarios cuenten con una mayor seguridad en la aplicación.</td>
-           <td style="text-align: center;">3</td>
+            <td style="text-align: center;">EP05</td>
+            <td tyle="text-align: justify;">	Realización de copias de seguridad automáticas</td>
+            <td style="text-align: center;">Como administrador del sistema, quiero poder realizar copias de seguridad de los datos del sistema regularmente para garantizar la seguridad y la integridad de la información.</td>
+            <td style="text-align: center;">3</td>
          </tr>
-         <tr>
+       <tr>
             <td style="text-align: center;">7</td>
-            <td style="text-align: center;">E01-US05</td>
-            <td tyle="text-align: justify;">Sección de ubicación del Landing Page</td>
-            <td style="text-align: center;">Como visitante del segmento de ubicación Quiero visualizar mi ubicación Para verificar la disponibilidad del servicio que ofrece la aplicación en la zona que me encuentre.</td>
-            <td style="text-align: center;">2</td>
+            <td style="text-align: center;">EP04</td>
+            <td tyle="text-align: justify;">Recepción de notificaciones importantes</td>
+            <td style="text-align: center;">Como empleado, quiero recibir notificaciones sobre actualizaciones importantes en el sistema, como cambios en el horario laboral o nuevas tareas asignadas.</td>
+            <td style="text-align: center;">3</td>
          </tr>
-        <tr>
+       <tr>
             <td style="text-align: center;">8</td>
-            <td style="text-align: center;">E02-US01</td>
-            <td tyle="text-align: justify;">Registro de cuenta</td>
-            <td style="text-align: center;">Como empresa o emprendimiento Quiero registrar una cuenta Para acceder a las funciones que ofrece la aplicación.</td>
-           <td style="text-align: center;">2</td>
+            <td style="text-align: center;">EP03</td>
+            <td tyle="text-align: justify;">Creación y asignación de equipo para proyectos</td>
+            <td style="text-align: center;">Como supervisor de proyecto, quiero poder crear proyectos nuevos en el sistema y asignarles un equipo de trabajo para gestionar las tareas asociadas.</td>
+            <td style="text-align: center;">3</td>
          </tr>
-            <tr>
+       <tr>
             <td style="text-align: center;">9</td>
-            <td style="text-align: center;">E02-US03</td>
-            <td tyle="text-align: justify;">Recuperación de Contraseña</td>
-            <td style="text-align: center;">Como empresa o emprendimiento Quiero recuperar mi contraseña Para iniciar sesión nuevamente.</td>
-           <td style="text-align: center;">2</td>
+            <td style="text-align: center;">EP08</td>
+            <td tyle="text-align: justify;"> Solicitud de vacaciones o días libres</td>
+            <td style="text-align: center;">Como empleado, quiero poder solicitar vacaciones o días libres a través del sistema y recibir confirmación de aprobación o rechazo por parte del supervisor.</td>
+            <td style="text-align: center;">1</td>
          </tr>
-            <tr>
+       <tr>
             <td style="text-align: center;">10</td>
-            <td style="text-align: center;">E02-US04</td>
-            <td tyle="text-align: justify;">Actualización de Datos</td>
-            <td style="text-align: center;">Como empresa o emprendimiento Quiero editar la información existente del perfil Para actualizar los datos.</td>
-           <td style="text-align: center;">2</td>
-         </tr>
-          <tr>
-            <td style="text-align: center;">11</td>
-            <td style="text-align: center;">E04-US03</td>
-            <td tyle="text-align: justify;">Verificación de los datos del personal</td>
-            <td style="text-align: center;">Como empresa o emprendimiento Quiero tener una verificación de los datos del personal Para tener seguridad con los datos brindados.</td>
-           <td style="text-align: center;">2</td>
-         </tr>
-            <tr>
-            <td style="text-align: center;">12</td>
-            <td style="text-align: center;">E03-US01</td>
-            <td tyle="text-align: justify;">Visualizar dashboard principal</td>
-            <td style="text-align: center;">Como empresa o emprendimiento Quiero visualizar un dashboard principal para poder ver resúmenes de mi actividad y estadísticas.</td>
-           <td style="text-align: center;">2</td>
-         </tr>
-            <tr>
-            <td style="text-align: center;">13</td>
-            <td style="text-align: center;">E03-US02</td>
-            <td tyle="text-align: justify;">Ajustes de aplicación</td>
-            <td tyle="text-align: justify;">Como empresa o emprendimiento Quiero ajustar las configuraciones de la aplicación Para personalizar mi experiencia dentro de la misma.</td>
-           <td style="text-align: center;">2</td>
-         </tr>
-         <tr>
-            <td style="text-align: center;">14</td>
-            <td style="text-align: center;">E01-US01</td>
-            <td tyle="text-align: justify;">Barra de navegación en Landing Page</td>
-            <td style="text-align: center;">Como visitante Quiero una barra de navegación en el Landing Page Para una mayor accesibilidad a la información.</td>
-           <td style="text-align: center;">1</td>
-         </tr>
-         <tr>
-            <td style="text-align: center;">15</td>
-            <td style="text-align: center;">EE01-US02</td>
-            <td style="text-align: justify;">Dirigir a la aplicación a través del Landing Page</td>
-            <td style="text-align: center;">Como visitante Quiero dirigirme a la aplicación a través de la Landing Page Para empezar con su uso.</td>
-            <td style="text-align: center;">1</td>
-         </tr>
-         <tr>
-            <td style="text-align: center;">16</td>
-            <td style="text-align: center;">EE01-US03</td>
-            <td style="text-align: justify;">Sección de testimonios del Landing Page</td>
-            <td style="text-align: center;">Como visitante del segmento de testimonios Quiero visualizar los testimonios realizados anteriormente por otros usuarios sobre la aplicación Para tener información previa sobre experiencias anteriores.</td>
-            <td style="text-align: center;">1</td>
-         </tr>
-         <tr>
-            <td style="text-align: center;">17</td>
-            <td style="text-align: center;">E01-US04</td>
-            <td style="text-align: justify;">Sección de beneficios del Landing Page</td>
-            <td style="text-align: center;">Como visitante del segmento de beneficios Quiero visualizar los beneficios que me brinda la aplicación Para considerar su uso.</td>
-            <td style="text-align: center;">1</td>
-         </tr>
-        <tr>
-            <td style="text-align: center;">18</td>
-            <td style="text-align: center;">E01-US06</td>
-            <td style="text-align: justify;">Sección de contacto del Landing Page</td>
-            <td style="text-align: center;">Como visitante Quiero visualizar la parte de contacto del equipo encargado de la aplicación Para contactarme en caso de que requiera algún soporte.</td>
-           <td style="text-align: center;">1</td>
-         </tr>
-       <tr>
-            <td style="text-align: center;">19</td>
-            <td style="text-align: center;">EE01-US07</td>
-            <td tyle="text-align: justify;">Sección de planes del Landing Page</td>
-            <td style="text-align: center;">Como visitante Quiero visualizar los planes que ofrece la aplicación Para considerar su uso.</td>
-            <td style="text-align: center;">1</td>
-         </tr>
-       <tr>
-            <td style="text-align: center;">20</td>
-            <td style="text-align: center;">E01-US08</td>
-            <td tyle="text-align: justify;">Footer a la aplicación en el Landing Page</td>
-            <td style="text-align: center;">Como visitante Quiero visitar los footer de la aplicación Para un mayor acceso a la aplicación.</td>
-            <td style="text-align: center;">1</td>
-         </tr>
-       <tr>
-            <td style="text-align: center;">21</td>
-            <td style="text-align: center;">EE01-US09</td>
-            <td tyle="text-align: justify;">Versión en inglés y español del Landing Page</td>
-            <td style="text-align: center;">Como visitante Quiero tener las opciones en inglés y español del Landing Page Para tener una mayor accesibilidad en el ámbito de los idiomas.</td>
-            <td style="text-align: center;">1</td>
-         </tr>
-          <tr>
-            <td style="text-align: center;">22</td>
-            <td style="text-align: center;">E02-US02</td>
-            <td tyle="text-align: justify;">Inicio de Sesión</td>
-            <td style="text-align: center;">Como empresa o emprendimiento Quiero iniciar sesión en mi cuenta Para acceder a las funciones de la aplicación.</td>
-           <td style="text-align: center;">1</td>
-         </tr>
-          <tr>
-            <td style="text-align: center;">23</td>
-            <td style="text-align: center;">EE02-US05</td>
-            <td tyle="text-align: justify;">	Cerrar sesión</td>
-            <td style="text-align: center;">Como empresa o emprendimiento Quiero cerrar la sesión del perfil Para no dejar la sesión activa en otro dispositivo.</td>
-           <td style="text-align: center;">1</td>
-         </tr>
-          <tr>
-            <td style="text-align: center;">24</td>
-            <td style="text-align: center;">E06-US01</td>
-            <td tyle="text-align: justify;">Preferencias de idioma</td>
-            <td style="text-align: center;">Quiero configurar las opciones de idioma Para utilizar la aplicación según mi preferencia de idioma.</td>
-           <td style="text-align: center;">1</td>
-         </tr>
-          <tr>
-            <td style="text-align: center;">25</td>
-            <td style="text-align: center;">E06-US02</td>
-            <td tyle="text-align: justify;">Página no encontrada</td>
-            <td style="text-align: center;">Como visitante Quiero ser informado de una página no encontrada en la aplicación Para ser redirigido a la página principal.</td>
-           <td style="text-align: center;">1</td>
+            <td style="text-align: center;">EP07</td>
+            <td tyle="text-align: justify;">Programación de reuniones virtuales</td>
+            <td style="text-align: center;">Como supervisor de proyecto, quiero poder realizar reuniones virtuales con mi equipo a través del sistema para discutir el progreso del proyecto y tomar decisiones importantes.</td>
+           <td style="text-align: center;">5</td>
          </tr>
    </tr>
    </tbody>
    </table>
+
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines
@@ -2071,139 +1408,16 @@ En nuestro caso las etiquetas de información se representarán como palabras en
 
 Nuestra página de inicio contará con los siguientes Tags:
 
-**Header**
 ~~~
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-    <title>Planifi</title>
-</head>
-~~~
-
-**Body**
-~~~
-<body>
-
-    <section>
-        <div class="circle"></div>
-        <header>
-            <a href="#" class="logo">Planifi</a>
-            <ul class="navbar">
-                <li><a href="#quienes-somos">About Us</a></li>
-                <li><a href="#beneficios">Benefits</a></li>
-                <li><a href="#ubicacion">Location</a></li>
-                <li><a href="#contacto">Contact</a></li>
-            </ul>
-        </header>
-
-        <div class="content">
-            <div class="titleBox">
-                <h2>SAY GOODBYE TO CHAOS<br></h2>
-                <h2>WITH <span>PLANIFI</span></h2>
-                <p>organize your world intelligently</p>
-                <a href="#">Buy</a>
-            </div>
-            <div class="imgBOX">
-                <img src="img-background.png" alt="">
-            </div>
-        </div>        
-    </section>
-
-    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
-    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
-    
-    <section id="quienes-somos" class="section-about">
-        <div class="container">
-            <h2 class="heading-secondary">About Us</h2>
-            <p class="text-about">We are a passionate team dedicated to simplifying business management. Our goal is to provide you with effective tools for the success of your business.</p>
-            <h3>Testimonials</h3>
-            <div class="testimonials">
-                <div class="testimonial">
-                    <p>"Excellent service, Planifi has simplified our payroll management incredibly. Highly recommended!"</p>
-                    <p>- Satisfied Customer</p>
-                </div>
-                <div class="testimonial">
-                    <p>"The automation of the spreadsheets has saved us valuable time and resources. Thank you, Planifi!"</p>
-                    <p>- Happy Customer</p>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section id="beneficios" class="section-benefits">
-        <div class="container">
-            <h2 class="heading-secondary">Benefits</h2>
-            <ul class="benefits-list">
-                <li class="benefits-item">Payroll automation</li>
-                <li class="benefits-item">Detailed payroll analysis</li>
-                <li class="benefits-item">Accurate financial reports</li>
-                <li class="benefits-item">Evaluation of hours worked on projects</li>
-                <li class="benefits-item">Time and resource savings</li>
-                <li class="benefits-item">Increased operational efficiency</li>
-            </ul>
-        </div>
-    </section>
-
-    <section id="ubicacion" class="section-map">
-        <div class="container">
-            <h2 class="heading-secondary">Location</h2>
-            <div class="map-container">
-                <iframe id="google-map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3986.750483368735!2d-77.0330297846708!3d-12.053969582062464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c6f009f039c3%3A0x53b3d30823126b4e!2sUniversidad%20Peruana%20de%20Ciencias%20Aplicadas!5e0!3m2!1ses!2spe!4v1680782107748!5m2!1ses!2spe" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-            </div>
-            <div class="map-info">
-                <h3>Enter contact information</h3>
-                <form id="contact-form">
-                    <div class="form-group">
-                        <label for="direccion">Address:</label>
-                        <input type="text" id="direccion" name="direccion" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="telefono">Phone:</label>
-                        <input type="tel" id="telefono" name="telefono" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="email">Email:</label>
-                        <input type="email" id="email" name="email" required>
-                    </div>
-                    <button type="submit" class="btn btn-primary">Save</button>
-                </form>
-            </div>
-        </div>
-    </section>
-
-    <section id="contacto" class="section-contact">
-        <div class="container">
-            <h2 class="heading-secondary">Contact</h2>
-            <div class="contact-info">
-                <div class="contact-item">
-                    <img src="img-phone.png" alt="Phone" width="45" height="45" class="contact-icon">
-                    <p class="contact-text">Phone: +51 123 456 789</p>
-                </div>
-                <div class="contact-item">
-                    <img src="img-email.png" alt="Email" width="45" height="45" class="contact-icon">
-                    <p class="contact-text">Email: info@planifi.com</p>
-                </div>
-            </div>
-            <ul class="socialMedia">
-                <li><a href="#"><ion-icon name="logo-facebook"></ion-icon></a></li>
-                <li><a href="#"><ion-icon name="logo-instagram"></ion-icon></a></li>
-                <li><a href="#"><ion-icon name="logo-linkedin"></ion-icon></a></li>
-            </ul>
-            
-        </div>
-    </section>
-
-    <footer class="footer">
-        <div class="copyright">
-            <p>&copy; 2024 Planifi. All rights reserved.</p>
-        </div>
-    </footer>
-    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
-    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
-</body>
+<header>
+    <a href="#" class="logo">Planifi</a>
+        <ul class="navbar">
+            <li><a href="#quienes-somos">¿Quiénes somos?</a></li>
+            <li><a href="#beneficios">Beneficios</a></li>
+            <li><a href="#ubicacion">Ubicación</a></li>
+            <li><a href="#contacto">Contacto</a></li>
+        </ul>
+</header>
 ~~~
 
 ### 4.2.4. Searching Systems 
@@ -2216,257 +1430,74 @@ El sistema que permitirá a los usuarios ir entre las distintas secciones de nue
 Nuestra decisión del diseño y la arquitectura es usar una forma más minimalista y tratar de llamar la atención al cliente por el producto.
 
 ### 4.3.1. Landing Page Wireframe 
-
-| Links Figma Landing Page Wireframe |
-|-----------------------------------|
-| [Figma Landing Page Wireframe](https://www.figma.com/file/YxrOLUAqkGsL86OvtCETzt/Planifi-LandingPage-Desktop?type=design&node-id=0%3A1&mode=design&t=MnLXFA9YuTbWeQg0-1) |
-
-
+Wireframe 1
 <img src="static/img/Chapter 4/img-wireframe1.png" alt=" " style="width: 65;"></img>
 
+Wireframe 2
 <img src="static/img/Chapter 4/img-wireframe2.png" alt=" " style="width: 65;"></img>
 
+Wireframe 3
 <img src="static/img/Chapter 4/img-wireframe3.png" alt=" " style="width: 65;"></img>
 
+Wireframe 4
 <img src="static/img/Chapter 4/img-wireframe4.png" alt=" " style="width: 65;"></img>
 
-<img src="static/img/Chapter 4/img-wireframe6.png" alt=" " style="width: 65;"></img>
-
+Wireframe 5
 <img src="static/img/Chapter 4/img-wireframe5.png" alt=" " style="width: 65;"></img>
 
-<img src="static/img/Chapter 4/img-wireframe7.png" alt=" " style="width: 65;"></img>
-
-<img src="static/img/Chapter 4/img-wireframe8.png" alt=" " style="width: 65;"></img>
-
-<img src="static/img/Chapter 4/img-wireframe9.png" alt=" " style="width: 65;"></img>
-
-<img src="static/img/Chapter 4/img-wireframe10.png" alt=" " style="width: 65;"></img>
-
-<img src="static/img/Chapter 4/img-wireframe11.png" alt=" " style="width: 65;"></img>
-
-<img src="img-wireframe12.png" alt=" " style="width: 65;"></img>
-
-<img src="static/img/Chapter 4/img-wireframe13.png" alt=" " style="width: 65;"></img>
-
-<img src="static/img/Chapter 4/img-wireframe14.png" alt=" " style="width: 65;"></img>
-
-<img src="static/img/Chapter 4/img-wireframe15.png" alt=" " style="width: 65;"></img>
-
+Para poder ver el wireframe completo, este es el link de Figma -> [Figma](https://www.figma.com/file/YxrOLUAqkGsL86OvtCETzt/Planifi-Wireframe?type=design&node-id=0%3A1&mode=design&t=0KnNllAIDZqRZnLP-1) 
 
 ### 4.3.2. Landing Page Mock-up 
-
-| Links Figma Landing Page Mock-ups |
-|-----------------------------------|
-| [Figma Landing Page Mock-up](https://www.figma.com/file/YxrOLUAqkGsL86OvtCETzt/Planifi-LandingPage-Desktop?type=design&node-id=0%3A1&mode=design&t=MnLXFA9YuTbWeQg0-1) |
-
-
+Mock-up 1
 <img src="static/img/Chapter 4/img-mockup1.png" alt=" " style="width: 65;"></img>
 
+Mock-up 2
 <img src="static/img/Chapter 4/img-mockup2.png" alt=" " style="width: 65;"></img>
 
+Mock-up 3
 <img src="static/img/Chapter 4/img-mockup3.png" alt=" " style="width: 65;"></img>
 
+Mock-up 4
 <img src="static/img/Chapter 4/img-mockup4.png" alt=" " style="width: 65;"></img>
 
-<img src="static/img/Chapter 4/img-mockup6.png" alt=" " style="width: 65;"></img>
-
+Mock-up 5
 <img src="static/img/Chapter 4/img-mockup5.png" alt=" " style="width: 65;"></img>
 
-<img src="static/img/Chapter 4/img-mockup7.png" alt=" " style="width: 65;"></img>
+Para poder ver el Mock-up completo, este es el link de Figma -> [Figma](https://www.figma.com/file/V8WMiF3a2LgTBpJKDA6flY/Mockup?type=design&mode=design&t=0KnNllAIDZqRZnLP-1) 
 
-<img src="static/img/Chapter 4/img-mockup8.png" alt=" " style="width: 65;"></img>
-
-<img src="static/img/Chapter 4/img-mockup9.png" alt=" " style="width: 65;"></img>
-
-<img src="static/img/Chapter 4/img-mockup10.png" alt=" " style="width: 65;"></img>
-
-<img src="static/img/Chapter 4/img-mockup11.png" alt=" " style="width: 65;"></img>
-
-<img src="static/img/Chapter 4/img-mockup12.png" alt=" " style="width: 65;"></img>
-
-<img src="static/img/Chapter 4/img-mockup13.png" alt=" " style="width: 65;"></img>
-
-<img src="static/img/Chapter 4/img-mockup14.png" alt=" " style="width: 65;"></img>
-
-<img src="static/img/Chapter 4/img-mockup15.png" alt=" " style="width: 65;"></img>
-
-## 4.4. Web Applications UX/UI Design 
+## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes 
 
-**User goal:** Usuario se registra o inicia sesión a la aplicación con credenciales
+<img src="static/img/Chapter 4/img-webaplicationwireframe.png" alt=" " style="width: 65;"></img>
 
-Registro de cuentas
-
-<img src="static/img/Chapter 4/img-wireframe9.png" alt=" " style="width: 350;"></img>
-
-Inicio de sesión
-
-<img src="static/img/Chapter 4/img-wireframe8.png" alt=" " style="width: 350;"></img>
-
-Aplicación de creación de planillas
-
-<img src="static/img/Chapter 4/img-wireframe14.png" alt=" " style="width: 350;"></img>
-
-
-**User goal:** Perfil de usuario
-
-<img src="static/img/Chapter 4/img-wireframe11.png" alt=" " style="width: 350;"></img>
-
-**User goal:** Creación de organización
-
-<img src="static/img/Chapter 4/img-wireframe13.png" alt=" " style="width: 350;"></img>
-
-**User goal:** Perfil de organización y suscripción
-
-<img src="static/img/Chapter 4/img-wireframe13.png" alt=" " style="width: 350;"></img>
-
-**User goal:** Visualizar las planillas hechas previamente
-
-<img src="static/img/Chapter 4/img-wireframe15.png" alt=" " style="width: 350;"></img>
-
-**User goal:** Creación de nuevas planillas
-
-<img src="static/img/Chapter 4/img-wireframe15.png" alt=" " style="width: 350;"></img>
+Para poder ver el web application wireframe completo, este es el link de Figma -> [Figma](https://www.figma.com/file/YxrOLUAqkGsL86OvtCETzt/Planifi-Wireframe?type=design&node-id=0%3A1&mode=design&t=0KnNllAIDZqRZnLP-1) 
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-| Links LucidChart Wireflow |
-|-----------------------------------|
-| [LucidChart Wireflow](https://lucid.app/lucidchart/1d7753bc-2ef3-4485-8b8c-cfd7e119defb/edit?view_items=7crsvUt5MiZ_&invitationId=inv_738c0520-b232-4d6d-bbca-a1c0eba60e98) |
+<img src="static/img/Chapter 4/img-wireflow.png" alt=" " style="width: 65;"></img>
 
-**User goal:** Usuario se registra o inicia sesión a la aplicación con credenciales
+Para poder ver mejor el Wireflow, este es el link del lucidchart -> [Lucidchart](https://lucid.app/lucidchart/1d7753bc-2ef3-4485-8b8c-cfd7e119defb/edit?view_items=7crsvUt5MiZ_&invitationId=inv_738c0520-b232-4d6d-bbca-a1c0eba60e98)
 
-<img src="static/img/Chapter 4/img-wireflow1.png" alt=" " style="width: 380;"></img>
+### 4.4.2. Web Applications Mock-ups
 
-**Descripción:** Al entrar en la aplicación, el usuario se encontrará con una página con dos opciones: Si es que tiene una cuenta creada o si es nuevo en la aplicación. En caso de que sea nuevo, le redireccionara a la opción de Registro. En caso contrario, de que el usuario ya tiene una cuenta, lo direccionara a la página de Inicio de Sesión.
+<img src="static/img/Chapter 4/img-webaplicationmockup.png" alt=" " style="width: 65;"></img>
 
+Para poder ver el Mock-up completo, este es el link de Figma -> [Figma](https://www.figma.com/file/V8WMiF3a2LgTBpJKDA6flY/Mockup?type=design&mode=design&t=0KnNllAIDZqRZnLP-1) 
 
-**User goal:** Perfil de usuario
+### 4.4.3. Web Applications User Flow Diagrams
 
-<img src="static/img/Chapter 4/img-wireflow2.png" alt=" " style="width: 380;"></img>
+<img src="static/img/Chapter 4/img-userflow.png" alt=" " style="width: 65;"></img>
 
-**Descripción:** El usuario puede visualizar una barra de navegación lateral con la foto de perfil y nombres en la paarte superior. Al darle click a su foto de perfil, podra visualizar los detalles de su cuenta.
-
-
-**User goal:** Creación de organización
-
-<img src="static/img/Chapter 4/img-wireflow3.png" alt=" " style="width: 380;"></img>
-
-**Descripción:** El usuario al dar click en el icono de **"+"**, podra crear una nueva organización
-
-
-**User goal:** Perfil de organización y suscripción
-
-<img src="static/img/Chapter 4/img-wireflow4.png" alt=" " style="width: 380;"></img>
-
-**Descripción:** El usuario al hacer click en la imagen de la organización previamente creada, podrá visualizar los datos de esta
-
-
-**User goal:** Visualizar las planillas hechas previamente
-
-<img src="static/img/Chapter 4/img-wireflow5.png" alt=" " style="width: 380;"></img>
-
-**Descripción:** El usuario al dar click en una planilla hecha previamente, podrá visualizar y editar la planilla hecha.
-
-**User goal:** Creación de nuevas planillas
-
-<img src="static/img/Chapter 4/img-wireflow6.png" alt=" " style="width: 380;"></img>
-
-**Descripción:** El usuario al hacer click en el icono de **"+"**, podra crear una nueva planilla, visualizando un estilo de excel, para que los usuario puedan sentirse familiarizados.
-
-### 4.4.3. Web Applications Mock-ups
-
-**User goal:** Usuario se registra o inicia sesión a la aplicación con credenciales
-
-Registro de cuentas
-
-<img src="static/img/Chapter 4/img-mockup9.png" alt=" " style="width: 350;"></img>
-
-Inicio de sesión
-
-<img src="static/img/Chapter 4/img-mockup8.png" alt=" " style="width: 350;"></img>
-
-Aplicación de creación de planillas
-
-<img src="static/img/Chapter 4/img-mockup14.png" alt=" " style="width: 350;"></img>
-
-
-**User goal:** Perfil de usuario
-
-<img src="static/img/Chapter 4/img-mockup11.png" alt=" " style="width: 350;"></img>
-
-**User goal:** Creación de organización
-
-<img src="static/img/Chapter 4/img-mockup13.png" alt=" " style="width: 350;"></img>
-
-**User goal:** Perfil de organización y suscripción
-
-<img src="static/img/Chapter 4/img-mockup13.png" alt=" " style="width: 350;"></img>
-
-**User goal:** Visualizar las planillas hechas previamente
-
-<img src="static/img/Chapter 4/img-mockup15.png" alt=" " style="width: 350;"></img>
-
-**User goal:** Creación de nuevas planillas
-
-<img src="static/img/Chapter 4/img-mockup15.png" alt=" " style="width: 350;"></img>
-
-### 4.4.4. Web Applications User Flow Diagrams
-
-| Links LucidChart Wireflow |
-|-----------------------------------|
-| [LucidChart Wireflow](https://lucid.app/lucidchart/5de1ec5e-e8cf-4908-bb2c-128ac71bb507/edit?viewport_loc=-3560%2C5048%2C3389%2C1367%2C0_0&invitationId=inv_912178d8-2592-4cee-bb1e-576a04f2c013) |
-
-**User goal:** Usuario se registra o inicia sesión a la aplicación con credenciales
-
-<img src="static/img/Chapter 4/img-userflow1.png" alt=" " style="width: 380;"></img>
-
-**Descripción:** Al entrar en la aplicación, el usuario se encontrará con una página con dos opciones: Si es que tiene una cuenta creada o si es nuevo en la aplicación. En caso de que sea nuevo, le redireccionara a la opción de Registro. En caso contrario, de que el usuario ya tiene una cuenta, lo direccionara a la página de Inicio de Sesión.
-
-
-**User goal:** Perfil de usuario
-
-<img src="static/img/Chapter 4/img-userflow2.png" alt=" " style="width: 380;"></img>
-
-**Descripción:** El usuario puede visualizar una barra de navegación lateral con la foto de perfil y nombres en la paarte superior. Al darle click a su foto de perfil, podra visualizar los detalles de su cuenta.
-
-
-**User goal:** Creación de organización
-
-<img src="static/img/Chapter 4/img-userflow3.png" alt=" " style="width: 380;"></img>
-
-**Descripción:** El usuario al dar click en el icono de **"+"**, podra crear una nueva organización
-
-
-**User goal:** Perfil de organización y suscripción
-
-<img src="static/img/Chapter 4/img-userflow4.png" alt=" " style="width: 380;"></img>
-
-**Descripción:** El usuario al hacer click en la imagen de la organización previamente creada, podrá visualizar los datos de esta
-
-
-**User goal:** Visualizar las planillas hechas previamente
-
-<img src="static/img/Chapter 4/img-userflow5.png" alt=" " style="width: 380;"></img>
-
-**Descripción:** El usuario al dar click en una planilla hecha previamente, podrá visualizar y editar la planilla hecha.
-
-**User goal:** Creación de nuevas planillas
-
-<img src="static/img/Chapter 4/img-userflow6.png" alt=" " style="width: 380;"></img>
-
-**Descripción:** El usuario al hacer click en el icono de **"+"**, podra crear una nueva planilla, visualizando un estilo de excel, para que los usuario puedan sentirse familiarizados.
+Para poder ver el Mock-up completo, este es el link de Figma -> [Figma](https://lucid.app/lucidchart/5de1ec5e-e8cf-4908-bb2c-128ac71bb507/edit?viewport_loc=-3774%2C-1589%2C6470%2C2610%2C0_0&invitationId=inv_912178d8-2592-4cee-bb1e-576a04f2c013) 
 
 ## 4.5. Web Applications Prototyping
 
-| Links Figma Prototyping |
-|-----------------------------------|
-| [Figma Prototyping](https://www.figma.com/file/YxrOLUAqkGsL86OvtCETzt/Planifi-LandingPage-Desktop?type=design&node-id=0%3A1&mode=design&t=v8WiX0skrLBB62Vv-1) |
+<img src="static/img/Chapter 4/img-prototyping.png" alt=" " style="width: 65;"></img>
 
-| Links Video Prototyping |
-|-----------------------------------|
-| [Prototyping-Video-Expo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c769_upc_edu_pe/EXqS3hKOmCVBuEl3ONreaf4BT9FE8ItqC2R3xyz_kyk0tA?e=FH0YOp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+Para poder ver el Prototyping completo, este es el link de Figma -> [Figma](https://www.figma.com/file/J2WmEmCOA2HhjX7tGpNAeL/Prototyping?type=design&node-id=0%3A1&mode=design&t=eZRcWMJBdPIy07xF-1) 
+
+El video en Microsoft Stream se encuentra en el siguiente link -> [Prototyping-Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c769_upc_edu_pe/EUvAHVnN54BFm9W9tFnD5yQBMFIIwjEm17-9SUyNNFWNog?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=37HTrZ)
 
 ## 4.6. Domain-Driven Software Architecture
 ## 4.6.1. Software Architecture Context Diagram
@@ -2510,34 +1541,8 @@ Aplicación de creación de planillas
 ## 4.7. Software Object-Oriented Design
 ## 4.7.1. Class Diagrams
 
-### Class Diagram for IAM Bounded Context:
 <div style="text-align: center; margin-top: 20px;">
-        <img src="static/img/Chapter 4/img-class-diagram-iam.png" alt="Class Diagram" style="width: 65;"></img>
-</div>
-
-### Class Diagram for Spreadsheet Bounded Context:
-<div style="text-align: center; margin-top: 20px;">
-        <img src="static/img/Chapter 4/img-class-diagram-spreadsheet.png" alt="Class Diagram" style="width: 65;"></img>
-</div>
-
-### Class Diagram for Worker Follow Up Bounded Context:
-<div style="text-align: center; margin-top: 20px;">
-        <img src="static/img/Chapter 4/img-class-diagram-worker.png" alt="Class Diagram" style="width: 65;"></img>
-</div>
-
-### Class Diagram for Project Follow Up Bounded Context:
-<div style="text-align: center; margin-top: 20px;">
-        <img src="static/img/Chapter 4/img-class-diagram-project.png" alt="Class Diagram" style="width: 65;"></img>
-</div>
-
-### Class Diagram for Subscription Bounded Context:
-<div style="text-align: center; margin-top: 20px;">
-        <img src="static/img/Chapter 4/img-class-diagram-subscription.png" alt="Class Diagram" style="width: 65;"></img>
-</div>
-
-### Class Diagram for Financial Report Bounded Context:
-<div style="text-align: center; margin-top: 20px;">
-        <img src="static/img/Chapter 4/img-class-diagram-report.png" alt="Class Diagram" style="width: 65;"></img>
+        <img src="static/img/Chapter 4/img-class-diagram.png" alt="Class Diagram" style="width: 65;"></img>
 </div>
 
 ## 4.7.2. Class Dictionary
@@ -2562,34 +1567,8 @@ Para la realización del diagrama, se han utilizado las siguientes clases, junto
 ## 4.8. Database Design
 ## 4.8.1. Database Diagram
 
-### IAM Bounded Context Database Diagram:
 <div style="text-align: center; margin-top: 20px;">
-        <img src="static/img/Chapter 4/img-database-model-iam.png" alt="Database Diagram" style="width: 65;"></img>
-</div>
-
-### Spreadsheet Bounded Context Database Diagram:
-<div style="text-align: center; margin-top: 20px;">
-        <img src="static/img/Chapter 4/img-database-model-spreadsheet.png" alt="Database Diagram" style="width: 65;"></img>
-</div>
-
-### Worker Follow Up Bounded Context Database Diagram:
-<div style="text-align: center; margin-top: 20px;">
-        <img src="static/img/Chapter 4/img-database-model-worker.png" alt="Database Diagram" style="width: 65;"></img>
-</div>
-
-### Project Bounded Context Database Diagram:
-<div style="text-align: center; margin-top: 20px;">
-        <img src="static/img/Chapter 4/img-database-model-project.png" alt="Database Diagram" style="width: 65;"></img>
-</div>
-
-### Subscription Bounded Context Database Diagram:
-<div style="text-align: center; margin-top: 20px;">
-        <img src="static/img/Chapter 4/img-database-model-subscription.png" alt="Database Diagram" style="width: 65;"></img>
-</div>
-
-### Report Bounded Context Database Diagram:
-<div style="text-align: center; margin-top: 20px;">
-        <img src="static/img/Chapter 4/img-database-model-report.png" alt="Database Diagram" style="width: 65;"></img>
+        <img src="static/img/Chapter 4/img-database-model.png" alt="Database Diagram" style="width: 65;"></img>
 </div>
 
 # Capítulo V: Product Implementation, Validation & Deployment
@@ -2597,13 +1576,15 @@ Para la realización del diagrama, se han utilizado las siguientes clases, junto
 ### 5.1.1. Software Development Environment Configuration
 En el siguiente apartado, se detalla cada uno de los productos de software utilizados en el proyecto. Esta descripción servirá como guía para que tanto los desarrolladores actuales como los futuros puedan participar de manera efectiva en todas las fases del proyecto.<br><br>
 **Project Management**
-- Trello: https://trello.com/ Se empleó Trello para organizar al equipo y llevar a cabo un registro de las tareas que están por hacer, se están realizando y ya están completadas. De esta manera, podríamos tener un control en cuanto al tiempo de cómo estábamos desarrollando el proyecto y, asimismo, ver las actividades pendientes. Trello es una aplicación web que es compatible con los multiples navegadores.
+- Notion: https://www.notion.so/es-es
+Se empleó Notion para organizar y llevar un registro de las tareas que están por hacer, se están realizando y ya están completadas. De esta manera, podríamos tener un control en cuanto al tiempo de cómo estábamos desarrollando el proyecto y, asimismo, ver las actividades pendientes. Notion es una aplicación que se encuentra disponible en las tiendas de teléfonos móviles, web o aplicación de escritorio.
 - Google Meet : https://meet.google.com
 La plataforma de Google Meet se empleó para las reuniones virtuales con los integrantes del equipo y así poder comunicarnos entre nosotros sobre la gestión del proyecto. Asimismo, empleamos esta plataforma para poder compartir contenido entre los miembros del equipo, como compartir pantalla, imágenes, texto, entre otros.
 
  	
 **Requirements Management** <br>
-- Trello: https://trello.com/ Para el apartado de requirements, usamos Trello, debido a que permite colaborar de manera muy práctica en el product backlog, además de ser muy fácil de usar. Esta aplicación nos permite visualizar de una manera muy intuitiva las tareas pendientes y las asignaciones para esas tareas. Es gratuita y solo necesitamos registrarnos para utilizarla.
+- Notion: https://trello.com/
+Para el apartado de requirements, consideramos que la mejor opción era Notion, debido a que con la diversidad de plantillas permitía colaborar de manera muy práctica en el product backlog, además de ser muy fácil de usar. Esta aplicación es gratuita y solo necesitamos registrarnos para utilizarla
  	
 **Product UX/UI Design**
 - UXPressia: https://uxpressia.com/
@@ -2777,9 +1758,7 @@ Implementar la landing page en el servidor de producción utilizando Visual Stud
     <td>7 Story points</td>
   </tr>
 </table>
-
-#### 5.2.1.2. Sprint Backlog 1
-
+- 5.2.1.2. Sprint Backlog 1.
 <img src="static/img/Chapter 5/img-sprintbacklog1.jpg" alt=" " style="width: 65;"></img>
 
 <table border="1">
@@ -2809,37 +1788,37 @@ Implementar la landing page en el servidor de producción utilizando Visual Stud
     <td>E01-US01</td>
     <td>Barra de navegación en Landing Page</td>
     <td>W01</td>
-    <td>Barra de navegación del Landing Page</td>
+    <td>Navigation bar on Landing Page</td>
     <td>Se creará un botón que dirija a la seccion about the team.</td>
     <td>0.5</td>
-    <td>Karito</td>
+    <td>Carito</td>
     <td>Done</td>
   </tr>
   <tr>
     <td>E01-US02</td>
     <td>Dirigir a la aplicación a través del Landing Page</td>
     <td>W02</td>
-    <td>Redireccionar a los usuarios a la app desde la Landing Page</td>
+    <td>Directing users to the application via the Landing Page</td>
     <td>Para la sección de ‘conócenos’, se añadirá un listado de tarjetas (imágenes con texto) que muestren los beneficios que ofrece la app.</td>
     <td>0.5</td>
-    <td>Karito</td>
+    <td>Carito</td>
     <td>Done</td>
   </tr>
   <tr>
     <td>E01-US03</td>
     <td>Sección de testimonios del Landing Page</td>
     <td>W03</td>
-    <td>Seccion de testimonios del LandingPage</td>
+    <td>Testimonials section of the Landing Page</td>
     <td>Implementar testimonios de clientes</td>
     <td>2</td>
-    <td>Karito</td>
+    <td>Carito</td>
     <td>Done</td>
   </tr>
   <tr>
     <td>E01-US04</td>
     <td>Sección de beneficios del Landing Page</td>
     <td>W04</td>
-    <td>Seccion de beneficios del LandingPage</td>
+    <td>Benefits section of the Landing Page</td>
     <td>Definir los beneficios de la app</td>
     <td>1</td>
     <td>Ramón</td>
@@ -2849,7 +1828,7 @@ Implementar la landing page en el servidor de producción utilizando Visual Stud
     <td>E01-US05</td>
     <td>Sección de ubicación del Landing Page</td>
     <td>W05</td>
-    <td>Sección de ubicación del LandingPage</td>
+    <td>Location section of the Landing Page</td>
     <td>Definir los beneficios de la app</td>
     <td>1</td>
     <td>Ramón</td>
@@ -2859,40 +1838,40 @@ Implementar la landing page en el servidor de producción utilizando Visual Stud
     <td>E01-US06</td>
     <td>Sección de contacto del Landing Page</td>
     <td>W06</td>
-    <td>Sección de contacto de Landing Page</td>
+    <td>Contact section of the Landing Page</td>
     <td>Implementar medio de contacto para el usuario</td>
     <td>0.5</td>
-    <td>Karito</td>
+    <td>Carito</td>
     <td>Done</td>
   </tr>
    <tr>
     <td>E01-US07</td>
     <td>Sección de planes del Landing Page</td>
     <td>W07</td>
-    <td>Secciones de planes de LandingPage</td>
+    <td>Plans section of the Landing Page</td>
     <td>Definir los planes a contratar por el usuario</td>
     <td>1</td>
-    <td>Karito</td>
+    <td>Carito</td>
     <td>Done</td>
   </tr>
    <tr>
     <td>E01-US08</td>
     <td>Footer a la aplicación en el Landing Page</td>
     <td>W08</td>
-    <td>Sección de footer del LandingPage</td>
+    <td>Footer to the application on the Landing Page</td>
     <td>Implementar footer section con sus respectivos links</td>
     <td>0.5</td>
-    <td>Karito</td>
+    <td>Carito</td>
     <td>Done</td>
   </tr>
    <tr>
     <td>E01-US09</td>
     <td>Versión en inglés y español del Landing Page</td>
     <td>W09</td>
-    <td>Versión en inglés y español del LanginPage</td>
+    <td>English and Spanish versions of the Landing Page</td>
     <td>Implementar la opción de lenguaje</td>
     <td>0.5</td>
-    <td>Karito</td>
+    <td>Carito</td>
     <td>Done</td>
   </tr>
 </table>
@@ -3013,16 +1992,17 @@ El objetivo de este primer sprint fue el desarrollo de la Landing Page. Para est
 A continuación, se mostrarán capturas de los Insights del GitHub para evidenciar la participación de todos los miembros del grupo:
 <img src="static/img/Chapter 5/img-insights.png" alt="Insights" style="width: 65;"></img>
 
-### 5.2.2. Sprint 2
-#### 5.2.2.1. Sprint Planning 2
+### 5.2.3 Sprint 3
+#### 5.2.3.1. Sprint Planning 3
+
   <table>
   <tr>
     <th>Sprint #</th>
-    <td>Sprint 2</td>
+    <td>Sprint 3</td>
   </tr>
   <tr>
     <th>Sprint Planning Date</th>
-    <td>2024-04-10</td>
+    <td>2024-06-1</td>
   </tr>
   <tr>
     <th>Time</th>
@@ -3042,15 +2022,15 @@ A continuación, se mostrarán capturas de los Insights del GitHub para evidenci
   </tr>
   <tr>
     <th>Sprint Review Summary</th>
-    <td>El enfoque de este sprint estuvo centrado en desarrollar el Landing Page, con el objetivo de garantizar una experiencia de usuario coherente y atractiva. Los aspectos claves que se trataron incluyeron la visualización efectiva de la página y la visualización de los canales de comunicación de la empresa.</td>
+    <td>El enfoque de este sprint estuvo centrado en desarrollar el Backend, con el objetivo de garantizar un correcto funcionamiento de los componentes.</td>
   </tr>
   <tr>
     <th>Sprint Retrospective Summary</th>
-    <td>Durante este sprint, el equipo se centró en construir una Landing Page que serviría como la cara pública principal de la empresa, asegurando que la primera impresión de los usuarios fuera tanto informativa como atractiva. Las tareas se distribuyeron para optimizar tanto el diseño como la funcionalidad.</td>
+    <td>Durante este sprint, se planea avanzar vistas cores faltantes en el front-end como el dashboard de los procesos de la planilla. Se implementará un RESTful API con el framework de .NET Core con los bounded context de autenticación, planillas, medio de pago y procesos.</td>
   </tr>
   <tr>
     <th>Sprint Goal</th>
-    <td>La meta de este Sprint es el desarrollo del front-end de la aplicacion web, donde se planea implementar el registro, inicio de sesion, vistualizacion de dashboard, ingreso del personal entre otras fucionalidades. Todas estas tareas se organizaron mediante Trello.Al finalizar este Sprint, el landing page cuenta con una version actualizada y la web fonrt end cuenta con distintas funcionalidades desplegadas.</td>
+    <td>La meta de este Sprint es el desarrollo del back-end de la aplicacion web, donde se planea implementar los bounded context core del negocio. Todas estas tareas se organizaron mediante Trello. Al finalizar este Sprint, el back-end cuenta con una version actualizada y la web fonrt end cuenta con distintas funcionalidades desplegadas.</td>
   </tr>
   <tr>
     <th>Sprint Velocity</th>
@@ -3062,76 +2042,111 @@ A continuación, se mostrarán capturas de los Insights del GitHub para evidenci
   </tr>
 </table>
 
-#### 5.2.2.2. Sprint Backlog 2
+#### 5.2.3.2. Sprint Backlog 3
 
-<img src="static/img/Chapter 5/img-sprintbacklog2.jpg" alt=" " style="width: 65;"></img>
+<img src="static/img/Chapter 5/img-sprint3.jpg" alt=" " style="width: 65;"></img>
 
-**Sprint 2**
+
 | User Story        |                   | Work Item/Task |               |                                                    |                   |                 |        |
 |:------------------|:-----------------:|:--------------:|:-------------:|:--------------------------------------------------:|:-----------------:|:---------------:|:------:|
 | **Id**            | **Title**         | **Id**         | **Title**     | **Description**                                    | **Estimation**    | **Assigned To** | **Status** |
-| E02-US01           | Registro de cuenta | E2-US01-W1   | Interfaz de registro para empresas o emprendedores | Implementar la interfaz de usuario para formulario de registro para empresas y emprendedores. | 3                 | Nombre   | Done   |
-| E2-US02          | Inicio de sesión  | E2-US02-W2   | Interfaz de inicio de sesión para empresas o emprendedores | Interfaz de usuario para formulario de inicio de sesión para empresas y emprendedores. | 2                 | Nombre  | Done   |
-| E2-US04          | Actualizacion de datos | E2-US04-W4 | Formulario de actualizacion de datos para empresas o emprendedores | Implementar interfaz estática para actualizacion de datos para empresas o emprendedores. | 1.5               | Nombre | Done   |
-| E02-US05          | Cerrar sesion | E2-US05-W5  | Boton de cerrar sesion | Implementar el apartado de cerrar sesion en la barra de navegacion. | 2                 | Nombre | Done   |
-| E03-US01           | Visualizar  dashboard principal  | E3-US01-W1   |  Visualizacion de la  interfaz del dashboard. | Implementar el apartado del dashboard para empresas o empredendores | 3                 | Nombre   | Done   |
+| E02-US01           | Visualizar dashboard principal | E2-US01-W1   | Interfaz de dashboard empresas o emprendedores | Implementar la interfaz de dashboard para formulario de registro para empresas y emprendedores. | 3                 | Nombre   | Done   |
+| E03-US02          | Ajustes de aplicación | E2-US02-W2   | Interfaz ajustes de aplicación para empresas o emprendedores | Interfaz de configuración para empresas y emprendedores. | 2                 | Nombre  | Done   |
+| E04-US01          | Ingreso de datos del personal | E2-US04-W4 | Formulario de ingreso de datos del personal para empresas o emprendedores | Implementar el ingreso de datos del personal para empresas o emprendedores. | 1.5               | Nombre | Done   |
+| E04-US02          | Control de datos del personal | E2-US05-W5  | Interfaz de control de datos del personal | Implementar el apartado de control de datos del personal para un registro. | 2                 | Nombre | Done   |
+| E04-US03           | Verificación de datos del personal  | E3-US01-W1   |  Visualizacion de los datos ingresados del personal. | Implementar el apartado donde pueda confirmarse los datos ingresados del personal | 3                 | Nombre   | Done   |
 | E03-US02          | Ajustes de aplicación | E3-US02-W2   | Interfaz de los ajustes de aplicacion   | Visualizacion del los ajustes de aplicacion de empresas y emprendedores | 2                 | Nombre  | Done   |
 | E04-US01          | Ingreso de datos del personal | E4-US01-W1 | Interfaz de registro de personal  | Implementar interfaz de registro de personal para empresas o emprendedores. | 1.5               | Nombres | Done   |
-| E04-US02          | Control de datos del personal | E4-US02-W2  | Interfaz de informacion del personal  | Implementar interfaz gestionar la informacion del personal para  empresas o emprendedores. | 2                 | Nombres | Done  |
-| E04-US03          | Verificación de los datos del personal | E4-US03-W3 | Interfaz de validacion de informacion del personal  | Implementar interfaz de registro de personal para  empresas o emprendedores. | 1.5               | Nombres | Done   |
-| E04-US05          | Asignación de remuneración | E4-US05-W5  | Formulario de asignacion de remuneracion  | Implementar formulario de asignacion de reumenaricon  para empresas o emprendedores. | 2                 | Nombres | Done  |
-| E06-US01          | Preferencias de idioma | E6-US01-W1 | Boton de preferencia de idioma en la barra de navegacion.  | Implementar boton de preferencia de idioma en la barra de navegacion para usuarios. | 1.5               | Nombres | Done   |
-| E06-US02          | Página no encontrada | E6-US02-W2  | Interfaz de pagina no encontrada  | Implementar interfaz pagina no encontrada  para empresas o emprendedores. | 2                 | Nombres | Done  |
+| E05-US02          | Autenticación de Usuario | E4-US02-W2  | Interfaz de autenticación del usuario | Implementar interfaz de autenticación del usuario. | 2                 | Nombres | Done  |
 
-
-#### 5.2.2.3. Development Evidence for Sprint Review
+#### 5.2.3.3. Development Evidence for Sprint Review
 
 | Repository | Branch  | Commit Id | Commit Message|
 |------------|----------|-----------|---------------|
 | https://github.com/Salvlormonch1/planifi.github.io  | main   | dce258f933142390154509ffe790eaf49d6bca3a   | Create README.md |
 | https://github.com/Salvlormonch1/planifi.github.io    | main   | 63ae206538c07a15d17151baf74585ce6ac120cd   | Add files via upload |
 
-#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+Para la entrega del Sprint 3 se intentó corregir el frontend y se implementó el backend de este mismo.
 
-Para la entrega del Sprint 2 se centro en el desarrollo e implementacion de la aplicacion web front end.
+<table border="1">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit ID</th>
+    <th>Commit Message</th>
+    <th>Comitted On (Date)</th>
+  </tr>
+  <tr>
+    <td>BusinessPRO</td>
+    <td>Chapter-3</td>
+    <td>41f068e</td>
+    <td>Initial commit</td>
+    <td>10/04/2024</td>
+  </tr>
+  <tr>
+    <td>BusinessPRO</td>
+    <td>Chapter-3</td>
+    <td>3b3e8d4</td>
+    <td>Update and rename README.md to Chapter 3.md</td>
+    <td>11/04/2024</td>
+  </tr>
+  <tr>
+    <td>BusinessPRO</td>
+    <td>Chapter-3</td>
+    <td>10c5509</td>
+    <td>Create README.md</td>
+    <td>11/04/2024</td>
+  </tr>
+  <tr>
+    <td>BusinessPRO</td>
+    <td>Chapter-3</td>
+    <td>751cde5</td>
+    <td>Update README.md</td>
+    <td>11/04/2024</td>
+  </tr>
+  <tr>
+    <td>BusinessPRO</td>
+    <td>Chapter-3</td>
+    <td>cb59368</td>
+    <td>Update Chapter 3.md</td>
+    <td>11/04/2024</td>
+  </tr>
+  <tr>
+    <td>BusinessPRO</td>
+    <td>Chapter-3</td>
+    <td>9fe1561/td>
+    <td>Merge pull request #12 from Gianfranco4991/feature/user-stories</td>
+    <td>11/04/2024</td>
+  </tr>
+  <tr>
+    <td>BusinessPRO</td>
+    <td>Chapter-3</td>
+    <td>a19cd59</td>
+    <td>Update Chapter 3.md</td>
+    <td>12/04/2024</td>
+  </tr>
+</table>
 
+</body>
+</html>
 
-| Repository        | Branch             | Commit Id | Commit Message                                           | Commit Message Body                                  | Commited on (Date) |
-|-------------------|--------------------|-----------|----------------------------------------------------------|------------------------------------------------------|--------------------|
-| Planifi   | feature/dashboard  | 065ecb4   | feat(dashboard): added my projects route in app and index | Added projects routing to dashboard                  |  02-05-2024      |
-| Planifi   | feature/dashboard  | b7136e6   | feat(dashboard): added icon for start-planillas.component | Added icon to start-planillas component              |  02-05-2024         |
-| Planifi   | feature/dashboard  | dba8beb   | feat(dashboard): added sidebar and start-content          | Sidebar and content added to start-choose component  |  02-05-2024        |
-| Planifi  | feature/Data-entry | 8084803   | feature: added components                                 | Added multiple new components                        |   02-05-2024       |
-| Planifi   | feature/Data-entry | 620f69c   | feature: updated app.vue                                  | Updates made to app.vue                              |  02-05-2024        |
-| Planifi  | feature/Data-entry | abbc43e   | feature: added side-menu, table, db.json and i18n         | Side menu, table view, database, and i18n added      |  02-05-2024        |
-| Planifi   | feature/sign-in-up | 138f191   | feat: Created users-api, user.entity and create.component | Created APIs and components for user management      |  02-05-2024        |
-| Planifi   | feature/dashboard  | 9f9f4ff   | feat(dashboard): added start-choose.component and sidebar | Initial commit for dashboard with sidebar            |  02-05-2024        |
-| Planifi   | feature/Data-entry | 6134644   | Merge pull request #1 from FiveTechnologies2/feature/data-entry | Merged pull request from Data-entry branch           |  02-05-2024        |
-| Planifi   | feature/Data-entry | 8a88abc   | feat: added api base url and install axios                | Set up axios and base URL for API                     | 02-05-2024        |
-| Planifi   | feature/data-entry | 13dc83b   | Added components                                          | Further component additions                          | 02-05-2024        |
-| Planifi   | feature/sign-in-up | 83fee82   | fix(sign-in-up): corrected router link to register        | Corrected router link for registration                | 01-05-2024           |
-| Planifi   | develop            | 8a88abc   | feat: added api base url and install axios                | Base URL and axios setup on develop branch           | 01-05-2024          |
-| Planifi   | master             | 86d48da   | feat: added logos                                         | Logos added to master branch                         | 01-05-2024        |
+#### 5.2.3.5. Execution Evidence for Sprint Review
 
+El Execution Evidence for Sprint Review se enfoca en recopilar y presentar evidencia concreta del progreso realizado durante el sprint, centrándose específicamente en la elaboración del backend y corrección del frontend. Esta evidencia es crucial para demostrar cómo se están cumpliendo los objetivos del sprint, qué elementos han sido completados y cómo se alinean con los requisitos del cliente. 
 
-#### 5.2.2.5. Execution Evidence for Sprint Review
+<img src="static/img/Chapter 5/img-evidence-1-sprint-3.png" alt="Evidence Sprint Review 1" style="width: 65;"></img>v
 
-El Execution Evidence for Sprint Review se enfoca en recopilar y presentar evidencia concreta del progreso realizado durante el sprint, centrándose específicamente en la elaboración del front end de la aplicacion web. Esta evidencia es crucial para demostrar cómo se están cumpliendo los objetivos del sprint, qué elementos han sido completados y cómo se alinean con los requisitos del cliente. 
-Registro:
-<img src="static/img/Chapter 5/img-evidence-1-sprint-2.jpeg" alt="Evidence Sprint Review 1" style="width: 65;"></img>v
-Inicio de sesion:
-<img src="static/img/Chapter 5/img-evidence-2-sprint-2.jpeg" alt="Evidence Sprint Review 2" style="width: 65;"></img>
-Validacion de cuenta:
-<img src="static/img/Chapter 5/img-evidence-3-sprint-2.jpeg" alt="Evidence Sprint Review 3" style="width: 65;"></img>
+<img src="static/img/Chapter 5/img-evidence-2-sprint-3.png" alt="Evidence Sprint Review 2" style="width: 65;"></img>
 
+<img src="static/img/Chapter 5/img-evidence-3-sprint-3.png" alt="Evidence Sprint Review 3" style="width: 65;"></img>
 
-#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
-Para esta entrega solo se realizó el Landing Page, por lo que no hubo implementación de APIs.
+Para esta entrega solo se realizó el backend, por lo que no hubo implementación de APIs.
 
-#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-El objetivo de este primer sprint fue el desarrollo de la Landing Page. Para esto, utilizamos GitHub y GitHub Pages. El proceso fue el siguiente:
+El objetivo de este tercer sprint fue el desarrollo del Backend y mejoras del Frontend. Para esto, utilizamos GitHub y GitHub Pages. El proceso fue el siguiente:
 
 1. Un miembro del equipo creó una organización en GitHub y se le envió una invitación a cada uno de los otros miembros para que se puedan unir.
 
@@ -3149,29 +2164,272 @@ El objetivo de este primer sprint fue el desarrollo de la Landing Page. Para est
 
 <img src="static/img/Chapter 5/img-landing-page.png" alt="Landing Page" style="width: 65;"></img>
 
-#### 5.2.2.8. Team Collaboration Insights during Sprint
+#### 5.2.3.8. Team Collaboration Insights during Sprint
 
 A continuación, se mostrarán capturas de los Insights del GitHub para evidenciar la participación de todos los miembros del grupo:
-<img src="static/img/Chapter 5/img-insights.png" alt="Insights" style="width: 65;"></img>
+
+**Repositorio del Frontend**
+<img src="static/img/Chapter 5/img-insights-1-sprint-3.png" alt="Insights" style="width: 65;"></img>
+
+**Repositorio del Backend**
+<img src="static/img/Chapter 5/img-insights-2-sprint-3.png" alt="Insights" style="width: 65;"></img>
+
+## 5.3. Validation Interviews 
+
+En esta sección se detalla el proceso de validación mediante entrevistas con usuarios y expertos. Estas entrevistas son cruciales para evaluar la usabilidad, funcionalidad y eficacia de la aplicación Planifi, garantizando que cumple con las necesidades y expectativas de nuestros segmentos de mercado.
+
+### 5.3.1. Diseño de Entrevistas
+
+Se describe la metodología utilizada para diseñar las entrevistas de validación, incluyendo la selección de participantes, la formulación de preguntas y el enfoque adoptado para obtener información relevante y precisa sobre la experiencia del usuario con la aplicación Planifi.
+
+<strong>Segmento objetivo 1: Empresas medianas y pequeñas:</strong>
+- Segun lo visto,  ¿qué te parecio la estructuracion de la pagina?
+- ¿Cuáles son los puntos de mejora?
+- ¿Crees que la aplicación es intuitiva y facil de navegar?
+- ¿Se te dificulto alguna sección de la aplicación?
+- ¿Cuáles son los puntos positivos y negativos que destacas de la aplicación?
+
+<strong>Segmento objetivo 2: Emprendedores:</strong>
+- Segun lo visto,  ¿qué te parecio la estructuracion de la pagina?
+- ¿Cuáles son los puntos de mejora?
+- ¿Crees que la aplicación es intuitiva y facil de navegar?
+- ¿Se te dificulto alguna sección de la aplicación?
+- ¿Cuáles son los puntos positivos y negativos que destacas de la aplicación?
+
+### 5.3.2. Registro de Entrevistas
+
+Esta subsección presenta un registro detallado de las entrevistas realizadas, documentando las respuestas de los participantes, las observaciones clave y los comentarios obtenidos durante las sesiones de validación. Estos registros proporcionan una base sólida para el análisis y la mejora del producto.
+
+<strong>Segmento objetivo 1: Empresas medianas y pequeñas:</strong>
+
+<strong>Entrevistado(a) #1: Ramón Enrique Jorge García</strong>
+
+Sexo: Masculino
+
+Edad: 50 años
+
+Empresa: RDS Ingeniería y Construcción
+
+Ubicación en la que vive: Jesús María, Lima, Perú
+
+<img src="static/img/Chapter 2/img-entrevista-validacion-ramon.png" alt="Imagen entrevista validación Ramon" style="width: 400px; height: 300px;"></img>
+
+Minuto de la entrevista: 0:00 - 15:25
+
+Enlace del video completo de las entrevistas: https://youtu.be/rx5jXpM6EV0?si=snw3MH7C1hU8Vau2
+
+Resumen de la entrevista:
+
+El entrevistado Ramon Jorge nos sugiere mejoras como agregar una opción de prueba gratuita, reordenar secciones y hacer más prominente la información de contacto. También recomienda hacer el texto menos simple y agregar colores contrastantes para que sea más llamativo, aunque encuentra el logo y el nombre de la empresa atractivos por su enfoque en la planificación y organización. Se sugieren mejoras como separar los campos de nombre y apellido, ajustar los anchos de las columnas e incluir el monto del salario, dependiendo de cómo se pague al trabajador. También se menciona una pestaña de rendimiento en la pantalla. Finalmente, se destaca la importancia de medir y rastrear la productividad de los trabajadores en una empresa de construcción, sugiriendo una característica que muestre datos de progreso y productividad, permitiendo al empleador tomar decisiones sobre horas extras o días adicionales. Se enfatiza la necesidad de claridad e intuitividad, especialmente en la sección "My Project," para que los usuarios puedan navegar y acceder fácilmente a información detallada de los trabajadores, incluyendo datos personales para seguros.
+
+<strong>Segmento objetivo 2: Emprendedores:</strong>
+
+strong>Entrevistado(a) #1: Jorge Enrique Zagaceta Bartra</strong>
+
+Sexo: Masculino
+
+Edad: 63 años
+
+Empresa: Flash Service
+
+Ubicación en la que vive: Pucallpa, Perú
+
+<img src="static/img/Chapter 2/img-entrevista-validacion-jorge.png" alt="Imagen entrevista validación Jorge"></img>
+
+Minuto de la entrevista: 15:26 - 29:23
+
+Enlace del video completo de las entrevistas: https://youtu.be/rx5jXpM6EV0?si=snw3MH7C1hU8Vau2
+
+Resumen de la entrevista:
+
+El entrevistado Jorge Zagaceta destaca la falta de una columna para remuneración y otros benificios de negocio para los empleados. También se mencionan mejoras necesarias, como agregar columnas para obligaciones del empleador, como contribuciones a la seguridad social, que son obligatorias por ley. Además, se destacan los datos esenciales para registrar una empresa en el sistema, incluyendo nombre, correo electrónico, número de RUC, número de empleados, nombre del representante legal y domicilio legal.
+
+<strong>Entrevistado(a) #2: Maomed Alexandr Chocce Cruces</strong>
+
+Sexo: Masculino
+
+Edad: 42 años
+
+Empresa: EcoTech Solutions
+
+Ubicación en la que vive: San Juan de Lurigancho, Lima, Perú
+
+<img src="static/img/Chapter 2/img-entrevista-validacion-maomed.png" alt="Imagen entrevista validación Maomed" style="width: 65;"></img>
+
+Minuto de la entrevista: 29:24 - 36:26
+
+Enlace del video completo de las entrevistas: https://youtu.be/rx5jXpM6EV0?si=snw3MH7C1hU8Vau2
+
+Resumen de la entrevista:
+
+El entrevistado Maomed Chocce proporciona sugerencias de mejora que incluyen la realización del proceso de registro para nuevos usuarios más intuitivo con una ventana más grande y clara, y agregar etiquetas más descriptivas para cada enlace en la página. También mencionan la necesidad de información más detallada sobre la función de organización, que permite a los usuarios unirse a organizaciones existentes o crear nuevas. Aunque el diseño de la página está organizado, necesita más claridad y detalle. La primera página es dinámica y educativa, pero la segunda página, utilizada para iniciar sesión y generar un usuario, presenta aspectos que no son de su agrado. La última página carece de detalles y descripción. La primera página es elogiada por su información detallada, aunque se sugiere agregar un enlace para volver arriba. 
+
+### 5.3.3. Evaluaciones según heurísticas
+
+Aquí se explican las evaluaciones realizadas utilizando principios heurísticos de usabilidad. Se analizan los resultados obtenidos y se identifican áreas de mejora en la interfaz y la funcionalidad de la aplicación, con el fin de optimizar la experiencia del usuario y asegurar la eficacia del producto.
+
+<div style="align-items: center; text-align: center">
+<h3>UX Heuristics & Principles Evaluation<p>Usability – Inclusive Design – Information Architecture<h3>
+</div>
+
+#### Carrera: Ingeniería de Software
+#### Curso: Aplicaciones Web
+#### Sección: WX55
+#### Profesores: Todos
+#### Auditor: FiveTechnologies
+#### Clientes(S): Ramon Enrique Jorge García, Jorge Enrique Zagaceta Bartra, Maomed Alexandr Chocce Cruces
+
+### Site o App a Evaluar: Planifi
+
+### Tareas a Evaluar: 
+
+
+### Escala de Severidad: 
+
+##### Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+| Nivel | Descripción                                                                                                                                                                                                 |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario ó ocurre con muy poco frecuencia. <br/>No necesita ser arreglado a no ser que exista disponibilidad de tiempo.<br/>                      |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. <br/> Se le debería asignar una prioridad baja de cara resolverlo al siguiente release. <br/> |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean <br/> corregidos y se les debe asignar una prioridad alta. <br/>                                 |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. <br/> Es imperativo que sea corregido antes del lanzamiento. <br/>                                    |
+
+#### Tabla Resumen: 
+
+| # | Problema                                                                                                                            | Escala de Severidad | Heurística/Principio violada(o)                        |
+|------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|---------------------|--------------------------------------------------------|
+| 1 | Algunas fuentes de letras son muy pequeñas.                                                                                         | 2                   | Inclusive Design: Proporciona experiencias comparables |
+| 2 | La interfaz de añadir un trabajador no se adecua al tamaño de la pantalla.                                                          | 3                   | Inclusive Design: Proporciona experiencias comparables |
+| 3 | No hay un control que permita regresar a la página anterior en las pantallas de inicio de sesión y registro.                        | 2                   | Usability: Libertad y control del usuario              |
+| 4 | No se indica en el menú la opción que se ha seleccionado.                                                                           | 1                   | Inclusive Design: Visibilidad del estado del sistema.  |
+| 5 | La ruta de la opción “Home” lleva a una página en blanco.                                                                           | 4                   | Information Architecture: Is it usable?.               |
+| 6 | No hay un botón en la landing page para que le regrese al inicio de la página.                                                      | 2                   | Usabilidad: Libertad y control del usuario.            |
+| 7 | Cambiar el tamaño de la letra a la ruta dirigida para el sign in o el sign up                                                       | 2                   | Usabilidad: Consistencia y estándares.                 |
+| 8 | Al entrar a la interfaz, en la parte de “home”, poner una descripción para que se usa la aplicación o para que sirve cada segmento. | 4                   | Usabilidad: Reconocimiento en vez de recuerdo.         |
+
+
+#### Descripción de Problemas: 
+
+- Problema #1: Algunas fuentes de letras son muy pequeñas.
+- Severidad: 2
+- Heurística/Principio violada(o): Inclusive Design: Proporciona experiencias comparables
+- Problema:
+<br>En varias pantallas de la aplicación, el tamaño de las letras es a veces muy pequeño. Esto, si bien no afecta la funcionalidad de la aplicación, puede generarles dificultad a los usuarios al momento de leer la información de la pantalla. </br>
+
+<img src="static/img/Chapter 5/img-problema-1.png" alt="Imagen Problema 1"></img>
+
+- Recomendación: 
+<br>La solución es tan sencilla como cambiar el tamaño de las letras para que cualquier usuario pueda leerlas sin dificultad. </br>
+<p></p>
+
+- Problema #2: La interfaz de añadir un trabajador no se adecua al tamaño de la pantalla.
+- Severidad: 3
+- Heurística/Principio violada(o): Inclusive Design: Proporciona experiencias comparables
+- Problema:
+<br>Al elegir la opción de agregar un nuevo trabajador a la planilla, la ventana que se muestra con la interfaz para ingresar los datos no se adecúa al tamaño de la pantalla, lo cual ocasiona que los usuarios no puedan usar esta función cómodamente. </br>
+
+<img src="static/img/Chapter 5/img-problema-2.png" alt="Imagen Problema 2"></img>
+
+- Recomendación:
+<br>Se deben modificar los estilos de la interfaz para que pueda cumplir con el diseño responsive. </br>
+<p></p>
+
+- Problema #3: No hay un control que permita regresar a la página anterior en las pantallas de inicio de sesión y registro.
+- Severidad: 2
+- Heurística/Principio violada(o): Usability: Libertad y control del usuario
+- Problema:
+<br>No hay un botón u opción en las páginas de registrarse e iniciar sesión, por lo cual el usuario no puede regresar a la pantalla anterior de forma natural. </br>
+
+<img src="static/img/Chapter 5/img-problema-3.png" alt="Imagen Problema 3"></img>
+
+- Recomendación:
+<br>Es necesario agregar un botón a ambas pantallas que direccione al usuario a la pantalla anterior de un modo intuitivo. </br>
+<p></p>
+
+- Problema #4: No se indica en el menú la opción que se ha seleccionado.
+- Severidad: 1
+- Heurística/Principio violada(o): Inclusive Design: Visibilidad del estado del sistema
+- Problema:
+<br>En el menú izquierdo de la aplicación, no se puede apreciar si uno se encuentra en la pantalla “Home”, “My projects” o “Organization”. Un usuario poco hábil con la tecnología podría tener dificultades en el uso de la aplicación si no se le indica qué opción está usando. </br>
+<p></p>
+
+<img src="static/img/Chapter 5/img-problema-4.png" alt="Imagen Problema 4"></img>
+
+- Recomendación:
+<br>Es posible sombrear con un color más oscuro la zona alrededor de la opción en cuya pantalla está el usuario en el momento, o cambiar el color de las letras para que el usuario sepa dónde está en todo momento. </br>
+<p></p>
+
+- Problema #5: La ruta de la opción “Home” lleva a una página en blanco.
+- Severidad: 4
+- Heurística/Principio violada(o): Information Architecture: Is it usable?
+- Problema:
+<br>Al seleccionar la opción “Home” en el menú izquierdo, la aplicación te direcciona a una pantalla en blanco. Esto puede generar confusión en el usuario, ya que no se le está proporcionando la información que espera. </br>
+
+<img src="static/img/Chapter 5/img-problema-5.png" alt="Imagen Problema 5"></img>
+
+- Recomendación:
+<br>Es indispensable arreglar la ruta del botón para que la aplicación redireccione al usuario a la pantalla correcta. </br>
+<p></p>
+
+- Problema #6: No hay un botón en la landing page para que le regrese al inicio de la página.
+- Severidad: 2
+- Heurística/Principio violada(o): Usabilidad: Libertad y control del usuario
+- Problema:
+<br>La falta de un botón de retroceso limita la capacidad de los usuarios para controlar su navegación, lo que puede causar frustración al intentar regresar a la página de inicio. </br>
+
+<img src="static/img/Chapter 5/img-problema-6.png" alt="Imagen Problema 6"></img>
+
+- Recomendación:
+<br>Agregar un botón de "Inicio" o "Regresar al inicio" en la parte superior o inferior de la página para permitir a los usuarios volver fácilmente a la página principal. </br>
+<p></p>
+
+- Problema #7: Cambiar el tamaño de la letra a la ruta dirigida para el sign in o el sign up.
+- Severidad: 2
+- Heurística/Principio violada(o): Usabilidad: Consistencia y estándares
+- Problema:
+<br>La variación en el tamaño de letra para la ruta dirigida (sign in o sign up) crea una experiencia inconsistente para los usuarios, lo que puede causar confusión. </br>
+
+<img src="static/img/Chapter 5/img-problema-7.png" alt="Imagen Problema 7"></img>
+
+- Recomendación:
+<br>Mantener un tamaño de letra coherente en todo el sitio web para garantizar una experiencia de usuario consistente y familiar. </br>
+<p></p>
+
+- Problema #8: Al entrar a la interfaz, en la parte de “home”, poner una descripción para que se usa la aplicación o para que sirve cada segmento.
+- Severidad: 4
+- Heurística/Principio violada(o): Usabilidad: Reconocimiento en vez de recuerdo
+- Problema:
+<br>La falta de una descripción que explique el propósito de la aplicación y la función de cada segmento dificulta la comprensión de los usuarios sobre cómo utilizar la aplicación correctamente. </br>
+
+<img src="static/img/Chapter 5/img-problema-8.png" alt="Imagen Problema 8"></img>
+
+- Recomendación:
+<br>Agregar una breve descripción en la página de inicio que explique el propósito de la aplicación y proporcione información sobre cada segmento para ayudar a los usuarios a comprender mejor su funcionalidad y uso adecuado. </br>
+<p></p>
+
+## 5.4. Video About-The-Product
+
+En esta sección se presenta un video explicativo sobre la aplicación Planifi. El video destaca las principales características y beneficios del producto, demostrando cómo satisface las necesidades de gestión de planillas para PYMEs y emprendedores. Este recurso visual es esencial para comunicar de manera efectiva el valor de la aplicación a potenciales usuarios e inversores.
+
 # Conclusiones
 
 En conclusión, el proceso de investigación, diseño y desarrollo para nuestro proyecto ha sido fundamental para comprender las necesidades y expectativas de nuestros usuarios. Las entrevistas nos proporcionaron información valiosa sobre los desafíos que enfrentan y las características que valoran en una solución. La creación de la landing page nos permitió comunicar efectivamente nuestra propuesta de valor y garantizar una experiencia de usuario satisfactoria. Además, las user stories nos brindaron una guía clara para el desarrollo del producto. En conjunto, estos elementos nos han ayudado a construir una base sólida para futuras iteraciones y mejoras en nuestro proyecto.
 
+<img src="static/img/Chapter 5/img-about-the-product.png" alt="Imagen About The Product"></img>
+
+Enlace al Video About-The-Product: https://youtu.be/xg8zKvR-nrQ
+
 # Bibliografía
 
 - Ackoff, R. (1992). Planificación de la Empresa del Futuro. Limusa, México. https://www.econo.unlp.edu.ar/carreras/direccion_y_gestion_empresarial_bibliografia-3478
-  
 - Ansoff, I. (1997). Dirección estratégica en la práctica empresarial. Ed. Addison-Wesley Iberoamericana, Buenos Aires. https://www.econo.unlp.edu.ar/carreras/direccion_y_gestion_empresarial_bibliografia-3478
-  
 - Bonini, H., Hausman, & Bierman. (1999). Análisis Cuantitativo para los Negocios. Mc Graw Hill. https://www.econo.unlp.edu.ar/carreras/direccion_y_gestion_empresarial_bibliografia-3478
-  
 - Braidot, N. P. (s/f). Nuevo marketing total. McGraw-Hill, Argentina. https://www.econo.unlp.edu.ar/carreras/direccion_y_gestion_empresarial_bibliografia-3478
-  
 - Brealey, R. A., Myers, S. C., & Allen, F. (2006). Principios de Finanzas corporativas. 8va. Edic. McGraw-Hill, España. https://www.econo.unlp.edu.ar/carreras/direccion_y_gestion_empresarial_bibliografia-3478
 
 # Anexos
 
+- Enlace de la Organización de Github: https://github.com/FiveTechnologies2
 - Videos de Exposiciones:
 - TB1: https://youtu.be/hQF794BKcO8
-
-- Enlace al Repositorio de Github: https://github.com/FiveTechnologies2/planifi-report
