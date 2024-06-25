@@ -47,7 +47,7 @@
 </div>
 
 <p align="center">
-    <strong>Abril, 2024</strong>
+    <strong>Junio, 2024</strong>
 </p>
 <br>
 
@@ -145,6 +145,41 @@
                 <td>04/13/2024</td>
                 <td>Ricardo Barrutia.</td>
                 <td>Mejora continua: Lean UX Process & Software Development Environment Configuration </td>
+             </tr>
+             <th>2.2</th>
+                <td>05/29/2024</td>
+                <td>Rodrigo Zagaceta.</td>
+                <td>Se agregó la data de la tabla en el Frontend y también se agregó sign-in y sign-up </td>
+             </tr>
+             <th>2.3</th>
+                <td>06/07/2024</td>
+                <td>Gianfranco Luna.</td>
+                <td>Se agregó start-profile y business-profile. </td>
+             </tr>
+             <th>3.1</th>
+                <td>05/25/2024</td>
+                <td>Ramón Jorge.</td>
+                <td>Se agregó shared al Backend. </td>
+             </tr>
+             <th>3.2</th>
+                <td>05/28/2024</td>
+                <td>Rodrigo Zagaceta.</td>
+                <td>Se agregó data-entry en el Backend. </td>
+             </tr>
+             <th>3.3</th>
+                <td>06/05/2024</td>
+                <td>Rodrigo Zagaceta.</td>
+                <td>Se agregó iam en el Backend. </td>
+             </tr>
+             <th>3.4</th>
+                <td>06/07/2024</td>
+                <td>Gianfranco Luna.</td>
+                <td>Se agregó spreadsheets en el Backend. </td>
+             </tr>
+             <th>3.5</th>
+                <td>06/07/2024</td>
+                <td>Karito Medina.</td>
+                <td>Se agregó worker en el Backend. </td>
              </tr>
         </tbody>
 </table>
@@ -327,45 +362,88 @@ soluciones de ingeniería de
 software.</b></td>
     <td> TB1<br><br>
          <b>Luna Morales, Gianfranco</b><br>
-Se realizó los puntos del Capítulo 3
-To-Be Scenario Mapping, User Stories, Impact Mapping, Product Backlog. Se discutió con el equipo los puntos más importantes para su elaboació
+Colaboró eficazmente en un equipo multidisciplinario en un proyecto de soluciones de ingeniería de software, participando activamente en la realización de actividades clave del Capítulo 3, que incluyen To-Be Scenario Mapping, elaboración de User Stories, Impact Mapping y creación del Product Backlog. Además, demostró habilidad para discutir y priorizar los puntos más relevantes junto al equipo.
 <br><br> 
 <b>Medina Chocce, Karito Dianeth</b><br>
-- Style Guidelines.
-- General Style Guidelines.
-- Web Style Guidelines.
-- Information Architecture.
-- Organization Systems.
-- Labeling Systems.
-- SEO Tags and Meta Tags
-- Searching Systems.
-- Navigation Systems.
-- Landing Page UI Design.
-- Landing Page Wireframe.
-- anding Page Mock-up.
-- Web Applications UX/UI Design.
-- Web Applications Wireframes.
-- Web Applications Wireflow Diagrams.
-- Web Applications Mock-ups.
-- Web Applications User Flow Diagrams.
-- Web Applications Prototyping
-- Source Code Management.
-- Source Code Style Guide & Conventions.
+Desarrolló y ejecutó con éxito los siguientes elementos relacionados con diseño y gestión de sistemas web y aplicaciones, cumpliendo con estándares y guías específicas:
+- Elaboración de directrices de estilo generales y específicas para web.
+- Diseño de arquitectura de la información y sistemas de organización.
+- Desarrollo de sistemas de etiquetado, SEO y metaetiquetas.
+- Implementación de sistemas de búsqueda y navegación.
+- Diseño de interfaces de usuario y wireframes para páginas de aterrizaje y aplicaciones web.
+- Creación de mock-ups y prototipos para páginas de aterrizaje y aplicaciones web.
+- Diagramación de flujos de usuario y wireframes para aplicaciones web.
+- Gestión de código fuente y desarrollo de guías y convenciones de estilo para el código.
+Estas actividades demuestran su capacidad para abordar eficazmente proyectos de diseño y desarrollo web, aplicando principios y prácticas estándar para lograr resultados efectivos y funcionales.
         <br><br>
 <b>Jorge Arévalo, Ramón Alejandro</b><br>
-Realizó puntos desde el 4.6 hasta el final del capítulo 4, incluyendo el C4 Model y los diagramas de clase y de base de datos.
-Se organizó con el equipo para elaborar las partes del informe y de la Landing Page.
+Dirigió la implementación de actividades clave desde la sección 4.6 hasta el final del Capítulo 4, lo cual incluye la aplicación del C4 Model y la creación de diagramas de clase y de base de datos. Asimismo, colaboró estrechamente con el equipo para desarrollar secciones críticas del informe y diseñar la Landing Page.
         <br><br> 
 <b>Barrutia Vaez, Ricardo Andree</b> <br>
-         Durante el desarrollo del TB1, mi aporte principal fue la elaboración del capítulo I, modificación del curso del proyecto, una sección del capítulo 5 y la creación del Trello para la gestion del proyecto.
-
+Durante el desarrollo del TB1, mi principal contribución incluyó la elaboración del Capítulo I, la modificación del curso del proyecto, la creación de una sección del Capítulo 5, y la implementación del Trello para la gestión del proyecto.
+<br><br> 
 <b>Zagaceta Bardales, Rodrigo Enrique</b>
-
-Se llevó a cabo la recopilación de entrevistas para un mejor acercamiento hacia los segmentos objetivos y una elaboración más exacta del proceso de Needfinding que es de utilidad para la eficiencia del startup.
-        <br><br>
+Realizó la recopilación de entrevistas con los segmentos objetivos, facilitando un acercamiento más profundo y preciso para el proceso de Needfinding. Este esfuerzo fue fundamental para mejorar la eficiencia del startup al comprender mejor las necesidades y expectativas del mercado objetivo.
+        <br><br><br><br>
+    TP1<br><br>
+         <b>Luna Morales, Gianfranco</b><br>
+Se encargó de la implementación del código para el feature/Data-entry y realizó las correcciones necesarias en las User Stories y en el Product Backlog.
+<br><br> 
+<b>Medina Chocce, Karito Dianeth</b><br>
+Realizó los Wireframes y Mock-ups necesarios para el desarrollo del FrontEnd, además de encargarse de la implementación del código del feature/dashboard.<br><br>
+<b>Jorge Arévalo, Ramón Alejandro</b><br>
+Se encargó de la implementación del código utilizando el servicio de fake API para los usuarios, y también realizó las correcciones necesarias en los diagramas del modelo C4.
+        <br><br> 
+<b>Barrutia Vaez, Ricardo Andree</b> <br>
+Llevó a cabo la implementación de las tareas para el Sprint Planning 2 y se encargó de la asignación correspondiente en el Sprint Backlog 2.
+<br><br> 
+<b>Zagaceta Bardales, Rodrigo Enrique</b>
+Llevó a cabo la implementación del código para los siguientes features: sign-in-up, Data-entry y dashboard.
+        <br><br><br><br>
+        TB2<br><br>
+         <b>Luna Morales, Gianfranco</b><br>
+Se encargó de la implementación del Backend para el módulo de Planillas, además de realizar la implementación del FrontEnd para la personalización del Perfil.
+<br><br> 
+<b>Medina Chocce, Karito Dianeth</b><br>
+Llevó a cabo la implementación del Backend para el módulo Workers y también realizó correcciones en el FrontEnd.<br><br>
+<b>Jorge Arévalo, Ramón Alejandro</b><br>
+Se encargó de la implementación del Backend para el módulo de Planillas y también realizó correcciones en el FrontEnd.
+        <br><br> 
+<b>Barrutia Vaez, Ricardo Andree</b> <br>
+No realizó ninguna actividad o contribución específica en este contexto.
+<br><br> 
+<b>Zagaceta Bardales, Rodrigo Enrique</b>
+Llevó a cabo la implementación del Backend para IAM (Identity and Access Management) y Profiles, además de realizar correcciones en el FrontEnd para mejorar el Data Table.
+        <br><br><br><br>
+        TF1<br><br>
+         <b>Luna Morales, Gianfranco</b><br>
+No realizó ninguna actividad o contribución específica en este contexto.
+<br><br> 
+<b>Medina Chocce, Karito Dianeth</b><br>
+Realizó la corrección del Backend para Workers y llevó a cabo mejoras en la heurística.<br><br>
+<b>Jorge Arévalo, Ramón Alejandro</b><br>
+Realizó mejoras en el backend y llevó a cabo la implementación del backend en el frontend.
+        <br><br> 
+<b>Barrutia Vaez, Ricardo Andree</b> <br>
+No realizó ninguna actividad o contribución específica en este contexto.
+<br><br> 
+<b>Zagaceta Bardales, Rodrigo Enrique</b>
+Realizó mejoras en el backend y luego implementó estas mejoras en el frontend del proyecto.
+        <br><br><br><br>
+   </td>
    </td>
     <td>TB1<br><br>
-    En conclusión, la capacidad de trabajar eficazmente en un equipo es fundamental para el éxito de nuestra startup. Al proporcionar liderazgo, fomentar un entorno colaborativo e inclusivo, establecer objetivos claros, planificar tareas y cumplir con esos objetivos, podemos maximizar nuestra productividad y alcanzar nuestras metas de manera más efectiva. Es crucial que todos los miembros del equipo estén comprometidos con estos principios para garantizar un trabajo armonioso y orientado hacia el logro de nuestros objetivos comerciales.</td>
+    En conclusión, la capacidad de trabajar eficazmente en un equipo es fundamental para el éxito de nuestra startup. Al proporcionar liderazgo, fomentar un entorno colaborativo e inclusivo, establecer objetivos claros, planificar tareas y cumplir con esos objetivos, podemos maximizar nuestra productividad y alcanzar nuestras metas de manera más efectiva. Es crucial que todos los miembros del equipo estén comprometidos con estos principios para garantizar un trabajo armonioso y orientado hacia el logro de nuestros objetivos comerciales.
+    <br><br><br><br>
+    TP1<br><br>
+    En conclusión, el equipo del proyecto demostró una distribución efectiva de roles y responsabilidades clave: Gianfranco se centró en la implementación técnica y la mejora de la planificación a través de correcciones en User Stories y el Product Backlog; Karito destacó en el diseño y desarrollo del FrontEnd mediante la creación de Wireframes, Mock-ups y la implementación del feature/dashboard; Ramón contribuyó con la implementación técnica utilizando fake API y mejoras en la estructura del sistema con correcciones en los diagramas C4; Ricardo lideró la ejecución y asignación en el marco ágil del proyecto durante el Sprint Planning 2 y Sprint Backlog 2; mientras que Rodrigo se encargó de múltiples funcionalidades críticas del sistema como sign-in-up, Data-entry y dashboard, demostrando versatilidad y habilidades técnicas. Esta combinación de habilidades permitió al equipo cubrir de manera integral el desarrollo del proyecto, asegurando tanto la implementación funcional como la mejora continua del proceso y la arquitectura del sistema.
+    <br><br><br><br>
+    TB2<br><br>
+    En conclusión, durante el periodo TB2, el equipo demostró una diversidad de habilidades y niveles de participación. Gianfranco Luna Morales se destacó por su implementación del Backend para el módulo de Planillas y por desarrollar el FrontEnd para la personalización del Perfil, mostrando habilidades tanto técnicas como en experiencia de usuario. Karito Dianeth Medina Chocce también contribuyó significativamente con la implementación del Backend para el módulo Workers y correcciones en el FrontEnd, mientras que Ramón Alejandro Jorge Arévalo tuvo un papel similar con el Backend de Planillas y mejoras en el FrontEnd. Por otro lado, Ricardo Andree Barrutia Vaez no tuvo una participación activa identificada. Rodrigo Enrique Zagaceta Bardales sobresalió en la implementación del Backend para IAM y Profiles, junto con correcciones en el FrontEnd para mejorar el Data Table, resaltando su versatilidad y habilidades técnicas. Este análisis subraya la importancia de una distribución equitativa de tareas y la participación activa de todos los miembros del equipo para lograr un desarrollo efectivo y completo del proyecto.
+    <br><br><br><br>
+    TF1<br><br>
+    En conclusión, durante TF1, el equipo exhibió una variedad en la participación y contribuciones. Gianfranco Luna Morales y Ricardo Andree Barrutia Vaez no realizaron actividades específicas en este período. Karito Dianeth Medina Chocce se destacó por corregir el Backend para Workers y mejorar la heurística, mientras que Ramón Alejandro Jorge Arévalo mostró habilidades al mejorar y luego implementar el Backend en el Frontend. Por otro lado, Rodrigo Enrique Zagaceta Bardales también contribuyó significativamente al realizar mejoras en el Backend y luego integrarlas en el Frontend del proyecto. Este análisis resalta la importancia de una distribución equitativa de tareas y la necesidad de participación activa de todos los miembros del equipo para el éxito y avance efectivo del proyecto.
+    </td>
   </tr>
   <tr>
     <td><b>Conoce al menos un sector
@@ -374,59 +452,69 @@ aplicación de soluciones de
 software.</b></td>
     <td> TB1<br><br>
          <b>Luna Morales, Gianfranco</b><br>
-       Se vio los temas de Vue, aún se práctica los temas para el desarrollo de la aplicación.
+       Colaboró eficazmente en un equipo multidisciplinario en un proyecto de soluciones de ingeniería de software, participando activamente en la implementación de actividades clave del Capítulo 3 relacionadas con To-Be Scenario Mapping, User Stories, Impact Mapping y Product Backlog, demostrando así su comprensión y aplicación en el sector de soluciones de ingeniería de software.
 <br><br> 
         
 <b>Medina Chocce, Karito Dianeth</b><br>
--Style Guidelines.
--General Style Guidelines.
--Web Style Guidelines.
--Information Architecture.
--Organization Systems.
--Labeling Systems.
--SEO Tags and Meta Tags
--Searching Systems.
--Navigation Systems.
--Landing Page UI Design.
--Landing Page Wireframe.
--Landing Page Mock-up.
--Web Applications UX/UI Design.
--Web Applications Wireframes.
--Web Applications Wireflow Diagrams.
--Web Applications Mock-ups.
--Web Applications User Flow Diagrams.
--Web Applications Prototyping
--Source Code Management.
--Source Code Style Guide & Conventions.
+Se destacó en el diseño y gestión de sistemas web y aplicaciones, cumpliendo con estándares específicos y guiando el desarrollo mediante wireframes, mock-ups y la implementación de interfaces y funcionalidades clave.
         <br><br>
 <b>Jorge Arévalo, Ramón Alejandro</b><br>
-Realizo modificaciones en la Landing Page en colaboración con sus compañeros.
+Dirigió la implementación técnica avanzada y mejoras significativas en el backend y frontend del proyecto, aplicando su conocimiento en el dominio de aplicaciones de software.
         <br><br> 
 <b>Barrutia Vaez, Ricardo Andree</b> <br>
-         Coordine y llevé a cabo dos entrevistas con dos miembros de nuestro segmento objetivo; además, realicé el análisis de las entrevistas para los candidatos de mis entrevistas.
-
-        
-<b>Zagaceta Bardales, Rodrigo Enrique</b>
--Competidores.
--Análisis competitivo.
--Estrategias y tácticas frente a competidores.
--Entrevistas.
--Diseño de entrevistas.
--Registro de entrevistas.
--Análisis de entrevistas.
--Needfinding.
-User Personas.
--User Task Matrix.
--User Journey Mapping.
--Empathy Mapping.
--As-is Scenario Mapping.
--Ubiquitous Language.
--Software Deployment Configuration.
--Landing Page, Services & Applications Implementation.
+Aunque no contribuyó específicamente en TB1, su participación en la gestión y planificación del proyecto puede ser crucial para entender los contextos empresariales asociados.  
         <br><br>
+<b>Zagaceta Bardales, Rodrigo Enrique</b>
+Facilitó un acercamiento estratégico mediante la recopilación de entrevistas y el refinamiento de necesidades de usuario, fundamentales para la eficiencia del startup en el sector de soluciones de software.
+        <br><br><br><br>
+    TP1<br><br>
+         <b>Luna Morales, Gianfranco</b><br>
+Implementó funcionalidades críticas como Data-entry y contribuyó a la mejora de la planificación con correcciones en User Stories y Product Backlog. 
+<br><br> 
+<b>Medina Chocce, Karito Dianeth</b><br>
+Lideró el diseño y desarrollo del FrontEnd con wireframes y la implementación de funcionalidades clave, destacando su habilidad en el dominio de aplicaciones web.<br><br>
+<b>Jorge Arévalo, Ramón Alejandro</b><br>
+Aplicó su experiencia técnica en el desarrollo utilizando servicios de API falsos y mejorando la estructura del sistema.
+        <br><br> 
+<b>Barrutia Vaez, Ricardo Andree</b> <br>
+Lideró la gestión de tareas y asignaciones, relevante para la coordinación efectiva dentro del contexto empresarial de soluciones de software. 
+<br><br> 
+<b>Zagaceta Bardales, Rodrigo Enrique</b>
+Implementó múltiples características funcionales clave, mostrando su habilidad en el desarrollo estratégico de soluciones de software.
+        <br><br><br><br>
+        TB2<br><br>
+         <b>Luna Morales, Gianfranco</b><br>
+Implementó Backend y Frontend para módulos específicos
+<br><br> 
+<b>Medina Chocce, Karito Dianeth</b><br>
+Lideró la implementación de Backend y mejoras en el Frontend para diferentes módulos, reflejando su adaptabilidad en soluciones de software.<br><br>
+<b>Jorge Arévalo, Ramón Alejandro</b><br>
+Continuó mejorando la infraestructura del backend y frontend, asegurando la funcionalidad y eficiencia en el sector de soluciones de software.
+        <br><br> 
+<b>Barrutia Vaez, Ricardo Andree</b> <br>
+No contribuyó activamente en este contexto, lo que subraya la importancia de la participación continua en proyectos empresariales.
+<br><br> 
+<b>Zagaceta Bardales, Rodrigo Enrique</b>
+Mejoró la gestión de identidad y perfiles con correcciones en el Frontend, fortaleciendo su impacto en el sector de soluciones de software.
+        <br><br><br><br>
+        TF1<br><br>
+         <b>Luna Morales, Gianfranco</b><br>
+No contribuyó activamente en este período
+<br><br> 
+<b>Medina Chocce, Karito Dianeth</b><br>
+Continuó mejorando el Backend y la heurística, reflejando su capacidad de adaptarse y mejorar en el contexto empresarial de soluciones de software.<br><br>
+<b>Jorge Arévalo, Ramón Alejandro</b><br>
+Aplicó su experiencia en mejoras técnicas y en la implementación de backend y frontend, mostrando su competencia en el sector de aplicaciones de software.
+        <br><br> 
+<b>Barrutia Vaez, Ricardo Andree</b> <br>
+No participó activamente, lo cual destaca la necesidad de involucrarse en proyectos empresariales. 
+<br><br> 
+<b>Zagaceta Bardales, Rodrigo Enrique</b>
+Implementó y mejoró características técnicas esenciales, demostrando su experiencia en el desarrollo y mejora continua en el dominio de aplicaciones de software.
+        <br><br><br><br>
    </td>
     <td>TB1<br><br>
-    En este contexto, es esencial cultivar un entorno que fomente la colaboración y la inclusión dentro de nuestro equipo. Al establecer metas claras y específicas, planificar cuidadosamente las tareas y trabajar juntos para alcanzar nuestros objetivos, podemos potenciar la eficiencia y la cohesión en nuestra startup. Es fundamental que cada miembro del equipo se sienta valorado y respetado, y que se les dé la oportunidad de contribuir de manera significativa al logro de nuestras metas comunes. Al crear este ambiente colaborativo e inclusivo, podemos optimizar nuestro rendimiento y avanzar hacia el éxito de manera efectiva.</td>
+    En conclusión, se logró una sólida participación y aplicación de metodologías clave de ingeniería de software por parte del equipo. Gianfranco Luna Morales, Karito Dianeth Medina Chocce, Ramón Alejandro Jorge Arévalo, Ricardo Andree Barrutia Vaez y Rodrigo Enrique Zagaceta Bardales contribuyeron significativamente en la implementación de prácticas como To-Be Scenario Mapping, User Stories, Impact Mapping, y en el diseño y desarrollo de sistemas web y aplicaciones, demostrando un entendimiento profundo del sector de soluciones de software.</td>
   </tr>
 </table>
 
