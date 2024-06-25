@@ -514,7 +514,17 @@ Implementó y mejoró características técnicas esenciales, demostrando su expe
         <br><br><br><br>
    </td>
     <td>TB1<br><br>
-    En conclusión, se logró una sólida participación y aplicación de metodologías clave de ingeniería de software por parte del equipo. Gianfranco Luna Morales, Karito Dianeth Medina Chocce, Ramón Alejandro Jorge Arévalo, Ricardo Andree Barrutia Vaez y Rodrigo Enrique Zagaceta Bardales contribuyeron significativamente en la implementación de prácticas como To-Be Scenario Mapping, User Stories, Impact Mapping, y en el diseño y desarrollo de sistemas web y aplicaciones, demostrando un entendimiento profundo del sector de soluciones de software.</td>
+    En conclusión, se logró una sólida participación y aplicación de metodologías clave de ingeniería de software por parte del equipo. Gianfranco Luna Morales, Karito Dianeth Medina Chocce, Ramón Alejandro Jorge Arévalo, Ricardo Andree Barrutia Vaez y Rodrigo Enrique Zagaceta Bardales contribuyeron significativamente en la implementación de prácticas como To-Be Scenario Mapping, User Stories, Impact Mapping, y en el diseño y desarrollo de sistemas web y aplicaciones, demostrando un entendimiento profundo del sector de soluciones de software.
+    <br><br><br><br>
+    TP1<br><br>
+    En conclusión, se llegó a realizar una ejecución efectiva y detallada de los proyectos de diseño y desarrollo web y de aplicaciones por parte del equipo. Gianfranco Luna Morales, Karito Dianeth Medina Chocce, Ramón Alejandro Jorge Arévalo, Ricardo Andree Barrutia Vaez y Rodrigo Enrique Zagaceta Bardales destacaron en la implementación técnica de funcionalidades clave como sign-in-up, Data-entry, dashboard, y en la gestión eficiente del backlog y la planificación del sprint, evidenciando su competencia en soluciones de software.
+    <br><br><br><br>
+    TB2<br><br>
+    En conclusión, se logró una implementación experta y adaptativa en módulos específicos de backend y frontend por parte del equipo. Gianfranco Luna Morales, Karito Dianeth Medina Chocce, Ramón Alejandro Jorge Arévalo, Ricardo Andree Barrutia Vaez y Rodrigo Enrique Zagaceta Bardales demostraron habilidades sólidas en la configuración y mejora continua de sistemas como IAM (Identity and Access Management) y Profiles, contribuyendo al desarrollo efectivo dentro del sector de soluciones de software.
+    <br><br><br><br>
+    TF1<br><br>
+    En conclusión, se alcanzaron mejoras significativas en la implementación técnica y la optimización del backend y frontend por parte del equipo. Gianfranco Luna Morales, Karito Dianeth Medina Chocce, Ramón Alejandro Jorge Arévalo, Ricardo Andree Barrutia Vaez y Rodrigo Enrique Zagaceta Bardales mostraron su capacidad para resolver problemas complejos y mejorar la eficiencia operativa en aplicaciones y sistemas web, destacando su adaptabilidad y competencia en el contexto empresarial de soluciones de software.
+    </td>
   </tr>
 </table>
 
