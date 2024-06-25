@@ -159,7 +159,7 @@
              <th>3.1</th>
                 <td>05/25/2024</td>
                 <td>Ramón Jorge.</td>
-                <td>Se agregó shared al Backend. </td>
+                <td>Se corrigió los diagramas C4 Model, Database Diagrams y Class Diagrams. </td>
              </tr>
              <th>3.2</th>
                 <td>05/28/2024</td>
@@ -179,7 +179,7 @@
              <th>3.5</th>
                 <td>06/07/2024</td>
                 <td>Karito Medina.</td>
-                <td>Se agregó worker en el Backend. </td>
+                <td>Se agregó el Sprint 4 y realizó correcciones varias a todo el informe. </td>
              </tr>
         </tbody>
 </table>
@@ -452,14 +452,14 @@ aplicación de soluciones de
 software.</b></td>
     <td> TB1<br><br>
          <b>Luna Morales, Gianfranco</b><br>
-       Colaboró eficazmente en un equipo multidisciplinario en un proyecto de soluciones de ingeniería de software, participando activamente en la implementación de actividades clave del Capítulo 3 relacionadas con To-Be Scenario Mapping, User Stories, Impact Mapping y Product Backlog, demostrando así su comprensión y aplicación en el sector de soluciones de ingeniería de software.
+       Colaboró eficazmente en un equipo multidisciplinario en un proyecto de soluciones de ingeniería de software, participando activamente en la implementación de actividades clave del Capítulo 3 relacionadas con To-Be Scenario Mapping, User Stories, Impact Mapping y Product Backlog, demostrando así su comprensión y aplicación en el sector de soluciones de ingeniería de software. Realizó una entrevista a un segmento objetivo del proyecto.
 <br><br> 
         
 <b>Medina Chocce, Karito Dianeth</b><br>
-Se destacó en el diseño y gestión de sistemas web y aplicaciones, cumpliendo con estándares específicos y guiando el desarrollo mediante wireframes, mock-ups y la implementación de interfaces y funcionalidades clave.
+Se destacó en el diseño y gestión de sistemas web y aplicaciones, cumpliendo con estándares específicos y guiando el desarrollo mediante wireframes, mock-ups y la implementación de interfaces y funcionalidades clave. Realizó una entrevista a un segmento objetivo del proyecto.
         <br><br>
 <b>Jorge Arévalo, Ramón Alejandro</b><br>
-Dirigió la implementación técnica avanzada y mejoras significativas en el backend y frontend del proyecto, aplicando su conocimiento en el dominio de aplicaciones de software.
+Dirigió la implementación técnica avanzada y mejoras significativas en el backend y frontend del proyecto, aplicando su conocimiento en el dominio de aplicaciones de software. Realizó una entrevista a un segmento objetivo del proyecto.
         <br><br> 
 <b>Barrutia Vaez, Ricardo Andree</b> <br>
 Aunque no contribuyó específicamente en TB1, su participación en la gestión y planificación del proyecto puede ser crucial para entender los contextos empresariales asociados.  
@@ -484,18 +484,18 @@ Implementó múltiples características funcionales clave, mostrando su habilida
         <br><br><br><br>
         TB2<br><br>
          <b>Luna Morales, Gianfranco</b><br>
-Implementó Backend y Frontend para módulos específicos
+Implementó Backend y Frontend para módulos específicos. Realizó una entrevista de validación para un segmento objetivo anteriormente entrevistado.
 <br><br> 
 <b>Medina Chocce, Karito Dianeth</b><br>
-Lideró la implementación de Backend y mejoras en el Frontend para diferentes módulos, reflejando su adaptabilidad en soluciones de software.<br><br>
+Lideró la implementación de Backend y mejoras en el Frontend para diferentes módulos, reflejando su adaptabilidad en soluciones de software. Realizó una entrevista de validación para un segmento objetivo anteriormente entrevistado.<br><br>
 <b>Jorge Arévalo, Ramón Alejandro</b><br>
-Continuó mejorando la infraestructura del backend y frontend, asegurando la funcionalidad y eficiencia en el sector de soluciones de software.
+Continuó mejorando la infraestructura del backend y frontend, asegurando la funcionalidad y eficiencia en el sector de soluciones de software. Realizó una entrevista de validación para un segmento objetivo anteriormente entrevistado.
         <br><br> 
 <b>Barrutia Vaez, Ricardo Andree</b> <br>
 No contribuyó activamente en este contexto, lo que subraya la importancia de la participación continua en proyectos empresariales.
 <br><br> 
 <b>Zagaceta Bardales, Rodrigo Enrique</b>
-Mejoró la gestión de identidad y perfiles con correcciones en el Frontend, fortaleciendo su impacto en el sector de soluciones de software.
+Mejoró la gestión de identidad y perfiles con correcciones en el Frontend, fortaleciendo su impacto en el sector de soluciones de software. Realizó una entrevista de validación para un segmento objetivo anteriormente entrevistado.
         <br><br><br><br>
         TF1<br><br>
          <b>Luna Morales, Gianfranco</b><br>
@@ -2593,8 +2593,34 @@ Aplicación de creación de planillas
 ## 4.7. Software Object-Oriented Design
 ## 4.7.1. Class Diagrams
 
+Diagrama del Bounded Context IAM:
 <div style="text-align: center; margin-top: 20px;">
-        <img src="static/img/Chapter 4/img-class-diagram.png" alt="Class Diagram" style="width: 65;"></img>
+        <img src="static/img/Chapter 4/img-class-diagram-iam.png" alt="Class Diagram" style="width: 65;"></img>
+</div>
+
+Diagrama del Bounded Context Spreadsheets:
+<div style="text-align: center; margin-top: 20px;">
+        <img src="static/img/Chapter 4/img-class-diagram-spreadsheet.png" alt="Class Diagram" style="width: 65;"></img>
+</div>
+
+Diagrama del Bounded Context Workers:
+<div style="text-align: center; margin-top: 20px;">
+        <img src="static/img/Chapter 4/img-class-diagram-worker.png" alt="Class Diagram" style="width: 65;"></img>
+</div>
+
+Diagrama del Bounded Context Report:
+<div style="text-align: center; margin-top: 20px;">
+        <img src="static/img/Chapter 4/img-class-diagram-report.png" alt="Class Diagram" style="width: 65;"></img>
+</div>
+
+Diagrama del Bounded Context Projects:
+<div style="text-align: center; margin-top: 20px;">
+        <img src="static/img/Chapter 4/img-class-diagram-project.png" alt="Class Diagram" style="width: 65;"></img>
+</div>
+
+Diagrama del Bounded Context Subscriptions:
+<div style="text-align: center; margin-top: 20px;">
+        <img src="static/img/Chapter 4/img-class-diagram-subscription.png" alt="Class Diagram" style="width: 65;"></img>
 </div>
 
 ## 4.7.2. Class Dictionary
