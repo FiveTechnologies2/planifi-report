@@ -2598,12 +2598,12 @@ Diagrama del Bounded Context IAM:
         <img src="static/img/Chapter 4/img-class-diagram-iam.png" alt="Class Diagram" style="width: 65;"></img>
 </div>
 
-Diagrama del Bounded Context Spreadsheets:
+Diagrama del Bounded Context Spreadsheet:
 <div style="text-align: center; margin-top: 20px;">
         <img src="static/img/Chapter 4/img-class-diagram-spreadsheet.png" alt="Class Diagram" style="width: 65;"></img>
 </div>
 
-Diagrama del Bounded Context Workers:
+Diagrama del Bounded Context Worker:
 <div style="text-align: center; margin-top: 20px;">
         <img src="static/img/Chapter 4/img-class-diagram-worker.png" alt="Class Diagram" style="width: 65;"></img>
 </div>
@@ -2613,12 +2613,12 @@ Diagrama del Bounded Context Report:
         <img src="static/img/Chapter 4/img-class-diagram-report.png" alt="Class Diagram" style="width: 65;"></img>
 </div>
 
-Diagrama del Bounded Context Projects:
+Diagrama del Bounded Context Project:
 <div style="text-align: center; margin-top: 20px;">
         <img src="static/img/Chapter 4/img-class-diagram-project.png" alt="Class Diagram" style="width: 65;"></img>
 </div>
 
-Diagrama del Bounded Context Subscriptions:
+Diagrama del Bounded Context Subscription:
 <div style="text-align: center; margin-top: 20px;">
         <img src="static/img/Chapter 4/img-class-diagram-subscription.png" alt="Class Diagram" style="width: 65;"></img>
 </div>
@@ -2645,8 +2645,34 @@ Para la realización del diagrama, se han utilizado las siguientes clases, junto
 ## 4.8. Database Design
 ## 4.8.1. Database Diagram
 
+Diagrama del Bounded Context IAM:
 <div style="text-align: center; margin-top: 20px;">
-        <img src="static/img/Chapter 4/img-database-model.png" alt="Database Diagram" style="width: 65;"></img>
+        <img src="static/img/Chapter 4/img-database-model-iam.png" alt="Class Diagram" style="width: 65;"></img>
+</div>
+
+Diagrama del Bounded Context Spreadsheets:
+<div style="text-align: center; margin-top: 20px;">
+        <img src="static/img/Chapter 4/img-database-model-spreadsheet.png" alt="Class Diagram" style="width: 65;"></img>
+</div>
+
+Diagrama del Bounded Context Workers:
+<div style="text-align: center; margin-top: 20px;">
+        <img src="static/img/Chapter 4/img-database-model-worker.png" alt="Class Diagram" style="width: 65;"></img>
+</div>
+
+Diagrama del Bounded Context Report:
+<div style="text-align: center; margin-top: 20px;">
+        <img src="static/img/Chapter 4/img-database-model-report.png" alt="Class Diagram" style="width: 65;"></img>
+</div>
+
+Diagrama del Bounded Context Projects:
+<div style="text-align: center; margin-top: 20px;">
+        <img src="static/img/Chapter 4/img-database-model-project.png" alt="Class Diagram" style="width: 65;"></img>
+</div>
+
+Diagrama del Bounded Context Subscriptions:
+<div style="text-align: center; margin-top: 20px;">
+        <img src="static/img/Chapter 4/img-database-model-subscription.png" alt="Class Diagram" style="width: 65;"></img>
 </div>
 
 # Capítulo V: Product Implementation, Validation & Deployment
