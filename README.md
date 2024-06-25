@@ -3336,14 +3336,13 @@ A continuación, se mostrarán capturas de los Insights del GitHub para evidenci
 | User Story        |                   | Work Item/Task |               |                                                    |                   |                 |        |
 |:------------------|:-----------------:|:--------------:|:-------------:|:--------------------------------------------------:|:-----------------:|:---------------:|:------:|
 | **Id**            | **Title**         | **Id**         | **Title**     | **Description**                                    | **Estimation**    | **Assigned To** | **Status** |
-| E02-US01           | Visualizar dashboard principal | E2-US01-W1   | Interfaz de dashboard empresas o emprendedores | Implementar la interfaz de dashboard para formulario de registro para empresas y emprendedores. | 3                 | Nombre   | Done   |
-| E03-US02          | Ajustes de aplicación | E2-US02-W2   | Interfaz ajustes de aplicación para empresas o emprendedores | Interfaz de configuración para empresas y emprendedores. | 2                 | Nombre  | Done   |
-| E04-US01          | Ingreso de datos del personal | E2-US04-W4 | Formulario de ingreso de datos del personal para empresas o emprendedores | Implementar el ingreso de datos del personal para empresas o emprendedores. | 1.5               | Nombre | Done   |
-| E04-US02          | Control de datos del personal | E2-US05-W5  | Interfaz de control de datos del personal | Implementar el apartado de control de datos del personal para un registro. | 2                 | Nombre | Done   |
-| E04-US03           | Verificación de datos del personal  | E3-US01-W1   |  Visualizacion de los datos ingresados del personal. | Implementar el apartado donde pueda confirmarse los datos ingresados del personal | 3                 | Nombre   | Done   |
-| E03-US02          | Ajustes de aplicación | E3-US02-W2   | Interfaz de los ajustes de aplicacion   | Visualizacion del los ajustes de aplicacion de empresas y emprendedores | 2                 | Nombre  | Done   |
-| E04-US01          | Ingreso de datos del personal | E4-US01-W1 | Interfaz de registro de personal  | Implementar interfaz de registro de personal para empresas o emprendedores. | 1.5               | Nombres | Done   |
-| E05-US02          | Autenticación de Usuario | E4-US02-W2  | Interfaz de autenticación del usuario | Implementar interfaz de autenticación del usuario. | 2                 | Nombres | Done  |
+| E02-US01           | Registro de cuenta | E2-US01-W2   | Como empresa o emprendimiento Quiero registrar una cuenta Para acceder a las funciones que ofrece la aplicación. | 06/25/2024 | 2                 | Ramón   | Done   |
+| E02-US02          | Inicio de Sesión | E2-US04-W2 | Como empresa o emprendimiento Quiero iniciar sesión en mi cuenta Para acceder a las funciones de la aplicación. | 06/25/2024 | 1               | Ramon | Done   |
+| E03-US01          | Visualizar dashboard principal | E3-US01-W3   | Como empresa o emprendimiento Quiero iniciar sesión en mi cuenta Para acceder a las funciones de la aplicación. | 06/25/2024 | 2                 | Karito  | Done   |
+
+| E03-US03          | Visualizar reportes de pagos | E3-US03-W3  | Como empresa o emprendimiento Quiero visualizar los reportes de los pagos al personal Para contar con una mejor organización. | 06/25/2024 | 3                 | Ramon | Done   |
+| E05-US01           | Información de Pagos  | E5-US01-W5   |  Como Developer Quiero funciones de información de pagos Para que los usuarios puedan acceder a funciones según el plan. | 06/25/2024 | 3                 | Karito   | Done   |
+
 
 #### 5.2.4.3. Development Evidence for Sprint Review
 
@@ -3459,6 +3458,7 @@ A continuación, se mostrarán capturas de los Insights del GitHub para evidenci
 
 **Repositorio del Backend**
 <img src="static/img/Chapter 5/img-insights-2-sprint-3.png" alt="Insights" style="width: 65;"></img>
+
 
 ## 5.3. Validation Interviews 
 
