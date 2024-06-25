@@ -3226,6 +3226,188 @@ A continuación, se mostrarán capturas de los Insights del GitHub para evidenci
 **Repositorio del Backend**
 <img src="static/img/Chapter 5/img-insights-2-sprint-3.png" alt="Insights" style="width: 65;"></img>
 
+### 5.2.4. Sprint 4
+#### 5.2.4.1. Sprint Planning 4
+
+  <table>
+  <tr>
+    <th>Sprint #</th>
+    <td>Sprint 4</td>
+  </tr>
+  <tr>
+    <th>Sprint Planning Date</th>
+    <td>2024-06-25</td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <td>04:00 PM</td>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <td>Servidor de Discord del Equipo</td>
+  </tr>
+  <tr>
+    <th>Prepared By</th>
+    <td>Rodrigo Zagaceta</td>
+  </tr>
+  <tr>
+    <th>Attendees</th>
+    <td> Rodrigo / Ramón / Karito </td>
+  </tr>
+  <tr>
+    <th>Sprint Review Summary</th>
+    <td>El enfoque de este sprint estuvo centrado en desarrollar el Backend, con el objetivo de garantizar un correcto funcionamiento de los componentes. A su vez, de implementar el Backend con el Fronetend.</td>
+  </tr>
+  <tr>
+    <th>Sprint Retrospective Summary</th>
+    <td>En este sprint, se planea realizar el deploy de la página usando el API del Backend en el Frontend.</td>
+  </tr>
+  <tr>
+    <th>Sprint Goal</th>
+    <td>La meta de este Sprint es el respectivo deploy de la página usando el API de Backend en el Frontend sin presentar problema alguno.</td>
+  </tr>
+  <tr>
+    <th>Sprint Velocity</th>
+    <td>7 Velocity</td>
+  </tr>
+  <tr>
+    <th>Sum of Story Points</th>
+    <td>7 Story points</td>
+  </tr>
+</table>
+
+#### 5.2.4.2. Sprint Backlog 4
+
+<img src="static/img/Chapter 5/img-sprint3.jpg" alt=" " style="width: 65;"></img>
+
+
+| User Story        |                   | Work Item/Task |               |                                                    |                   |                 |        |
+|:------------------|:-----------------:|:--------------:|:-------------:|:--------------------------------------------------:|:-----------------:|:---------------:|:------:|
+| **Id**            | **Title**         | **Id**         | **Title**     | **Description**                                    | **Estimation**    | **Assigned To** | **Status** |
+| E02-US01           | Visualizar dashboard principal | E2-US01-W1   | Interfaz de dashboard empresas o emprendedores | Implementar la interfaz de dashboard para formulario de registro para empresas y emprendedores. | 3                 | Nombre   | Done   |
+| E03-US02          | Ajustes de aplicación | E2-US02-W2   | Interfaz ajustes de aplicación para empresas o emprendedores | Interfaz de configuración para empresas y emprendedores. | 2                 | Nombre  | Done   |
+| E04-US01          | Ingreso de datos del personal | E2-US04-W4 | Formulario de ingreso de datos del personal para empresas o emprendedores | Implementar el ingreso de datos del personal para empresas o emprendedores. | 1.5               | Nombre | Done   |
+| E04-US02          | Control de datos del personal | E2-US05-W5  | Interfaz de control de datos del personal | Implementar el apartado de control de datos del personal para un registro. | 2                 | Nombre | Done   |
+| E04-US03           | Verificación de datos del personal  | E3-US01-W1   |  Visualizacion de los datos ingresados del personal. | Implementar el apartado donde pueda confirmarse los datos ingresados del personal | 3                 | Nombre   | Done   |
+| E03-US02          | Ajustes de aplicación | E3-US02-W2   | Interfaz de los ajustes de aplicacion   | Visualizacion del los ajustes de aplicacion de empresas y emprendedores | 2                 | Nombre  | Done   |
+| E04-US01          | Ingreso de datos del personal | E4-US01-W1 | Interfaz de registro de personal  | Implementar interfaz de registro de personal para empresas o emprendedores. | 1.5               | Nombres | Done   |
+| E05-US02          | Autenticación de Usuario | E4-US02-W2  | Interfaz de autenticación del usuario | Implementar interfaz de autenticación del usuario. | 2                 | Nombres | Done  |
+
+#### 5.2.4.3. Development Evidence for Sprint Review
+
+| Repository | Branch  | Commit Id | Commit Message|
+|------------|----------|-----------|---------------|
+| https://github.com/Salvlormonch1/planifi.github.io  | main   | dce258f933142390154509ffe790eaf49d6bca3a   | Create README.md |
+| https://github.com/Salvlormonch1/planifi.github.io    | main   | 63ae206538c07a15d17151baf74585ce6ac120cd   | Add files via upload |
+
+Para la entrega del Sprint 3 se intentó corregir el frontend y se implementó el backend de este mismo.
+
+<table border="1">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit ID</th>
+    <th>Commit Message</th>
+    <th>Comitted On (Date)</th>
+  </tr>
+  <tr>
+    <td>BusinessPRO</td>
+    <td>Chapter-3</td>
+    <td>41f068e</td>
+    <td>Initial commit</td>
+    <td>10/04/2024</td>
+  </tr>
+  <tr>
+    <td>BusinessPRO</td>
+    <td>Chapter-3</td>
+    <td>3b3e8d4</td>
+    <td>Update and rename README.md to Chapter 3.md</td>
+    <td>11/04/2024</td>
+  </tr>
+  <tr>
+    <td>BusinessPRO</td>
+    <td>Chapter-3</td>
+    <td>10c5509</td>
+    <td>Create README.md</td>
+    <td>11/04/2024</td>
+  </tr>
+  <tr>
+    <td>BusinessPRO</td>
+    <td>Chapter-3</td>
+    <td>751cde5</td>
+    <td>Update README.md</td>
+    <td>11/04/2024</td>
+  </tr>
+  <tr>
+    <td>BusinessPRO</td>
+    <td>Chapter-3</td>
+    <td>cb59368</td>
+    <td>Update Chapter 3.md</td>
+    <td>11/04/2024</td>
+  </tr>
+  <tr>
+    <td>BusinessPRO</td>
+    <td>Chapter-3</td>
+    <td>9fe1561/td>
+    <td>Merge pull request #12 from Gianfranco4991/feature/user-stories</td>
+    <td>11/04/2024</td>
+  </tr>
+  <tr>
+    <td>BusinessPRO</td>
+    <td>Chapter-3</td>
+    <td>a19cd59</td>
+    <td>Update Chapter 3.md</td>
+    <td>12/04/2024</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+El Execution Evidence for Sprint Review se enfoca en recopilar y presentar evidencia concreta del progreso realizado durante el sprint, centrándose específicamente en la elaboración del backend y corrección del frontend. Esta evidencia es crucial para demostrar cómo se están cumpliendo los objetivos del sprint, qué elementos han sido completados y cómo se alinean con los requisitos del cliente. 
+
+<img src="static/img/Chapter 5/img-evidence-1-sprint-3.png" alt="Evidence Sprint Review 1" style="width: 65;"></img>v
+
+<img src="static/img/Chapter 5/img-evidence-2-sprint-3.png" alt="Evidence Sprint Review 2" style="width: 65;"></img>
+
+<img src="static/img/Chapter 5/img-evidence-3-sprint-3.png" alt="Evidence Sprint Review 3" style="width: 65;"></img>
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Para esta entrega solo se realizó el backend, por lo que no hubo implementación de APIs.
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+El objetivo de este tercer sprint fue el desarrollo del Backend y mejoras del Frontend. Para esto, utilizamos GitHub y GitHub Pages. El proceso fue el siguiente:
+
+1. Un miembro del equipo creó una organización en GitHub y se le envió una invitación a cada uno de los otros miembros para que se puedan unir.
+
+<img src="static/img/Chapter 5/img-invitation-github.png" alt="GitHub Invitation" style="width: 65;"></img>
+
+2. Luego, se creó un repositorio para el desarrollo del trabajo, tanto del informe como de la Landing Page.
+
+<img src="static/img/Chapter 5/img-repository.png" alt="Repository" style="width: 65;"></img>
+
+3. A continuación, cada uno fue realizando modificaciones en los archivos, a través de los commits.
+
+<img src="static/img/Chapter 5/img-commits.png" alt="Commits" style="width: 65;"></img>
+
+4. Finalmente, desplegamos la Landing Page en GitHub Pages, a la que se puede ingresar mediante el siguiente link: [https://salvlormonch1.github.io/planifi.github.io/](https://salvlormonch1.github.io/planifi.github.io/)
+
+<img src="static/img/Chapter 5/img-landing-page.png" alt="Landing Page" style="width: 65;"></img>
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+A continuación, se mostrarán capturas de los Insights del GitHub para evidenciar la participación de todos los miembros del grupo:
+
+**Repositorio del Frontend**
+<img src="static/img/Chapter 5/img-insights-1-sprint-3.png" alt="Insights" style="width: 65;"></img>
+
+**Repositorio del Backend**
+<img src="static/img/Chapter 5/img-insights-2-sprint-3.png" alt="Insights" style="width: 65;"></img>
+
 ## 5.3. Validation Interviews 
 
 En esta sección se detalla el proceso de validación mediante entrevistas con usuarios y expertos. Estas entrevistas son cruciales para evaluar la usabilidad, funcionalidad y eficacia de la aplicación Planifi, garantizando que cumple con las necesidades y expectativas de nuestros segmentos de mercado.
