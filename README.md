@@ -3339,10 +3339,8 @@ A continuación, se mostrarán capturas de los Insights del GitHub para evidenci
 | E02-US01           | Registro de cuenta | E2-US01-W2   | Como empresa o emprendimiento Quiero registrar una cuenta Para acceder a las funciones que ofrece la aplicación. | 06/25/2024 | 2                 | Ramón   | Done   |
 | E02-US02          | Inicio de Sesión | E2-US04-W2 | Como empresa o emprendimiento Quiero iniciar sesión en mi cuenta Para acceder a las funciones de la aplicación. | 06/25/2024 | 1               | Ramon | Done   |
 | E03-US01          | Visualizar dashboard principal | E3-US01-W3   | Como empresa o emprendimiento Quiero iniciar sesión en mi cuenta Para acceder a las funciones de la aplicación. | 06/25/2024 | 2                 | Karito  | Done   |
-
 | E03-US03          | Visualizar reportes de pagos | E3-US03-W3  | Como empresa o emprendimiento Quiero visualizar los reportes de los pagos al personal Para contar con una mejor organización. | 06/25/2024 | 3                 | Ramon | Done   |
 | E05-US01           | Información de Pagos  | E5-US01-W5   |  Como Developer Quiero funciones de información de pagos Para que los usuarios puedan acceder a funciones según el plan. | 06/25/2024 | 3                 | Karito   | Done   |
-
 
 #### 5.2.4.3. Development Evidence for Sprint Review
 
