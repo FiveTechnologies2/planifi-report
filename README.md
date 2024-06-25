@@ -3701,7 +3701,7 @@ El video se encuentra en Anexos.
 
 # Conclusiones
 
-En conclusión, el proceso de investigación, diseño y desarrollo para nuestro proyecto ha sido fundamental para comprender las necesidades y expectativas de nuestros usuarios. Las entrevistas nos proporcionaron información valiosa sobre los desafíos que enfrentan y las características que valoran en una solución. La creación de la landing page nos permitió comunicar efectivamente nuestra propuesta de valor y garantizar una experiencia de usuario satisfactoria. Además, las user stories nos brindaron una guía clara para el desarrollo del producto. En conjunto, estos elementos nos han ayudado a construir una base sólida para futuras iteraciones y mejoras en nuestro proyecto.
+Durante el ciclo de desarrollo de nuestro proyecto de creación de planillas, hemos enfrentado diversas complicaciones que desafiaron nuestro proceso, pero gracias a nuestro compromiso y determinación, hemos superado cada obstáculo con éxito. Desde la elección de Vue.js para el frontend hasta la implementación del backend en C#, hemos demostrado una colaboración efectiva entre equipos, garantizando altos estándares de calidad en cada función y característica implementada. Al llegar a la presentación final, nos sentimos orgullosos de haber desarrollado una aplicación robusta y funcional que cumple con nuestros objetivos iniciales. Esta experiencia nos ha proporcionado valiosas lecciones sobre planificación, comunicación y adaptabilidad, que sin duda aplicaremos en proyectos futuros. Agradecemos profundamente a todos los miembros del equipo por su dedicación y contribuciones que hicieron posible este logro.
 
 <img src="static/img/Chapter 5/img-about-the-product.png" alt="Imagen About The Product"></img>
 
